@@ -2,3 +2,4 @@ resultados/**/*.nc
 resultados/**/*.tif
 resultados/**/*.joblib
 __pycache__/
+resultados/**/historico/mensual/
