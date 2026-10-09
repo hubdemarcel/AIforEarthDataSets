@@ -6,6 +6,7 @@ constante todo el año; la caña es verde casi todo el año pero con cortes.
 """
 
 import numpy as np
+import rioxarray  # noqa: F401  (activa el accesor .rio)
 import xarray as xr
 
 INDICES_MENSUALES = ["ndvi", "ndre", "ndmi", "bsi"]
@@ -57,9 +58,9 @@ def construir(s2, dem=None):
         capas[f"{nombre}_std"] = serie.std("mes")
         capas[f"{nombre}_min"] = serie.min("mes")
         capas[f"{nombre}_max"] = serie.max("mes")
-        capas[f"{nombre}_amplitud"] = serie.quantile(0.9, "mes").drop_vars("quantile") - serie.quantile(
-            0.1, "mes"
-        ).drop_vars("quantile")
+        # np.quantile es mucho más rápido que DataArray.quantile; la serie ya no tiene huecos.
+        p10, p90 = np.quantile(serie.transpose("mes", "y", "x").values, [0.1, 0.9], axis=0)
+        capas[f"{nombre}_amplitud"] = serie.isel(mes=0, drop=True).copy(data=p90 - p10)
 
     ndvi = rellenar_huecos(idx.ndvi)
     capas["ndvi_mes_pico"] = (ndvi.fillna(-1).argmax("mes") + 1).astype("float32").where(ndvi.notnull().any("mes"))
@@ -76,8 +77,8 @@ def construir(s2, dem=None):
         capas["pendiente"] = dem.pendiente
 
     pila = xr.concat(
-        [da.drop_vars([c for c in da.coords if c not in ("y", "x", "spatial_ref")]) for da in capas.values()],
+        [da.drop_vars([c for c in da.coords if c not in ("y", "x")]) for da in capas.values()],
         dim="caracteristica",
     )
     pila = pila.assign_coords(caracteristica=list(capas))
-    return pila.astype("float32").transpose("caracteristica", "y", "x")
+    return pila.astype("float32").transpose("caracteristica", "y", "x").rio.write_crs(s2.rio.crs)
