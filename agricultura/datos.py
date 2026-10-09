@@ -81,7 +81,13 @@ def escenas_s2(bbox, anio, mes, nubes_max=70):
 
     with ThreadPoolExecutor(8) as pool:
         items = list(pool.map(item, carpetas))
-    return [i for i in items if i.properties.get("eo:cloud_cover", 100) < nubes_max]
+    # Algunas fechas tienen varias versiones (_0, _1, _2) y no todas apuntan a los COG
+    # públicos; se conserva la versión más reciente con archivos públicos por mosaico y fecha.
+    por_escena = {}
+    for i in sorted(items, key=lambda i: i.id):
+        if i.assets["red"].href.startswith(S2_BUCKET):
+            por_escena[i.id.rsplit("_", 2)[0]] = i
+    return [i for i in por_escena.values() if i.properties.get("eo:cloud_cover", 100) < nubes_max]
 
 
 def _offset(item):
