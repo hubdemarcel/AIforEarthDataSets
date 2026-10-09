@@ -45,11 +45,11 @@ def descargar(bbox, periodos, resolucion, carpeta):
 
 
 def guardar_rgb(s2, carpeta):
-    """Color verdadero (temporada seca) como PNG y GeoTIFF, para revisar y etiquetar en QGIS."""
+    """Color verdadero (temporada seca) como JPG y GeoTIFF, para revisar y etiquetar en QGIS."""
     rgb = s2[["B04", "B03", "B02"]].sel(mes=datos_secos(s2)).median("mes").to_array("banda")
     rgb.rio.to_raster(carpeta / "color_verdadero.tif")
     img = np.clip(rgb.transpose("y", "x", "banda").values / 0.25, 0, 1)
-    plt.imsave(carpeta / "color_verdadero.png", np.nan_to_num(img))
+    plt.imsave(carpeta / "color_verdadero.jpg", np.nan_to_num(img), pil_kwargs={"quality": 85})
 
 
 def datos_secos(s2):

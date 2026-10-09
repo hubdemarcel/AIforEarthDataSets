@@ -41,7 +41,7 @@ python -m agricultura.pipeline --zona tequila --etiquetas predios.geojson \
 
 | Archivo | Contenido |
 |---|---|
-| `color_verdadero.png/.tif` | Imagen en color de la temporada seca (para revisar y etiquetar en QGIS) |
+| `color_verdadero.jpg/.tif` | Imagen en color de la temporada seca (para revisar y etiquetar en QGIS) |
 | `grupos.png/.tif`, `grupos_ndvi_mensual.csv` | Patrones sin etiquetas y su curva de verdor |
 | `cultivos.tif`, `probabilidad.tif` | Mapa de cultivos y confianza del modelo |
 | `superficie.csv` | Hectáreas por cultivo |
