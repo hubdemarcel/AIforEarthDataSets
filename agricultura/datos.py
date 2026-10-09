@@ -68,10 +68,15 @@ def _listar(prefijo):
 
 def escenas_s2(bbox, anio, mes, nubes_max=70):
     """Escenas (pystac.Item) de Sentinel-2 L2A del mes que cubren el bbox."""
+    return escenas_mosaicos(mosaicos_mgrs(bbox), anio, mes, nubes_max)
+
+
+def escenas_mosaicos(mosaicos, anio, mes, nubes_max=70):
+    """Escenas (pystac.Item) de Sentinel-2 L2A del mes en los mosaicos MGRS dados."""
     import pystac
 
     carpetas = []
-    for mosaico in mosaicos_mgrs(bbox):
+    for mosaico in mosaicos:
         zona, banda_lat, cuadro = mosaico[:-3], mosaico[-3], mosaico[-2:]
         carpetas += _listar(f"{S2_PREFIJO}/{zona}/{banda_lat}/{cuadro}/{anio}/{mes}/")
 
