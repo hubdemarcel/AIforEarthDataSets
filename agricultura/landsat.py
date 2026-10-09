@@ -21,6 +21,7 @@ from pathlib import Path
 
 import numpy as np
 import rasterio
+import rioxarray  # noqa: F401  (activa el accesor .rio)
 import xarray as xr
 from rasterio.enums import Resampling
 from rasterio.vrt import WarpedVRT
