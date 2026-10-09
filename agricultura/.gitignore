@@ -3,3 +3,4 @@ resultados/**/*.tif
 resultados/**/*.joblib
 __pycache__/
 resultados/**/historico/mensual/
+resultados/**/historico_landsat/mensual/
