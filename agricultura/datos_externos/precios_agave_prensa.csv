@@ -1,0 +1,11 @@
+anio,precio_min,precio_max,precio_ref,nota,fuente
+2000,15,15,15,"más de 15 pesos/kg, escasez",https://www.jornada.com.mx/noticia/2026/09/29/estados/sader-cultivo-de-agave-en-jalisco-crece-92-provoca-sobreproduccion-desplome-de-precios-y-danos-ambientales
+2005,0.5,1,0.8,"menos de 1 peso/kg a mediados de la década",https://www.jornada.com.mx/noticia/2026/09/29/estados/sader-cultivo-de-agave-en-jalisco-crece-92-provoca-sobreproduccion-desplome-de-precios-y-danos-ambientales
+2016,4,8,8,"se duplica en el año hasta 8 pesos/kg",https://brunoticias.com/agave-tequilero-8-pesos-por-kilo/
+2017,3,17,17,"fuentes discrepan: 3 o 17 pesos/kg",https://www.elfinanciero.com.mx/nacional/kilogramo-de-agave-azul-sube-su-costo-700-en-tan-solo-3-anos/
+2018,24,24,24,"24 pesos/kg",https://www.elfinanciero.com.mx/nacional/kilogramo-de-agave-azul-sube-su-costo-700-en-tan-solo-3-anos/
+2020,30,30,30,"más de 30 pesos/kg",https://www.informador.mx/economia/Precios-del-agave-caeran-hasta-10-pesos-por-kilogramo-20200704-0087.html
+2021,30,30,30,"30 pesos/kg",https://www.zocalo.com.mx/cae-el-precio-del-agave-92-tan-solo-en-3-anos/
+2022,32,32,32,"hasta 32 pesos/kg",https://www.jornada.com.mx/noticia/2026/09/29/estados/sader-cultivo-de-agave-en-jalisco-crece-92-provoca-sobreproduccion-desplome-de-precios-y-danos-ambientales
+2024,2.5,8,2.5,"se ofrece a 2.50 pesos/kg (-92% vs 2021)",https://www.zocalo.com.mx/cae-el-precio-del-agave-92-tan-solo-en-3-anos/
+2026,0.8,8,4,"0.80 a 8 pesos/kg según canal",https://www.jornada.com.mx/noticia/2026/09/29/estados/sader-cultivo-de-agave-en-jalisco-crece-92-provoca-sobreproduccion-desplome-de-precios-y-danos-ambientales

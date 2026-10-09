@@ -166,6 +166,41 @@ def clasificar(S, A, pendiente=None, ndvi_mediana=None):
     return {"clase": clase, "establecimiento": establecimiento, "jima": jima}
 
 
+def plantaciones(S, A, ventana=4, separacion=4):
+    """Todos los años de establecimiento de agave de cada pixel en la serie.
+
+    Un año `y` es establecimiento si es un valle (verdor de secas < VALLE y no mayor
+    que el del año siguiente) y en los `ventana` años siguientes el verdor de secas
+    sube al menos SUBIDA_MIN, supera SECAS_ESTABLECIDO al menos 2 años, con amplitud
+    media menor a AMPLITUD_MAX_AGAVE. En valles de varios años se toma el último, y
+    entre dos establecimientos debe haber al menos `separacion` años.
+    Devuelve un arreglo booleano (años, n).
+    """
+    n_anios = S.shape[0]
+    evento = np.zeros(S.shape, dtype=bool)
+    with np.errstate(all="ignore"):
+        for y in range(n_anios - 2):
+            w = slice(y + 1, min(y + 1 + ventana, n_anios))
+            Sw, Aw = S[w], A[w]
+            evento[y] = (
+                (S[y] < VALLE)
+                & (S[y] <= S[y + 1] + 0.02)
+                & (np.isfinite(Sw).sum(0) >= 2)
+                & (np.nanmax(Sw, 0) - S[y] >= SUBIDA_MIN)
+                & ((Sw >= SECAS_ESTABLECIDO).sum(0) >= 2)
+                & (np.nanmean(Aw, 0) < AMPLITUD_MAX_AGAVE)
+                & (np.nanmedian(Sw, 0) < BOSQUE)
+            )
+    # Último año de cada valle de varios años
+    evento[:-1] &= ~evento[1:]
+    # Separación mínima entre plantaciones
+    ultimo = np.full(S.shape[1], -100)
+    for y in range(n_anios):
+        evento[y] &= (y - ultimo) >= separacion
+        ultimo = np.where(evento[y], y, ultimo)
+    return evento
+
+
 def _grafica(clase, establecimiento, anios, ruta):
     fig, (a1, a2) = plt.subplots(1, 2, figsize=(18, 7))
     colores = ["#ffffff", "#2b6cb0", "#7f7f7f", "#1e5631", "#5fa8a0", "#d4a017", "#e9d8a6", "#8fbc5a", "#c9b79c"]
