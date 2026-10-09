@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "name": "formato_de_etiquetas",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"clase": "agave", "notas": "polígono del predio; coordenadas de ejemplo, reemplazar por predios reales"},
+      "geometry": {"type": "Polygon", "coordinates": [[[-103.80, 20.85], [-103.799, 20.85], [-103.799, 20.851], [-103.80, 20.851], [-103.80, 20.85]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {"clase": "maiz", "notas": "también se aceptan puntos"},
+      "geometry": {"type": "Point", "coordinates": [-103.75, 20.86]}
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+numpy
+pandas
+xarray
+scikit-learn
+joblib
+rasterio
+rioxarray
+geopandas
+shapely
+pystac
+odc-stac
+mgrs
+matplotlib
+scipy
+bottleneck
