@@ -47,6 +47,32 @@ python -m agricultura.pipeline --zona tequila --etiquetas predios.geojson \
 | `superficie.csv` | Hectáreas por cultivo |
 | `reporte.txt` | Precisión por cultivo, matriz de confusión, características más importantes |
 
+## Agave con varios años de historia
+
+Un solo año no basta: el maíz repite su ciclo cada año y el agave ocupa el predio
+5–7 años. `historico.py` baja el NDVI mensual desde 2018 (20 m) y `agave.py`
+aplica reglas por año (verdor de secas mar–may y amplitud lluvias − secas):
+
+- **Agave en pie:** un año "valle" (verdor de secas < 0.25) seguido de verdor de
+  secas que sube ≥ 0.12 y supera 0.28 al menos 2 años, con amplitud media < 0.40.
+  El año del valle es el **año de establecimiento**.
+- **Jima:** después del máximo, el verdor de secas vuelve a caer bajo 0.25.
+- **Cultivo anual:** amplitud media ≥ 0.33 (en pendientes ≥ 12° se marca como selva baja).
+- **Bosque:** verdor de secas mediano ≥ 0.48.
+
+Umbrales ajustados con puntos de referencia verificados en Tequila–Amatitán
+(`resultados/tequila/candidatos.csv`, `historico/historia_puntos.png`).
+
+```bash
+python -m agricultura.historico --zona tequila --desde 2018-01 \
+    --puntos agricultura/resultados/tequila/candidatos.csv --salida agricultura/resultados/tequila/historico
+python -m agricultura.agave --historico agricultura/resultados/tequila/historico/mensual \
+    --zona tequila --salida agricultura/resultados/tequila/agave
+```
+
+Limitación: una plantación necesita ~2 años de crecimiento para confirmarse, así
+que las establecidas en 2024–2026 todavía no se detectan completas.
+
 ## Etiquetas (predios conocidos)
 
 GeoJSON (o GPKG/SHP) de polígonos o puntos con un campo `clase`. Clases válidas
