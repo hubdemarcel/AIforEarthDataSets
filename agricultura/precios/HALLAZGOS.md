@@ -1,0 +1,31 @@
+# Modelo de precio del agave: primera prueba (2026-10-10)
+
+Datos: precio medio rural nacional SIAP (cultivo Agave) deflactado con INPC a pesos de 2025;
+demanda = agave consumido por tequileras (CRT); oferta = superficie en pie SIAP. Serie anual 1997–2025.
+
+## Resultados
+- Relación de nivel: log(precio real) contra log(demanda / superficie en pie de hace L años).
+  La correlación es máxima con L = 3 (0.73) y baja a cero con L = 7. R² del ajuste: 0.53.
+- Validación con origen móvil (entrenar hasta Y−1, predecir Y, 2008–2025):
+
+| Modelo | Error medio | Dirección acertada |
+|---|---|---|
+| Demanda / superficie de hace 3 años | 59 % | 7 de 18 |
+| Lo anterior + precio del año previo | 39 % | 6 de 18 |
+| Solo el precio del año previo (ingenuo) | 35 % | 9 de 18 |
+
+Ningún modelo simple con datos oficiales anuales le gana al ingenuo. No predice ni el arranque
+de 2014–2018 ni la caída de 2025.
+
+## Por qué
+- La superficie en pie del SIAP mezcla todas las edades, salta por registro (−64 % en 1998, +66 % en
+  2023) y no dice cuándo se plantó cada hectárea, que es lo que define cuándo llega a jima.
+- El precio SIAP es de lo cosechado en el año, con contratos firmados antes; va ~1 año detrás del
+  precio de calle (ver `datos_externos/PRECIOS-AGAVE.md`).
+- Son ~30 puntos anuales y 3 ciclos.
+
+## Siguiente paso
+La pieza que falta es la oferta por **año de plantación** (cohortes) para toda la denominación de
+origen, que es justo lo que da el satélite (`agave.plantaciones`, `serie_historica.py`). Con eso:
+oferta que llega a 6–7 años en cada año, contra demanda CRT; y el precio de calle (prensa,
+destilerías) además del SIAP.
