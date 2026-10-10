@@ -75,3 +75,15 @@ Lectura: con lo que hay hoy, la oferta medida por satélite en una sola región 
 Posibles razones, en orden de sospecha: (1) falsos positivos (pastizales y terrenos que imitan la firma, ver
 comparación con SIAP); (2) Valles es una parte de la oferta, Los Altos pesa más; (3) el precio responde a
 cambios de régimen (escasez ↔ sobreoferta), no a variaciones anuales finas; (4) 28 datos anuales.
+
+## Firma espectral de 10 bandas (Sentinel-2) para separar agave de lo que lo imita
+`espectral.py` lee las 10 bandas en abril-2026, mayo-2026 y septiembre-2025 en 79 puntos (50 de verificación,
+29 de referencia en Tequila). En secas, el índice de humedad NDMI (usa el infrarrojo de onda corta) separa al
+agave suculento: agave +0.04, pastizal −0.08, selva −0.20, maíz −0.24; bosque +0.22.
+Distancia a la firma del agave confirmado (7 índices, en desviaciones): agave 0.5–1.6; maíz 2.2–2.7; selva
+2.1–2.9; bosque 3.7–4.7; pastizal 0.9–1.7 (se sigue confundiendo con agave).
+- Zona metropolitana: 7 de 10 puntos lejos del agave (hasta 6.5 desviaciones; NDMI 0.35–0.83, demasiado húmedo):
+  probables falsos positivos (pasto regado, humedal).
+- Valles sur: 14 parecidos, 11 medios, 5 lejos (p06, p14, p16, p20, p27; demasiado verdes y húmedos en secas).
+- Control "no agave": 8 de 10 lejos del agave; p48 y p50 (El Arenal) se parecen al agave: posible agave omitido.
+Resultados por punto: `resultados/verificacion/parecido_espectral.csv`. Falta confirmar con la verificación visual.

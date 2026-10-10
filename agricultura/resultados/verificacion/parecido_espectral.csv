@@ -1,0 +1,51 @@
+id,municipio,grupo,clase_satelite,dist_agave,parecido_agave
+p01,Ameca,Valles sur,agave,0.91,alto
+p02,Ameca,Valles sur,agave,0.91,alto
+p03,Ameca,Valles sur,agave,0.73,alto
+p04,Ameca,Valles sur,agave,0.66,alto
+p05,Ameca,Valles sur,agave,1.49,medio
+p06,Ameca,Valles sur,agave,1.77,bajo
+p07,El Arenal,Valles sur,agave,0.77,alto
+p08,El Arenal,Valles sur,agave,0.6,alto
+p09,El Arenal,Valles sur,agave,0.62,alto
+p10,El Arenal,Valles sur,agave,1.18,medio
+p11,El Arenal,Valles sur,agave,1.19,medio
+p12,El Arenal,Valles sur,agave,1.31,medio
+p13,Cocula,Valles sur,agave,0.95,alto
+p14,Cocula,Valles sur,agave,2.99,bajo
+p15,Cocula,Valles sur,agave,1.51,medio
+p16,Cocula,Valles sur,agave,2.33,bajo
+p17,Cocula,Valles sur,agave,0.91,alto
+p18,Cocula,Valles sur,agave,0.76,alto
+p19,Tala,Valles sur,agave,0.46,alto
+p20,Tala,Valles sur,agave,1.95,bajo
+p21,Tala,Valles sur,agave,0.5,alto
+p22,Tala,Valles sur,agave,1.54,medio
+p23,Tala,Valles sur,agave,1.66,medio
+p24,Tala,Valles sur,agave,1.34,medio
+p25,Teuchitlán,Valles sur,agave,1.28,medio
+p26,Teuchitlán,Valles sur,agave,1.72,medio
+p27,Teuchitlán,Valles sur,agave,2.32,bajo
+p28,Teuchitlán,Valles sur,agave,0.84,alto
+p29,Teuchitlán,Valles sur,agave,0.58,alto
+p30,Teuchitlán,Valles sur,agave,1.63,medio
+p31,Tlajomulco de Zúñiga,Zona metropolitana,agave,5.35,bajo
+p32,Tlajomulco de Zúñiga,Zona metropolitana,agave,6.53,bajo
+p33,Tlajomulco de Zúñiga,Zona metropolitana,agave,1.22,medio
+p34,Tlajomulco de Zúñiga,Zona metropolitana,agave,6.4,bajo
+p35,Tlajomulco de Zúñiga,Zona metropolitana,agave,3.06,bajo
+p36,Zapopan,Zona metropolitana,agave,1.94,bajo
+p37,Zapopan,Zona metropolitana,agave,0.52,alto
+p38,Zapopan,Zona metropolitana,agave,2.36,bajo
+p39,Zapopan,Zona metropolitana,agave,1.16,medio
+p40,Zapopan,Zona metropolitana,agave,1.94,bajo
+p41,Tequila,Control (no agave según satélite),no agave,2.07,bajo
+p42,Tequila,Control (no agave según satélite),no agave,2.06,bajo
+p43,Tequila,Control (no agave según satélite),no agave,2.01,bajo
+p44,Tequila,Control (no agave según satélite),no agave,2.52,bajo
+p45,Amatitán,Control (no agave según satélite),no agave,1.76,bajo
+p46,Amatitán,Control (no agave según satélite),no agave,2.23,bajo
+p47,Amatitán,Control (no agave según satélite),no agave,1.84,bajo
+p48,El Arenal,Control (no agave según satélite),no agave,0.49,alto
+p49,El Arenal,Control (no agave según satélite),no agave,1.86,bajo
+p50,El Arenal,Control (no agave según satélite),no agave,0.7,alto

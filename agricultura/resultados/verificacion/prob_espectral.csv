@@ -1,0 +1,51 @@
+id,municipio,grupo,clase_satelite,prob_agave_espectral
+p01,Ameca,Valles sur,agave,0.41
+p02,Ameca,Valles sur,agave,0.37
+p03,Ameca,Valles sur,agave,0.51
+p04,Ameca,Valles sur,agave,0.25
+p05,Ameca,Valles sur,agave,0.85
+p06,Ameca,Valles sur,agave,0.96
+p07,El Arenal,Valles sur,agave,0.41
+p08,El Arenal,Valles sur,agave,0.79
+p09,El Arenal,Valles sur,agave,0.75
+p10,El Arenal,Valles sur,agave,0.32
+p11,El Arenal,Valles sur,agave,0.83
+p12,El Arenal,Valles sur,agave,0.29
+p13,Cocula,Valles sur,agave,0.31
+p14,Cocula,Valles sur,agave,0.98
+p15,Cocula,Valles sur,agave,0.89
+p16,Cocula,Valles sur,agave,0.57
+p17,Cocula,Valles sur,agave,0.87
+p18,Cocula,Valles sur,agave,0.87
+p19,Tala,Valles sur,agave,0.76
+p20,Tala,Valles sur,agave,0.95
+p21,Tala,Valles sur,agave,0.73
+p22,Tala,Valles sur,agave,0.68
+p23,Tala,Valles sur,agave,0.73
+p24,Tala,Valles sur,agave,0.87
+p25,Teuchitlán,Valles sur,agave,0.51
+p26,Teuchitlán,Valles sur,agave,0.18
+p27,Teuchitlán,Valles sur,agave,0.93
+p28,Teuchitlán,Valles sur,agave,0.66
+p29,Teuchitlán,Valles sur,agave,0.88
+p30,Teuchitlán,Valles sur,agave,0.76
+p31,Tlajomulco de Zúñiga,Zona metropolitana,agave,1.0
+p32,Tlajomulco de Zúñiga,Zona metropolitana,agave,1.0
+p33,Tlajomulco de Zúñiga,Zona metropolitana,agave,0.18
+p34,Tlajomulco de Zúñiga,Zona metropolitana,agave,1.0
+p35,Tlajomulco de Zúñiga,Zona metropolitana,agave,0.96
+p36,Zapopan,Zona metropolitana,agave,0.31
+p37,Zapopan,Zona metropolitana,agave,0.61
+p38,Zapopan,Zona metropolitana,agave,0.96
+p39,Zapopan,Zona metropolitana,agave,0.08
+p40,Zapopan,Zona metropolitana,agave,0.59
+p41,Tequila,Control (no agave según satélite),no agave,0.13
+p42,Tequila,Control (no agave según satélite),no agave,0.07
+p43,Tequila,Control (no agave según satélite),no agave,0.02
+p44,Tequila,Control (no agave según satélite),no agave,0.09
+p45,Amatitán,Control (no agave según satélite),no agave,0.17
+p46,Amatitán,Control (no agave según satélite),no agave,0.08
+p47,Amatitán,Control (no agave según satélite),no agave,0.09
+p48,El Arenal,Control (no agave según satélite),no agave,0.86
+p49,El Arenal,Control (no agave según satélite),no agave,0.44
+p50,El Arenal,Control (no agave según satélite),no agave,0.57
