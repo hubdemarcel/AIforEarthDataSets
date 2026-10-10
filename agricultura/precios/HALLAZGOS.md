@@ -47,3 +47,14 @@ agaves confirmados en Tequila). Total: alta confianza 40,120 ha; con media y baj
 - Los excesos se concentran en la zona metropolitana (Tlajomulco 5.0×, Zapopan 3.1×, Ixtlahuacán del Río 3.3×)
   y en Ameca (4.0×), Atoyac (4.4×) y El Arenal (3.4×). Hipótesis: terrenos baldíos o pastizales periurbanos que se
   limpian y se regeneran imitan la firma del agave. Hay que verificar ahí.
+
+## Con el precio de mercado (8 destilerías) y la siembra por satélite de la zona piloto (1993–2024)
+- La siembra responde al precio real con ~2 años de retraso: correlación 0.47 (mismo año), 0.55 (1 año),
+  **0.61 (2 años)**, 0.53 (3 años). Promedio móvil de 3 años de hectáreas plantadas.
+- La oferta que llega (siembra de hace 4–6 años) se relaciona negativamente con el precio (−0.32), débil.
+- log precio = 1.32 + 1.52 log demanda CRT − 1.22 log oferta(4–6 años); R² 0.30. Validación 2010–2024: acierta
+  la dirección 10 de 15 años, error medio 67 %. Signos correctos; la oferta de una zona de 380 km² no basta.
+
+## Pendiente para el final: filtro de zona urbana
+Agave detectado a menos de 500 m de zona urbana: Tequila 6 %, Amatitán 5 %, Tlajomulco 22 %, Zapopan 25 %,
+Zacoalco 16 %, Ameca 3 %, Teuchitlán 2 %. Ayudaría en la zona metropolitana, no en Ameca.
