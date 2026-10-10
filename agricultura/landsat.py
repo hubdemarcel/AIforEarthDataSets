@@ -134,7 +134,9 @@ def rejilla_zona(bbox, resolucion=30):
             "ancho": ancho, "alto": alto, "x0": x0, "y1": y1, "res": resolucion}
 
 
-def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8):
+def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8, meses=None, comprimido=False):
+    """NDVI mensual. `meses`: lista de meses a bajar (p. ej. secas y lluvias); por omisión todos.
+    `comprimido`: guarda cada mes como .npz con NDVI x10000 en int16 (para zonas grandes)."""
     carpeta.mkdir(parents=True, exist_ok=True)
     rejilla = rejilla_zona(bbox)
     r = rejilla["res"]
@@ -145,7 +147,7 @@ def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8):
     por_mes = {}
     for fecha, carpetas in escenas.items():
         clave = (int(fecha[:4]), int(fecha[4:6]))
-        if desde <= clave <= hasta:
+        if desde <= clave <= hasta and (meses is None or clave[1] in meses):
             por_mes.setdefault(clave, []).extend(carpetas)
     print(f"  {sum(len(v) for v in por_mes.values())} escenas en {len(por_mes)} meses", flush=True)
 
@@ -158,7 +160,7 @@ def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8):
 
     with ThreadPoolExecutor(simultaneos) as pool:
         for (anio, mes), carpetas in sorted(por_mes.items()):
-            ruta = carpeta / f"ndvi_{anio}-{mes:02d}.nc"
+            ruta = carpeta / f"ndvi_{anio}-{mes:02d}.{'npz' if comprimido else 'nc'}"
             if ruta.exists():
                 continue
             capas = [c for c in pool.map(seguro, carpetas) if c is not None]
@@ -166,6 +168,12 @@ def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8):
                 continue
             with np.errstate(all="ignore"):
                 mediana = np.nanmedian(np.stack(capas), 0)
+            del capas
+            if comprimido:
+                entero = np.where(np.isfinite(mediana), np.round(mediana * 10000), -32768).astype("int16")
+                np.savez_compressed(ruta, ndvi=entero, x=x, y=y, crs=rejilla["crs"])
+                print(f"  {anio}-{mes:02d}: listo", flush=True)
+                continue
             da = xr.DataArray(mediana[None], dims=("tiempo", "y", "x"),
                               coords={"tiempo": [np.datetime64(f"{anio}-{mes:02d}-15")], "y": y, "x": x},
                               name="ndvi").rio.write_crs(rejilla["crs"])
@@ -175,14 +183,22 @@ def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8):
 
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    p.add_argument("--zona", choices=sorted(ZONAS), required=True)
+    p.add_argument("--zona", choices=sorted(ZONAS))
+    p.add_argument("--bbox", type=float, nargs=4, metavar=("LON_MIN", "LAT_MIN", "LON_MAX", "LAT_MAX"))
+    p.add_argument("--path-row", nargs="+", help="p. ej. 029/046 030/046 (obligatorio con --bbox)")
+    p.add_argument("--meses", type=int, nargs="+", help="solo estos meses (p. ej. 3 4 5 7 8 9 10)")
+    p.add_argument("--comprimido", action="store_true", help="guardar .npz int16 (zonas grandes)")
     p.add_argument("--desde", default="1993-01")
     p.add_argument("--hasta", default="2021-12")
     p.add_argument("--salida", type=Path, required=True)
     args = p.parse_args(argv)
     desde = tuple(int(v) for v in args.desde.split("-"))
     hasta = tuple(int(v) for v in args.hasta.split("-"))
-    descargar(ZONAS[args.zona]["bbox"], PATH_ROW[args.zona], desde, hasta, args.salida)
+    if args.bbox:
+        bbox, path_rows = tuple(args.bbox), args.path_row
+    else:
+        bbox, path_rows = ZONAS[args.zona]["bbox"], PATH_ROW[args.zona]
+    descargar(bbox, path_rows, desde, hasta, args.salida, meses=args.meses, comprimido=args.comprimido)
 
 
 if __name__ == "__main__":

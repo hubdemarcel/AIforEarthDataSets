@@ -8,3 +8,4 @@ resultados/mosaicos/*/mensual/
 resultados/**/*.npz
 # Los mapas de cada mosaico son chicos (comprimidos) y se suben para poder resumir sin reprocesar
 !resultados/mosaicos/*/*.tif
+resultados/**/landsat_mensual/
