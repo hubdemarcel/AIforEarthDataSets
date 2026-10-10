@@ -31,6 +31,7 @@ oferta que llega a 6–7 años en cada año, contra demanda CRT; y el precio de 
 destilerías) además del SIAP.
 
 ## Con el precio de mercado de Tequila Matchmaker (1996–2024)
+Es la serie medida de 8 destilerías (marcas participantes); se usa como precio objetivo principal del modelo.
 - El precio SIAP sigue al de mercado con ~1 año de rezago: correlación de logaritmos 0.87 sin rezago y
   0.91 con 1 año. Confirma que el SIAP refleja contratos ya firmados.
 - Con el precio de mercado como objetivo, los modelos simples de demanda / superficie SIAP tampoco le ganan
