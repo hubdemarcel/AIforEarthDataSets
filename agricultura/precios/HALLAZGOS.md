@@ -58,3 +58,20 @@ agaves confirmados en Tequila). Total: alta confianza 40,120 ha; con media y baj
 ## Pendiente para el final: filtro de zona urbana
 Agave detectado a menos de 500 m de zona urbana: Tequila 6 %, Amatitán 5 %, Tlajomulco 22 %, Zapopan 25 %,
 Zacoalco 16 %, Ameca 3 %, Teuchitlán 2 %. Ayudaría en la zona metropolitana, no en Ameca.
+
+## Historia 1993–2024 del mosaico completo 13QFD (Valles, ~12,000 km²)
+Landsat 1993–2017 + Sentinel-2 2018–2026, homologando cada año de Landsat contra los campos de cultivo anual
+(los saltos entre sensores creaban plantaciones falsas: bosque en secas 0.33–0.40 con Landsat 5/7 y 0.44–0.49
+con Landsat 8). Tras homologar, 2011 bajó de 35,957 a 4,626 ha y 2013 de 36,632 a 9,028 ha.
+
+La serie sigue los ciclos a simple vista (ola 2000–2003, siembra baja 2005–2010, subida 2013–2017, ola
+2021–2023), pero **estadísticamente no mejora el modelo**:
+- Respuesta de la siembra al precio de mercado: 0.32 (mismo año), 0.18 (1 año), −0.01 (2 años).
+- Precio contra oferta que llega (siembra de hace 3–8 años): correlaciones entre −0.03 y 0.05.
+- Modelos demanda + oferta: error 52–88 % y dirección 8–11 de 15; con precio previo, error 66–98 %.
+  El ingenuo ("igual que el año pasado") tiene error 38 %.
+
+Lectura: con lo que hay hoy, la oferta medida por satélite en una sola región no predice el precio año por año.
+Posibles razones, en orden de sospecha: (1) falsos positivos (pastizales y terrenos que imitan la firma, ver
+comparación con SIAP); (2) Valles es una parte de la oferta, Los Altos pesa más; (3) el precio responde a
+cambios de régimen (escasez ↔ sobreoferta), no a variaciones anuales finas; (4) 28 datos anuales.
