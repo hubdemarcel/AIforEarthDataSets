@@ -38,3 +38,12 @@ Es la serie medida de 8 destilerías (marcas participantes); se usa como precio 
   al ingenuo (errores de 85 % y 57 % contra 36 %; dirección 7, 4 y 11 de 17).
 - Su proyección (ene-2024) da 2.4–3.6 $/kg en 2026–2032, con mínimo en 2028. Coincide con el pico de
   agave que llega a jima en Valles según el satélite (2028–2029).
+
+## Confianza del agave detectado vs SIAP 2025 (31 municipios con cobertura completa y > 300 ha)
+`confianza.py` califica cada pixel de agave por su amplitud después de plantar (umbrales tomados de los 9
+agaves confirmados en Tequila). Total: alta confianza 40,120 ha; con media y baja 59,205 ha; SIAP 25,237 ha.
+- Correlación entre municipios (log): 0.61. Muchos municipios cuadran con el SIAP (Zacoalco 1.0×, San Cristóbal
+  1.1×, Ixtlahuacán de los Membrillos y Tecolotlán 1.2×, Jocotepec 0.6×).
+- Los excesos se concentran en la zona metropolitana (Tlajomulco 5.0×, Zapopan 3.1×, Ixtlahuacán del Río 3.3×)
+  y en Ameca (4.0×), Atoyac (4.4×) y El Arenal (3.4×). Hipótesis: terrenos baldíos o pastizales periurbanos que se
+  limpian y se regeneran imitan la firma del agave. Hay que verificar ahí.
