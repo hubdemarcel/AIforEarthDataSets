@@ -87,3 +87,11 @@ Distancia a la firma del agave confirmado (7 índices, en desviaciones): agave 0
 - Valles sur: 14 parecidos, 11 medios, 5 lejos (p06, p14, p16, p20, p27; demasiado verdes y húmedos en secas).
 - Control "no agave": 8 de 10 lejos del agave; p48 y p50 (El Arenal) se parecen al agave: posible agave omitido.
 Resultados por punto: `resultados/verificacion/parecido_espectral.csv`. Falta confirmar con la verificación visual.
+
+## Agave enmontado: posible indicador de abandono por precio bajo
+El usuario señala que un agave sin mantenimiento se llena de pasto y se parece al pastizal. Prueba en los 3
+mosaicos de Valles (agave establecido hasta 2021; muestra de 228,312 pixeles): pico de lluvias (amplitud) relativo
+a 2022–2024, dividido entre el de bosque y selva para quitar el efecto del clima:
+2023 0.89 · 2024 0.97 · **2025 1.12 · 2026 1.16**. Bosque, selva y cultivo anual se mantienen en ~1.0 de 2021 a 2026.
+Lectura: después de la caída del precio, el agave establecido muestra 12–16 % más maleza en lluvias. Ojo: parte puede
+ser jima reciente (suelo que se llena de hierba). Candidato a "índice de mantenimiento" por municipio y año.
