@@ -24,3 +24,4 @@
   viejos. Se regeneran con `directorio-nuevo/data/mercado/siap/pull_siap.py` de agaves-pro.
   Serie oficial que complementa a `precios_agave_prensa.csv` (ojo: prensa da pesos por kg,
   el SIAP pesos por tonelada).
+- `PRECIOS-AGAVE.md`: resumen del precio del agave (SIAP 2003–2025 por año, estado y municipio; prensa 2026; diferencias entre fuentes).
