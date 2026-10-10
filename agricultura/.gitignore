@@ -5,3 +5,4 @@ __pycache__/
 resultados/**/historico/mensual/
 resultados/**/historico_landsat/mensual/
 resultados/mosaicos/*/mensual/
+resultados/**/*.npz

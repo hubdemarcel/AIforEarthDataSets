@@ -161,10 +161,10 @@ def main(argv=None):
     exportar(clase, "uso_suelo.tif")
     exportar(est, "agave_establecimiento.tif")
     exportar(jima, "agave_jima.tif")
-    for nombre, arr in (("secas", secas), ("amplitud", amp)):
-        entero = np.where(np.isfinite(arr), np.round(arr * ESCALA), SIN_DATO).astype("int16")
-        xr.DataArray(entero, dims=("anio", "y", "x"), coords=coords, name=nombre).to_netcdf(
-            args.salida / f"{nombre}.nc", encoding={nombre: {"zlib": True, "complevel": 4}})
+    # Métricas anuales (NDVI x10000 en enteros) para reusarlas sin volver a bajar imágenes
+    a_entero = lambda arr: np.where(np.isfinite(arr), np.round(arr * ESCALA), SIN_DATO).astype("int16")
+    np.savez_compressed(args.salida / "metricas_anuales.npz", anios=np.array(anios), secas=a_entero(secas),
+                        amplitud=a_entero(amp), x=coords["x"], y=coords["y"], crs=geobox.crs.to_wkt())
 
     ha = RESOLUCION**2 / 10_000
     sup = pd.Series(clase.ravel()).value_counts().sort_index()
