@@ -1,0 +1,1501 @@
+{
+  "_meta": {
+    "generado": "2026-10-04",
+    "descripcion": "Aranceles de importación e impuestos especiales sobre tequila/mezcal por país destino. Ver FUENTES.md.",
+    "campos": {
+      "arancel_*": "arancel de importación NMF/preferencial aplicable a tequila/mezcal de origen mexicano",
+      "impuesto_especial": "tasa legal verificada en fuente oficial (solo donde se pudo consultar)",
+      "oms_taxbev": "OMS Global report on beverage taxes: impuesto especial y carga total como % del precio de venta de la marca de destilado más vendida (2022, 2024)",
+      "confianza": "alta = línea arancelaria específica y tasa legal oficial; media = promedio HS6 o solo % OMS; baja = sin dato verificado"
+    }
+  },
+  "US": {
+    "pais": "Estados Unidos",
+    "iso2": "US",
+    "tlc_con_mexico": "T-MEC/USMCA",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "HTS 2208.90.50 general: Free; 2208.90.55: Free",
+      "base": "NMF (columna general)",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "HTS 2208.90.72 general: Free",
+      "base": "NMF (columna general)",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "18",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": {
+      "tasa": 13.5,
+      "unidad": "USD por galón prueba (proof gallon)",
+      "vigencia": "vigente 2026",
+      "detalle": "Tasa general federal FET. Tasas reducidas CBMA: 2.70 USD primeros 100,000 pg y 13.34 USD hasta 22,230,000 pg por año; importadores pueden usar tasas reducidas asignadas por el productor extranjero. Más impuestos estatales (no incluidos).",
+      "fuente": "https://www.ttb.gov/tax-and-fee-rates",
+      "verificado": "2026-10-04"
+    },
+    "oms_taxbev": {},
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/840/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://hts.usitc.gov/reststop/search?keyword=2208.90",
+      "https://www.ttb.gov/tax-and-fee-rates"
+    ],
+    "confianza": "alta"
+  },
+  "ES": {
+    "pais": "España",
+    "iso2": "ES",
+    "tlc_con_mexico": "TLCUEM (UE-México)",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": {
+      "tasa": 958.94,
+      "unidad": "EUR por hectolitro de alcohol puro",
+      "vigencia": "vigente (Ley 38/1992 art. 39, mod. RDL 3/2016)",
+      "detalle": "Impuesto sobre el Alcohol y Bebidas Derivadas, península y Baleares (Canarias tiene tipo propio, art. 40). IVA 21% aparte.",
+      "fuente": "https://www.boe.es/buscar/act.php?id=BOE-A-1992-28741",
+      "verificado": "2026-10-04"
+    },
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 35.96,
+        "2024": 30.35
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 53.32,
+        "2024": 47.7
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 17.36,
+        "2024": 17.36
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/724/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE",
+      "https://www.boe.es/buscar/act.php?id=BOE-A-1992-28741"
+    ],
+    "confianza": "alta"
+  },
+  "DE": {
+    "pais": "Alemania",
+    "iso2": "DE",
+    "tlc_con_mexico": "TLCUEM",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": {
+      "tasa": 1303,
+      "unidad": "EUR por hectolitro de alcohol puro",
+      "vigencia": "vigente (AlkStG §2)",
+      "detalle": "Alkoholsteuer, Regelsatz. IVA 19% aparte.",
+      "fuente": "https://www.gesetze-im-internet.de/alkstg/__2.html",
+      "verificado": "2026-10-04"
+    },
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 40.29,
+        "2024": 34.2
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 56.25,
+        "2024": 50.17
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 15.97,
+        "2024": 15.97
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/276/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE",
+      "https://www.gesetze-im-internet.de/alkstg/__2.html"
+    ],
+    "confianza": "alta"
+  },
+  "CA": {
+    "pais": "Canadá",
+    "iso2": "CA",
+    "tlc_con_mexico": "T-MEC/USMCA; CPTPP",
+    "arancel_tequila": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 9 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 9 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "9",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": {
+      "tasa": 14.117,
+      "unidad": "CAD por litro de alcohol etílico absoluto (>7% vol)",
+      "vigencia": "desde 2026-04-01 (13.840 en 2025-26; 13.569 en 2024-25)",
+      "detalle": "Impuesto especial federal sobre spirits; indexado cada 1-abr (tope 2% por Bill C-30). Más márgenes/impuestos provinciales de los monopolios de licor.",
+      "fuente": "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edrates/excise-duty-rates.html",
+      "verificado": "2026-10-04"
+    },
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 11.87,
+        "2024": 34.09
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 23.38,
+        "2024": 45.87
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 11.5,
+        "2024": 11.5
+      },
+      "tipo_impuesto": {
+        "2024": "Specific mixed – Alcohol & Volume-specific"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (T-MEC/USMCA; CPTPP): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/124/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE",
+      "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/edrates/excise-duty-rates.html"
+    ],
+    "confianza": "alta"
+  },
+  "GB": {
+    "pais": "Reino Unido",
+    "iso2": "GB",
+    "tlc_con_mexico": "Acuerdo de Continuidad Comercial México-Reino Unido; CPTPP",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "19",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": {
+      "tasa": 33.99,
+      "unidad": "GBP por litro de alcohol puro (spirits > 22% vol)",
+      "vigencia": "desde 2026-02-01",
+      "detalle": "Alcohol duty UK (medida 'Excises', código adicional X345, línea 2208905400/2208907500). IVA 20% aparte.",
+      "fuente": "https://www.trade-tariff.service.gov.uk/api/v2/commodities/2208905400",
+      "verificado": "2026-10-04"
+    },
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 47.15,
+        "2024": 46.14
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 63.82,
+        "2024": 62.81
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 16.67,
+        "2024": 16.67
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/826/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE",
+      "https://www.trade-tariff.service.gov.uk/api/v2/commodities/2208905400"
+    ],
+    "confianza": "alta"
+  },
+  "CO": {
+    "pais": "Colombia",
+    "iso2": "CO",
+    "tlc_con_mexico": "TLC G2/Alianza del Pacífico",
+    "arancel_tequila": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 13.0% (rango 5.0-15.0%, 5 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 13.0% (rango 5.0-15.0%, 5 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 13.0,
+      "min_pct": 5.0,
+      "max_pct": 15.0,
+      "lineas_nacionales": "5",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 32.02,
+        "2024": 40.21
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 35.88,
+        "2024": 43.06
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 3.86,
+        "2024": 2.85
+      },
+      "tipo_impuesto": {
+        "2024": "Specific mixed – Alcohol & Volume-specific"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (TLC G2/Alianza del Pacífico): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/170/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "FR": {
+    "pais": "Francia",
+    "iso2": "FR",
+    "tlc_con_mexico": "TLCUEM",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2024": 20.63
+      },
+      "impuestos_totales_pct_precio": {
+        "2024": 37.3
+      },
+      "iva_ventas_pct_precio": {
+        "2024": 16.67
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "Impuesto especial nacional armonizado (Directiva 92/83/CEE, mínimo 550 EUR/hl alcohol puro); tasa legal del país no extraída — ver TEDB: https://ec.europa.eu/taxation_customs/tedb/"
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/918/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "JP": {
+    "pais": "Japón",
+    "iso2": "JP",
+    "tlc_con_mexico": "AAE México-Japón; CPTPP",
+    "arancel_tequila": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 4.0% (rango 0.0-16.0%, 8 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 4.0% (rango 0.0-16.0%, 8 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 4.0,
+      "min_pct": 0.0,
+      "max_pct": 16.0,
+      "lineas_nacionales": "8",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 16.2,
+        "2024": 15.28
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 25.29,
+        "2024": 24.37
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 9.09,
+        "2024": 9.09
+      },
+      "tipo_impuesto": {
+        "2024": "Specific mixed – Alcohol & Volume-specific"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (AAE México-Japón; CPTPP): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/392/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "IT": {
+    "pais": "Italia",
+    "iso2": "IT",
+    "tlc_con_mexico": "TLCUEM",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 8.87,
+        "2024": 6.46
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 26.9,
+        "2024": 24.49
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 18.03,
+        "2024": 18.03
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "Impuesto especial nacional armonizado (Directiva 92/83/CEE, mínimo 550 EUR/hl alcohol puro); tasa legal del país no extraída — ver TEDB: https://ec.europa.eu/taxation_customs/tedb/"
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/380/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "AU": {
+    "pais": "Australia",
+    "iso2": "AU",
+    "tlc_con_mexico": "CPTPP",
+    "arancel_tequila": {
+      "valor": 5.0,
+      "texto": "NMF HS6 220890 promedio 5.0% (rango 5.0-5.0%, 3 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 5.0,
+      "texto": "NMF HS6 220890 promedio 5.0% (rango 5.0-5.0%, 3 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 5.0,
+      "min_pct": 5.0,
+      "max_pct": 5.0,
+      "lineas_nacionales": "3",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 56.5,
+        "2024": 57.04
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 65.59,
+        "2024": 66.13
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 9.09,
+        "2024": 9.09
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (CPTPP): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen.",
+      "Australia: impuesto especial por litro de alcohol indexado semestralmente (ATO); la página de tasas del ATO bloqueó la consulta automatizada (403)."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/036/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "CN": {
+    "pais": "China",
+    "iso2": "CN",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": 10.0,
+      "texto": "NMF HS6 220890 promedio 10.0% (rango 10.0-10.0%, 8 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 10.0,
+      "texto": "NMF HS6 220890 promedio 10.0% (rango 10.0-10.0%, 8 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 10.0,
+      "min_pct": 10.0,
+      "max_pct": 10.0,
+      "lineas_nacionales": "8",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 16.46,
+        "2024": 16.46
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 31.32,
+        "2024": 31.32
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 11.5,
+        "2024": 11.5
+      },
+      "tipo_impuesto": {
+        "2024": "Mixed – Volume-specific & Ad valorem"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/156/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "IN": {
+    "pais": "India",
+    "iso2": "IN",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": 150.0,
+      "texto": "NMF HS6 220890 promedio 150.0% (rango 150.0-150.0%, 6 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 150.0,
+      "texto": "NMF HS6 220890 promedio 150.0% (rango 150.0-150.0%, 6 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 150.0,
+      "min_pct": 150.0,
+      "max_pct": 150.0,
+      "lineas_nacionales": "6",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {},
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/356/partner/000/product/220890/year/2023/datatype/reported?format=JSON"
+    ],
+    "confianza": "media"
+  },
+  "NL": {
+    "pais": "Países Bajos",
+    "iso2": "NL",
+    "tlc_con_mexico": "TLCUEM",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 25.08,
+        "2024": 25.25
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 43.45,
+        "2024": 43.56
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 17.36,
+        "2024": 17.36
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "Impuesto especial nacional armonizado (Directiva 92/83/CEE, mínimo 550 EUR/hl alcohol puro); tasa legal del país no extraída — ver TEDB: https://ec.europa.eu/taxation_customs/tedb/"
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/528/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "PA": {
+    "pais": "Panamá",
+    "iso2": "PA",
+    "tlc_con_mexico": "TLC México-Panamá",
+    "arancel_tequila": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 14.7727270126343% (rango 10.0-15.0%, 22 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 14.7727270126343% (rango 10.0-15.0%, 22 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 14.7727270126343,
+      "min_pct": 10.0,
+      "max_pct": 15.0,
+      "lineas_nacionales": "22",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 9.88,
+        "2024": 23.38
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 18.98,
+        "2024": 32.47
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 9.09,
+        "2024": 9.09
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (TLC México-Panamá): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/591/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "LV": {
+    "pais": "Letonia",
+    "iso2": "LV",
+    "tlc_con_mexico": "TLCUEM",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 46.79,
+        "2024": 37.26
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 64.15,
+        "2024": 54.61
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 17.36,
+        "2024": 17.36
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "Impuesto especial nacional armonizado (Directiva 92/83/CEE, mínimo 550 EUR/hl alcohol puro); tasa legal del país no extraída — ver TEDB: https://ec.europa.eu/taxation_customs/tedb/"
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/428/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "ZA": {
+    "pais": "Sudáfrica",
+    "iso2": "ZA",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 4 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 4 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "4",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 46.51,
+        "2024": 52.05
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 59.55,
+        "2024": 65.1
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 13.04,
+        "2024": 13.04
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/710/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "SG": {
+    "pais": "Singapur",
+    "iso2": "SG",
+    "tlc_con_mexico": "CPTPP",
+    "arancel_tequila": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 10 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 10 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "10",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (CPTPP): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/702/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "PH": {
+    "pais": "Filipinas",
+    "iso2": "PH",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": 15.0,
+      "texto": "NMF HS6 220890 promedio 15.0% (rango 15.0-15.0%, 10 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 15.0,
+      "texto": "NMF HS6 220890 promedio 15.0% (rango 15.0-15.0%, 10 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 15.0,
+      "min_pct": 15.0,
+      "max_pct": 15.0,
+      "lineas_nacionales": "10",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 41.94,
+        "2024": 42.14
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 52.66,
+        "2024": 52.86
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 10.71,
+        "2024": 10.71
+      },
+      "tipo_impuesto": {
+        "2024": "Mixed – Alcohol-specific & Ad valorem"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/608/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "AE": {
+    "pais": "Emiratos Árabes Unidos",
+    "iso2": "AE",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": 5.0,
+      "texto": "NMF HS6 220890 promedio 5.0% (rango 5.0-5.0%, 3 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 5.0,
+      "texto": "NMF HS6 220890 promedio 5.0% (rango 5.0-5.0%, 3 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 5.0,
+      "min_pct": 5.0,
+      "max_pct": 5.0,
+      "lineas_nacionales": "3",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {},
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/784/partner/000/product/220890/year/2023/datatype/reported?format=JSON"
+    ],
+    "confianza": "media"
+  },
+  "BE": {
+    "pais": "Bélgica",
+    "iso2": "BE",
+    "tlc_con_mexico": "TLCUEM",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 39.78,
+        "2024": 39.3
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 57.18,
+        "2024": 56.7
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 17.36,
+        "2024": 17.36
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "Impuesto especial nacional armonizado (Directiva 92/83/CEE, mínimo 550 EUR/hl alcohol puro); tasa legal del país no extraída — ver TEDB: https://ec.europa.eu/taxation_customs/tedb/"
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/056/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "DO": {
+    "pais": "República Dominicana",
+    "iso2": "DO",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 19.0% (rango 14.0-20.0%, 6 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 19.0% (rango 14.0-20.0%, 6 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 19.0,
+      "min_pct": 14.0,
+      "max_pct": 20.0,
+      "lineas_nacionales": "6",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 36.27,
+        "2024": 32.69
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 51.52,
+        "2024": 47.94
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 15.25,
+        "2024": 15.25
+      },
+      "tipo_impuesto": {
+        "2024": "Mixed – Alcohol-specific & Ad valorem"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/214/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "CL": {
+    "pais": "Chile",
+    "iso2": "CL",
+    "tlc_con_mexico": "TLC México-Chile; Alianza del Pacífico; CPTPP",
+    "arancel_tequila": {
+      "valor": 6.0,
+      "texto": "NMF HS6 220890 promedio 6.0% (rango 6.0-6.0%, 2 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 6.0,
+      "texto": "NMF HS6 220890 promedio 6.0% (rango 6.0-6.0%, 2 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 6.0,
+      "min_pct": 6.0,
+      "max_pct": 6.0,
+      "lineas_nacionales": "2",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 19.63,
+        "2024": 19.63
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 31.46,
+        "2024": 31.46
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 11.84,
+        "2024": 11.84
+      },
+      "tipo_impuesto": {
+        "2024": "Ad valorem"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (TLC México-Chile; Alianza del Pacífico; CPTPP): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/152/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "GR": {
+    "pais": "Grecia",
+    "iso2": "GR",
+    "tlc_con_mexico": "TLCUEM",
+    "arancel_tequila": {
+      "valor": 0,
+      "texto": "2208905400: 0.00 %; 2208907500: 0.00 %",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "arancel_mezcal": {
+      "valor": 0,
+      "texto": "2208905600: 0.00 %; 2208907700: 0.00 % (mezcal no tiene código CN propio; clasifica como 'otros aguardientes')",
+      "base": "derecho a terceros países (erga omnes), ad valorem",
+      "anio": 2026
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "16",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 36.41,
+        "2024": 34.56
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 55.77,
+        "2024": 53.91
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 19.35,
+        "2024": 19.35
+      },
+      "tipo_impuesto": {
+        "2024": "Alcohol-content-based specific"
+      }
+    },
+    "notas": [
+      "Impuesto especial nacional armonizado (Directiva 92/83/CEE, mínimo 550 EUR/hl alcohol puro); tasa legal del país no extraída — ver TEDB: https://ec.europa.eu/taxation_customs/tedb/"
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/300/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://www.trade-tariff.service.gov.uk/xi/api/v2/commodities/2208905400",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "ID": {
+    "pais": "Indonesia",
+    "iso2": "ID",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": 150.0,
+      "texto": "NMF HS6 220890 promedio 150.0% (rango 150.0-150.0%, 10 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 150.0,
+      "texto": "NMF HS6 220890 promedio 150.0% (rango 150.0-150.0%, 10 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 150.0,
+      "min_pct": 150.0,
+      "max_pct": 150.0,
+      "lineas_nacionales": "10",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 40.0,
+        "2024": 35.35
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 45.95,
+        "2024": 41.76
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 5.95,
+        "2024": 6.41
+      },
+      "tipo_impuesto": {
+        "2024": "Volume-based specific"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/360/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "PE": {
+    "pais": "Perú",
+    "iso2": "PE",
+    "tlc_con_mexico": "AIC México-Perú; Alianza del Pacífico; CPTPP",
+    "arancel_tequila": {
+      "valor": 6.0,
+      "texto": "NMF HS6 220890 promedio 6.0% (rango 6.0-6.0%, 5 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 6.0,
+      "texto": "NMF HS6 220890 promedio 6.0% (rango 6.0-6.0%, 5 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 6.0,
+      "min_pct": 6.0,
+      "max_pct": 6.0,
+      "lineas_nacionales": "5",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 21.19,
+        "2024": 17.61
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 36.44,
+        "2024": 32.86
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 15.25,
+        "2024": 15.25
+      },
+      "tipo_impuesto": {
+        "2024": "Mixed – Volume-specific & Ad valorem"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (AIC México-Perú; Alianza del Pacífico; CPTPP): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/604/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "CR": {
+    "pais": "Costa Rica",
+    "iso2": "CR",
+    "tlc_con_mexico": "TLC único México-Centroamérica",
+    "arancel_tequila": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 13.375% (rango 9.0-14.0%, 8 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": null,
+      "texto": "NMF HS6 220890 promedio 13.375% (rango 9.0-14.0%, 8 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 13.375,
+      "min_pct": 9.0,
+      "max_pct": 14.0,
+      "lineas_nacionales": "8",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 21.9,
+        "2024": 23.26
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 35.66,
+        "2024": 35.12
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 11.5,
+        "2024": 11.5
+      },
+      "tipo_impuesto": {
+        "2024": "Mixed – Alcohol-specific & Ad valorem"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (TLC único México-Centroamérica): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/188/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "GT": {
+    "pais": "Guatemala",
+    "iso2": "GT",
+    "tlc_con_mexico": "TLC único México-Centroamérica",
+    "arancel_tequila": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 2 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 0.0,
+      "texto": "NMF HS6 220890 promedio 0.0% (rango 0.0-0.0%, 2 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 0.0,
+      "min_pct": 0.0,
+      "max_pct": 0.0,
+      "lineas_nacionales": "2",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 6.99,
+        "2024": 6.99
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 17.71,
+        "2024": 17.71
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 10.71,
+        "2024": 10.71
+      },
+      "tipo_impuesto": {
+        "2024": "Ad valorem"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (TLC único México-Centroamérica): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/320/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "BR": {
+    "pais": "Brasil",
+    "iso2": "BR",
+    "tlc_con_mexico": "ACE 53/55 (ALADI, alcance parcial)",
+    "arancel_tequila": {
+      "valor": 20.0,
+      "texto": "NMF HS6 220890 promedio 20.0% (rango 20.0-20.0%, 1 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 20.0,
+      "texto": "NMF HS6 220890 promedio 20.0% (rango 20.0-20.0%, 1 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 20.0,
+      "min_pct": 20.0,
+      "max_pct": 20.0,
+      "lineas_nacionales": "1",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 8.68,
+        "2024": 11.46
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 35.93,
+        "2024": 38.71
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 18.0,
+        "2024": 18.0
+      },
+      "tipo_impuesto": {
+        "2024": "Ad valorem"
+      }
+    },
+    "notas": [
+      "México tiene acuerdo comercial con este país (ACE 53/55 (ALADI, alcance parcial)): el arancel preferencial para origen MX puede ser menor (frecuentemente 0%); verificar en el arancel nacional / reglas de origen."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/076/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "KR": {
+    "pais": "Corea del Sur",
+    "iso2": "KR",
+    "tlc_con_mexico": null,
+    "arancel_tequila": {
+      "valor": 30.0,
+      "texto": "NMF HS6 220890 promedio 30.0% (rango 30.0-30.0%, 5 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "arancel_mezcal": {
+      "valor": 30.0,
+      "texto": "NMF HS6 220890 promedio 30.0% (rango 30.0-30.0%, 5 líneas) 2023",
+      "base": "NMF ad valorem; no específico de tequila salvo rango único",
+      "anio": 2023
+    },
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 30.0,
+      "min_pct": 30.0,
+      "max_pct": 30.0,
+      "lineas_nacionales": "5",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": null,
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 57.41,
+        "2024": 57.6
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 83.73,
+        "2024": 83.97
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 9.09,
+        "2024": 9.09
+      },
+      "tipo_impuesto": {
+        "2024": "Ad valorem"
+      }
+    },
+    "notas": [],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/410/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE"
+    ],
+    "confianza": "media"
+  },
+  "MX": {
+    "pais": "México",
+    "iso2": "MX",
+    "tlc_con_mexico": null,
+    "arancel_tequila": null,
+    "arancel_mezcal": null,
+    "mfn_hs6_220890": {
+      "promedio_simple_pct": 18.75,
+      "min_pct": 10.0,
+      "max_pct": 20.0,
+      "lineas_nacionales": "8",
+      "anio": 2023,
+      "base": "ad valorem (AVE reportado; WITS/UNCTAD TRAINS)"
+    },
+    "impuesto_especial": {
+      "tasa": 53,
+      "unidad": "% ad valorem (IEPS, bebidas > 20° G.L.)",
+      "vigencia": "vigente (LIEPS art. 2 I A 3, última reforma DOF 07-11-2025)",
+      "detalle": "IEPS sobre enajenación o importación. 26.5% hasta 14° G.L.; 30% de 14° a 20° G.L. IVA 16% aparte.",
+      "fuente": "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf",
+      "verificado": "2026-10-04"
+    },
+    "oms_taxbev": {
+      "excise_pct_precio": {
+        "2022": 29.86,
+        "2024": 29.86
+      },
+      "impuestos_totales_pct_precio": {
+        "2022": 43.66,
+        "2024": 43.66
+      },
+      "iva_ventas_pct_precio": {
+        "2022": 13.79,
+        "2024": 13.79
+      },
+      "tipo_impuesto": {
+        "2024": "Ad valorem"
+      }
+    },
+    "notas": [
+      "México como mercado: IEPS grava la enajenación en territorio nacional y la importación (LIEPS art. 1 y 2). El tratamiento de la exportación definitiva de bebidas alcohólicas no se verificó en esta extracción (consultar LIEPS arts. 2 y 8 / SAT). Arancel NMF de importación: ver mfn_hs6_220890 (promedio WITS)."
+    ],
+    "fuentes": [
+      "https://wits.worldbank.org/API/V1/SDMX/V21/datasource/TRN/reporter/484/partner/000/product/220890/year/2023/datatype/reported?format=JSON",
+      "https://ghoapi.azureedge.net/api/TAXBEV_EXCISE",
+      "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIEPS.pdf"
+    ],
+    "confianza": "media"
+  }
+}
