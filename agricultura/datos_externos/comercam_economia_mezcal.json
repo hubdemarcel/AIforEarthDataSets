@@ -1,0 +1,57 @@
+{
+  "denominacion": "Mezcal",
+  "fuente": "COMERCAM — Informe Estadístico 2025 (datos 2011-2024, producción referida a 45% Alc. Vol.)",
+  "extraido": "2026-06-10",
+  "unidad": "litros",
+  "series_anuales": {
+    "produccion": {
+      "2011": 980375, "2012": 1044696, "2013": 2519568, "2014": 1451718,
+      "2015": 2419175, "2016": 3028000, "2017": 3985221, "2018": 5089667,
+      "2019": 7145039, "2020": 7846251, "2021": 8099591, "2022": 14165505,
+      "2023": 12239655, "2024": 11362436
+    },
+    "envasado_nacional": {
+      "2011": 270426, "2012": 317803, "2013": 800002, "2014": 924686,
+      "2015": 1508839, "2016": 1854840, "2017": 2095934, "2018": 2491909,
+      "2019": 2740212, "2020": 2391480, "2021": 3684458, "2022": 6230378,
+      "2023": 3798753, "2024": 3161393
+    },
+    "envasado_exportacion": {
+      "2011": 647989, "2012": 768014, "2013": 914317, "2014": 1157420,
+      "2015": 1480263, "2016": 2013184, "2017": 2801830, "2018": 3422291,
+      "2019": 4700987, "2020": 4764184, "2021": 5102520, "2022": 8543324,
+      "2023": 7829669, "2024": 8201043
+    }
+  },
+  "participacion_estados_2024_pct": [
+    {"estado": "Oaxaca", "cve_ent": "20", "pct": 90.70},
+    {"estado": "Durango", "cve_ent": "10", "pct": 2.52},
+    {"estado": "Michoacán", "cve_ent": "16", "pct": 2.32},
+    {"estado": "Puebla", "cve_ent": "21", "pct": 1.80},
+    {"estado": "Guerrero", "cve_ent": "12", "pct": 0.83},
+    {"estado": "San Luis Potosí", "cve_ent": "24", "pct": 0.82},
+    {"estado": "Zacatecas", "cve_ent": "32", "pct": 0.64},
+    {"estado": "Tamaulipas", "cve_ent": "28", "pct": 0.36},
+    {"estado": "Guanajuato", "cve_ent": "11", "pct": 0.01}
+  ],
+  "indicadores_2024": {
+    "produccion_litros": 11362436,
+    "produccion_var_pct": -7.17,
+    "envasado_nacional_litros": 3161393,
+    "envasado_nacional_var_pct": -16.68,
+    "envasado_exportacion_litros": 8201043,
+    "envasado_exportacion_var_pct": 4.74,
+    "predios_registrados": 15206,
+    "superficie_registrada_ha": 40934,
+    "asociados_productores_maguey": 8961,
+    "plantas_registradas": 62925443,
+    "asociados_comercam": 11964,
+    "marcas_exportadas": 423,
+    "empleos_directos": 55000,
+    "empleos_indirectos": 210000,
+    "empleos_industria": 265000,
+    "estados_con_presencia": 9,
+    "certificacion_comercam_pct": 96,
+    "valor_categoria_2030_proyeccion_mdp": 36162
+  }
+}
