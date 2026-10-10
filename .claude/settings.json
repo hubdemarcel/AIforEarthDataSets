@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install -q -r agricultura/requirements.txt)",
+      "Bash(python -u -W ignore -m agricultura.nocturno:*)",
+      "Bash(python -m agricultura.nocturno:*)",
+      "Bash(git fetch origin claude/cloud-credit-session-8fee9m)",
+      "Bash(git pull origin claude/cloud-credit-session-8fee9m)",
+      "Bash(git checkout claude/cloud-credit-session-8fee9m)",
+      "Bash(git add agricultura)",
+      "Bash(git push -u origin claude/cloud-credit-session-8fee9m)"
+    ]
+  }
+}
