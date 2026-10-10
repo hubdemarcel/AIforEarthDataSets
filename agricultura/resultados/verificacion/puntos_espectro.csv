@@ -1,0 +1,80 @@
+id,lat,lon,municipio,grupo,clase_satelite,clase_ref
+p01,20.604184,-104.194936,Ameca,Valles sur,agave,
+p02,20.528829,-104.195139,Ameca,Valles sur,agave,
+p03,20.505907,-104.057164,Ameca,Valles sur,agave,
+p04,20.641839,-104.134268,Ameca,Valles sur,agave,
+p05,20.591502,-104.046468,Ameca,Valles sur,agave,
+p06,20.503534,-104.12143,Ameca,Valles sur,agave,
+p07,20.75531,-103.750762,El Arenal,Valles sur,agave,
+p08,20.760578,-103.705768,El Arenal,Valles sur,agave,
+p09,20.760052,-103.684065,El Arenal,Valles sur,agave,
+p10,20.747828,-103.692238,El Arenal,Valles sur,agave,
+p11,20.751832,-103.720057,El Arenal,Valles sur,agave,
+p12,20.786661,-103.690367,El Arenal,Valles sur,agave,
+p13,20.4598,-103.870505,Cocula,Valles sur,agave,
+p14,20.409078,-103.878926,Cocula,Valles sur,agave,
+p15,20.394033,-103.765005,Cocula,Valles sur,agave,
+p16,20.383936,-103.820467,Cocula,Valles sur,agave,
+p17,20.430642,-103.754937,Cocula,Valles sur,agave,
+p18,20.48006,-103.846388,Cocula,Valles sur,agave,
+p19,20.707851,-103.734445,Tala,Valles sur,agave,
+p20,20.717326,-103.720731,Tala,Valles sur,agave,
+p21,20.719022,-103.780059,Tala,Valles sur,agave,
+p22,20.500548,-103.678624,Tala,Valles sur,agave,
+p23,20.491244,-103.620793,Tala,Valles sur,agave,
+p24,20.698401,-103.679029,Tala,Valles sur,agave,
+p25,20.682561,-103.837952,Teuchitlán,Valles sur,agave,
+p26,20.740462,-103.771436,Teuchitlán,Valles sur,agave,
+p27,20.698623,-103.782719,Teuchitlán,Valles sur,agave,
+p28,20.704223,-103.808406,Teuchitlán,Valles sur,agave,
+p29,20.751412,-103.761359,Teuchitlán,Valles sur,agave,
+p30,20.674313,-103.820736,Teuchitlán,Valles sur,agave,
+p31,20.410442,-103.290545,Tlajomulco de Zúñiga,Zona metropolitana,agave,
+p32,20.431282,-103.315614,Tlajomulco de Zúñiga,Zona metropolitana,agave,
+p33,20.583215,-103.512139,Tlajomulco de Zúñiga,Zona metropolitana,agave,
+p34,20.407329,-103.30476,Tlajomulco de Zúñiga,Zona metropolitana,agave,
+p35,20.486597,-103.337635,Tlajomulco de Zúñiga,Zona metropolitana,agave,
+p36,20.749248,-103.553738,Zapopan,Zona metropolitana,agave,
+p37,20.740618,-103.602604,Zapopan,Zona metropolitana,agave,
+p38,20.767503,-103.643083,Zapopan,Zona metropolitana,agave,
+p39,20.665128,-103.519981,Zapopan,Zona metropolitana,agave,
+p40,20.738783,-103.431689,Zapopan,Zona metropolitana,agave,
+p41,21.355789,-103.713532,Tequila,Control (no agave según satélite),no agave,
+p42,21.365708,-103.620287,Tequila,Control (no agave según satélite),no agave,
+p43,20.833097,-103.814699,Tequila,Control (no agave según satélite),no agave,
+p44,21.270433,-103.726997,Tequila,Control (no agave según satélite),no agave,
+p45,20.829204,-103.749961,Amatitán,Control (no agave según satélite),no agave,
+p46,20.796186,-103.756382,Amatitán,Control (no agave según satélite),no agave,
+p47,20.799029,-103.725231,Amatitán,Control (no agave según satélite),no agave,
+p48,20.797768,-103.654725,El Arenal,Control (no agave según satélite),no agave,
+p49,20.800645,-103.699854,El Arenal,Control (no agave según satélite),no agave,
+p50,20.818571,-103.681252,El Arenal,Control (no agave según satélite),no agave,
+t1,20.926008,-103.76267,,Referencia Tequila,,selva
+t2,20.916309,-103.796114,,Referencia Tequila,,maiz
+t3,20.915647,-103.681991,,Referencia Tequila,,selva
+t4,20.891301,-103.6997,,Referencia Tequila,,selva
+t5,20.871884,-103.724569,,Referencia Tequila,,pastizal
+t6,20.882761,-103.804552,,Referencia Tequila,,pastizal
+t7,20.795236,-103.695337,,Referencia Tequila,,pastizal
+t8,20.816018,-103.707745,,Referencia Tequila,,pastizal
+t9,20.79745,-103.826843,,Referencia Tequila,,bosque
+t10,20.805724,-103.847917,,Referencia Tequila,,bosque
+t11,20.804372,-103.875694,,Referencia Tequila,,bosque
+t12,20.797708,-103.811853,,Referencia Tequila,,bosque
+t19,20.905734,-103.87494,,Referencia Tequila,,agave
+t20,20.85179,-103.743768,,Referencia Tequila,,agave
+t21,20.83915,-103.769724,,Referencia Tequila,,agave
+t22,20.927046,-103.859877,,Referencia Tequila,,agave
+t26,20.880736,-103.73651,,Referencia Tequila,,agave
+t27,20.862021,-103.746855,,Referencia Tequila,,maiz
+t28,20.873748,-103.696198,,Referencia Tequila,,maiz
+t29,20.800313,-103.733915,,Referencia Tequila,,maiz
+t30,20.902623,-103.882751,,Referencia Tequila,,maiz
+t35,20.887447,-103.777406,,Referencia Tequila,,agave
+t36,20.89804,-103.859039,,Referencia Tequila,,agave
+t37,20.883708,-103.823867,,Referencia Tequila,,agave
+t38,20.834005,-103.708937,,Referencia Tequila,,agave
+t39,20.843288,-103.845132,,Referencia Tequila,,selva
+t40,20.791014,-103.797687,,Referencia Tequila,,selva
+t43,20.859231,-103.736017,,Referencia Tequila,,agave
+t46,20.844137,-103.687035,,Referencia Tequila,,agave

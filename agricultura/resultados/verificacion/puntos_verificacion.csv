@@ -1,0 +1,51 @@
+id,municipio,anio_establecimiento,lat,lon,grupo,clase_satelite
+p01,Ameca,2021,20.604184,-104.194936,Valles sur,agave
+p02,Ameca,2021,20.528829,-104.195139,Valles sur,agave
+p03,Ameca,2019,20.505907,-104.057164,Valles sur,agave
+p04,Ameca,2021,20.641839,-104.134268,Valles sur,agave
+p05,Ameca,2021,20.591502,-104.046468,Valles sur,agave
+p06,Ameca,2023,20.503534,-104.12143,Valles sur,agave
+p07,El Arenal,2021,20.75531,-103.750762,Valles sur,agave
+p08,El Arenal,2021,20.760578,-103.705768,Valles sur,agave
+p09,El Arenal,2021,20.760052,-103.684065,Valles sur,agave
+p10,El Arenal,2021,20.747828,-103.692238,Valles sur,agave
+p11,El Arenal,2023,20.751832,-103.720057,Valles sur,agave
+p12,El Arenal,2021,20.786661,-103.690367,Valles sur,agave
+p13,Cocula,2018,20.4598,-103.870505,Valles sur,agave
+p14,Cocula,2023,20.409078,-103.878926,Valles sur,agave
+p15,Cocula,2023,20.394033,-103.765005,Valles sur,agave
+p16,Cocula,2022,20.383936,-103.820467,Valles sur,agave
+p17,Cocula,2023,20.430642,-103.754937,Valles sur,agave
+p18,Cocula,2023,20.48006,-103.846388,Valles sur,agave
+p19,Tala,2021,20.707851,-103.734445,Valles sur,agave
+p20,Tala,2022,20.717326,-103.720731,Valles sur,agave
+p21,Tala,2021,20.719022,-103.780059,Valles sur,agave
+p22,Tala,2021,20.500548,-103.678624,Valles sur,agave
+p23,Tala,2021,20.491244,-103.620793,Valles sur,agave
+p24,Tala,2023,20.698401,-103.679029,Valles sur,agave
+p25,Teuchitlán,2023,20.682561,-103.837952,Valles sur,agave
+p26,Teuchitlán,2022,20.740462,-103.771436,Valles sur,agave
+p27,Teuchitlán,2022,20.698623,-103.782719,Valles sur,agave
+p28,Teuchitlán,2023,20.704223,-103.808406,Valles sur,agave
+p29,Teuchitlán,2022,20.751412,-103.761359,Valles sur,agave
+p30,Teuchitlán,2023,20.674313,-103.820736,Valles sur,agave
+p31,Tlajomulco de Zúñiga,2022,20.410442,-103.290545,Zona metropolitana,agave
+p32,Tlajomulco de Zúñiga,2023,20.431282,-103.315614,Zona metropolitana,agave
+p33,Tlajomulco de Zúñiga,2019,20.583215,-103.512139,Zona metropolitana,agave
+p34,Tlajomulco de Zúñiga,2018,20.407329,-103.30476,Zona metropolitana,agave
+p35,Tlajomulco de Zúñiga,2022,20.486597,-103.337635,Zona metropolitana,agave
+p36,Zapopan,2022,20.749248,-103.553738,Zona metropolitana,agave
+p37,Zapopan,2021,20.740618,-103.602604,Zona metropolitana,agave
+p38,Zapopan,2022,20.767503,-103.643083,Zona metropolitana,agave
+p39,Zapopan,2021,20.665128,-103.519981,Zona metropolitana,agave
+p40,Zapopan,2022,20.738783,-103.431689,Zona metropolitana,agave
+p41,Tequila,0,21.355789,-103.713532,Control (no agave según satélite),no agave
+p42,Tequila,0,21.365708,-103.620287,Control (no agave según satélite),no agave
+p43,Tequila,0,20.833097,-103.814699,Control (no agave según satélite),no agave
+p44,Tequila,0,21.270433,-103.726997,Control (no agave según satélite),no agave
+p45,Amatitán,0,20.829204,-103.749961,Control (no agave según satélite),no agave
+p46,Amatitán,0,20.796186,-103.756382,Control (no agave según satélite),no agave
+p47,Amatitán,0,20.799029,-103.725231,Control (no agave según satélite),no agave
+p48,El Arenal,0,20.797768,-103.654725,Control (no agave según satélite),no agave
+p49,El Arenal,0,20.800645,-103.699854,Control (no agave según satélite),no agave
+p50,El Arenal,0,20.818571,-103.681252,Control (no agave según satélite),no agave

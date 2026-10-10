@@ -1,0 +1,167 @@
+<title>Verificación de agave</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: lista de tarjetas de una columna (≈46rem); cada tarjeta = punto, firma de verdor y botones de respuesta */
+:root {
+  --papel: #f4f6f5; --superficie: #ffffff; --tinta: #17201f; --tenue: #5b6866; --linea: #d6dedc;
+  --agave: #2f6f73; --agave-suave: #d5e8e6; --lluvia: #d9b46a; --no: #b4473a; --no-suave: #f3dfdb;
+  --duda: #8a6d1f; --duda-suave: #f2e8cc;
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --cuerpo: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --datos: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --papel: #111716; --superficie: #18201f; --tinta: #e3ebe9; --tenue: #9aa8a5; --linea: #2c3836;
+  --agave: #6fb8b2; --agave-suave: #20403d; --lluvia: #c9a456; --no: #e07a6b; --no-suave: #3d2420;
+  --duda: #e0c06a; --duda-suave: #3a321b; color-scheme: dark; } }
+:root[data-theme="dark"] {
+  --papel: #111716; --superficie: #18201f; --tinta: #e3ebe9; --tenue: #9aa8a5; --linea: #2c3836;
+  --agave: #6fb8b2; --agave-suave: #20403d; --lluvia: #c9a456; --no: #e07a6b; --no-suave: #3d2420;
+  --duda: #e0c06a; --duda-suave: #3a321b; color-scheme: dark; }
+* { box-sizing: border-box; }
+body { background: var(--papel); color: var(--tinta); font: 400 1rem/1.5 var(--cuerpo); }
+.hoja { max-width: 46rem; margin: 0 auto; padding-inline: 1rem; padding-block: 1.75rem 4rem; display: grid; gap: 1.25rem; }
+h1 { font: 700 clamp(1.7rem, 4.5vw, 2.3rem)/1.1 var(--display); margin: 0; text-wrap: balance; }
+p { margin: 0; max-width: 64ch; }
+.meta { color: var(--tenue); font-size: .92rem; }
+.barra { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 2; background: var(--papel); padding-block: .6rem; display: grid; gap: .55rem; border-bottom: 1px solid var(--linea); }
+.progreso { display: flex; align-items: center; gap: .75rem; font: 500 .9rem var(--datos); font-variant-numeric: tabular-nums; }
+.pista { flex: 1; height: .45rem; background: var(--linea); border-radius: 99px; overflow: hidden; }
+.pista span { display: block; height: 100%; width: 0; background: var(--agave); transition: width .3s; }
+.filtros { display: flex; flex-wrap: wrap; gap: .4rem; }
+.filtros button { font: 500 .82rem var(--cuerpo); border: 1px solid var(--linea); background: var(--superficie); color: var(--tinta); border-radius: 99px; padding: .3rem .75rem; cursor: pointer; }
+.filtros button[aria-pressed="true"] { background: var(--tinta); color: var(--papel); border-color: var(--tinta); }
+.lista { display: grid; gap: .9rem; }
+.tarjeta { background: var(--superficie); border: 1px solid var(--linea); border-radius: 8px; padding: 1rem; display: grid; gap: .7rem; }
+.tarjeta[data-r="agave"] { border-left: 4px solid var(--agave); }
+.tarjeta[data-r="no"] { border-left: 4px solid var(--no); }
+.tarjeta[data-r="dudoso"] { border-left: 4px solid var(--duda); }
+.cab { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .4rem .8rem; align-items: baseline; }
+.cab h2 { margin: 0; font: 600 1.05rem var(--cuerpo); }
+.cab h2 .num { font-family: var(--datos); color: var(--tenue); margin-right: .4rem; }
+.chip { font: 500 .75rem var(--datos); letter-spacing: .02em; border-radius: 99px; padding: .15rem .55rem; background: var(--agave-suave); color: var(--agave); white-space: nowrap; }
+.chip.no { background: var(--no-suave); color: var(--no); }
+.linea { display: flex; flex-wrap: wrap; gap: .3rem 1rem; font-size: .9rem; color: var(--tenue); }
+.linea a { color: var(--agave); font-weight: 600; }
+.linea code { font-family: var(--datos); font-size: .85rem; }
+.firma svg { width: 100%; height: auto; display: block; }
+.firma text { fill: var(--tenue); font: 400 10px var(--datos); }
+.acciones { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+.acciones button { font: 600 .9rem var(--cuerpo); border-radius: 6px; padding: .5rem .95rem; cursor: pointer; border: 1px solid var(--linea); background: var(--superficie); color: var(--tinta); min-width: 5.5rem; }
+.acciones button:focus-visible, .filtros button:focus-visible, input:focus-visible { outline: 2px solid var(--agave); outline-offset: 2px; }
+.acciones button[data-v="agave"][aria-pressed="true"] { background: var(--agave); border-color: var(--agave); color: var(--superficie); }
+.acciones button[data-v="no"][aria-pressed="true"] { background: var(--no); border-color: var(--no); color: var(--superficie); }
+.acciones button[data-v="dudoso"][aria-pressed="true"] { background: var(--duda); border-color: var(--duda); color: var(--superficie); }
+.acciones input { flex: 1 1 12rem; min-width: 0; font: 400 .9rem var(--cuerpo); padding: .45rem .6rem; border: 1px solid var(--linea); border-radius: 6px; background: var(--papel); color: var(--tinta); }
+.estado { font: 400 .78rem var(--datos); color: var(--tenue); min-height: 1em; }
+.vacio { border: 1px dashed var(--linea); border-radius: 8px; padding: 1.5rem; color: var(--tenue); text-align: center; }
+.leyenda { display: flex; flex-wrap: wrap; gap: .3rem 1rem; font-size: .85rem; color: var(--tenue); }
+.leyenda i { display: inline-block; width: .75rem; height: .75rem; border-radius: 2px; margin-right: .3rem; vertical-align: -.05rem; }
+@media (prefers-reduced-motion: reduce) { .pista span { transition: none; } }
+</style>
+
+<div class="hoja">
+  <header style="display:grid;gap:.6rem">
+    <h1>Verificación de agave</h1>
+    <p>Abre cada punto en Google Maps (vista satélite), mira el predio y marca si es agave. La firma muestra qué vio el satélite cada año: el agave tiene un año bajo al plantarse y luego el verde de secas sube año con año, con poco pico de lluvias.</p>
+    <div class="leyenda"><span><i style="background:var(--agave)"></i>Verdor de secas (mar–may)</span><span><i style="background:var(--lluvia)"></i>Pico de lluvias (jul–oct)</span><span><i style="background:var(--no)"></i>Año de plantación detectado</span></div>
+  </header>
+
+  <div class="barra">
+    <div class="progreso"><span id="cuenta">0 de 0</span><div class="pista"><span id="avance"></span></div></div>
+    <div class="filtros" id="filtros" role="group" aria-label="Filtrar puntos"></div>
+  </div>
+
+  <div class="lista" id="lista"><div class="vacio" id="vacio">Cargando los puntos de verificación…</div></div>
+  <p class="meta">Tus respuestas se guardan solas al tocar un botón; Claude las lee para ajustar las reglas de detección.</p>
+</div>
+
+<script>
+const lista = document.getElementById("lista");
+const filtrosEl = document.getElementById("filtros");
+let puntos = [], respuestas = {}, filtro = "Todos", db = null, puedeEscribir = true;
+const GRUPOS = ["Todos", "Pendientes", "Valles sur", "Zona metropolitana", "Control (no agave según satélite)"];
+
+function firmaSVG(f, anioPlant) {
+  if (!f) return "";
+  const W = 560, H = 150, ml = 30, mb = 20, mt = 8, n = f.anios.length, bw = (W - ml - 8) / n;
+  const y = v => H - mb - (H - mb - mt) * Math.max(0, Math.min(v, 1));
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Firma de verdor por año">`;
+  [0, .25, .5, .75].forEach(v => { s += `<line x1="${ml}" x2="${W - 4}" y1="${y(v)}" y2="${y(v)}" stroke="var(--linea)"/><text x="${ml - 4}" y="${y(v) + 3}" text-anchor="end">${v.toFixed(2)}</text>`; });
+  f.anios.forEach((a, i) => {
+    const x = ml + i * bw + bw * .18, w = bw * .64, sec = f.secas[i], llu = f.lluvias[i];
+    if (llu != null) s += `<rect x="${x}" y="${y(llu)}" width="${w}" height="${y(0) - y(llu)}" rx="2" fill="var(--lluvia)" opacity=".75"/>`;
+    if (sec != null) s += `<rect x="${x}" y="${y(sec)}" width="${w}" height="${y(0) - y(sec)}" rx="2" fill="var(--agave)"/>`;
+    if (a === anioPlant) s += `<line x1="${x + w / 2}" x2="${x + w / 2}" y1="${mt}" y2="${y(0)}" stroke="var(--no)" stroke-width="2"/>`;
+    s += `<text x="${x + w / 2}" y="${H - 6}" text-anchor="middle">${String(a).slice(2)}</text>`;
+  });
+  return s + "</svg>";
+}
+
+function visibles() {
+  return puntos.filter(p => filtro === "Todos" || (filtro === "Pendientes" ? !respuestas[p.id] : p.grupo === filtro));
+}
+
+function pintarFiltros() {
+  filtrosEl.innerHTML = "";
+  GRUPOS.forEach(g => {
+    const b = document.createElement("button");
+    b.type = "button"; b.textContent = g.replace(" (no agave según satélite)", ""); b.setAttribute("aria-pressed", String(g === filtro));
+    b.onclick = () => { filtro = g; pintarFiltros(); pintar(); };
+    filtrosEl.appendChild(b);
+  });
+}
+
+function pintarAvance() {
+  const hechos = puntos.filter(p => respuestas[p.id]).length;
+  document.getElementById("cuenta").textContent = `${hechos} de ${puntos.length} respondidos`;
+  document.getElementById("avance").style.width = puntos.length ? (100 * hechos / puntos.length) + "%" : "0";
+}
+
+function pintar() {
+  pintarAvance();
+  const vs = visibles();
+  if (!puntos.length) { lista.innerHTML = `<div class="vacio">${db ? "Todavía no hay puntos cargados. Claude los agrega en un momento." : "No se pudo conectar con el almacén de respuestas en esta vista."}</div>`; return; }
+  if (!vs.length) { lista.innerHTML = `<div class="vacio">No hay puntos en este filtro.</div>`; return; }
+  lista.innerHTML = "";
+  vs.forEach(p => {
+    const r = respuestas[p.id] || {};
+    const el = document.createElement("article");
+    el.className = "tarjeta"; if (r.respuesta) el.dataset.r = r.respuesta;
+    const maps = `https://maps.google.com/?q=${p.lat},${p.lon}&t=k`;
+    const sat = p.clase_satelite === "agave" ? `<span class="chip">Satélite: agave ${p.anio_plantacion ? "plantado " + p.anio_plantacion : ""}</span>` : `<span class="chip no">Satélite: no es agave</span>`;
+    el.innerHTML = `<div class="cab"><h2><span class="num">${p.orden + 1}</span>${p.municipio}</h2>${sat}</div>
+      <div class="linea"><span>${p.grupo}</span><a href="${maps}" target="_blank" rel="noopener">Abrir en Google Maps ↗</a><code>${p.lat.toFixed(5)}, ${p.lon.toFixed(5)}</code></div>
+      <div class="firma">${firmaSVG(p.firma, p.anio_plantacion)}</div>
+      <div class="acciones">
+        ${["agave", "no", "dudoso"].map(v => `<button type="button" data-v="${v}" aria-pressed="${r.respuesta === v}" ${puedeEscribir ? "" : "disabled"}>${v === "agave" ? "Agave" : v === "no" ? "No es agave" : "Dudoso"}</button>`).join("")}
+        <input id="nota-${p.id}" placeholder="Nota (qué ves)" value="${(r.nota || "").replace(/"/g, "&quot;")}" ${puedeEscribir ? "" : "disabled"}>
+      </div><div class="estado" aria-live="polite"></div>`;
+    const estado = el.querySelector(".estado");
+    const guardar = async (respuesta) => {
+      const nota = el.querySelector("input").value.trim();
+      if (!respuesta) return;
+      estado.textContent = "Guardando…";
+      try {
+        await db.doc("respuestas/" + p.id).set({ respuesta, nota, actualizado: new Date().toISOString() });
+        estado.textContent = "Guardado";
+      } catch (e) {
+        if (e && e.code === "invalid_argument") { puedeEscribir = false; estado.textContent = "Esta vista no puede guardar respuestas."; }
+        else estado.textContent = "No se guardó; intenta de nuevo.";
+      }
+    };
+    el.querySelectorAll("button[data-v]").forEach(b => b.onclick = () => guardar(b.dataset.v));
+    el.querySelector("input").addEventListener("change", () => { const cur = respuestas[p.id]; if (cur && cur.respuesta) guardar(cur.respuesta); });
+    lista.appendChild(el);
+  });
+}
+
+pintarFiltros(); pintar();
+(async () => {
+  db = await (window.claude?.use ? window.claude.use("db") : null);
+  if (!db) { pintar(); return; }
+  try { const user = await claude.use("user"); if (user && user.can && (await user.can("data.write")) === false) puedeEscribir = false; } catch (e) {}
+  db.collection("puntos").orderBy("orden").onSnapshot(s => { puntos = s.docs.map(d => ({ id: d.id, ...d.data() })); pintar(); }, () => pintar());
+  db.collection("respuestas").onSnapshot(s => { respuestas = {}; s.docs.forEach(d => respuestas[d.id] = d.data()); pintar(); }, () => {});
+})();
+</script>
