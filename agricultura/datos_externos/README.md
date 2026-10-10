@@ -25,3 +25,4 @@
   Serie oficial que complementa a `precios_agave_prensa.csv` (ojo: prensa da pesos por kg,
   el SIAP pesos por tonelada).
 - `PRECIOS-AGAVE.md`: resumen del precio del agave (SIAP 2003–2025 por año, estado y municipio; prensa 2026; diferencias entre fuentes).
+- `ARANCELES-AGAVE.md` y `aranceles_fiscal_por_pais.json`: aranceles de importación e impuestos especiales al tequila y mezcal en 30 países (top destinos + México), con tratado con México, fuentes y nivel de confianza. Copia de `fiscal-por-pais.json` de agaves-pro (2026-10-04).
