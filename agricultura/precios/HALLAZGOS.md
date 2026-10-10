@@ -29,3 +29,11 @@ La pieza que falta es la oferta por **año de plantación** (cohortes) para toda
 origen, que es justo lo que da el satélite (`agave.plantaciones`, `serie_historica.py`). Con eso:
 oferta que llega a 6–7 años en cada año, contra demanda CRT; y el precio de calle (prensa,
 destilerías) además del SIAP.
+
+## Con el precio de mercado de Tequila Matchmaker (1996–2024)
+- El precio SIAP sigue al de mercado con ~1 año de rezago: correlación de logaritmos 0.87 sin rezago y
+  0.91 con 1 año. Confirma que el SIAP refleja contratos ya firmados.
+- Con el precio de mercado como objetivo, los modelos simples de demanda / superficie SIAP tampoco le ganan
+  al ingenuo (errores de 85 % y 57 % contra 36 %; dirección 7, 4 y 11 de 17).
+- Su proyección (ene-2024) da 2.4–3.6 $/kg en 2026–2032, con mínimo en 2028. Coincide con el pico de
+  agave que llega a jima en Valles según el satélite (2028–2029).

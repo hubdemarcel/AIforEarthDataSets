@@ -28,3 +28,8 @@
 - `ARANCELES-AGAVE.md` y `aranceles_fiscal_por_pais.json`: aranceles de importación e impuestos especiales al tequila y mezcal en 30 países (top destinos + México), con tratado con México, fuentes y nivel de confianza. Copia de `fiscal-por-pais.json` de agaves-pro (2026-10-04).
 - `inpc_mensual.csv` e `inpc_anual.csv`: INPC de Banxico (SIE, serie SP1, base 2Q jul 2018 = 100), mensual 1969-01 a 2026-09, y promedio anual con `factor_a_pesos_2025` (precio en pesos de 2025 = precio corriente × factor). Se regeneran con `directorio-nuevo/data/mercado/inpc/pull_inpc.py` de agaves-pro. Deflactada, la serie del SIAP es coherente desde 1983, así que antes de 1993 ya viene en pesos nuevos.
 - `DEMANDA-EXPORTACION.md`, `crt_tequila_anual.csv`, `crt_exportaciones_mensuales_por_pais.csv`, `crt_economia_tequila.json`, `comercam_economia_mezcal.json`: demanda de agave (consumo de las tequileras), producción y exportación de tequila del CRT 1995–2026 (mensual por país desde 1997) y mezcal de COMERCAM 2011–2024. Desde agaves-pro (atlas y `comercio-exterior/`).
+- `precios_tequila_matchmaker.csv`: precio del agave azul Weber en pesos corrientes por kilo, 1996–2024
+  observado y 2025–2032 proyectado, **leído a mano de la gráfica** "Cost of Weber Blue Agave in MXN Pesos per
+  Kilo" del boletín de Tequila Matchmaker (fuentes: TasteTequila.com y marcas participantes; actualizada el
+  16-ene-2024; agave no orgánico dentro de la DO). Error de lectura aprox. ±0.5 $/kg. Es precio de mercado (calle),
+  no el precio medio rural del SIAP; las proyecciones son de ellos, no nuestras.
