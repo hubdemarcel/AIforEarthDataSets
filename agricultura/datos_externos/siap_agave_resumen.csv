@@ -589,6 +589,203 @@ anio,estado,cultivo,unidad,sembrada_ha,cosechada_ha,produccion,valor_pesos,preci
 2014,Yucatán,Agave,Tonelada,14.0,0.0,0.0,0.0,
 2014,Yucatán,Henequén,Tonelada,8512.54,7034.6,6097.7,44376534.67,7277.59
 2014,Zacatecas,Agave,Tonelada,2268.75,2268.75,187337.63,323808250.0,1728.47
+2015,Baja California,Agave,Tonelada,6.0,0.0,0.0,0.0,
+2015,Baja California Sur,Agave,Tonelada,3.0,0.0,0.0,0.0,
+2015,Coahuila,Maguey forrajero,Tonelada,1838.0,1838.0,11954.15,6082682.6,508.83
+2015,Durango,Agave,Tonelada,313.0,0.0,0.0,0.0,
+2015,Guanajuato,Agave,Tonelada,14922.0,1978.0,124314.2,290685251.2,2338.31
+2015,Guanajuato,Maguey pulquero,Miles de lts.,4.0,1.0,24.5,78074.64,3186.72
+2015,Guerrero,Agave,Tonelada,1816.41,206.8,6391.54,11405729.21,1784.5
+2015,Guerrero,Maguey pulquero,Miles de lts.,3.0,3.0,18.15,54633.31,3010.1
+2015,Hidalgo,Maguey mixiotero,Tonelada,23.0,0.0,0.0,0.0,
+2015,Hidalgo,Maguey pulquero,Miles de lts.,6338.6,2250.6,248720.7,1030275797.48,4142.3
+2015,Jalisco,Agave,Tonelada,67060.88,14563.61,1340811.9,6746097971.8,5031.35
+2015,Jalisco,Maguey pulquero,Miles de lts.,3.0,3.0,264.0,1188000.0,4500.0
+2015,Michoacán,Agave,Tonelada,4007.74,728.0,48635.0,138671986.55,2851.28
+2015,Michoacán,Maguey pulquero,Miles de lts.,7.05,0.0,0.0,0.0,
+2015,Morelos,Agave,Tonelada,107.0,50.0,4110.0,13473000.0,3278.1
+2015,México,Agave,Tonelada,105.0,105.0,8349.0,23421182.4,2805.27
+2015,México,Maguey pulquero,Miles de lts.,1100.6,240.7,4181.34,14410713.43,3446.43
+2015,Nayarit,Agave,Tonelada,4816.94,372.0,29755.0,111450455.45,3745.6
+2015,Oaxaca,Agave,Tonelada,7748.26,1199.0,72704.67,167411336.16,2302.62
+2015,Puebla,Agave,Tonelada,195.5,195.5,18677.81,23192557.96,1241.72
+2015,Puebla,Maguey pulquero,Miles de lts.,638.5,289.5,9119.15,35117516.04,3850.96
+2015,Querétaro,Agave,Tonelada,7.0,0.0,0.0,0.0,
+2015,Querétaro,Maguey forrajero,Tonelada,231.0,0.0,0.0,0.0,
+2015,Querétaro,Maguey pulquero,Miles de lts.,89.0,0.0,0.0,0.0,
+2015,San Luis Potosí,Maguey forrajero,Tonelada,12.5,12.5,187.5,94398.75,503.46
+2015,San Luis Potosí,Maguey pulquero,Miles de lts.,27.0,22.0,397.0,440870.8,1110.51
+2015,Sinaloa,Agave,Tonelada,1007.0,0.0,0.0,0.0,
+2015,Sonora,Agave,Tonelada,18.0,0.0,0.0,0.0,
+2015,Tamaulipas,Agave,Tonelada,3111.1,0.0,0.0,0.0,
+2015,Tamaulipas,Henequén,Tonelada,902.0,520.0,6760.0,10140000.0,1500.0
+2015,Tlaxcala,Maguey pulquero,Miles de lts.,594.0,562.0,40569.0,132642348.87,3269.55
+2015,Veracruz,Agave,Tonelada,541.5,0.0,0.0,0.0,
+2015,Veracruz,Maguey pulquero,Miles de lts.,107.0,80.0,476.0,2563198.12,5384.87
+2015,Yucatán,Henequén,Tonelada,8614.16,6702.62,4971.11,39718534.0,7989.87
+2015,Zacatecas,Agave,Tonelada,2333.5,2333.5,192595.95,483141007.5,2508.57
+2016,Baja California,Agave,Tonelada,6.0,0.0,0.0,0.0,
+2016,Baja California Sur,Agave,Tonelada,3.0,0.0,0.0,0.0,
+2016,Coahuila,Maguey forrajero,Tonelada,1888.0,1838.0,11950.56,6637337.75,555.4
+2016,Colima,Agave,Tonelada,1.4,0.0,0.0,0.0,
+2016,Durango,Agave,Tonelada,343.0,0.0,0.0,0.0,
+2016,Guanajuato,Agave,Tonelada,14596.0,2766.0,197086.0,661810959.22,3357.98
+2016,Guanajuato,Maguey pulquero,Miles de lts.,4.5,1.5,37.5,117235.5,3126.28
+2016,Guerrero,Agave,Tonelada,1840.81,349.8,12198.83,25379205.45,2080.46
+2016,Guerrero,Maguey pulquero,Miles de lts.,3.0,3.0,16.8,52214.06,3107.98
+2016,Hidalgo,Maguey mixiotero,Tonelada,23.0,0.0,0.0,0.0,
+2016,Hidalgo,Maguey pulquero,Miles de lts.,6152.2,1924.9,194578.65,980069613.88,5036.88
+2016,Jalisco,Agave,Tonelada,71025.55,13870.87,1335272.41,6777695382.24,5075.89
+2016,Jalisco,Maguey pulquero,Miles de lts.,3.0,3.0,261.0,1195380.0,4580.0
+2016,Michoacán,Agave,Tonelada,4387.69,1444.24,122179.69,393518476.73,3220.82
+2016,Michoacán,Maguey pulquero,Miles de lts.,5.75,0.0,0.0,0.0,
+2016,Morelos,Agave,Tonelada,74.0,17.0,1407.0,4924500.0,3500.0
+2016,México,Agave,Tonelada,177.0,177.0,14953.48,54717386.33,3659.17
+2016,México,Maguey pulquero,Miles de lts.,1435.7,241.7,4130.89,14452455.61,3498.63
+2016,Nayarit,Agave,Tonelada,5181.94,819.5,34065.65,238108492.54,6989.69
+2016,Oaxaca,Agave,Tonelada,8211.07,1547.1,94907.81,235360552.63,2479.89
+2016,Puebla,Agave,Tonelada,195.5,195.5,17869.66,24187734.98,1353.56
+2016,Puebla,Maguey pulquero,Miles de lts.,747.0,324.5,10349.31,39295881.6,3796.96
+2016,Querétaro,Agave,Tonelada,5.0,0.0,0.0,0.0,
+2016,Querétaro,Maguey forrajero,Tonelada,231.0,0.0,0.0,0.0,
+2016,Querétaro,Maguey pulquero,Miles de lts.,89.0,0.0,0.0,0.0,
+2016,San Luis Potosí,Maguey pulquero,Miles de lts.,25.0,21.0,354.0,449849.45,1270.76
+2016,Sinaloa,Agave,Tonelada,264.0,0.0,0.0,0.0,
+2016,Sonora,Agave,Tonelada,20.0,0.0,0.0,0.0,
+2016,Tamaulipas,Agave,Tonelada,3396.07,377.0,13773.0,42666900.0,3097.87
+2016,Tamaulipas,Henequén,Tonelada,902.0,520.0,6510.4,12044240.0,1850.0
+2016,Tlaxcala,Maguey pulquero,Miles de lts.,585.0,545.0,38328.0,99918607.0,2606.94
+2016,Veracruz,Agave,Tonelada,198.0,0.0,0.0,0.0,
+2016,Veracruz,Maguey pulquero,Miles de lts.,78.0,78.0,967.2,3126735.14,3232.77
+2016,Yucatán,Henequén,Tonelada,9075.8,6740.9,5860.44,56213109.21,9591.96
+2016,Zacatecas,Agave,Tonelada,1494.0,328.0,32219.2,125232629.0,3886.89
+2017,Baja California Sur,Agave,Tonelada,3.0,0.0,0.0,0.0,
+2017,Coahuila,Maguey forrajero,Tonelada,1826.0,1826.0,11673.94,7247615.0,620.84
+2017,Colima,Agave,Tonelada,1.4,0.0,0.0,0.0,
+2017,Durango,Agave,Tonelada,353.0,0.0,0.0,0.0,
+2017,Guanajuato,Agave,Tonelada,13414.0,5069.0,323204.73,1918682370.99,5936.43
+2017,Guanajuato,Maguey pulquero,Miles de lts.,5.0,3.0,75.0,371250.0,4950.0
+2017,Guerrero,Agave,Tonelada,1731.85,378.35,14213.02,34175017.1,2404.49
+2017,Guerrero,Maguey pulquero,Miles de lts.,1.1,1.1,6.74,22279.07,3305.5
+2017,Hidalgo,Maguey,Tonelada,947.0,101.0,1127.0,5658100.0,5020.5
+2017,Hidalgo,Maguey mixiotero,Tonelada,23.0,0.0,0.0,0.0,
+2017,Hidalgo,Maguey pulquero,Miles de lts.,5079.2,1490.8,132312.28,649824975.18,4911.3
+2017,Jalisco,Agave,Tonelada,65807.69,12215.62,1132611.42,11700236367.66,10330.32
+2017,Michoacán,Agave,Tonelada,3522.4,534.5,48877.0,273344613.4,5592.5
+2017,Michoacán,Maguey pulquero,Miles de lts.,4.25,0.0,0.0,0.0,
+2017,Morelos,Agave,Tonelada,63.0,2.0,178.0,685300.0,3850.0
+2017,México,Agave,Tonelada,160.0,160.0,12871.6,53629504.91,4166.5
+2017,México,Maguey pulquero,Miles de lts.,1443.6,243.5,4331.92,16549127.15,3820.28
+2017,Nayarit,Agave,Tonelada,6291.44,1024.5,35398.39,429979833.31,12146.88
+2017,Oaxaca,Agave,Tonelada,8077.73,1390.72,86031.39,227466097.4,2643.99
+2017,Puebla,Agave,Tonelada,670.5,260.5,23646.0,40374885.36,1707.47
+2017,Puebla,Maguey pulquero,Miles de lts.,879.0,328.0,10487.47,53354633.89,5087.46
+2017,Querétaro,Maguey forrajero,Tonelada,231.0,0.0,0.0,0.0,
+2017,Querétaro,Maguey pulquero,Miles de lts.,89.0,0.0,0.0,0.0,
+2017,San Luis Potosí,Maguey pulquero,Miles de lts.,30.0,25.0,419.5,539650.31,1286.41
+2017,Sinaloa,Agave,Tonelada,1630.0,80.0,2840.0,12780000.0,4500.0
+2017,Sonora,Agave,Tonelada,8.0,0.0,0.0,0.0,
+2017,Tamaulipas,Agave,Tonelada,2797.97,598.5,25564.25,153089800.31,5988.43
+2017,Tamaulipas,Henequén,Tonelada,899.0,517.0,7821.18,17193534.63,2198.33
+2017,Tlaxcala,Maguey pulquero,Miles de lts.,509.0,495.0,35446.08,84218019.78,2375.95
+2017,Veracruz,Agave,Tonelada,10.0,0.0,0.0,0.0,
+2017,Veracruz,Maguey pulquero,Miles de lts.,80.0,78.0,1088.1,5453393.99,5011.85
+2017,Yucatán,Henequén,Tonelada,8678.98,5944.86,4991.98,59233796.26,11865.79
+2017,Zacatecas,Agave,Tonelada,1244.0,164.0,16277.76,151939499.0,9334.18
+2018,Baja California Sur,Agave,Tonelada,3.0,0.0,0.0,0.0,
+2018,Coahuila,Maguey forrajero,Tonelada,1835.0,1835.0,10598.4,5984685.55,564.68
+2018,Colima,Agave,Tonelada,1.4,0.0,0.0,0.0,
+2018,Durango,Agave,Tonelada,382.0,33.0,2166.0,26779170.0,12363.42
+2018,Guanajuato,Agave,Tonelada,8573.3,4651.3,329486.83,3563636388.23,10815.72
+2018,Guanajuato,Maguey pulquero,Miles de lts.,4.5,3.0,72.0,405000.0,5625.0
+2018,Guerrero,Agave,Tonelada,1857.8,1128.8,40698.39,121271362.21,2979.76
+2018,Guerrero,Maguey pulquero,Miles de lts.,2.0,2.0,12.36,42024.0,3400.0
+2018,Hidalgo,Maguey,Tonelada,1027.5,128.0,1236.8,6383031.64,5160.92
+2018,Hidalgo,Maguey mixiotero,Tonelada,23.0,0.0,0.0,0.0,
+2018,Hidalgo,Maguey pulquero,Miles de lts.,4892.7,1491.7,119001.98,685874104.31,5763.55
+2018,Jalisco,Agave,Tonelada,67822.76,12123.0,1096946.33,17902253160.23,16320.08
+2018,Michoacán,Agave,Tonelada,6083.5,508.5,40686.19,386246303.25,9493.3
+2018,Michoacán,Maguey pulquero,Miles de lts.,3.25,0.0,0.0,0.0,
+2018,Morelos,Agave,Tonelada,151.0,2.0,182.0,1674400.0,9200.0
+2018,México,Agave,Tonelada,210.0,192.0,15048.4,46236930.98,3072.55
+2018,México,Maguey pulquero,Miles de lts.,1440.71,236.51,4020.77,15392366.86,3828.21
+2018,Nayarit,Agave,Tonelada,7524.89,1392.0,48192.9,627509180.73,13020.78
+2018,Oaxaca,Agave,Tonelada,8100.58,1563.17,97777.74,267004698.69,2730.73
+2018,Puebla,Agave,Tonelada,338.0,306.0,26979.0,46652062.65,1729.2
+2018,Puebla,Maguey pulquero,Miles de lts.,936.3,334.5,11311.34,52290983.22,4622.88
+2018,Querétaro,Maguey pulquero,Miles de lts.,259.0,0.0,0.0,0.0,
+2018,San Luis Potosí,Maguey forrajero,Tonelada,557.27,557.27,17456.76,4872459.52,279.12
+2018,San Luis Potosí,Maguey pulquero,Miles de lts.,41.0,35.0,640.0,826208.0,1290.95
+2018,Sinaloa,Agave,Tonelada,4827.0,40.0,1800.0,34200000.0,19000.0
+2018,Sonora,Agave,Tonelada,18.0,0.0,0.0,0.0,
+2018,Tamaulipas,Agave,Tonelada,2200.31,460.0,11584.98,130457014.7,11260.88
+2018,Tamaulipas,Henequén,Tonelada,892.0,520.0,3580.2,6453561.11,1802.57
+2018,Tlaxcala,Maguey pulquero,Miles de lts.,538.0,524.0,36315.2,108318481.13,2982.73
+2018,Veracruz,Agave,Tonelada,253.0,101.0,9820.0,67727200.0,6896.86
+2018,Veracruz,Maguey pulquero,Miles de lts.,113.0,80.0,1040.0,5569200.0,5355.0
+2018,Yucatán,Henequén,Tonelada,9218.51,6299.35,5427.84,72849577.43,13421.47
+2018,Zacatecas,Agave,Tonelada,1221.5,244.0,21731.52,377301862.75,17361.96
+2019,Baja California Sur,Agave,Tonelada,3.0,0.0,0.0,0.0,
+2019,Coahuila,Maguey forrajero,Tonelada,1815.0,1815.0,9881.66,4963061.06,502.25
+2019,Colima,Agave,Tonelada,1.4,0.0,0.0,0.0,
+2019,Durango,Agave,Tonelada,410.05,33.0,2167.04,14931064.0,6890.07
+2019,Guanajuato,Agave,Tonelada,13745.9,3190.9,237137.63,4059453455.87,17118.55
+2019,Guanajuato,Maguey pulquero,Miles de lts.,4.5,4.5,101.25,717546.6,7086.88
+2019,Guerrero,Agave,Tonelada,1606.0,931.0,36129.38,193932688.67,5367.73
+2019,Guerrero,Maguey pulquero,Miles de lts.,1.0,1.0,65.0,227500.0,3500.0
+2019,Hidalgo,Maguey,Tonelada,1016.0,118.5,1861.75,9407502.96,5053.04
+2019,Hidalgo,Maguey mixiotero,Tonelada,23.0,0.0,0.0,0.0,
+2019,Hidalgo,Maguey pulquero,Miles de lts.,4893.6,1436.1,117099.63,651649794.44,5564.92
+2019,Jalisco,Agave,Tonelada,69737.79,12761.9,1130437.89,23366614859.03,20670.41
+2019,Michoacán,Agave,Tonelada,5524.0,635.0,53602.31,314484371.85,5866.99
+2019,Michoacán,Maguey pulquero,Miles de lts.,3.25,0.0,0.0,0.0,
+2019,Morelos,Agave,Tonelada,339.7,2.0,180.0,1665000.0,9250.0
+2019,México,Agave,Tonelada,369.0,256.0,20369.6,66578105.37,3268.5
+2019,México,Maguey pulquero,Miles de lts.,1539.25,245.6,4228.82,16409208.78,3880.33
+2019,Nayarit,Agave,Tonelada,9798.11,2479.0,85476.71,1252875308.82,14657.51
+2019,Oaxaca,Agave,Tonelada,9843.22,2326.72,149404.21,479500891.32,3209.42
+2019,Puebla,Agave,Tonelada,768.5,254.5,22444.13,43134345.75,1921.85
+2019,Puebla,Maguey pulquero,Miles de lts.,992.9,328.0,10315.46,47568221.37,4611.35
+2019,Querétaro,Maguey pulquero,Miles de lts.,259.0,0.0,0.0,0.0,
+2019,San Luis Potosí,Maguey forrajero,Tonelada,557.27,557.27,17821.62,5575062.2,312.83
+2019,San Luis Potosí,Maguey pulquero,Miles de lts.,34.0,34.0,696.0,871174.08,1251.69
+2019,Sinaloa,Agave,Tonelada,5778.0,914.0,22274.08,333342211.1,14965.48
+2019,Sonora,Agave,Tonelada,26.0,0.0,0.0,0.0,
+2019,Tamaulipas,Agave,Tonelada,1866.28,320.0,13120.0,118080000.0,9000.0
+2019,Tamaulipas,Henequén,Tonelada,882.0,500.0,480.0,6850704.0,14272.3
+2019,Tlaxcala,Maguey pulquero,Miles de lts.,548.0,524.0,37499.41,115565409.88,3081.79
+2019,Veracruz,Agave,Tonelada,13.5,0.0,0.0,0.0,
+2019,Veracruz,Maguey pulquero,Miles de lts.,113.0,110.0,1477.3,7926453.15,5365.5
+2019,Yucatán,Henequén,Tonelada,8936.37,7368.51,6335.02,91073820.94,14376.25
+2019,Zacatecas,Agave,Tonelada,1067.0,161.0,14380.55,213775185.63,14865.58
+2020,Aguascalientes,Agave,Tonelada,8.0,0.0,0.0,0.0,
+2020,Baja California,Agave,Tonelada,1.0,1.0,50.0,579150.0,11583.0
+2020,Colima,Agave,Tonelada,1.4,0.0,0.0,0.0,
+2020,Durango,Agave,Tonelada,453.02,99.02,5785.0,37187000.0,6428.18
+2020,Guanajuato,Agave,Tonelada,15955.2,3471.0,273586.25,4794064335.91,17523.05
+2020,Guanajuato,Maguey pulquero,Miles de lts.,7.0,5.0,122.0,532522.68,4364.94
+2020,Guerrero,Agave,Tonelada,1733.8,1036.3,40848.97,190739259.19,4669.38
+2020,Guerrero,Maguey pulquero,Miles de lts.,1.0,1.0,6.1,21765.41,3568.1
+2020,Hidalgo,Maguey pulquero,Miles de lts.,4858.2,1374.2,111682.95,637662570.99,5709.58
+2020,Jalisco,Agave,Tonelada,73924.52,12995.01,1146833.11,24787901598.79,21614.22
+2020,Michoacán,Agave,Tonelada,5306.3,1139.0,94669.35,970072571.82,10246.96
+2020,Michoacán,Maguey pulquero,Miles de lts.,3.25,0.0,0.0,0.0,
+2020,Morelos,Agave,Tonelada,342.7,15.0,1212.0,10942384.44,9028.37
+2020,México,Agave,Tonelada,369.0,256.0,20403.6,65902070.89,3229.92
+2020,México,Maguey pulquero,Miles de lts.,504.1,260.1,4595.79,17370632.57,3779.68
+2020,Nayarit,Agave,Tonelada,12042.5,2411.0,63829.06,1117166455.07,17502.47
+2020,Oaxaca,Agave,Tonelada,10551.38,2800.05,183513.78,653018368.45,3558.42
+2020,Puebla,Agave,Tonelada,814.5,477.5,40254.64,74614268.93,1853.56
+2020,Puebla,Maguey pulquero,Miles de lts.,983.5,339.5,11103.29,50641746.39,4560.97
+2020,Querétaro,Maguey pulquero,Miles de lts.,259.0,0.0,0.0,0.0,
+2020,San Luis Potosí,Maguey pulquero,Miles de lts.,42.0,42.0,893.0,1171775.14,1312.18
+2020,Sinaloa,Agave,Tonelada,5797.0,933.0,32279.5,488578482.77,15135.88
+2020,Sonora,Agave,Tonelada,72.0,0.0,0.0,0.0,
+2020,Tamaulipas,Agave,Tonelada,1549.28,0.0,0.0,0.0,
+2020,Tlaxcala,Maguey pulquero,Miles de lts.,648.0,524.0,37397.41,105436947.78,2819.36
+2020,Veracruz,Agave,Tonelada,13.5,0.0,0.0,0.0,
+2020,Veracruz,Maguey pulquero,Miles de lts.,115.0,112.0,1422.4,7561734.43,5316.18
+2020,Zacatecas,Agave,Tonelada,1046.5,107.5,9760.7,212863544.0,21808.23
 2021,Aguascalientes,Agave,Tonelada,8.0,0.0,0.0,0.0,
 2021,Baja California,Agave,Tonelada,1.0,1.0,49.0,555905.0,11345.0
 2021,Colima,Agave,Tonelada,1.4,0.0,0.0,0.0,
