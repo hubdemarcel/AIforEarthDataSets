@@ -1,0 +1,248 @@
+<title>Agave Región Valles</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: informe de una columna (≈72ch) con gráficas a todo el ancho del bloque; tabla con scroll propio */
+:root {
+  --papel: #f5f7f6;
+  --superficie: #ffffff;
+  --tinta: #17201f;
+  --tenue: #5b6866;
+  --linea: #d6dedc;
+  --agave: #2f6f73;      /* azul-verde de la penca */
+  --agave-suave: #cfe3e1;
+  --jima: #b0782a;       /* ocre de la piña cocida */
+  --precio: #b4473a;
+  --display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
+  --cuerpo: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+  --datos: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --papel: #111716; --superficie: #18201f; --tinta: #e3ebe9; --tenue: #9aa8a5; --linea: #2c3836;
+    --agave: #6fb8b2; --agave-suave: #24413f; --jima: #d9a352; --precio: #e07a6b; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --papel: #111716; --superficie: #18201f; --tinta: #e3ebe9; --tenue: #9aa8a5; --linea: #2c3836;
+  --agave: #6fb8b2; --agave-suave: #24413f; --jima: #d9a352; --precio: #e07a6b; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--papel); color: var(--tinta); font: 400 1rem/1.6 var(--cuerpo); }
+.hoja { max-width: 60rem; margin: 0 auto; padding-inline: 1.25rem; padding-block: 2.5rem 4rem; display: grid; gap: 2.75rem; }
+header { display: grid; gap: .6rem; }
+.eyebrow { font: 500 .78rem/1 var(--datos); letter-spacing: .08em; text-transform: uppercase; color: var(--agave); }
+h1 { font: 700 clamp(2rem, 5vw, 3.1rem)/1.05 var(--display); margin: 0; text-wrap: balance; letter-spacing: -.01em; }
+h2 { font: 700 1.45rem/1.2 var(--display); margin: 0; text-wrap: balance; }
+h3 { font: 600 1rem/1.3 var(--cuerpo); margin: 0; }
+p { margin: 0; max-width: 68ch; }
+.lead { font-size: 1.12rem; color: var(--tinta); }
+.meta { color: var(--tenue); font-size: .9rem; }
+section { display: grid; gap: 1rem; }
+.cifras { display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: 1px; background: var(--linea); border: 1px solid var(--linea); border-radius: 6px; overflow: hidden; }
+.cifra { background: var(--superficie); padding: 1.1rem 1.2rem; display: grid; gap: .25rem; align-content: start; }
+.cifra .num { font: 500 1.9rem/1.1 var(--datos); font-variant-numeric: tabular-nums; color: var(--agave); }
+.cifra .num.ocre { color: var(--jima); }
+.cifra .num small { font-size: .9rem; color: var(--tenue); margin-left: .25rem; }
+.cifra .lbl { font-size: .9rem; color: var(--tenue); }
+.grafica { background: var(--superficie); border: 1px solid var(--linea); border-radius: 6px; padding: 1rem 1rem .5rem; overflow-x: auto; }
+.grafica svg { display: block; width: 100%; min-width: 34rem; height: auto; }
+.grafica svg text { fill: var(--tenue); font: 400 11px var(--datos); }
+.grafica svg .valor { fill: var(--tinta); font-weight: 500; }
+.leyenda { display: flex; flex-wrap: wrap; gap: .4rem 1.2rem; font-size: .85rem; color: var(--tenue); padding: .4rem .2rem .6rem; }
+.leyenda i { display: inline-block; width: .8rem; height: .8rem; border-radius: 2px; margin-right: .35rem; vertical-align: -.1rem; }
+.tabla { overflow-x: auto; border: 1px solid var(--linea); border-radius: 6px; background: var(--superficie); }
+table { border-collapse: collapse; width: 100%; min-width: 46rem; font-size: .9rem; }
+th, td { padding: .5rem .65rem; text-align: right; border-bottom: 1px solid var(--linea); white-space: nowrap; font-variant-numeric: tabular-nums; }
+th { font: 500 .74rem/1.2 var(--datos); letter-spacing: .04em; text-transform: uppercase; color: var(--tenue); background: var(--superficie); }
+th:first-child, td:first-child { text-align: left; }
+td.num { font-family: var(--datos); }
+td.fuerte { font-weight: 600; color: var(--agave); }
+tr:last-child td { border-bottom: 0; }
+tfoot td { font-weight: 600; border-top: 2px solid var(--linea); }
+.parcial { font: 500 .7rem/1 var(--datos); color: var(--jima); border: 1px solid currentColor; border-radius: 99px; padding: .15rem .4rem; margin-left: .4rem; vertical-align: .1rem; }
+.barrita { display: inline-block; height: .55rem; background: var(--agave); border-radius: 2px; vertical-align: middle; margin-left: .4rem; opacity: .75; }
+figure { margin: 0; display: grid; gap: .5rem; }
+figure img { width: 100%; max-width: 100%; border: 1px solid var(--linea); border-radius: 6px; background: #fff; }
+figcaption { font-size: .85rem; color: var(--tenue); }
+.dos { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: 1.5rem; }
+.dos > * { min-width: 0; }
+ul { margin: 0; padding-left: 1.2rem; display: grid; gap: .45rem; max-width: 68ch; }
+.nota { border-left: 3px solid var(--jima); padding: .2rem 0 .2rem .9rem; color: var(--tinta); }
+footer { color: var(--tenue); font-size: .82rem; border-top: 1px solid var(--linea); padding-top: 1rem; display: grid; gap: .3rem; }
+a { color: var(--agave); }
+a:focus-visible { outline: 2px solid var(--agave); outline-offset: 2px; }
+</style>
+
+<div class="hoja">
+  <header>
+    <span class="eyebrow">Agave azul · Región Valles, Jalisco · imágenes hasta septiembre 2026</span>
+    <h1>Lo que el satélite ve en los campos de agave de Valles</h1>
+    <p class="lead">En los 14 municipios de la región Valles hay unas <strong id="t-pie"></strong> de agave en pie. Más de cuatro quintas partes se plantaron entre 2021 y 2023, así que la mayor parte llegará a edad de jima entre 2027 y 2030.</p>
+    <p class="meta">Estimación propia con Sentinel-2 (2018–2026, 20 m) y reglas de varios años validadas con puntos de referencia en Tequila–Amatitán. Las cifras son superficie, no toneladas.</p>
+  </header>
+
+  <section aria-label="Cifras principales">
+    <div class="cifras">
+      <div class="cifra"><span class="num" id="k-pie"></span><span class="lbl">Agave en pie hoy</span></div>
+      <div class="cifra"><span class="num" id="k-ola"></span><span class="lbl">Plantado en 2021–2023</span></div>
+      <div class="cifra"><span class="num" id="k-llega"></span><span class="lbl">Llega a edad de jima en 2027–2030</span></div>
+      <div class="cifra"><span class="num ocre" id="k-jima"></span><span class="lbl">Cosechado en 2025–2026 y sin replantar</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Calendario de jima: cuándo llega este agave a edad de cosecha</h2>
+    <p>Cada hectárea se reparte por igual entre los 6 y 7 años después de su establecimiento, la edad típica de jima del agave azul. La ola de 2021–2023 se convierte en una oferta potencial varias veces mayor que la de 2024–2026.</p>
+    <div class="grafica" id="g-calendario" role="img" aria-label="Hectáreas que llegan a edad de jima por año, 2024 a 2031"></div>
+  </section>
+
+  <section>
+    <h2>Por municipio</h2>
+    <p>Hectáreas de agave en pie y año en que se estableció. Los municipios marcados como parciales todavía no tienen procesada toda su superficie; sus cifras subirán cuando se complete el mosaico del noroeste.</p>
+    <div class="tabla">
+      <table>
+        <thead><tr><th>Municipio</th><th>Agave en pie (ha)</th><th>2018</th><th>2019</th><th>2020</th><th>2021</th><th>2022</th><th>2023</th><th>2024*</th><th>Jima 25–26</th></tr></thead>
+        <tbody id="t-filas"></tbody>
+        <tfoot id="t-total"></tfoot>
+      </table>
+    </div>
+    <p class="meta">* Las plantaciones de 2024 en adelante necesitan unos dos años de crecimiento para confirmarse; la cifra de 2024 está subestimada.</p>
+  </section>
+
+  <section class="dos">
+    <figure>
+      <img alt="Mapa de la región Valles con el agave en pie coloreado por año de establecimiento" src="data:image/jpeg;base64,__MAPA__">
+      <figcaption>Agave en pie por año de establecimiento (morado: 2018, amarillo: 2024). El blanco al noroeste es la parte que falta procesar.</figcaption>
+    </figure>
+    <div style="display:grid;gap:1rem;align-content:start">
+      <h2>Dónde se concentra</h2>
+      <p>El núcleo es el corredor Tequila–Amatitán–El Arenal, seguido de Ameca y Teuchitlán. Tequila, Ameca y Amatitán suman casi la mitad del agave en pie de la región.</p>
+      <p>En todos los municipios se repite el mismo patrón: siembra modesta en 2018–2020 y una ola en 2021–2023, años en que el agave rondaba los 30 pesos por kilo.</p>
+      <p class="nota">En septiembre de 2026 la SADER reconoció que el cultivo de agave en Jalisco creció 92% y provocó sobreproducción. Lo que muestran estos mapas es esa misma ola, predio por predio.</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>Treinta años de siembra y precio</h2>
+    <p>En la zona piloto Tequila–Amatitán unimos Landsat (1993–2017) con Sentinel-2 (2018–2026). Se planta cuando el precio está alto y, unos años después, el precio cae. Los precios son aproximados, tomados de prensa.</p>
+    <div class="grafica" id="g-historia" role="img" aria-label="Hectáreas plantadas por año 1993 a 2024 y precio aproximado del agave"></div>
+    <div class="leyenda"><span><i style="background:var(--agave)"></i>Hectáreas plantadas por año (zona piloto)</span><span><i style="background:var(--precio)"></i>Precio del agave, pesos/kg (prensa)</span></div>
+  </section>
+
+  <section>
+    <h2>Qué tan confiable es</h2>
+    <ul>
+      <li>Las reglas reconocen los 12 agaves de referencia verificados en Tequila–Amatitán, además de maíz, bosque, agua y una jima conocida. Fuera de esa zona todavía no hay puntos de verificación.</li>
+      <li>Las hectáreas por municipio son una estimación. Falta compararlas con SIAP o con el inventario del CRT.</li>
+      <li>El calendario de jima supone 6–7 años. Si se cosecha antes por necesidad de liquidez, la oferta se adelanta.</li>
+      <li>Superficie no es volumen: el rendimiento por hectárea y la mortandad no se estiman aquí.</li>
+      <li>Magdalena, Hostotipaquillo, San Marcos, Etzatlán y San Juanito de Escobedo tienen cobertura parcial.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Siguientes pasos</h2>
+    <ul>
+      <li>Completar el mosaico del noroeste (13QED) en la corrida automática de esta noche y seguir hacia Los Altos.</li>
+      <li>Verificar 20–40 puntos fuera de Tequila, sobre todo en Ameca, Tala y Cocula.</li>
+      <li>Integrar la serie de precios de las 8 destilerías y los datos de demanda del CRT para construir y validar el modelo de precios.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <span>Datos: Sentinel-2 L2A (ESA/Copernicus, vía AWS Open Data), Landsat 5/7/8 (USGS, vía Google Cloud), Copernicus DEM, límites municipales de geoBoundaries. Precios de referencia: notas de prensa (La Jornada, El Financiero, Zócalo, El Informador).</span>
+    <span>Código y tablas: rama claude/cloud-credit-session-8fee9m del repositorio hubdemarcel/AIforEarthDataSets.</span>
+  </footer>
+</div>
+
+<script>
+const D = __DATOS__;
+const fmt = n => Math.round(n).toLocaleString("es-MX");
+const ha = n => fmt(n) + " ha";
+const R = D.resumen, P = R.plantado_por_anio, L = R.llega_a_jima_por_anio, J = R.jima_reciente_ha;
+const ola = (P["2021"]||0) + (P["2022"]||0) + (P["2023"]||0);
+const llega = [2027,2028,2029,2030].reduce((s,a) => s + (L[a]||0), 0);
+const jima = (J.jima_2025||0) + (J.jima_2026||0);
+document.getElementById("t-pie").textContent = ha(R.agave_en_pie_ha);
+document.getElementById("k-pie").innerHTML = fmt(R.agave_en_pie_ha) + "<small>ha</small>";
+document.getElementById("k-ola").innerHTML = fmt(ola) + "<small>ha</small>";
+document.getElementById("k-llega").innerHTML = fmt(llega) + "<small>ha</small>";
+document.getElementById("k-jima").innerHTML = fmt(jima) + "<small>ha</small>";
+
+// Tabla por municipio
+const maxPie = Math.max(...D.filas.map(f => f.pie));
+const tb = document.getElementById("t-filas");
+D.filas.forEach(f => {
+  const tr = document.createElement("tr");
+  const parcial = f.cob < 95 ? `<span class="parcial">${Math.round(f.cob)}% cubierto</span>` : "";
+  tr.innerHTML = `<td>${f.m}${parcial}</td><td class="num fuerte">${fmt(f.pie)}<span class="barrita" style="width:${(3.5*f.pie/maxPie).toFixed(2)}rem"></span></td>` +
+    f.p.map(v => `<td class="num">${fmt(v)}</td>`).join("") + `<td class="num">${fmt(f.jima)}</td>`;
+  tb.appendChild(tr);
+});
+const tot = k => D.filas.reduce((s,f) => s + (typeof k === "function" ? k(f) : f[k]), 0);
+document.getElementById("t-total").innerHTML = `<tr><td>Región Valles</td><td class="num">${fmt(tot("pie"))}</td>` +
+  [0,1,2,3,4,5,6].map(i => `<td class="num">${fmt(tot(f => f.p[i]))}</td>`).join("") + `<td class="num">${fmt(tot("jima"))}</td></tr>`;
+
+// Gráficas SVG
+const NS = "http://www.w3.org/2000/svg";
+function el(tag, attrs, parent, text) {
+  const e = document.createElementNS(NS, tag);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (text !== undefined) e.textContent = text;
+  parent.appendChild(e); return e;
+}
+function ejeY(svg, x, y0, y1, max, paso, fmtFn, anchor) {
+  for (let v = 0; v <= max + 1e-9; v += paso) {
+    const y = y0 - (y0 - y1) * v / max;
+    if (anchor === "end") el("line", {x1: x, x2: svg.dataset.w - 50, y1: y, y2: y, stroke: "var(--linea)", "stroke-width": 1}, svg);
+    el("text", {x: anchor === "end" ? x - 6 : x + 6, y: y + 4, "text-anchor": anchor}, svg, fmtFn(v));
+  }
+}
+
+(function calendario() {
+  const anios = Object.keys(L).map(Number).sort((a,b) => a-b);
+  const W = 760, H = 300, m = {l: 60, r: 20, t: 24, b: 34};
+  const svg = el("svg", {viewBox: `0 0 ${W} ${H}`}, document.getElementById("g-calendario"));
+  svg.dataset.w = W + 30;
+  const max = Math.ceil(Math.max(...anios.map(a => L[a])) / 2000) * 2000;
+  const y = v => H - m.b - (H - m.t - m.b) * v / max;
+  for (let v = 0; v <= max; v += 2000) {
+    el("line", {x1: m.l, x2: W - m.r, y1: y(v), y2: y(v), stroke: "var(--linea)"}, svg);
+    el("text", {x: m.l - 8, y: y(v) + 4, "text-anchor": "end"}, svg, fmt(v));
+  }
+  const bw = (W - m.l - m.r) / anios.length;
+  anios.forEach((a, i) => {
+    const x = m.l + i * bw + bw * .18, w = bw * .64, v = L[a];
+    const pasado = a <= 2026;
+    el("rect", {x, y: y(v), width: w, height: y(0) - y(v), rx: 2, fill: pasado ? "var(--agave-suave)" : "var(--agave)"}, svg);
+    el("text", {x: x + w/2, y: y(v) - 6, "text-anchor": "middle", class: "valor"}, svg, fmt(v));
+    el("text", {x: x + w/2, y: H - m.b + 18, "text-anchor": "middle"}, svg, a);
+  });
+  el("text", {x: m.l, y: 14}, svg, "Hectáreas que cumplen 6–7 años");
+})();
+
+(function historia() {
+  const W = 780, H = 320, m = {l: 56, r: 50, t: 24, b: 34};
+  const svg = el("svg", {viewBox: `0 0 ${W} ${H}`}, document.getElementById("g-historia"));
+  const a0 = 1993, a1 = 2026;
+  const x = a => m.l + (W - m.l - m.r) * (a - a0 + .5) / (a1 - a0 + 1);
+  const maxH = 3000, maxP = 35;
+  const yH = v => H - m.b - (H - m.t - m.b) * v / maxH;
+  const yP = v => H - m.b - (H - m.t - m.b) * v / maxP;
+  for (let v = 0; v <= maxH; v += 500) {
+    el("line", {x1: m.l, x2: W - m.r, y1: yH(v), y2: yH(v), stroke: "var(--linea)"}, svg);
+    el("text", {x: m.l - 8, y: yH(v) + 4, "text-anchor": "end"}, svg, fmt(v));
+  }
+  for (let v = 0; v <= maxP; v += 5) el("text", {x: W - m.r + 8, y: yP(v) + 4, fill: "var(--precio)"}, svg, "$" + v);
+  const bw = (W - m.l - m.r) / (a1 - a0 + 1) * .7;
+  D.hist.forEach(([a, h]) => el("rect", {x: x(a) - bw/2, y: yH(h), width: bw, height: yH(0) - yH(h), rx: 1.5, fill: "var(--agave)", opacity: .85}, svg));
+  for (let a = 1995; a <= 2025; a += 5) el("text", {x: x(a), y: H - m.b + 18, "text-anchor": "middle"}, svg, a);
+  const pts = D.precios.map(([a, lo, hi, ref]) => [x(a), yP(ref), yP(lo), yP(hi)]);
+  D.precios.forEach(([a, lo, hi], i) => { if (hi > lo) el("line", {x1: pts[i][0], x2: pts[i][0], y1: pts[i][2], y2: pts[i][3], stroke: "var(--precio)", "stroke-width": 2, opacity: .45}, svg); });
+  el("polyline", {points: pts.map(p => p[0] + "," + p[1]).join(" "), fill: "none", stroke: "var(--precio)", "stroke-width": 2, "stroke-dasharray": "5 4"}, svg);
+  pts.forEach(p => el("circle", {cx: p[0], cy: p[1], r: 4, fill: "var(--precio)"}, svg));
+  el("text", {x: m.l, y: 14}, svg, "Hectáreas plantadas por año");
+  el("text", {x: W - m.r + 8, y: 14, "text-anchor": "end", fill: "var(--precio)"}, svg, "Pesos/kg");
+})();
+</script>
