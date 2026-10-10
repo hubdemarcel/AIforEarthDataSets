@@ -1,0 +1,52 @@
+# Cola de mosaicos Sentinel-2 (MGRS) para procesar, en orden de prioridad.
+# Un mosaico se considera hecho cuando existe resultados/mosaicos/<ID>/uso_suelo.tif.
+# Las líneas que empiezan con # se ignoran; se puede reordenar libremente.
+
+# Región Valles (alrededor de Tequila)
+13QFD
+13QFC
+13QEC
+13QED
+# Hacia Los Altos y zona metropolitana
+13QGD
+13QGC
+# Los Altos de Jalisco
+13QHC
+13QHD
+14QJH
+14QJJ
+# Sur y Ciénega
+13QFB
+13QGB
+13QEB
+13QHB
+14QJG
+# Norte de Valles y Altos
+13QFE
+13QGE
+13QEE
+13QHE
+14QJK
+# Resto de Jalisco (costa, sur, norte)
+13QDB
+13QDC
+13QDD
+13QEA
+13QFA
+13QGA
+13QHA
+14QJF
+14QKF
+14QKG
+14QKH
+14QKJ
+13QDA
+13QDE
+13QDF
+13QEF
+13QFF
+13QGF
+13QHF
+14QJL
+14QKK
+14QKL
