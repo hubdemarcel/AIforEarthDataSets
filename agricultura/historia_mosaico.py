@@ -26,6 +26,7 @@ from .municipios import LADO_PROPIO, MUNICIPIOS
 
 AMPLITUD_LANDSAT = 1.15  # Landsat TOA subestima la amplitud ~15 % frente a Sentinel-2 (calibrado en 2018–2021)
 SIN_DATO = -32768
+CULTIVO_ANUAL = 6  # clase de referencia estable para homologar años (campos de temporal en secas)
 
 
 def _entero(a):
@@ -85,6 +86,32 @@ def s2_a_rejilla(npz, x, y, crs):
     return list(z["anios"]), salida["secas"], salida["amplitud"], (sx[0] - res_s / 2, sy[0] + res_s / 2)
 
 
+def homologar(secas, amp, anios, referencia, anios_ref):
+    """Ajusta cada año para que los campos de cultivo anual tengan el nivel de los años de referencia.
+
+    Corrige saltos entre sensores (Landsat 5/7 contra 8, Landsat contra Sentinel-2) y
+    años muy secos o lluviosos: verdor de secas con un desplazamiento aditivo y amplitud
+    con un factor, ambos calculados con la mediana de los pixeles de referencia.
+    """
+    ref = referencia[::3, ::3]
+    med = lambda a: np.nanmedian(_flotante(a[::3, ::3])[ref])
+    en_ref = [i for i, a in enumerate(anios) if a in anios_ref]
+    s_ref = np.nanmedian([med(secas[i]) for i in en_ref])
+    a_ref = np.nanmedian([med(amp[i]) for i in en_ref])
+    ajustes = []
+    for i, a in enumerate(anios):
+        if a in anios_ref:
+            continue
+        ds, fa = s_ref - med(secas[i]), a_ref / med(amp[i])
+        if not (np.isfinite(ds) and np.isfinite(fa)):
+            continue
+        s = _flotante(secas[i]) + ds
+        secas[i] = _entero(s)
+        amp[i] = _entero(_flotante(amp[i]) * fa)
+        ajustes.append((int(a), round(float(ds), 3), round(float(fa), 2)))
+    return ajustes
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--mosaico", type=Path, required=True, help="carpeta del mosaico (con landsat_mensual/ y metricas_anuales.npz)")
@@ -103,6 +130,18 @@ def main(argv=None):
     amp = np.concatenate([aml, am2])
     del sl, aml, s2, am2
 
+    import rioxarray
+    uso = rioxarray.open_rasterio(m / "uso_suelo.tif").squeeze("band", drop=True)
+    res = float(x[1] - x[0])
+    clase = np.zeros((len(y), len(x)), "uint8")
+    reproject(uso.values, clase, src_transform=uso.rio.transform(), src_crs=uso.rio.crs,
+              dst_transform=from_origin(x[0] - res / 2, y[0] + res / 2, res, res),
+              dst_crs=CRS.from_user_input(crs), resampling=Resampling.nearest)
+    ajustes = homologar(secas, amp, anios, clase == CULTIVO_ANUAL, set(a2))
+    pd.DataFrame(ajustes, columns=["anio", "desplazamiento_secas", "factor_amplitud"]).to_csv(
+        m / "homologacion_landsat.csv", index=False)
+    print("Ajustes por año (año, +secas, ×amplitud):", ajustes, flush=True)
+
     print("Detectando plantaciones...", flush=True)
     alto, ancho = len(y), len(x)
     evento = np.zeros((len(anios), alto, ancho), bool)
@@ -115,7 +154,6 @@ def main(argv=None):
     # Solo el cuadro propio de 100 km del mosaico (para no contar dos veces al unir mosaicos)
     propio = (y[:, None] > ytop_s2 - LADO_PROPIO) & (x[None, :] < x0_s2 + LADO_PROPIO)
     mun = gpd.read_file(MUNICIPIOS).reset_index(drop=True)
-    res = float(x[1] - x[0])
     ids = rasterize(zip(mun.to_crs(crs).geometry, mun.index + 1), out_shape=(alto, ancho),
                     transform=from_origin(x[0] - res / 2, y[0] + res / 2, res, res), fill=0, dtype="int32")
     ha = res * res / 10_000
