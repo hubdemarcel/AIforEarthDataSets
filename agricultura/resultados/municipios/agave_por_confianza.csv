@@ -1,74 +1,188 @@
 municipio,estado,baja,media,alta,conservador_alta,intermedio_alta_media,amplio_todo
-Tequila,Jalisco,232.0,1890.0,3695.0,3695.0,5585.0,5817.0
+Pénjamo,Guanajuato,427.0,3163.0,11191.0,11191.0,14354.0,14781.0
+Arandas,Jalisco,260.0,2793.0,8850.0,8850.0,11643.0,11903.0
+Tepatitlán de Morelos,Jalisco,331.0,2586.0,7930.0,7930.0,10516.0,10847.0
+Atotonilco el Alto,Jalisco,187.0,2262.0,8251.0,8251.0,10513.0,10700.0
+Romita,Guanajuato,108.0,1274.0,7424.0,7424.0,8698.0,8806.0
+La Barca,Jalisco,161.0,1150.0,6455.0,6455.0,7605.0,7766.0
+Manuel Doblado,Guanajuato,161.0,1334.0,5873.0,5873.0,7207.0,7368.0
+Abasolo,Guanajuato,255.0,1392.0,5438.0,5438.0,6830.0,7085.0
+Jesús María,Jalisco,100.0,1246.0,5118.0,5118.0,6364.0,6464.0
+Tequila,Jalisco,232.0,1891.0,3697.0,3697.0,5588.0,5820.0
+Santa María del Oro,Nayarit,247.0,1677.0,3475.0,3475.0,5152.0,5399.0
+Ayotlán,Jalisco,127.0,1076.0,3225.0,3225.0,4301.0,4428.0
+Cuitzeo,Michoacan de Ocampo,208.0,556.0,3615.0,3615.0,4171.0,4379.0
+Zapotlanejo,Jalisco,170.0,1075.0,2972.0,2972.0,4047.0,4217.0
+San Pedro Lagunillas,Nayarit,182.0,1439.0,2414.0,2414.0,3853.0,4035.0
 Ameca,Jalisco,151.0,1209.0,2569.0,2569.0,3778.0,3929.0
+Irapuato,Guanajuato,325.0,1224.0,2316.0,2316.0,3540.0,3865.0
 Zacoalco de Torres,Jalisco,62.0,715.0,3085.0,3085.0,3800.0,3862.0
+San Diego de Alejandría,Jalisco,41.0,536.0,3228.0,3228.0,3764.0,3805.0
+Tototlán,Jalisco,123.0,886.0,2770.0,2770.0,3656.0,3779.0
+San Miguel el Alto,Jalisco,85.0,776.0,2802.0,2802.0,3578.0,3663.0
+Unión de San Antonio,Jalisco,52.0,653.0,2924.0,2924.0,3577.0,3629.0
+Ocotlán,Jalisco,75.0,707.0,2819.0,2819.0,3526.0,3601.0
 Tlajomulco de Zúñiga,Jalisco,81.0,771.0,2728.0,2728.0,3499.0,3580.0
+Lagos de Moreno,Jalisco,366.0,1309.0,1829.0,1829.0,3138.0,3504.0
 Amatitán,Jalisco,120.0,1190.0,2153.0,2153.0,3343.0,3463.0
+Valle de Santiago,Guanajuato,556.0,1364.0,1541.0,1541.0,2905.0,3461.0
+Salamanca,Guanajuato,647.0,1085.0,1699.0,1699.0,2784.0,3431.0
+Encarnación de Díaz,Jalisco,65.0,779.0,2477.0,2477.0,3256.0,3321.0
+San Felipe,Guanajuato,146.0,1022.0,2100.0,2100.0,3122.0,3268.0
+San Francisco del Rincón,Guanajuato,98.0,681.0,2477.0,2477.0,3158.0,3256.0
+San Ignacio Cerro Gordo,Jalisco,72.0,694.0,2349.0,2349.0,3043.0,3115.0
+Tepic,Nayarit,262.0,1224.0,1539.0,1539.0,2763.0,3025.0
+Cuerámaro,Guanajuato,76.0,690.0,2225.0,2225.0,2915.0,2991.0
+Hostotipaquillo,Jalisco,214.0,1271.0,1487.0,1487.0,2758.0,2972.0
 Zapopan,Jalisco,62.0,746.0,2062.0,2062.0,2808.0,2870.0
 Teocuitatlán de Corona,Jalisco,79.0,560.0,2091.0,2091.0,2651.0,2730.0
+La Piedad,Michoacan de Ocampo,94.0,639.0,1972.0,1972.0,2611.0,2705.0
+Poncitlán,Jalisco,67.0,541.0,2054.0,2054.0,2595.0,2662.0
+Jamay,Jalisco,63.0,502.0,1989.0,1989.0,2491.0,2554.0
+Degollado,Jalisco,54.0,585.0,1860.0,1860.0,2445.0,2499.0
+Acatic,Jalisco,105.0,503.0,1805.0,1805.0,2308.0,2413.0
+Venustiano Carranza,Michoacan de Ocampo,122.0,732.0,1540.0,1540.0,2272.0,2394.0
+Purísima del Rincón,Guanajuato,41.0,442.0,1815.0,1815.0,2257.0,2298.0
+Cuquío,Jalisco,83.0,668.0,1492.0,1492.0,2160.0,2243.0
+Zapotlán del Rey,Jalisco,101.0,577.0,1558.0,1558.0,2135.0,2236.0
 Villa Corona,Jalisco,81.0,585.0,1556.0,1556.0,2141.0,2222.0
+Vista Hermosa,Michoacan de Ocampo,112.0,548.0,1542.0,1542.0,2090.0,2202.0
 Teuchitlán,Jalisco,71.0,597.0,1529.0,1529.0,2126.0,2197.0
 San Martín Hidalgo,Jalisco,75.0,589.0,1464.0,1464.0,2053.0,2128.0
+Amatlán de Cañas,Nayarit,79.0,594.0,1433.0,1433.0,2027.0,2106.0
+León,Guanajuato,120.0,612.0,1364.0,1364.0,1976.0,2096.0
+Silao de la Victoria,Guanajuato,97.0,525.0,1474.0,1474.0,1999.0,2096.0
+Magdalena,Jalisco,120.0,779.0,1175.0,1175.0,1954.0,2074.0
+San Juanito de Escobedo,Jalisco,96.0,720.0,1190.0,1190.0,1910.0,2006.0
 Ixtlahuacán del Río,Jalisco,65.0,505.0,1425.0,1425.0,1930.0,1995.0
 Ahualulco de Mercado,Jalisco,71.0,657.0,1246.0,1246.0,1903.0,1974.0
+Ixtlán del Río,Nayarit,64.0,599.0,1255.0,1255.0,1854.0,1918.0
+Tanhuato,Michoacan de Ocampo,63.0,456.0,1395.0,1395.0,1851.0,1914.0
+Huanímaro,Guanajuato,96.0,426.0,1357.0,1357.0,1783.0,1879.0
+Churintzio,Michoacan de Ocampo,24.0,416.0,1413.0,1413.0,1829.0,1853.0
 Tala,Jalisco,87.0,639.0,1084.0,1084.0,1723.0,1810.0
-San Juanito de Escobedo,Jalisco,63.0,593.0,1029.0,1029.0,1622.0,1685.0
+Ahuacatlán,Nayarit,75.0,637.0,1055.0,1055.0,1692.0,1767.0
+Guanajuato,Guanajuato,119.0,415.0,1222.0,1222.0,1637.0,1756.0
 Atoyac,Jalisco,47.0,547.0,1050.0,1050.0,1597.0,1644.0
 El Arenal,Jalisco,51.0,484.0,1073.0,1073.0,1557.0,1608.0
 Juchitlán,Jalisco,27.0,350.0,1229.0,1229.0,1579.0,1606.0
+Teocaltiche,Jalisco,36.0,473.0,1086.0,1086.0,1559.0,1595.0
+Yahualica de González Gallo,Jalisco,31.0,416.0,1140.0,1140.0,1556.0,1587.0
+San Juan de los Lagos,Jalisco,64.0,461.0,1045.0,1045.0,1506.0,1570.0
 Cocula,Jalisco,70.0,458.0,987.0,987.0,1445.0,1515.0
-Magdalena,Jalisco,64.0,501.0,871.0,871.0,1372.0,1436.0
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,51.0,405.0,1041.0,1041.0,1446.0,1497.0
+San Julián,Jalisco,68.0,422.0,987.0,987.0,1409.0,1477.0
+Yuriria,Guanajuato,87.0,598.0,740.0,740.0,1338.0,1425.0
+Ecuandureo,Michoacan de Ocampo,78.0,350.0,975.0,975.0,1325.0,1403.0
 Ixtlahuacán de los Membrillos,Jalisco,50.0,434.0,892.0,892.0,1326.0,1376.0
 Tecolotlán,Jalisco,58.0,402.0,909.0,909.0,1311.0,1369.0
+Zamora,Michoacan de Ocampo,82.0,409.0,867.0,867.0,1276.0,1358.0
+Etzatlán,Jalisco,64.0,461.0,831.0,831.0,1292.0,1356.0
+Yurécuaro,Michoacan de Ocampo,48.0,340.0,899.0,899.0,1239.0,1287.0
 Acatlán de Juárez,Jalisco,50.0,370.0,849.0,849.0,1219.0,1269.0
-Zapotlanejo,Jalisco,49.0,320.0,831.0,831.0,1151.0,1200.0
+Guachinango,Jalisco,51.0,366.0,722.0,722.0,1088.0,1139.0
+Jalostotitlán,Jalisco,46.0,277.0,812.0,812.0,1089.0,1135.0
+Xalisco,Nayarit,99.0,572.0,453.0,453.0,1025.0,1124.0
 Tenamaxtlán,Jalisco,25.0,295.0,804.0,804.0,1099.0,1124.0
+José Sixto Verduzco,Michoacan de Ocampo,205.0,382.0,501.0,501.0,883.0,1088.0
 San Cristóbal de la Barranca,Jalisco,32.0,377.0,675.0,675.0,1052.0,1084.0
 Amacueca,Jalisco,20.0,328.0,734.0,734.0,1062.0,1082.0
-Mascota,Jalisco,38.0,348.0,483.0,483.0,831.0,869.0
-Guachinango,Jalisco,31.0,240.0,585.0,585.0,825.0,856.0
-Hostotipaquillo,Jalisco,79.0,388.0,382.0,382.0,770.0,849.0
+Villamar,Michoacan de Ocampo,65.0,375.0,626.0,626.0,1001.0,1066.0
+Penjamillo,Michoacan de Ocampo,35.0,417.0,515.0,515.0,932.0,967.0
+Jiménez,Michoacan de Ocampo,20.0,302.0,622.0,622.0,924.0,944.0
+Cojumatlán de Régules,Michoacan de Ocampo,35.0,327.0,579.0,579.0,906.0,941.0
+Zináparo,Michoacan de Ocampo,8.0,180.0,741.0,741.0,921.0,929.0
+La Yesca,Nayarit,64.0,476.0,344.0,344.0,820.0,884.0
+Mascota,Jalisco,39.0,352.0,491.0,491.0,843.0,882.0
+Salvatierra,Guanajuato,97.0,378.0,399.0,399.0,777.0,874.0
+Cañadas de Obregón,Jalisco,17.0,186.0,656.0,656.0,842.0,859.0
+Jaral del Progreso,Guanajuato,207.0,326.0,324.0,324.0,650.0,857.0
+Álvaro Obregón,Michoacan de Ocampo,260.0,196.0,399.0,399.0,595.0,855.0
+Angamacutiro,Michoacan de Ocampo,50.0,231.0,558.0,558.0,789.0,839.0
+Puruándiro,Michoacan de Ocampo,25.0,440.0,372.0,372.0,812.0,837.0
+Santa Cruz de Juventino Rosas,Guanajuato,38.0,218.0,577.0,577.0,795.0,833.0
 Concepción de Buenos Aires,Jalisco,28.0,436.0,369.0,369.0,805.0,833.0
+Pajacuarán,Michoacan de Ocampo,65.0,304.0,456.0,456.0,760.0,825.0
 Juanacatlán,Jalisco,33.0,262.0,529.0,529.0,791.0,824.0
-Etzatlán,Jalisco,35.0,269.0,518.0,518.0,787.0,822.0
+Zinapécuaro,Michoacan de Ocampo,2.0,94.0,727.0,727.0,821.0,823.0
+Purépero,Michoacan de Ocampo,24.0,449.0,332.0,332.0,781.0,805.0
+Copándaro,Michoacan de Ocampo,11.0,121.0,670.0,670.0,791.0,802.0
+San Marcos,Jalisco,30.0,317.0,448.0,448.0,765.0,795.0
+Jiquilpan,Michoacan de Ocampo,29.0,280.0,453.0,453.0,733.0,762.0
+San Sebastián del Oeste,Jalisco,25.0,244.0,482.0,482.0,726.0,751.0
+Cortazar,Guanajuato,79.0,222.0,425.0,425.0,647.0,726.0
+Tizapán el Alto,Jalisco,24.0,188.0,514.0,514.0,702.0,726.0
+Villagrán,Guanajuato,102.0,228.0,396.0,396.0,624.0,726.0
 Tapalpa,Jalisco,23.0,313.0,389.0,389.0,702.0,725.0
+Panindícuaro,Michoacan de Ocampo,25.0,316.0,365.0,365.0,681.0,706.0
+Chucándiro,Michoacan de Ocampo,16.0,291.0,396.0,396.0,687.0,703.0
+Numarán,Michoacan de Ocampo,14.0,137.0,542.0,542.0,679.0,693.0
 Atengo,Jalisco,26.0,175.0,488.0,488.0,663.0,689.0
+Sahuayo,Michoacan de Ocampo,24.0,231.0,415.0,415.0,646.0,670.0
 Jocotepec,Jalisco,38.0,228.0,402.0,402.0,630.0,668.0
+Compostela,Nayarit,58.0,284.0,298.0,298.0,582.0,640.0
+Briseñas,Michoacan de Ocampo,39.0,172.0,424.0,424.0,596.0,635.0
 Unión de Tula,Jalisco,28.0,182.0,400.0,400.0,582.0,610.0
+Chapala,Jalisco,20.0,172.0,404.0,404.0,576.0,596.0
+Zacapu,Michoacan de Ocampo,17.0,264.0,296.0,296.0,560.0,577.0
+Valle de Guadalupe,Jalisco,22.0,152.0,396.0,396.0,548.0,570.0
 Ayutla,Jalisco,20.0,106.0,429.0,429.0,535.0,555.0
-Amatlán de Cañas,Nayarit,25.0,150.0,367.0,367.0,517.0,542.0
-Cuquío,Jalisco,23.0,166.0,342.0,342.0,508.0,531.0
+Mexticacán,Jalisco,11.0,153.0,385.0,385.0,538.0,549.0
+Pueblo Nuevo,Guanajuato,114.0,153.0,280.0,280.0,433.0,547.0
+Mazamitla,Jalisco,16.0,249.0,250.0,250.0,499.0,515.0
+Ixtlán,Michoacan de Ocampo,63.0,157.0,286.0,286.0,443.0,506.0
 Sayula,Jalisco,14.0,150.0,340.0,340.0,490.0,504.0
-La Yesca,Nayarit,32.0,223.0,194.0,194.0,417.0,449.0
-Chapala,Jalisco,17.0,149.0,280.0,280.0,429.0,446.0
+Tangancícuaro,Michoacan de Ocampo,21.0,130.0,303.0,303.0,433.0,454.0
+Tlazazalca,Michoacan de Ocampo,9.0,233.0,173.0,173.0,406.0,415.0
+Jala,Nayarit,20.0,198.0,195.0,195.0,393.0,413.0
+Ocampo,Guanajuato,8.0,129.0,269.0,269.0,398.0,406.0
+Jacona,Michoacan de Ocampo,21.0,113.0,245.0,245.0,358.0,379.0
+Morelos,Michoacan de Ocampo,3.0,128.0,246.0,246.0,374.0,377.0
+San Diego de la Unión,Guanajuato,10.0,85.0,273.0,273.0,358.0,368.0
 Mixtlán,Jalisco,10.0,167.0,183.0,183.0,350.0,360.0
-San Marcos,Jalisco,11.0,119.0,200.0,200.0,319.0,330.0
+Santa Ana Maya,Michoacan de Ocampo,29.0,70.0,231.0,231.0,301.0,330.0
+Acámbaro,Guanajuato,18.0,52.0,256.0,256.0,308.0,326.0
 Gómez Farías,Jalisco,7.0,182.0,119.0,119.0,301.0,308.0
 San Pedro Tlaquepaque,Jalisco,5.0,77.0,223.0,223.0,300.0,305.0
 Techaluta de Montenegro,Jalisco,6.0,98.0,193.0,193.0,291.0,297.0
+Tangamandapio,Michoacan de Ocampo,17.0,119.0,160.0,160.0,279.0,296.0
+Chavinda,Michoacan de Ocampo,20.0,88.0,184.0,184.0,272.0,292.0
 Tonalá,Jalisco,10.0,96.0,178.0,178.0,274.0,284.0
+Marcos Castellanos,Michoacan de Ocampo,17.0,139.0,119.0,119.0,258.0,275.0
 Talpa de Allende,Jalisco,11.0,118.0,142.0,142.0,260.0,271.0
 San Martín de Bolaños,Jalisco,9.0,128.0,129.0,129.0,257.0,266.0
 Cuautla,Jalisco,6.0,163.0,97.0,97.0,260.0,266.0
 Tuxcueca,Jalisco,15.0,102.0,145.0,145.0,247.0,262.0
-Mazamitla,Jalisco,3.0,106.0,140.0,140.0,246.0,249.0
 Guadalajara,Jalisco,2.0,27.0,219.0,219.0,246.0,248.0
 El Salto,Jalisco,12.0,71.0,137.0,137.0,208.0,220.0
+Huaniqueo,Michoacan de Ocampo,3.0,76.0,138.0,138.0,214.0,217.0
+Quitupan,Jalisco,10.0,67.0,136.0,136.0,203.0,213.0
 Atenguillo,Jalisco,10.0,100.0,91.0,91.0,191.0,201.0
+Santiago Maravatío,Guanajuato,19.0,95.0,86.0,86.0,181.0,200.0
+Villa Hidalgo,Jalisco,8.0,86.0,105.0,105.0,191.0,199.0
+Moroleón,Guanajuato,5.0,90.0,79.0,79.0,169.0,174.0
+La Manzanilla de la Paz,Jalisco,11.0,88.0,75.0,75.0,163.0,174.0
 Atemajac de Brizuela,Jalisco,8.0,81.0,78.0,78.0,159.0,167.0
+Chilchota,Michoacan de Ocampo,4.0,85.0,76.0,76.0,161.0,165.0
 Chiquilistlán,Jalisco,9.0,83.0,70.0,70.0,153.0,162.0
-La Manzanilla de la Paz,Jalisco,9.0,70.0,63.0,63.0,133.0,142.0
-San Sebastián del Oeste,Jalisco,4.0,51.0,84.0,84.0,135.0,139.0
-Tizapán el Alto,Jalisco,5.0,36.0,73.0,73.0,109.0,114.0
+Uriangato,Guanajuato,4.0,65.0,74.0,74.0,139.0,143.0
+Valle de Juárez,Jalisco,4.0,52.0,79.0,79.0,131.0,135.0
+Huandacareo,Michoacan de Ocampo,6.0,55.0,70.0,70.0,125.0,131.0
 Chimaltitán,Jalisco,3.0,54.0,48.0,48.0,102.0,105.0
+San Miguel de Allende,Guanajuato,20.0,47.0,31.0,31.0,78.0,98.0
+Coeneo,Michoacan de Ocampo,1.0,23.0,74.0,74.0,97.0,98.0
 Ejutla,Jalisco,2.0,25.0,63.0,63.0,88.0,90.0
 Tamazula de Gordiano,Jalisco,2.0,44.0,28.0,28.0,72.0,74.0
 Tomatlán,Jalisco,4.0,36.0,31.0,31.0,67.0,71.0
+Ojuelos de Jalisco,Jalisco,1.0,30.0,31.0,31.0,61.0,62.0
 Villa Purificación,Jalisco,2.0,25.0,23.0,23.0,48.0,50.0
 Tonaya,Jalisco,2.0,17.0,28.0,28.0,45.0,47.0
-Poncitlán,Jalisco,1.0,10.0,14.0,14.0,24.0,25.0
-Zapotlán del Rey,Jalisco,0.0,10.0,8.0,8.0,18.0,18.0
-Yahualica de González Gallo,Jalisco,1.0,5.0,2.0,2.0,7.0,8.0
+Del Nayar,Nayarit,2.0,24.0,16.0,16.0,40.0,42.0
+Cotija,Michoacan de Ocampo,2.0,11.0,10.0,10.0,21.0,23.0
+Comonfort,Guanajuato,3.0,10.0,6.0,6.0,16.0,19.0
+Tingüindín,Michoacan de Ocampo,0.0,8.0,3.0,3.0,11.0,11.0
+Bahía de Banderas,Nayarit,0.0,1.0,4.0,4.0,5.0,5.0
 El Limón,Jalisco,0.0,2.0,3.0,3.0,5.0,5.0
+Tarímbaro,Michoacan de Ocampo,0.0,2.0,1.0,1.0,3.0,3.0
 Autlán de Navarro,Jalisco,0.0,0.0,2.0,2.0,2.0,2.0
 Puerto Vallarta,Jalisco,0.0,0.0,1.0,1.0,1.0,1.0
