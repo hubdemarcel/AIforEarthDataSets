@@ -99,7 +99,7 @@ def escenas_mosaicos(mosaicos, anio, mes, nubes_max=70):
     # públicos; se conserva la versión más reciente con archivos públicos por mosaico y fecha.
     por_escena = {}
     for i in sorted(items, key=lambda i: i.id):
-        if i.assets["red"].href.startswith(S2_BUCKET):
+        if "red" in i.assets and i.assets["red"].href.startswith(S2_BUCKET):
             por_escena[i.id.rsplit("_", 2)[0]] = i
     return [i for i in por_escena.values() if i.properties.get("eo:cloud_cover", 100) < nubes_max]
 
