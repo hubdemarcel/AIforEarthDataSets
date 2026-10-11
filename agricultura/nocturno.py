@@ -19,6 +19,7 @@ from . import mosaico, municipios
 RAIZ = Path(__file__).parent
 COLA = RAIZ / "cola_mosaicos.txt"
 MOSAICOS = RAIZ / "resultados" / "mosaicos"
+DISCO_MIN_GB = 6  # caché mensual (~3 GB) + métricas (~0.6 GB) + margen
 
 
 def pendientes():
@@ -37,6 +38,10 @@ def main(argv=None):
     print(f"Pendientes en la cola: {len(cola)}. Esta corrida: {cola[:args.max]}", flush=True)
     hechos = []
     for mid in cola[:args.max]:
+        libre = shutil.disk_usage(MOSAICOS).free / 1e9
+        if libre < DISCO_MIN_GB:
+            print(f"Alto: quedan {libre:.1f} GB libres (mínimo {DISCO_MIN_GB}). Libera disco antes de seguir.", flush=True)
+            break
         inicio = time.time()
         salida = MOSAICOS / mid
         mosaico.main(["--mosaico", mid, "--desde", str(args.desde), "--hasta", str(args.hasta),

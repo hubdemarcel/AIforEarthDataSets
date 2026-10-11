@@ -28,6 +28,7 @@ MESES = sorted(agave.SECAS + agave.LLUVIAS)
 ESCALA = 10000  # NDVI guardado como entero: valor * 10000
 SIN_DATO = -32768
 RESOLUCION = 20
+PASO = 50  # redondeo de las métricas guardadas (NDVI x10000)
 
 
 def rejilla(mosaico, resolucion=RESOLUCION):
@@ -161,8 +162,10 @@ def main(argv=None):
     exportar(clase, "uso_suelo.tif")
     exportar(est, "agave_establecimiento.tif")
     exportar(jima, "agave_jima.tif")
-    # Métricas anuales (NDVI x10000 en enteros) para reusarlas sin volver a bajar imágenes
-    a_entero = lambda arr: np.where(np.isfinite(arr), np.round(arr * ESCALA), SIN_DATO).astype("int16")
+    # Métricas anuales (NDVI x10000 en enteros) para reusarlas sin volver a bajar imágenes.
+    # Se redondean a pasos de 0.005 de NDVI (muy por debajo de los umbrales) para que el
+    # archivo comprima ~40 % mejor.
+    a_entero = lambda arr: np.where(np.isfinite(arr), np.round(arr * ESCALA / PASO) * PASO, SIN_DATO).astype("int16")
     np.savez_compressed(args.salida / "metricas_anuales.npz", anios=np.array(anios), secas=a_entero(secas),
                         amplitud=a_entero(amp), x=coords["x"], y=coords["y"], crs=geobox.crs.to_wkt())
 
