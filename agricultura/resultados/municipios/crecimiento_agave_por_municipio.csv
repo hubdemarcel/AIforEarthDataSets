@@ -1,0 +1,2344 @@
+municipio,estado,denominacion_origen,edad,pixeles,p25,mediana,p75
+Comonfort,Guanajuato,no,0,459.0,0.22,0.24,0.24
+Comonfort,Guanajuato,no,1,459.0,0.29,0.32,0.41
+Comonfort,Guanajuato,no,2,459.0,0.28,0.3,0.36
+Comonfort,Guanajuato,no,3,330.0,0.26,0.28,0.3
+Comonfort,Guanajuato,no,4,321.0,0.28,0.31,0.34
+Comonfort,Guanajuato,no,5,311.0,0.3,0.34,0.38
+Comonfort,Guanajuato,no,6,46.0,0.27,0.32,0.36
+Comonfort,Guanajuato,no,7,43.0,0.3,0.34,0.38
+Comonfort,Guanajuato,no,8,30.0,0.34,0.36,0.38
+Purísima del Rincón,Guanajuato,si,0,57447.0,0.16,0.18,0.2
+Purísima del Rincón,Guanajuato,si,1,57447.0,0.22,0.24,0.28
+Purísima del Rincón,Guanajuato,si,2,57447.0,0.28,0.31,0.36
+Purísima del Rincón,Guanajuato,si,3,53663.0,0.32,0.37,0.42
+Purísima del Rincón,Guanajuato,si,4,42523.0,0.34,0.38,0.44
+Purísima del Rincón,Guanajuato,si,5,26641.0,0.33,0.38,0.44
+Purísima del Rincón,Guanajuato,si,6,8561.0,0.3,0.35,0.42
+Purísima del Rincón,Guanajuato,si,7,3895.0,0.28,0.32,0.38
+Purísima del Rincón,Guanajuato,si,8,978.0,0.32,0.39,0.46
+San Felipe,Guanajuato,no,0,101681.0,0.2,0.23,0.24
+San Felipe,Guanajuato,no,1,101681.0,0.3,0.4,0.54
+San Felipe,Guanajuato,no,2,101681.0,0.27,0.3,0.38
+San Felipe,Guanajuato,no,3,82450.0,0.26,0.28,0.36
+San Felipe,Guanajuato,no,4,74299.0,0.26,0.28,0.33
+San Felipe,Guanajuato,no,5,72235.0,0.29,0.32,0.38
+San Felipe,Guanajuato,no,6,17846.0,0.27,0.3,0.36
+San Felipe,Guanajuato,no,7,12271.0,0.28,0.31,0.37
+San Felipe,Guanajuato,no,8,4747.0,0.3,0.34,0.41
+Uriangato,Guanajuato,no,0,3579.0,0.18,0.22,0.24
+Uriangato,Guanajuato,no,1,3579.0,0.28,0.31,0.36
+Uriangato,Guanajuato,no,2,3579.0,0.29,0.34,0.4
+Uriangato,Guanajuato,no,3,2264.0,0.28,0.32,0.39
+Uriangato,Guanajuato,no,4,1810.0,0.3,0.34,0.41
+Uriangato,Guanajuato,no,5,1542.0,0.32,0.37,0.43
+Uriangato,Guanajuato,no,6,715.0,0.28,0.33,0.42
+Uriangato,Guanajuato,no,7,544.0,0.31,0.36,0.42
+Uriangato,Guanajuato,no,8,375.0,0.35,0.4,0.52
+Salvatierra,Guanajuato,no,0,21852.0,0.17,0.2,0.23
+Salvatierra,Guanajuato,no,1,21852.0,0.3,0.36,0.44
+Salvatierra,Guanajuato,no,2,21852.0,0.3,0.38,0.46
+Salvatierra,Guanajuato,no,3,15097.0,0.3,0.38,0.47
+Salvatierra,Guanajuato,no,4,10933.0,0.32,0.4,0.54
+Salvatierra,Guanajuato,no,5,9150.0,0.34,0.42,0.56
+Salvatierra,Guanajuato,no,6,4352.0,0.32,0.4,0.52
+Salvatierra,Guanajuato,no,7,2730.0,0.34,0.43,0.58
+Salvatierra,Guanajuato,no,8,1081.0,0.36,0.44,0.57
+Pueblo Nuevo,Guanajuato,no,0,13691.0,0.14,0.16,0.2
+Pueblo Nuevo,Guanajuato,no,1,13691.0,0.31,0.4,0.5
+Pueblo Nuevo,Guanajuato,no,2,13691.0,0.32,0.37,0.44
+Pueblo Nuevo,Guanajuato,no,3,6459.0,0.29,0.36,0.44
+Pueblo Nuevo,Guanajuato,no,4,4672.0,0.34,0.44,0.53
+Pueblo Nuevo,Guanajuato,no,5,4141.0,0.35,0.44,0.54
+Pueblo Nuevo,Guanajuato,no,6,1311.0,0.36,0.46,0.7
+Pueblo Nuevo,Guanajuato,no,7,793.0,0.38,0.48,0.61
+Pueblo Nuevo,Guanajuato,no,8,256.0,0.37,0.43,0.57
+Santiago Maravatío,Guanajuato,no,0,4996.0,0.18,0.22,0.24
+Santiago Maravatío,Guanajuato,no,1,4996.0,0.3,0.34,0.4
+Santiago Maravatío,Guanajuato,no,2,4996.0,0.28,0.34,0.42
+Santiago Maravatío,Guanajuato,no,3,3685.0,0.29,0.35,0.44
+Santiago Maravatío,Guanajuato,no,4,2772.0,0.32,0.4,0.5
+Santiago Maravatío,Guanajuato,no,5,2048.0,0.33,0.4,0.52
+Santiago Maravatío,Guanajuato,no,6,727.0,0.31,0.38,0.54
+Santiago Maravatío,Guanajuato,no,7,513.0,0.34,0.41,0.58
+Santiago Maravatío,Guanajuato,no,8,217.0,0.34,0.38,0.44
+Yuriria,Guanajuato,no,0,35619.0,0.16,0.2,0.24
+Yuriria,Guanajuato,no,1,35619.0,0.28,0.33,0.4
+Yuriria,Guanajuato,no,2,35619.0,0.29,0.36,0.44
+Yuriria,Guanajuato,no,3,21219.0,0.27,0.33,0.43
+Yuriria,Guanajuato,no,4,17169.0,0.3,0.36,0.51
+Yuriria,Guanajuato,no,5,13887.0,0.32,0.38,0.47
+Yuriria,Guanajuato,no,6,6313.0,0.32,0.42,0.72
+Yuriria,Guanajuato,no,7,5160.0,0.34,0.42,0.68
+Yuriria,Guanajuato,no,8,1251.0,0.36,0.41,0.52
+Cortazar,Guanajuato,no,0,18136.0,0.15,0.18,0.22
+Cortazar,Guanajuato,no,1,18129.0,0.28,0.35,0.44
+Cortazar,Guanajuato,no,2,18136.0,0.3,0.36,0.44
+Cortazar,Guanajuato,no,3,13187.0,0.29,0.36,0.45
+Cortazar,Guanajuato,no,4,9301.0,0.32,0.38,0.52
+Cortazar,Guanajuato,no,5,7187.0,0.32,0.4,0.5
+Cortazar,Guanajuato,no,6,4105.0,0.32,0.39,0.54
+Cortazar,Guanajuato,no,7,2974.0,0.32,0.37,0.48
+Cortazar,Guanajuato,no,8,1353.0,0.32,0.4,0.51
+Acámbaro,Guanajuato,no,0,8132.0,-0.08,0.02,0.22
+Acámbaro,Guanajuato,no,1,8132.0,0.06,0.22,0.38
+Acámbaro,Guanajuato,no,2,8132.0,0.15,0.29,0.38
+Acámbaro,Guanajuato,no,3,6041.0,0.36,0.62,0.74
+Acámbaro,Guanajuato,no,4,5233.0,0.44,0.57,0.62
+Acámbaro,Guanajuato,no,5,1471.0,0.32,0.42,0.69
+Acámbaro,Guanajuato,no,6,941.0,0.38,0.5,0.6
+Acámbaro,Guanajuato,no,7,388.0,0.35,0.45,0.59
+Acámbaro,Guanajuato,no,8,82.0,0.35,0.4,0.46
+San Miguel de Allende,Guanajuato,no,0,2446.0,0.24,0.24,0.24
+San Miguel de Allende,Guanajuato,no,1,2446.0,0.32,0.46,0.54
+San Miguel de Allende,Guanajuato,no,2,2446.0,0.26,0.28,0.3
+San Miguel de Allende,Guanajuato,no,3,2169.0,0.26,0.28,0.3
+San Miguel de Allende,Guanajuato,no,4,2071.0,0.26,0.27,0.3
+San Miguel de Allende,Guanajuato,no,5,2059.0,0.29,0.31,0.35
+San Miguel de Allende,Guanajuato,no,6,378.0,0.28,0.31,0.36
+San Miguel de Allende,Guanajuato,no,7,291.0,0.28,0.3,0.38
+San Miguel de Allende,Guanajuato,no,8,169.0,0.3,0.33,0.38
+San Francisco del Rincón,Guanajuato,no,0,81398.0,0.15,0.17,0.2
+San Francisco del Rincón,Guanajuato,no,1,81398.0,0.26,0.31,0.41
+San Francisco del Rincón,Guanajuato,no,2,81398.0,0.25,0.3,0.34
+San Francisco del Rincón,Guanajuato,no,3,75258.0,0.28,0.34,0.39
+San Francisco del Rincón,Guanajuato,no,4,57628.0,0.3,0.34,0.4
+San Francisco del Rincón,Guanajuato,no,5,56438.0,0.32,0.37,0.42
+San Francisco del Rincón,Guanajuato,no,6,11611.0,0.3,0.35,0.41
+San Francisco del Rincón,Guanajuato,no,7,5380.0,0.3,0.34,0.4
+San Francisco del Rincón,Guanajuato,no,8,2141.0,0.3,0.34,0.43
+Manuel Doblado,Guanajuato,si,0,184213.0,0.16,0.18,0.2
+Manuel Doblado,Guanajuato,si,1,184213.0,0.22,0.26,0.3
+Manuel Doblado,Guanajuato,si,2,184213.0,0.28,0.32,0.36
+Manuel Doblado,Guanajuato,si,3,164809.0,0.32,0.37,0.42
+Manuel Doblado,Guanajuato,si,4,132687.0,0.34,0.38,0.44
+Manuel Doblado,Guanajuato,si,5,84614.0,0.32,0.38,0.43
+Manuel Doblado,Guanajuato,si,6,23974.0,0.3,0.35,0.4
+Manuel Doblado,Guanajuato,si,7,8348.0,0.29,0.34,0.41
+Manuel Doblado,Guanajuato,si,8,2436.0,0.34,0.4,0.49
+Cuerámaro,Guanajuato,si,0,74778.0,0.16,0.18,0.21
+Cuerámaro,Guanajuato,si,1,74778.0,0.22,0.26,0.32
+Cuerámaro,Guanajuato,si,2,74778.0,0.28,0.32,0.38
+Cuerámaro,Guanajuato,si,3,60191.0,0.31,0.36,0.42
+Cuerámaro,Guanajuato,si,4,49912.0,0.32,0.38,0.44
+Cuerámaro,Guanajuato,si,5,36807.0,0.32,0.38,0.44
+Cuerámaro,Guanajuato,si,6,16371.0,0.3,0.36,0.42
+Cuerámaro,Guanajuato,si,7,7791.0,0.32,0.36,0.42
+Cuerámaro,Guanajuato,si,8,1500.0,0.32,0.38,0.46
+Valle de Santiago,Guanajuato,no,0,86537.0,0.15,0.18,0.22
+Valle de Santiago,Guanajuato,no,1,86537.0,0.3,0.37,0.46
+Valle de Santiago,Guanajuato,no,2,86537.0,0.31,0.38,0.45
+Valle de Santiago,Guanajuato,no,3,51384.0,0.3,0.37,0.46
+Valle de Santiago,Guanajuato,no,4,37570.0,0.33,0.42,0.53
+Valle de Santiago,Guanajuato,no,5,29550.0,0.34,0.42,0.53
+Valle de Santiago,Guanajuato,no,6,16238.0,0.34,0.43,0.6
+Valle de Santiago,Guanajuato,no,7,10468.0,0.35,0.45,0.62
+Valle de Santiago,Guanajuato,no,8,5318.0,0.35,0.42,0.56
+Pénjamo,Guanajuato,si,0,369538.0,0.15,0.17,0.2
+Pénjamo,Guanajuato,si,1,369538.0,0.22,0.24,0.3
+Pénjamo,Guanajuato,si,2,369538.0,0.28,0.32,0.38
+Pénjamo,Guanajuato,si,3,329955.0,0.32,0.38,0.44
+Pénjamo,Guanajuato,si,4,261664.0,0.34,0.39,0.45
+Pénjamo,Guanajuato,si,5,173242.0,0.33,0.38,0.44
+Pénjamo,Guanajuato,si,6,64935.0,0.31,0.36,0.41
+Pénjamo,Guanajuato,si,7,23688.0,0.3,0.34,0.41
+Pénjamo,Guanajuato,si,8,7544.0,0.32,0.38,0.44
+Silao de la Victoria,Guanajuato,no,0,52392.0,0.15,0.17,0.21
+Silao de la Victoria,Guanajuato,no,1,52392.0,0.26,0.33,0.42
+Silao de la Victoria,Guanajuato,no,2,52392.0,0.26,0.31,0.39
+Silao de la Victoria,Guanajuato,no,3,45651.0,0.28,0.34,0.42
+Silao de la Victoria,Guanajuato,no,4,34511.0,0.29,0.35,0.42
+Silao de la Victoria,Guanajuato,no,5,33955.0,0.32,0.36,0.44
+Silao de la Victoria,Guanajuato,no,6,10746.0,0.3,0.35,0.43
+Silao de la Victoria,Guanajuato,no,7,7195.0,0.3,0.34,0.42
+Silao de la Victoria,Guanajuato,no,8,4221.0,0.32,0.36,0.44
+Abasolo,Guanajuato,si,0,177129.0,0.14,0.16,0.2
+Abasolo,Guanajuato,si,1,177127.0,0.22,0.26,0.32
+Abasolo,Guanajuato,si,2,177127.0,0.28,0.32,0.38
+Abasolo,Guanajuato,si,3,154933.0,0.32,0.38,0.44
+Abasolo,Guanajuato,si,4,126844.0,0.34,0.4,0.46
+Abasolo,Guanajuato,si,5,88097.0,0.34,0.4,0.47
+Abasolo,Guanajuato,si,6,35255.0,0.32,0.38,0.46
+Abasolo,Guanajuato,si,7,13334.0,0.31,0.38,0.48
+Abasolo,Guanajuato,si,8,5480.0,0.34,0.4,0.52
+Huanímaro,Guanajuato,si,0,46979.0,0.15,0.17,0.2
+Huanímaro,Guanajuato,si,1,46979.0,0.22,0.26,0.32
+Huanímaro,Guanajuato,si,2,46979.0,0.28,0.32,0.38
+Huanímaro,Guanajuato,si,3,41699.0,0.32,0.38,0.43
+Huanímaro,Guanajuato,si,4,34143.0,0.34,0.4,0.46
+Huanímaro,Guanajuato,si,5,25336.0,0.34,0.4,0.46
+Huanímaro,Guanajuato,si,6,10025.0,0.32,0.38,0.44
+Huanímaro,Guanajuato,si,7,3174.0,0.3,0.36,0.46
+Huanímaro,Guanajuato,si,8,864.0,0.3,0.36,0.44
+San Diego de la Unión,Guanajuato,no,0,9194.0,0.21,0.23,0.24
+San Diego de la Unión,Guanajuato,no,1,9194.0,0.3,0.32,0.38
+San Diego de la Unión,Guanajuato,no,2,9194.0,0.34,0.4,0.46
+San Diego de la Unión,Guanajuato,no,3,2435.0,0.26,0.26,0.28
+San Diego de la Unión,Guanajuato,no,4,2412.0,0.26,0.28,0.33
+San Diego de la Unión,Guanajuato,no,5,2214.0,0.28,0.3,0.34
+San Diego de la Unión,Guanajuato,no,6,540.0,0.26,0.26,0.29
+San Diego de la Unión,Guanajuato,no,7,489.0,0.28,0.29,0.32
+San Diego de la Unión,Guanajuato,no,8,246.0,0.29,0.32,0.36
+Villagrán,Guanajuato,no,0,18140.0,0.14,0.17,0.22
+Villagrán,Guanajuato,no,1,18140.0,0.29,0.36,0.46
+Villagrán,Guanajuato,no,2,18140.0,0.3,0.35,0.43
+Villagrán,Guanajuato,no,3,11972.0,0.29,0.36,0.45
+Villagrán,Guanajuato,no,4,9175.0,0.31,0.38,0.48
+Villagrán,Guanajuato,no,5,7633.0,0.3,0.38,0.46
+Villagrán,Guanajuato,no,6,4665.0,0.31,0.39,0.51
+Villagrán,Guanajuato,no,7,3491.0,0.34,0.42,0.57
+Villagrán,Guanajuato,no,8,1919.0,0.32,0.38,0.46
+Santa Cruz de Juventino Rosas,Guanajuato,no,0,20828.0,0.16,0.18,0.22
+Santa Cruz de Juventino Rosas,Guanajuato,no,1,20828.0,0.26,0.31,0.4
+Santa Cruz de Juventino Rosas,Guanajuato,no,2,20828.0,0.28,0.34,0.42
+Santa Cruz de Juventino Rosas,Guanajuato,no,3,16174.0,0.28,0.35,0.44
+Santa Cruz de Juventino Rosas,Guanajuato,no,4,12075.0,0.3,0.38,0.48
+Santa Cruz de Juventino Rosas,Guanajuato,no,5,9104.0,0.31,0.38,0.48
+Santa Cruz de Juventino Rosas,Guanajuato,no,6,4225.0,0.3,0.36,0.5
+Santa Cruz de Juventino Rosas,Guanajuato,no,7,2886.0,0.32,0.38,0.48
+Santa Cruz de Juventino Rosas,Guanajuato,no,8,1244.0,0.32,0.38,0.48
+Salamanca,Guanajuato,no,0,85781.0,0.14,0.17,0.22
+Salamanca,Guanajuato,no,1,85781.0,0.3,0.38,0.48
+Salamanca,Guanajuato,no,2,85781.0,0.3,0.36,0.44
+Salamanca,Guanajuato,no,3,48558.0,0.29,0.36,0.45
+Salamanca,Guanajuato,no,4,36265.0,0.31,0.38,0.49
+Salamanca,Guanajuato,no,5,28955.0,0.32,0.39,0.48
+Salamanca,Guanajuato,no,6,15143.0,0.31,0.38,0.5
+Salamanca,Guanajuato,no,7,9355.0,0.33,0.4,0.53
+Salamanca,Guanajuato,no,8,4659.0,0.34,0.41,0.52
+Irapuato,Guanajuato,no,0,96631.0,0.14,0.17,0.21
+Irapuato,Guanajuato,no,1,96631.0,0.26,0.33,0.42
+Irapuato,Guanajuato,no,2,96631.0,0.28,0.35,0.43
+Irapuato,Guanajuato,no,3,70455.0,0.29,0.35,0.44
+Irapuato,Guanajuato,no,4,57176.0,0.32,0.38,0.46
+Irapuato,Guanajuato,no,5,46366.0,0.33,0.39,0.47
+Irapuato,Guanajuato,no,6,20258.0,0.32,0.39,0.5
+Irapuato,Guanajuato,no,7,11126.0,0.32,0.39,0.49
+Irapuato,Guanajuato,no,8,5642.0,0.34,0.4,0.51
+Romita,Guanajuato,si,0,220131.0,0.15,0.17,0.2
+Romita,Guanajuato,si,1,220131.0,0.24,0.28,0.38
+Romita,Guanajuato,si,2,220130.0,0.27,0.32,0.36
+Romita,Guanajuato,si,3,209670.0,0.31,0.36,0.42
+Romita,Guanajuato,si,4,160179.0,0.32,0.37,0.42
+Romita,Guanajuato,si,5,146095.0,0.32,0.38,0.43
+Romita,Guanajuato,si,6,37841.0,0.3,0.36,0.41
+Romita,Guanajuato,si,7,14982.0,0.3,0.34,0.4
+Romita,Guanajuato,si,8,6699.0,0.3,0.36,0.42
+Guanajuato,Guanajuato,no,0,43898.0,0.18,0.23,0.24
+Guanajuato,Guanajuato,no,1,43897.0,0.29,0.34,0.46
+Guanajuato,Guanajuato,no,2,43898.0,0.26,0.31,0.39
+Guanajuato,Guanajuato,no,3,29676.0,0.26,0.28,0.34
+Guanajuato,Guanajuato,no,4,25584.0,0.27,0.3,0.36
+Guanajuato,Guanajuato,no,5,24605.0,0.3,0.34,0.38
+Guanajuato,Guanajuato,no,6,5829.0,0.28,0.32,0.38
+Guanajuato,Guanajuato,no,7,5135.0,0.3,0.36,0.47
+Guanajuato,Guanajuato,no,8,2245.0,0.3,0.34,0.4
+León,Guanajuato,no,0,52399.0,0.16,0.18,0.22
+León,Guanajuato,no,1,52396.0,0.28,0.34,0.46
+León,Guanajuato,no,2,52399.0,0.27,0.32,0.4
+León,Guanajuato,no,3,45730.0,0.28,0.34,0.41
+León,Guanajuato,no,4,36715.0,0.28,0.34,0.42
+León,Guanajuato,no,5,35653.0,0.3,0.34,0.42
+León,Guanajuato,no,6,14378.0,0.29,0.34,0.41
+León,Guanajuato,no,7,9931.0,0.29,0.34,0.43
+León,Guanajuato,no,8,4916.0,0.3,0.34,0.4
+Jaral del Progreso,Guanajuato,no,0,21420.0,0.14,0.18,0.22
+Jaral del Progreso,Guanajuato,no,1,21416.0,0.3,0.4,0.5
+Jaral del Progreso,Guanajuato,no,2,21420.0,0.3,0.36,0.42
+Jaral del Progreso,Guanajuato,no,3,10621.0,0.28,0.34,0.44
+Jaral del Progreso,Guanajuato,no,4,7543.0,0.32,0.4,0.53
+Jaral del Progreso,Guanajuato,no,5,6244.0,0.32,0.4,0.5
+Jaral del Progreso,Guanajuato,no,6,2963.0,0.32,0.38,0.57
+Jaral del Progreso,Guanajuato,no,7,2251.0,0.33,0.41,0.59
+Jaral del Progreso,Guanajuato,no,8,778.0,0.34,0.42,0.58
+Ocampo,Guanajuato,no,0,11226.0,0.21,0.24,0.24
+Ocampo,Guanajuato,no,1,11226.0,0.29,0.38,0.53
+Ocampo,Guanajuato,no,2,11226.0,0.26,0.28,0.36
+Ocampo,Guanajuato,no,3,9319.0,0.26,0.29,0.37
+Ocampo,Guanajuato,no,4,8150.0,0.26,0.27,0.3
+Ocampo,Guanajuato,no,5,7782.0,0.28,0.3,0.35
+Ocampo,Guanajuato,no,6,2184.0,0.26,0.28,0.3
+Ocampo,Guanajuato,no,7,1778.0,0.27,0.28,0.32
+Ocampo,Guanajuato,no,8,450.0,0.29,0.3,0.36
+Moroleón,Guanajuato,no,0,4319.0,0.2,0.23,0.24
+Moroleón,Guanajuato,no,1,4319.0,0.28,0.3,0.34
+Moroleón,Guanajuato,no,2,4319.0,0.28,0.36,0.41
+Moroleón,Guanajuato,no,3,2076.0,0.26,0.28,0.36
+Moroleón,Guanajuato,no,4,1759.0,0.29,0.32,0.4
+Moroleón,Guanajuato,no,5,1462.0,0.3,0.38,0.42
+Moroleón,Guanajuato,no,6,456.0,0.3,0.4,0.52
+Moroleón,Guanajuato,no,7,431.0,0.36,0.6,0.72
+Moroleón,Guanajuato,no,8,133.0,0.36,0.38,0.42
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,0,37394.0,0.2,0.23,0.24
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,1,37394.0,0.3,0.33,0.48
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,2,37394.0,0.28,0.36,0.42
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,3,20716.0,0.26,0.28,0.34
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,4,18252.0,0.27,0.3,0.35
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,5,18020.0,0.32,0.36,0.42
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,6,3691.0,0.28,0.32,0.42
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,7,2732.0,0.29,0.33,0.4
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,8,1433.0,0.34,0.39,0.48
+Acatic,Jalisco,si,0,60328.0,0.14,0.16,0.19
+Acatic,Jalisco,si,1,60323.0,0.2,0.24,0.28
+Acatic,Jalisco,si,2,60322.0,0.28,0.31,0.36
+Acatic,Jalisco,si,3,58225.0,0.34,0.38,0.44
+Acatic,Jalisco,si,4,41343.0,0.36,0.4,0.46
+Acatic,Jalisco,si,5,25820.0,0.36,0.42,0.48
+Acatic,Jalisco,si,6,8912.0,0.34,0.43,0.52
+Acatic,Jalisco,si,7,4850.0,0.36,0.44,0.54
+Acatic,Jalisco,si,8,935.0,0.38,0.46,0.56
+Acatlán de Juárez,Jalisco,si,0,31734.0,0.16,0.18,0.2
+Acatlán de Juárez,Jalisco,si,1,31733.0,0.23,0.26,0.3
+Acatlán de Juárez,Jalisco,si,2,31734.0,0.28,0.32,0.36
+Acatlán de Juárez,Jalisco,si,3,30534.0,0.33,0.37,0.42
+Acatlán de Juárez,Jalisco,si,4,19790.0,0.32,0.36,0.4
+Acatlán de Juárez,Jalisco,si,5,14125.0,0.33,0.38,0.42
+Acatlán de Juárez,Jalisco,si,6,4290.0,0.3,0.36,0.42
+Acatlán de Juárez,Jalisco,si,7,2901.0,0.32,0.36,0.42
+Acatlán de Juárez,Jalisco,si,8,768.0,0.33,0.39,0.44
+Ahualulco de Mercado,Jalisco,si,0,49345.0,0.16,0.18,0.21
+Ahualulco de Mercado,Jalisco,si,1,49345.0,0.23,0.26,0.3
+Ahualulco de Mercado,Jalisco,si,2,49345.0,0.3,0.32,0.37
+Ahualulco de Mercado,Jalisco,si,3,47621.0,0.34,0.38,0.44
+Ahualulco de Mercado,Jalisco,si,4,31324.0,0.34,0.39,0.44
+Ahualulco de Mercado,Jalisco,si,5,19715.0,0.35,0.4,0.46
+Ahualulco de Mercado,Jalisco,si,6,6562.0,0.32,0.38,0.43
+Ahualulco de Mercado,Jalisco,si,7,4448.0,0.32,0.38,0.42
+Ahualulco de Mercado,Jalisco,si,8,1477.0,0.34,0.39,0.45
+Amacueca,Jalisco,si,0,27057.0,0.16,0.18,0.22
+Amacueca,Jalisco,si,1,27057.0,0.24,0.27,0.3
+Amacueca,Jalisco,si,2,27057.0,0.28,0.32,0.37
+Amacueca,Jalisco,si,3,25086.0,0.34,0.39,0.44
+Amacueca,Jalisco,si,4,18239.0,0.35,0.4,0.46
+Amacueca,Jalisco,si,5,12523.0,0.38,0.45,0.52
+Amacueca,Jalisco,si,6,4640.0,0.32,0.38,0.46
+Amacueca,Jalisco,si,7,2743.0,0.33,0.4,0.46
+Amacueca,Jalisco,si,8,610.0,0.38,0.43,0.48
+Amatitán,Jalisco,si,0,86572.0,0.16,0.18,0.21
+Amatitán,Jalisco,si,1,86570.0,0.22,0.26,0.3
+Amatitán,Jalisco,si,2,86571.0,0.28,0.32,0.35
+Amatitán,Jalisco,si,3,85708.0,0.33,0.37,0.41
+Amatitán,Jalisco,si,4,60707.0,0.32,0.36,0.4
+Amatitán,Jalisco,si,5,43554.0,0.32,0.37,0.42
+Amatitán,Jalisco,si,6,13223.0,0.3,0.34,0.39
+Amatitán,Jalisco,si,7,8698.0,0.28,0.32,0.37
+Amatitán,Jalisco,si,8,1944.0,0.3,0.34,0.4
+Ameca,Jalisco,si,0,98222.0,0.16,0.18,0.21
+Ameca,Jalisco,si,1,98220.0,0.24,0.26,0.3
+Ameca,Jalisco,si,2,98219.0,0.3,0.33,0.38
+Ameca,Jalisco,si,3,94148.0,0.34,0.39,0.44
+Ameca,Jalisco,si,4,62121.0,0.34,0.38,0.44
+Ameca,Jalisco,si,5,39917.0,0.34,0.38,0.44
+Ameca,Jalisco,si,6,16291.0,0.32,0.38,0.42
+Ameca,Jalisco,si,7,10820.0,0.31,0.36,0.42
+Ameca,Jalisco,si,8,3567.0,0.34,0.39,0.45
+San Juanito de Escobedo,Jalisco,si,0,50144.0,0.16,0.19,0.22
+San Juanito de Escobedo,Jalisco,si,1,50144.0,0.24,0.28,0.32
+San Juanito de Escobedo,Jalisco,si,2,50144.0,0.29,0.33,0.38
+San Juanito de Escobedo,Jalisco,si,3,48013.0,0.34,0.38,0.44
+San Juanito de Escobedo,Jalisco,si,4,32936.0,0.33,0.38,0.43
+San Juanito de Escobedo,Jalisco,si,5,21343.0,0.34,0.38,0.44
+San Juanito de Escobedo,Jalisco,si,6,8471.0,0.32,0.37,0.43
+San Juanito de Escobedo,Jalisco,si,7,5587.0,0.3,0.36,0.42
+San Juanito de Escobedo,Jalisco,si,8,1996.0,0.31,0.36,0.43
+Arandas,Jalisco,si,0,297574.0,0.14,0.16,0.19
+Arandas,Jalisco,si,1,297574.0,0.2,0.23,0.26
+Arandas,Jalisco,si,2,297574.0,0.28,0.32,0.36
+Arandas,Jalisco,si,3,291950.0,0.33,0.38,0.42
+Arandas,Jalisco,si,4,229184.0,0.32,0.38,0.42
+Arandas,Jalisco,si,5,133047.0,0.31,0.36,0.42
+Arandas,Jalisco,si,6,39474.0,0.3,0.34,0.4
+Arandas,Jalisco,si,7,19762.0,0.29,0.34,0.42
+Arandas,Jalisco,si,8,5460.0,0.32,0.38,0.47
+El Arenal,Jalisco,si,0,40196.0,0.15,0.18,0.2
+El Arenal,Jalisco,si,1,40193.0,0.22,0.26,0.3
+El Arenal,Jalisco,si,2,40193.0,0.28,0.31,0.34
+El Arenal,Jalisco,si,3,39560.0,0.32,0.36,0.4
+El Arenal,Jalisco,si,4,27478.0,0.32,0.36,0.4
+El Arenal,Jalisco,si,5,19605.0,0.33,0.38,0.42
+El Arenal,Jalisco,si,6,6985.0,0.3,0.34,0.39
+El Arenal,Jalisco,si,7,4629.0,0.29,0.34,0.4
+El Arenal,Jalisco,si,8,810.0,0.3,0.36,0.42
+Atemajac de Brizuela,Jalisco,si,0,4181.0,0.19,0.22,0.24
+Atemajac de Brizuela,Jalisco,si,1,4180.0,0.27,0.3,0.32
+Atemajac de Brizuela,Jalisco,si,2,4181.0,0.26,0.29,0.34
+Atemajac de Brizuela,Jalisco,si,3,3800.0,0.32,0.38,0.44
+Atemajac de Brizuela,Jalisco,si,4,1714.0,0.28,0.32,0.38
+Atemajac de Brizuela,Jalisco,si,5,1387.0,0.34,0.38,0.44
+Atemajac de Brizuela,Jalisco,si,6,621.0,0.3,0.35,0.41
+Atemajac de Brizuela,Jalisco,si,7,565.0,0.37,0.41,0.48
+Atemajac de Brizuela,Jalisco,si,8,126.0,0.42,0.48,0.52
+Atengo,Jalisco,si,0,17208.0,0.16,0.18,0.2
+Atengo,Jalisco,si,1,17208.0,0.22,0.26,0.29
+Atengo,Jalisco,si,2,17208.0,0.3,0.33,0.38
+Atengo,Jalisco,si,3,16728.0,0.33,0.38,0.44
+Atengo,Jalisco,si,4,11006.0,0.32,0.38,0.43
+Atengo,Jalisco,si,5,4214.0,0.34,0.4,0.45
+Atengo,Jalisco,si,6,951.0,0.3,0.36,0.42
+Atengo,Jalisco,si,7,594.0,0.28,0.34,0.4
+Atengo,Jalisco,si,8,235.0,0.32,0.37,0.42
+Atenguillo,Jalisco,si,0,5005.0,0.19,0.22,0.24
+Atenguillo,Jalisco,si,1,5004.0,0.26,0.28,0.31
+Atenguillo,Jalisco,si,2,5005.0,0.27,0.3,0.34
+Atenguillo,Jalisco,si,3,4761.0,0.3,0.34,0.39
+Atenguillo,Jalisco,si,4,2961.0,0.3,0.35,0.4
+Atenguillo,Jalisco,si,5,1782.0,0.31,0.35,0.39
+Atenguillo,Jalisco,si,6,1220.0,0.32,0.36,0.41
+Atenguillo,Jalisco,si,7,900.0,0.32,0.37,0.42
+Atenguillo,Jalisco,si,8,378.0,0.35,0.39,0.45
+Atotonilco el Alto,Jalisco,si,0,267493.0,0.14,0.16,0.19
+Atotonilco el Alto,Jalisco,si,1,267493.0,0.21,0.24,0.28
+Atotonilco el Alto,Jalisco,si,2,267493.0,0.28,0.32,0.36
+Atotonilco el Alto,Jalisco,si,3,263448.0,0.34,0.39,0.44
+Atotonilco el Alto,Jalisco,si,4,214585.0,0.34,0.39,0.44
+Atotonilco el Alto,Jalisco,si,5,147083.0,0.33,0.38,0.44
+Atotonilco el Alto,Jalisco,si,6,67987.0,0.33,0.38,0.45
+Atotonilco el Alto,Jalisco,si,7,34880.0,0.34,0.4,0.48
+Atotonilco el Alto,Jalisco,si,8,15507.0,0.38,0.45,0.52
+Atoyac,Jalisco,si,0,41265.0,0.16,0.19,0.22
+Atoyac,Jalisco,si,1,41264.0,0.24,0.28,0.31
+Atoyac,Jalisco,si,2,41264.0,0.28,0.32,0.37
+Atoyac,Jalisco,si,3,37659.0,0.31,0.37,0.44
+Atoyac,Jalisco,si,4,26979.0,0.32,0.38,0.44
+Atoyac,Jalisco,si,5,19202.0,0.34,0.4,0.46
+Atoyac,Jalisco,si,6,10075.0,0.34,0.4,0.47
+Atoyac,Jalisco,si,7,5624.0,0.33,0.4,0.48
+Atoyac,Jalisco,si,8,1639.0,0.35,0.43,0.51
+Autlán de Navarro,Jalisco,si,0,73489.0,0.15,0.18,0.21
+Autlán de Navarro,Jalisco,si,1,73486.0,0.26,0.32,0.44
+Autlán de Navarro,Jalisco,si,2,73488.0,0.31,0.36,0.43
+Autlán de Navarro,Jalisco,si,3,68221.0,0.34,0.38,0.44
+Autlán de Navarro,Jalisco,si,4,52349.0,0.32,0.37,0.43
+Autlán de Navarro,Jalisco,si,5,36050.0,0.32,0.37,0.42
+Autlán de Navarro,Jalisco,si,6,16949.0,0.32,0.36,0.42
+Autlán de Navarro,Jalisco,si,7,12034.0,0.3,0.36,0.42
+Autlán de Navarro,Jalisco,si,8,4616.0,0.31,0.36,0.44
+Ayotlán,Jalisco,si,0,110669.0,0.15,0.17,0.2
+Ayotlán,Jalisco,si,1,110669.0,0.23,0.26,0.31
+Ayotlán,Jalisco,si,2,110669.0,0.3,0.34,0.4
+Ayotlán,Jalisco,si,3,98928.0,0.32,0.38,0.44
+Ayotlán,Jalisco,si,4,79976.0,0.32,0.38,0.43
+Ayotlán,Jalisco,si,5,52867.0,0.32,0.37,0.42
+Ayotlán,Jalisco,si,6,23756.0,0.32,0.37,0.44
+Ayotlán,Jalisco,si,7,10801.0,0.32,0.38,0.45
+Ayotlán,Jalisco,si,8,3807.0,0.34,0.4,0.46
+Ayutla,Jalisco,si,0,14003.0,0.16,0.18,0.2
+Ayutla,Jalisco,si,1,14000.0,0.23,0.26,0.3
+Ayutla,Jalisco,si,2,13995.0,0.29,0.32,0.37
+Ayutla,Jalisco,si,3,13745.0,0.31,0.36,0.42
+Ayutla,Jalisco,si,4,9940.0,0.32,0.36,0.42
+Ayutla,Jalisco,si,5,3991.0,0.32,0.36,0.42
+Ayutla,Jalisco,si,6,1465.0,0.28,0.33,0.39
+Ayutla,Jalisco,si,7,962.0,0.3,0.34,0.4
+Ayutla,Jalisco,si,8,180.0,0.29,0.34,0.4
+La Barca,Jalisco,si,0,194142.0,0.15,0.16,0.18
+La Barca,Jalisco,si,1,194142.0,0.22,0.24,0.28
+La Barca,Jalisco,si,2,194142.0,0.29,0.32,0.38
+La Barca,Jalisco,si,3,188232.0,0.35,0.4,0.46
+La Barca,Jalisco,si,4,137539.0,0.36,0.42,0.47
+La Barca,Jalisco,si,5,87146.0,0.35,0.4,0.46
+La Barca,Jalisco,si,6,27884.0,0.32,0.37,0.43
+La Barca,Jalisco,si,7,9212.0,0.34,0.4,0.48
+La Barca,Jalisco,si,8,4015.0,0.35,0.42,0.5
+Bolaños,Jalisco,si,0,9226.0,0.18,0.22,0.24
+Bolaños,Jalisco,si,1,9219.0,0.26,0.3,0.34
+Bolaños,Jalisco,si,2,9218.0,0.28,0.32,0.38
+Bolaños,Jalisco,si,3,8669.0,0.3,0.34,0.4
+Bolaños,Jalisco,si,4,5318.0,0.29,0.33,0.38
+Bolaños,Jalisco,si,5,4062.0,0.29,0.34,0.38
+Bolaños,Jalisco,si,6,2154.0,0.3,0.34,0.38
+Bolaños,Jalisco,si,7,1888.0,0.3,0.33,0.38
+Bolaños,Jalisco,si,8,1543.0,0.31,0.35,0.38
+Cabo Corrientes,Jalisco,si,0,13895.0,0.19,0.22,0.24
+Cabo Corrientes,Jalisco,si,1,13894.0,0.29,0.34,0.4
+Cabo Corrientes,Jalisco,si,2,13895.0,0.32,0.38,0.42
+Cabo Corrientes,Jalisco,si,3,13100.0,0.34,0.39,0.44
+Cabo Corrientes,Jalisco,si,4,4951.0,0.32,0.37,0.44
+Cabo Corrientes,Jalisco,si,5,3946.0,0.32,0.38,0.44
+Cabo Corrientes,Jalisco,si,6,3073.0,0.32,0.38,0.45
+Cabo Corrientes,Jalisco,si,7,2208.0,0.32,0.37,0.44
+Cabo Corrientes,Jalisco,si,8,1355.0,0.31,0.36,0.44
+Casimiro Castillo,Jalisco,si,0,28173.0,0.17,0.2,0.23
+Casimiro Castillo,Jalisco,si,1,28173.0,0.32,0.42,0.52
+Casimiro Castillo,Jalisco,si,2,28173.0,0.34,0.4,0.47
+Casimiro Castillo,Jalisco,si,3,25596.0,0.34,0.4,0.47
+Casimiro Castillo,Jalisco,si,4,18877.0,0.33,0.4,0.46
+Casimiro Castillo,Jalisco,si,5,13266.0,0.34,0.4,0.46
+Casimiro Castillo,Jalisco,si,6,8159.0,0.34,0.4,0.48
+Casimiro Castillo,Jalisco,si,7,5971.0,0.34,0.4,0.48
+Casimiro Castillo,Jalisco,si,8,3418.0,0.34,0.41,0.48
+Cihuatlán,Jalisco,si,0,17906.0,0.16,0.2,0.23
+Cihuatlán,Jalisco,si,1,17904.0,0.26,0.3,0.38
+Cihuatlán,Jalisco,si,2,17905.0,0.28,0.34,0.41
+Cihuatlán,Jalisco,si,3,16566.0,0.3,0.34,0.4
+Cihuatlán,Jalisco,si,4,15328.0,0.31,0.36,0.43
+Cihuatlán,Jalisco,si,5,12783.0,0.33,0.38,0.46
+Cihuatlán,Jalisco,si,6,8950.0,0.34,0.39,0.46
+Cihuatlán,Jalisco,si,7,7418.0,0.34,0.39,0.46
+Cihuatlán,Jalisco,si,8,4893.0,0.34,0.4,0.48
+Zapotlán el Grande,Jalisco,si,0,72372.0,0.14,0.18,0.22
+Zapotlán el Grande,Jalisco,si,1,72372.0,0.24,0.28,0.32
+Zapotlán el Grande,Jalisco,si,2,72372.0,0.27,0.31,0.36
+Zapotlán el Grande,Jalisco,si,3,68224.0,0.29,0.34,0.38
+Zapotlán el Grande,Jalisco,si,4,61249.0,0.31,0.36,0.42
+Zapotlán el Grande,Jalisco,si,5,54677.0,0.34,0.4,0.46
+Zapotlán el Grande,Jalisco,si,6,37721.0,0.36,0.42,0.5
+Zapotlán el Grande,Jalisco,si,7,29559.0,0.39,0.47,0.55
+Zapotlán el Grande,Jalisco,si,8,15289.0,0.44,0.52,0.61
+Cocula,Jalisco,si,0,37867.0,0.16,0.18,0.2
+Cocula,Jalisco,si,1,37867.0,0.24,0.28,0.33
+Cocula,Jalisco,si,2,37867.0,0.29,0.32,0.38
+Cocula,Jalisco,si,3,34817.0,0.34,0.39,0.44
+Cocula,Jalisco,si,4,19095.0,0.34,0.38,0.44
+Cocula,Jalisco,si,5,11628.0,0.34,0.4,0.45
+Cocula,Jalisco,si,6,5078.0,0.32,0.4,0.47
+Cocula,Jalisco,si,7,3924.0,0.32,0.38,0.46
+Cocula,Jalisco,si,8,1532.0,0.34,0.41,0.48
+Colotlán,Jalisco,si,0,3175.0,0.2,0.23,0.24
+Colotlán,Jalisco,si,1,3173.0,0.28,0.32,0.38
+Colotlán,Jalisco,si,2,3175.0,0.28,0.32,0.38
+Colotlán,Jalisco,si,3,2732.0,0.28,0.32,0.38
+Colotlán,Jalisco,si,4,2236.0,0.28,0.31,0.36
+Colotlán,Jalisco,si,5,1707.0,0.32,0.36,0.39
+Colotlán,Jalisco,si,6,516.0,0.28,0.32,0.39
+Colotlán,Jalisco,si,7,441.0,0.28,0.32,0.38
+Colotlán,Jalisco,si,8,248.0,0.3,0.33,0.39
+Concepción de Buenos Aires,Jalisco,si,0,20901.0,0.18,0.22,0.24
+Concepción de Buenos Aires,Jalisco,si,1,20901.0,0.26,0.29,0.32
+Concepción de Buenos Aires,Jalisco,si,2,20901.0,0.28,0.32,0.36
+Concepción de Buenos Aires,Jalisco,si,3,19834.0,0.31,0.35,0.4
+Concepción de Buenos Aires,Jalisco,si,4,16534.0,0.32,0.36,0.41
+Concepción de Buenos Aires,Jalisco,si,5,14187.0,0.36,0.41,0.46
+Concepción de Buenos Aires,Jalisco,si,6,8236.0,0.36,0.42,0.47
+Concepción de Buenos Aires,Jalisco,si,7,7109.0,0.38,0.46,0.54
+Concepción de Buenos Aires,Jalisco,si,8,2638.0,0.44,0.51,0.58
+Cuautitlán de García Barragán,Jalisco,si,0,15229.0,0.19,0.22,0.24
+Cuautitlán de García Barragán,Jalisco,si,1,15229.0,0.28,0.33,0.4
+Cuautitlán de García Barragán,Jalisco,si,2,15229.0,0.3,0.36,0.44
+Cuautitlán de García Barragán,Jalisco,si,3,13362.0,0.31,0.36,0.43
+Cuautitlán de García Barragán,Jalisco,si,4,10565.0,0.32,0.37,0.43
+Cuautitlán de García Barragán,Jalisco,si,5,7703.0,0.32,0.38,0.46
+Cuautitlán de García Barragán,Jalisco,si,6,4030.0,0.33,0.39,0.46
+Cuautitlán de García Barragán,Jalisco,si,7,3448.0,0.32,0.36,0.43
+Cuautitlán de García Barragán,Jalisco,si,8,2392.0,0.34,0.38,0.45
+Cuautla,Jalisco,si,0,6638.0,0.1,0.16,0.22
+Cuautla,Jalisco,si,1,6638.0,0.2,0.25,0.3
+Cuautla,Jalisco,si,2,6638.0,0.26,0.29,0.33
+Cuautla,Jalisco,si,3,6510.0,0.29,0.32,0.37
+Cuautla,Jalisco,si,4,5505.0,0.3,0.34,0.39
+Cuautla,Jalisco,si,5,4977.0,0.34,0.4,0.45
+Cuautla,Jalisco,si,6,3233.0,0.38,0.44,0.5
+Cuautla,Jalisco,si,7,3015.0,0.42,0.49,0.56
+Cuautla,Jalisco,si,8,1844.0,0.56,0.64,0.72
+Cuquío,Jalisco,si,0,56076.0,0.15,0.17,0.2
+Cuquío,Jalisco,si,1,56070.0,0.21,0.24,0.28
+Cuquío,Jalisco,si,2,56065.0,0.28,0.31,0.35
+Cuquío,Jalisco,si,3,52592.0,0.34,0.38,0.42
+Cuquío,Jalisco,si,4,32384.0,0.34,0.39,0.44
+Cuquío,Jalisco,si,5,19313.0,0.34,0.4,0.44
+Cuquío,Jalisco,si,6,5734.0,0.32,0.38,0.42
+Cuquío,Jalisco,si,7,3365.0,0.28,0.34,0.42
+Cuquío,Jalisco,si,8,548.0,0.36,0.42,0.49
+Chapala,Jalisco,si,0,14885.0,0.12,0.18,0.21
+Chapala,Jalisco,si,1,14885.0,0.24,0.29,0.38
+Chapala,Jalisco,si,2,14885.0,0.29,0.34,0.4
+Chapala,Jalisco,si,3,12270.0,0.3,0.37,0.44
+Chapala,Jalisco,si,4,10211.0,0.3,0.36,0.43
+Chapala,Jalisco,si,5,7836.0,0.32,0.38,0.48
+Chapala,Jalisco,si,6,4565.0,0.32,0.39,0.52
+Chapala,Jalisco,si,7,3006.0,0.31,0.41,0.58
+Chapala,Jalisco,si,8,402.0,0.3,0.36,0.42
+Chimaltitán,Jalisco,si,0,5842.0,0.23,0.24,0.24
+Chimaltitán,Jalisco,si,1,5837.0,0.28,0.3,0.36
+Chimaltitán,Jalisco,si,2,5832.0,0.26,0.29,0.36
+Chimaltitán,Jalisco,si,3,4892.0,0.28,0.32,0.38
+Chimaltitán,Jalisco,si,4,3201.0,0.28,0.31,0.36
+Chimaltitán,Jalisco,si,5,3043.0,0.29,0.35,0.38
+Chimaltitán,Jalisco,si,6,1085.0,0.29,0.32,0.38
+Chimaltitán,Jalisco,si,7,953.0,0.28,0.31,0.38
+Chimaltitán,Jalisco,si,8,685.0,0.28,0.3,0.36
+Chiquilistlán,Jalisco,si,0,4046.0,0.16,0.2,0.23
+Chiquilistlán,Jalisco,si,1,4046.0,0.24,0.28,0.32
+Chiquilistlán,Jalisco,si,2,4046.0,0.28,0.32,0.36
+Chiquilistlán,Jalisco,si,3,3825.0,0.32,0.37,0.42
+Chiquilistlán,Jalisco,si,4,2635.0,0.32,0.36,0.4
+Chiquilistlán,Jalisco,si,5,1906.0,0.36,0.41,0.46
+Chiquilistlán,Jalisco,si,6,396.0,0.33,0.37,0.42
+Chiquilistlán,Jalisco,si,7,368.0,0.35,0.41,0.53
+Chiquilistlán,Jalisco,si,8,79.0,0.36,0.41,0.48
+Degollado,Jalisco,si,0,62479.0,0.16,0.18,0.2
+Degollado,Jalisco,si,1,62479.0,0.23,0.26,0.29
+Degollado,Jalisco,si,2,62479.0,0.3,0.34,0.38
+Degollado,Jalisco,si,3,59154.0,0.34,0.38,0.44
+Degollado,Jalisco,si,4,42668.0,0.32,0.38,0.44
+Degollado,Jalisco,si,5,25150.0,0.31,0.36,0.4
+Degollado,Jalisco,si,6,9024.0,0.28,0.32,0.37
+Degollado,Jalisco,si,7,2856.0,0.28,0.34,0.4
+Degollado,Jalisco,si,8,713.0,0.3,0.36,0.42
+Ejutla,Jalisco,si,0,4051.0,0.16,0.18,0.22
+Ejutla,Jalisco,si,1,4049.0,0.24,0.28,0.33
+Ejutla,Jalisco,si,2,4051.0,0.3,0.34,0.4
+Ejutla,Jalisco,si,3,3421.0,0.31,0.36,0.41
+Ejutla,Jalisco,si,4,2686.0,0.3,0.36,0.42
+Ejutla,Jalisco,si,5,1916.0,0.33,0.38,0.44
+Ejutla,Jalisco,si,6,1141.0,0.31,0.36,0.42
+Ejutla,Jalisco,si,7,1034.0,0.3,0.38,0.44
+Ejutla,Jalisco,si,8,413.0,0.34,0.46,0.56
+Encarnación de Díaz,Jalisco,si,0,87785.0,0.15,0.17,0.2
+Encarnación de Díaz,Jalisco,si,1,87785.0,0.2,0.22,0.28
+Encarnación de Díaz,Jalisco,si,2,87785.0,0.25,0.28,0.33
+Encarnación de Díaz,Jalisco,si,3,78757.0,0.3,0.34,0.38
+Encarnación de Díaz,Jalisco,si,4,55730.0,0.31,0.34,0.38
+Encarnación de Díaz,Jalisco,si,5,38113.0,0.31,0.34,0.38
+Encarnación de Díaz,Jalisco,si,6,6918.0,0.28,0.32,0.38
+Encarnación de Díaz,Jalisco,si,7,3532.0,0.29,0.34,0.44
+Encarnación de Díaz,Jalisco,si,8,1318.0,0.31,0.36,0.42
+Etzatlán,Jalisco,si,0,33913.0,0.16,0.18,0.21
+Etzatlán,Jalisco,si,1,33913.0,0.24,0.27,0.31
+Etzatlán,Jalisco,si,2,33913.0,0.3,0.33,0.38
+Etzatlán,Jalisco,si,3,32655.0,0.34,0.38,0.44
+Etzatlán,Jalisco,si,4,18494.0,0.33,0.38,0.44
+Etzatlán,Jalisco,si,5,10446.0,0.33,0.38,0.44
+Etzatlán,Jalisco,si,6,3108.0,0.3,0.36,0.42
+Etzatlán,Jalisco,si,7,1915.0,0.3,0.36,0.43
+Etzatlán,Jalisco,si,8,784.0,0.34,0.38,0.45
+El Grullo,Jalisco,si,0,22610.0,0.15,0.18,0.21
+El Grullo,Jalisco,si,1,22610.0,0.3,0.44,0.59
+El Grullo,Jalisco,si,2,22610.0,0.32,0.4,0.48
+El Grullo,Jalisco,si,3,20520.0,0.34,0.4,0.47
+El Grullo,Jalisco,si,4,15841.0,0.32,0.38,0.44
+El Grullo,Jalisco,si,5,12253.0,0.32,0.37,0.42
+El Grullo,Jalisco,si,6,7206.0,0.31,0.36,0.42
+El Grullo,Jalisco,si,7,4613.0,0.31,0.36,0.42
+El Grullo,Jalisco,si,8,2574.0,0.3,0.36,0.43
+Guachinango,Jalisco,si,0,28472.0,0.16,0.18,0.21
+Guachinango,Jalisco,si,1,28468.0,0.23,0.26,0.3
+Guachinango,Jalisco,si,2,28471.0,0.28,0.32,0.36
+Guachinango,Jalisco,si,3,27589.0,0.32,0.36,0.4
+Guachinango,Jalisco,si,4,18908.0,0.32,0.36,0.4
+Guachinango,Jalisco,si,5,10754.0,0.32,0.36,0.4
+Guachinango,Jalisco,si,6,5240.0,0.3,0.34,0.4
+Guachinango,Jalisco,si,7,3092.0,0.3,0.36,0.43
+Guachinango,Jalisco,si,8,1453.0,0.32,0.38,0.46
+Guadalajara,Jalisco,si,0,6205.0,0.18,0.21,0.23
+Guadalajara,Jalisco,si,1,6205.0,0.26,0.28,0.32
+Guadalajara,Jalisco,si,2,6205.0,0.26,0.3,0.34
+Guadalajara,Jalisco,si,3,6076.0,0.28,0.31,0.34
+Guadalajara,Jalisco,si,4,5518.0,0.3,0.32,0.36
+Guadalajara,Jalisco,si,5,5212.0,0.3,0.34,0.38
+Guadalajara,Jalisco,si,6,3978.0,0.31,0.35,0.39
+Guadalajara,Jalisco,si,7,3554.0,0.32,0.35,0.4
+Guadalajara,Jalisco,si,8,2678.0,0.33,0.37,0.42
+Hostotipaquillo,Jalisco,si,0,74294.0,0.16,0.18,0.21
+Hostotipaquillo,Jalisco,si,1,74293.0,0.22,0.26,0.31
+Hostotipaquillo,Jalisco,si,2,74289.0,0.29,0.32,0.37
+Hostotipaquillo,Jalisco,si,3,73432.0,0.33,0.38,0.42
+Hostotipaquillo,Jalisco,si,4,46404.0,0.32,0.37,0.42
+Hostotipaquillo,Jalisco,si,5,30892.0,0.32,0.36,0.42
+Hostotipaquillo,Jalisco,si,6,9351.0,0.32,0.37,0.43
+Hostotipaquillo,Jalisco,si,7,6621.0,0.3,0.34,0.4
+Hostotipaquillo,Jalisco,si,8,3387.0,0.31,0.36,0.41
+Huejúcar,Jalisco,si,0,1301.0,0.21,0.24,0.24
+Huejúcar,Jalisco,si,1,1301.0,0.3,0.34,0.38
+Huejúcar,Jalisco,si,2,1301.0,0.27,0.3,0.36
+Huejúcar,Jalisco,si,3,1043.0,0.26,0.28,0.32
+Huejúcar,Jalisco,si,4,927.0,0.26,0.28,0.36
+Huejúcar,Jalisco,si,5,749.0,0.36,0.38,0.41
+Huejúcar,Jalisco,si,6,77.0,0.27,0.32,0.38
+Huejúcar,Jalisco,si,7,68.0,0.29,0.34,0.38
+Huejúcar,Jalisco,si,8,46.0,0.32,0.36,0.44
+Huejuquilla el Alto,Jalisco,si,0,478.0,0.22,0.24,0.24
+Huejuquilla el Alto,Jalisco,si,1,478.0,0.26,0.3,0.35
+Huejuquilla el Alto,Jalisco,si,2,478.0,0.27,0.3,0.33
+Huejuquilla el Alto,Jalisco,si,3,471.0,0.28,0.3,0.34
+Huejuquilla el Alto,Jalisco,si,4,392.0,0.28,0.3,0.34
+Huejuquilla el Alto,Jalisco,si,5,339.0,0.3,0.34,0.38
+Huejuquilla el Alto,Jalisco,si,6,115.0,0.27,0.3,0.35
+Huejuquilla el Alto,Jalisco,si,7,97.0,0.29,0.32,0.38
+Huejuquilla el Alto,Jalisco,si,8,42.0,0.28,0.3,0.37
+La Huerta,Jalisco,si,0,34863.0,0.16,0.2,0.22
+La Huerta,Jalisco,si,1,34850.0,0.28,0.33,0.42
+La Huerta,Jalisco,si,2,34854.0,0.3,0.36,0.43
+La Huerta,Jalisco,si,3,31579.0,0.32,0.38,0.44
+La Huerta,Jalisco,si,4,26332.0,0.32,0.39,0.46
+La Huerta,Jalisco,si,5,19448.0,0.33,0.4,0.46
+La Huerta,Jalisco,si,6,12475.0,0.34,0.4,0.46
+La Huerta,Jalisco,si,7,9610.0,0.32,0.38,0.46
+La Huerta,Jalisco,si,8,6653.0,0.32,0.38,0.46
+Ixtlahuacán de los Membrillos,Jalisco,si,0,34393.0,0.16,0.18,0.2
+Ixtlahuacán de los Membrillos,Jalisco,si,1,34393.0,0.23,0.26,0.31
+Ixtlahuacán de los Membrillos,Jalisco,si,2,34393.0,0.28,0.32,0.37
+Ixtlahuacán de los Membrillos,Jalisco,si,3,31956.0,0.32,0.38,0.44
+Ixtlahuacán de los Membrillos,Jalisco,si,4,22258.0,0.32,0.38,0.44
+Ixtlahuacán de los Membrillos,Jalisco,si,5,14613.0,0.32,0.38,0.44
+Ixtlahuacán de los Membrillos,Jalisco,si,6,3970.0,0.3,0.34,0.4
+Ixtlahuacán de los Membrillos,Jalisco,si,7,2968.0,0.32,0.38,0.46
+Ixtlahuacán de los Membrillos,Jalisco,si,8,1050.0,0.34,0.42,0.54
+Ixtlahuacán del Río,Jalisco,si,0,49870.0,0.14,0.16,0.19
+Ixtlahuacán del Río,Jalisco,si,1,49856.0,0.2,0.24,0.28
+Ixtlahuacán del Río,Jalisco,si,2,49859.0,0.28,0.31,0.36
+Ixtlahuacán del Río,Jalisco,si,3,46653.0,0.34,0.38,0.42
+Ixtlahuacán del Río,Jalisco,si,4,30308.0,0.33,0.38,0.44
+Ixtlahuacán del Río,Jalisco,si,5,20159.0,0.34,0.4,0.46
+Ixtlahuacán del Río,Jalisco,si,6,3117.0,0.32,0.38,0.44
+Ixtlahuacán del Río,Jalisco,si,7,1829.0,0.32,0.38,0.46
+Ixtlahuacán del Río,Jalisco,si,8,446.0,0.36,0.41,0.52
+Jalostotitlán,Jalisco,si,0,28356.0,0.15,0.17,0.19
+Jalostotitlán,Jalisco,si,1,28355.0,0.21,0.24,0.28
+Jalostotitlán,Jalisco,si,2,28356.0,0.28,0.31,0.35
+Jalostotitlán,Jalisco,si,3,26921.0,0.32,0.37,0.42
+Jalostotitlán,Jalisco,si,4,18854.0,0.33,0.38,0.44
+Jalostotitlán,Jalisco,si,5,9459.0,0.32,0.36,0.42
+Jalostotitlán,Jalisco,si,6,1921.0,0.31,0.36,0.42
+Jalostotitlán,Jalisco,si,7,991.0,0.31,0.36,0.44
+Jalostotitlán,Jalisco,si,8,312.0,0.3,0.36,0.42
+Jamay,Jalisco,si,0,63847.0,0.15,0.18,0.2
+Jamay,Jalisco,si,1,63847.0,0.22,0.26,0.32
+Jamay,Jalisco,si,2,63847.0,0.29,0.34,0.4
+Jamay,Jalisco,si,3,60815.0,0.33,0.39,0.46
+Jamay,Jalisco,si,4,43115.0,0.34,0.4,0.46
+Jamay,Jalisco,si,5,29468.0,0.33,0.38,0.45
+Jamay,Jalisco,si,6,12387.0,0.32,0.38,0.45
+Jamay,Jalisco,si,7,6014.0,0.33,0.4,0.48
+Jamay,Jalisco,si,8,1565.0,0.34,0.4,0.46
+Jesús María,Jalisco,si,0,161614.0,0.14,0.16,0.18
+Jesús María,Jalisco,si,1,161614.0,0.2,0.22,0.26
+Jesús María,Jalisco,si,2,161614.0,0.28,0.32,0.36
+Jesús María,Jalisco,si,3,156574.0,0.33,0.38,0.43
+Jesús María,Jalisco,si,4,124897.0,0.33,0.38,0.44
+Jesús María,Jalisco,si,5,71086.0,0.32,0.38,0.44
+Jesús María,Jalisco,si,6,19688.0,0.3,0.36,0.42
+Jesús María,Jalisco,si,7,9189.0,0.29,0.33,0.4
+Jesús María,Jalisco,si,8,1924.0,0.32,0.37,0.43
+Jilotlán de los Dolores,Jalisco,si,0,43391.0,0.14,0.16,0.2
+Jilotlán de los Dolores,Jalisco,si,1,43387.0,0.24,0.28,0.34
+Jilotlán de los Dolores,Jalisco,si,2,43378.0,0.3,0.34,0.4
+Jilotlán de los Dolores,Jalisco,si,3,37673.0,0.32,0.38,0.43
+Jilotlán de los Dolores,Jalisco,si,4,30094.0,0.34,0.39,0.44
+Jilotlán de los Dolores,Jalisco,si,5,24824.0,0.34,0.4,0.46
+Jilotlán de los Dolores,Jalisco,si,6,17392.0,0.36,0.42,0.48
+Jilotlán de los Dolores,Jalisco,si,7,14347.0,0.36,0.42,0.49
+Jilotlán de los Dolores,Jalisco,si,8,8085.0,0.34,0.4,0.46
+Jocotepec,Jalisco,si,0,16692.0,0.16,0.18,0.22
+Jocotepec,Jalisco,si,1,16692.0,0.24,0.28,0.32
+Jocotepec,Jalisco,si,2,16692.0,0.28,0.32,0.37
+Jocotepec,Jalisco,si,3,15038.0,0.31,0.36,0.42
+Jocotepec,Jalisco,si,4,9952.0,0.31,0.36,0.42
+Jocotepec,Jalisco,si,5,6896.0,0.32,0.37,0.43
+Jocotepec,Jalisco,si,6,2505.0,0.3,0.34,0.41
+Jocotepec,Jalisco,si,7,1680.0,0.3,0.36,0.42
+Jocotepec,Jalisco,si,8,593.0,0.32,0.36,0.43
+Juanacatlán,Jalisco,si,0,20612.0,0.16,0.18,0.2
+Juanacatlán,Jalisco,si,1,20612.0,0.23,0.26,0.3
+Juanacatlán,Jalisco,si,2,20612.0,0.28,0.31,0.35
+Juanacatlán,Jalisco,si,3,19757.0,0.33,0.38,0.42
+Juanacatlán,Jalisco,si,4,12051.0,0.32,0.36,0.42
+Juanacatlán,Jalisco,si,5,8804.0,0.32,0.37,0.42
+Juanacatlán,Jalisco,si,6,2579.0,0.3,0.35,0.4
+Juanacatlán,Jalisco,si,7,1629.0,0.3,0.36,0.41
+Juanacatlán,Jalisco,si,8,185.0,0.3,0.36,0.42
+Juchitlán,Jalisco,si,0,40151.0,0.16,0.18,0.2
+Juchitlán,Jalisco,si,1,40151.0,0.24,0.27,0.3
+Juchitlán,Jalisco,si,2,40150.0,0.3,0.34,0.39
+Juchitlán,Jalisco,si,3,38297.0,0.34,0.39,0.45
+Juchitlán,Jalisco,si,4,26016.0,0.32,0.38,0.43
+Juchitlán,Jalisco,si,5,16692.0,0.32,0.37,0.42
+Juchitlán,Jalisco,si,6,6587.0,0.3,0.34,0.39
+Juchitlán,Jalisco,si,7,3817.0,0.28,0.33,0.4
+Juchitlán,Jalisco,si,8,332.0,0.33,0.38,0.45
+Lagos de Moreno,Jalisco,si,0,100510.0,0.17,0.21,0.24
+Lagos de Moreno,Jalisco,si,1,100508.0,0.28,0.34,0.46
+Lagos de Moreno,Jalisco,si,2,100509.0,0.26,0.28,0.34
+Lagos de Moreno,Jalisco,si,3,91720.0,0.29,0.34,0.39
+Lagos de Moreno,Jalisco,si,4,67596.0,0.27,0.3,0.36
+Lagos de Moreno,Jalisco,si,5,62284.0,0.3,0.34,0.39
+Lagos de Moreno,Jalisco,si,6,13219.0,0.28,0.32,0.4
+Lagos de Moreno,Jalisco,si,7,8179.0,0.28,0.32,0.4
+Lagos de Moreno,Jalisco,si,8,3483.0,0.32,0.36,0.44
+El Limón,Jalisco,si,0,8900.0,0.16,0.18,0.21
+El Limón,Jalisco,si,1,8900.0,0.24,0.3,0.45
+El Limón,Jalisco,si,2,8900.0,0.3,0.35,0.42
+El Limón,Jalisco,si,3,8006.0,0.32,0.38,0.44
+El Limón,Jalisco,si,4,5927.0,0.32,0.38,0.44
+El Limón,Jalisco,si,5,3833.0,0.32,0.38,0.43
+El Limón,Jalisco,si,6,1754.0,0.3,0.36,0.42
+El Limón,Jalisco,si,7,1426.0,0.34,0.4,0.44
+El Limón,Jalisco,si,8,923.0,0.33,0.38,0.43
+Magdalena,Jalisco,si,0,51848.0,0.15,0.18,0.2
+Magdalena,Jalisco,si,1,51848.0,0.22,0.25,0.3
+Magdalena,Jalisco,si,2,51848.0,0.28,0.31,0.35
+Magdalena,Jalisco,si,3,50759.0,0.32,0.36,0.4
+Magdalena,Jalisco,si,4,33938.0,0.3,0.34,0.39
+Magdalena,Jalisco,si,5,21747.0,0.31,0.36,0.4
+Magdalena,Jalisco,si,6,5576.0,0.29,0.34,0.38
+Magdalena,Jalisco,si,7,3786.0,0.29,0.32,0.38
+Magdalena,Jalisco,si,8,1498.0,0.3,0.35,0.4
+Santa María del Oro,Jalisco,si,0,2085.0,0.19,0.22,0.24
+Santa María del Oro,Jalisco,si,1,2085.0,0.28,0.34,0.4
+Santa María del Oro,Jalisco,si,2,2085.0,0.31,0.38,0.46
+Santa María del Oro,Jalisco,si,3,1144.0,0.29,0.34,0.38
+Santa María del Oro,Jalisco,si,4,914.0,0.3,0.35,0.41
+Santa María del Oro,Jalisco,si,5,675.0,0.3,0.34,0.41
+Santa María del Oro,Jalisco,si,6,505.0,0.3,0.36,0.4
+Santa María del Oro,Jalisco,si,7,444.0,0.33,0.38,0.43
+Santa María del Oro,Jalisco,si,8,206.0,0.34,0.38,0.44
+La Manzanilla de la Paz,Jalisco,si,0,4350.0,0.18,0.22,0.24
+La Manzanilla de la Paz,Jalisco,si,1,4350.0,0.27,0.3,0.34
+La Manzanilla de la Paz,Jalisco,si,2,4350.0,0.28,0.31,0.35
+La Manzanilla de la Paz,Jalisco,si,3,3904.0,0.3,0.34,0.4
+La Manzanilla de la Paz,Jalisco,si,4,2776.0,0.32,0.38,0.46
+La Manzanilla de la Paz,Jalisco,si,5,1595.0,0.32,0.38,0.44
+La Manzanilla de la Paz,Jalisco,si,6,937.0,0.32,0.38,0.45
+La Manzanilla de la Paz,Jalisco,si,7,849.0,0.36,0.42,0.48
+La Manzanilla de la Paz,Jalisco,si,8,370.0,0.42,0.48,0.54
+Mascota,Jalisco,si,0,22471.0,0.17,0.2,0.23
+Mascota,Jalisco,si,1,22470.0,0.26,0.29,0.34
+Mascota,Jalisco,si,2,22469.0,0.28,0.32,0.38
+Mascota,Jalisco,si,3,20837.0,0.3,0.36,0.41
+Mascota,Jalisco,si,4,16230.0,0.33,0.38,0.44
+Mascota,Jalisco,si,5,9683.0,0.34,0.4,0.47
+Mascota,Jalisco,si,6,5802.0,0.34,0.4,0.48
+Mascota,Jalisco,si,7,4538.0,0.34,0.4,0.49
+Mascota,Jalisco,si,8,2355.0,0.37,0.44,0.56
+Mazamitla,Jalisco,si,0,16106.0,0.18,0.22,0.24
+Mazamitla,Jalisco,si,1,16106.0,0.26,0.3,0.34
+Mazamitla,Jalisco,si,2,16105.0,0.28,0.3,0.36
+Mazamitla,Jalisco,si,3,15714.0,0.3,0.35,0.4
+Mazamitla,Jalisco,si,4,12169.0,0.3,0.36,0.41
+Mazamitla,Jalisco,si,5,10547.0,0.36,0.42,0.48
+Mazamitla,Jalisco,si,6,5369.0,0.36,0.42,0.49
+Mazamitla,Jalisco,si,7,4666.0,0.38,0.46,0.54
+Mazamitla,Jalisco,si,8,2003.0,0.48,0.54,0.62
+Mexticacán,Jalisco,si,0,13736.0,0.16,0.18,0.2
+Mexticacán,Jalisco,si,1,13736.0,0.21,0.24,0.26
+Mexticacán,Jalisco,si,2,13736.0,0.26,0.29,0.32
+Mexticacán,Jalisco,si,3,12434.0,0.3,0.34,0.38
+Mexticacán,Jalisco,si,4,9661.0,0.32,0.35,0.39
+Mexticacán,Jalisco,si,5,7391.0,0.31,0.35,0.4
+Mexticacán,Jalisco,si,6,1321.0,0.27,0.31,0.37
+Mexticacán,Jalisco,si,7,320.0,0.29,0.36,0.41
+Mexticacán,Jalisco,si,8,102.0,0.36,0.4,0.48
+Mezquitic,Jalisco,si,0,30573.0,0.22,0.24,0.24
+Mezquitic,Jalisco,si,1,30557.0,0.28,0.3,0.34
+Mezquitic,Jalisco,si,2,30554.0,0.28,0.32,0.38
+Mezquitic,Jalisco,si,3,23177.0,0.28,0.32,0.38
+Mezquitic,Jalisco,si,4,15682.0,0.29,0.33,0.38
+Mezquitic,Jalisco,si,5,13895.0,0.3,0.34,0.4
+Mezquitic,Jalisco,si,6,3915.0,0.29,0.32,0.36
+Mezquitic,Jalisco,si,7,3715.0,0.28,0.32,0.36
+Mezquitic,Jalisco,si,8,2649.0,0.28,0.3,0.35
+Mixtlán,Jalisco,si,0,8978.0,0.17,0.2,0.24
+Mixtlán,Jalisco,si,1,8978.0,0.25,0.28,0.31
+Mixtlán,Jalisco,si,2,8977.0,0.28,0.31,0.36
+Mixtlán,Jalisco,si,3,8077.0,0.32,0.36,0.4
+Mixtlán,Jalisco,si,4,5513.0,0.32,0.38,0.42
+Mixtlán,Jalisco,si,5,4220.0,0.34,0.4,0.48
+Mixtlán,Jalisco,si,6,2919.0,0.34,0.4,0.48
+Mixtlán,Jalisco,si,7,2306.0,0.36,0.42,0.52
+Mixtlán,Jalisco,si,8,754.0,0.38,0.44,0.5
+Ocotlán,Jalisco,si,0,90039.0,0.14,0.16,0.19
+Ocotlán,Jalisco,si,1,90039.0,0.21,0.24,0.28
+Ocotlán,Jalisco,si,2,90039.0,0.28,0.32,0.36
+Ocotlán,Jalisco,si,3,86581.0,0.34,0.38,0.44
+Ocotlán,Jalisco,si,4,67976.0,0.34,0.39,0.44
+Ocotlán,Jalisco,si,5,43561.0,0.34,0.38,0.43
+Ocotlán,Jalisco,si,6,12642.0,0.3,0.36,0.42
+Ocotlán,Jalisco,si,7,5245.0,0.3,0.36,0.43
+Ocotlán,Jalisco,si,8,1820.0,0.33,0.39,0.46
+Ojuelos de Jalisco,Jalisco,si,0,18827.0,0.2,0.24,0.24
+Ojuelos de Jalisco,Jalisco,si,1,18827.0,0.32,0.4,0.48
+Ojuelos de Jalisco,Jalisco,si,2,18827.0,0.26,0.28,0.32
+Ojuelos de Jalisco,Jalisco,si,3,15840.0,0.28,0.31,0.38
+Ojuelos de Jalisco,Jalisco,si,4,14143.0,0.26,0.28,0.3
+Ojuelos de Jalisco,Jalisco,si,5,13454.0,0.28,0.3,0.34
+Ojuelos de Jalisco,Jalisco,si,6,3310.0,0.26,0.28,0.32
+Ojuelos de Jalisco,Jalisco,si,7,2936.0,0.27,0.28,0.32
+Ojuelos de Jalisco,Jalisco,si,8,688.0,0.28,0.31,0.35
+Pihuamo,Jalisco,si,0,27924.0,0.16,0.18,0.21
+Pihuamo,Jalisco,si,1,27919.0,0.24,0.27,0.32
+Pihuamo,Jalisco,si,2,27918.0,0.3,0.34,0.39
+Pihuamo,Jalisco,si,3,26462.0,0.34,0.38,0.42
+Pihuamo,Jalisco,si,4,19089.0,0.34,0.38,0.43
+Pihuamo,Jalisco,si,5,12533.0,0.34,0.39,0.44
+Pihuamo,Jalisco,si,6,5746.0,0.32,0.38,0.44
+Pihuamo,Jalisco,si,7,3956.0,0.32,0.37,0.43
+Pihuamo,Jalisco,si,8,1658.0,0.34,0.4,0.46
+Poncitlán,Jalisco,si,0,66571.0,0.13,0.16,0.19
+Poncitlán,Jalisco,si,1,66571.0,0.2,0.24,0.3
+Poncitlán,Jalisco,si,2,66571.0,0.28,0.32,0.38
+Poncitlán,Jalisco,si,3,63238.0,0.33,0.38,0.44
+Poncitlán,Jalisco,si,4,49333.0,0.34,0.4,0.46
+Poncitlán,Jalisco,si,5,33469.0,0.32,0.38,0.45
+Poncitlán,Jalisco,si,6,14601.0,0.32,0.4,0.54
+Poncitlán,Jalisco,si,7,5931.0,0.32,0.4,0.56
+Poncitlán,Jalisco,si,8,1280.0,0.32,0.38,0.46
+Puerto Vallarta,Jalisco,si,0,13725.0,0.15,0.19,0.22
+Puerto Vallarta,Jalisco,si,1,13725.0,0.26,0.3,0.37
+Puerto Vallarta,Jalisco,si,2,13725.0,0.29,0.35,0.42
+Puerto Vallarta,Jalisco,si,3,12918.0,0.3,0.36,0.43
+Puerto Vallarta,Jalisco,si,4,10739.0,0.3,0.35,0.42
+Puerto Vallarta,Jalisco,si,5,8557.0,0.31,0.36,0.44
+Puerto Vallarta,Jalisco,si,6,6465.0,0.32,0.38,0.46
+Puerto Vallarta,Jalisco,si,7,5359.0,0.31,0.37,0.47
+Puerto Vallarta,Jalisco,si,8,3761.0,0.32,0.38,0.47
+Villa Purificación,Jalisco,si,0,10767.0,0.18,0.22,0.24
+Villa Purificación,Jalisco,si,1,10766.0,0.27,0.31,0.37
+Villa Purificación,Jalisco,si,2,10759.0,0.3,0.34,0.42
+Villa Purificación,Jalisco,si,3,9869.0,0.3,0.35,0.4
+Villa Purificación,Jalisco,si,4,8007.0,0.31,0.36,0.41
+Villa Purificación,Jalisco,si,5,6562.0,0.32,0.37,0.42
+Villa Purificación,Jalisco,si,6,5193.0,0.34,0.39,0.44
+Villa Purificación,Jalisco,si,7,4673.0,0.35,0.4,0.47
+Villa Purificación,Jalisco,si,8,3181.0,0.34,0.41,0.48
+Quitupan,Jalisco,si,0,13254.0,0.18,0.22,0.24
+Quitupan,Jalisco,si,1,13254.0,0.26,0.3,0.36
+Quitupan,Jalisco,si,2,13254.0,0.28,0.33,0.38
+Quitupan,Jalisco,si,3,10414.0,0.3,0.35,0.4
+Quitupan,Jalisco,si,4,8502.0,0.3,0.36,0.42
+Quitupan,Jalisco,si,5,7118.0,0.34,0.4,0.45
+Quitupan,Jalisco,si,6,3785.0,0.34,0.4,0.47
+Quitupan,Jalisco,si,7,3072.0,0.36,0.42,0.5
+Quitupan,Jalisco,si,8,1556.0,0.4,0.48,0.56
+El Salto,Jalisco,si,0,5499.0,0.14,0.18,0.21
+El Salto,Jalisco,si,1,5499.0,0.22,0.28,0.33
+El Salto,Jalisco,si,2,5499.0,0.27,0.31,0.36
+El Salto,Jalisco,si,3,5078.0,0.32,0.36,0.4
+El Salto,Jalisco,si,4,3765.0,0.31,0.36,0.41
+El Salto,Jalisco,si,5,2373.0,0.32,0.37,0.42
+El Salto,Jalisco,si,6,835.0,0.3,0.34,0.4
+El Salto,Jalisco,si,7,676.0,0.31,0.36,0.42
+El Salto,Jalisco,si,8,206.0,0.32,0.37,0.42
+San Cristóbal de la Barranca,Jalisco,si,0,27106.0,0.18,0.2,0.24
+San Cristóbal de la Barranca,Jalisco,si,1,27069.0,0.24,0.28,0.32
+San Cristóbal de la Barranca,Jalisco,si,2,27078.0,0.28,0.31,0.36
+San Cristóbal de la Barranca,Jalisco,si,3,26511.0,0.32,0.36,0.4
+San Cristóbal de la Barranca,Jalisco,si,4,18676.0,0.3,0.35,0.4
+San Cristóbal de la Barranca,Jalisco,si,5,13290.0,0.32,0.36,0.42
+San Cristóbal de la Barranca,Jalisco,si,6,3979.0,0.31,0.37,0.42
+San Cristóbal de la Barranca,Jalisco,si,7,3431.0,0.3,0.36,0.42
+San Cristóbal de la Barranca,Jalisco,si,8,1005.0,0.3,0.34,0.4
+San Diego de Alejandría,Jalisco,si,0,95136.0,0.16,0.17,0.19
+San Diego de Alejandría,Jalisco,si,1,95136.0,0.21,0.23,0.26
+San Diego de Alejandría,Jalisco,si,2,95136.0,0.28,0.3,0.34
+San Diego de Alejandría,Jalisco,si,3,92141.0,0.32,0.36,0.4
+San Diego de Alejandría,Jalisco,si,4,76281.0,0.34,0.38,0.43
+San Diego de Alejandría,Jalisco,si,5,48765.0,0.33,0.38,0.42
+San Diego de Alejandría,Jalisco,si,6,11403.0,0.28,0.32,0.38
+San Diego de Alejandría,Jalisco,si,7,2481.0,0.28,0.34,0.4
+San Diego de Alejandría,Jalisco,si,8,250.0,0.32,0.4,0.54
+San Juan de los Lagos,Jalisco,si,0,39261.0,0.15,0.17,0.2
+San Juan de los Lagos,Jalisco,si,1,39261.0,0.2,0.24,0.28
+San Juan de los Lagos,Jalisco,si,2,39261.0,0.27,0.3,0.34
+San Juan de los Lagos,Jalisco,si,3,36477.0,0.32,0.36,0.4
+San Juan de los Lagos,Jalisco,si,4,24543.0,0.32,0.36,0.41
+San Juan de los Lagos,Jalisco,si,5,13553.0,0.3,0.35,0.4
+San Juan de los Lagos,Jalisco,si,6,2859.0,0.3,0.34,0.4
+San Juan de los Lagos,Jalisco,si,7,1979.0,0.3,0.36,0.43
+San Juan de los Lagos,Jalisco,si,8,857.0,0.32,0.36,0.43
+San Julián,Jalisco,si,0,36936.0,0.16,0.16,0.18
+San Julián,Jalisco,si,1,36936.0,0.2,0.23,0.26
+San Julián,Jalisco,si,2,36936.0,0.28,0.31,0.34
+San Julián,Jalisco,si,3,35433.0,0.32,0.36,0.4
+San Julián,Jalisco,si,4,23317.0,0.31,0.35,0.4
+San Julián,Jalisco,si,5,9932.0,0.3,0.34,0.38
+San Julián,Jalisco,si,6,1134.0,0.26,0.3,0.36
+San Julián,Jalisco,si,7,585.0,0.29,0.32,0.4
+San Julián,Jalisco,si,8,125.0,0.32,0.36,0.42
+San Marcos,Jalisco,si,0,19876.0,0.16,0.2,0.23
+San Marcos,Jalisco,si,1,19876.0,0.24,0.28,0.32
+San Marcos,Jalisco,si,2,19876.0,0.28,0.32,0.36
+San Marcos,Jalisco,si,3,19515.0,0.32,0.37,0.42
+San Marcos,Jalisco,si,4,9678.0,0.3,0.35,0.4
+San Marcos,Jalisco,si,5,5563.0,0.3,0.34,0.4
+San Marcos,Jalisco,si,6,1736.0,0.3,0.33,0.38
+San Marcos,Jalisco,si,7,1387.0,0.28,0.3,0.34
+San Marcos,Jalisco,si,8,1082.0,0.32,0.36,0.4
+San Martín de Bolaños,Jalisco,si,0,7319.0,0.22,0.24,0.24
+San Martín de Bolaños,Jalisco,si,1,7316.0,0.28,0.3,0.34
+San Martín de Bolaños,Jalisco,si,2,7314.0,0.26,0.28,0.32
+San Martín de Bolaños,Jalisco,si,3,6579.0,0.3,0.35,0.38
+San Martín de Bolaños,Jalisco,si,4,3786.0,0.28,0.3,0.34
+San Martín de Bolaños,Jalisco,si,5,3633.0,0.32,0.38,0.4
+San Martín de Bolaños,Jalisco,si,6,735.0,0.29,0.32,0.38
+San Martín de Bolaños,Jalisco,si,7,655.0,0.29,0.34,0.4
+San Martín de Bolaños,Jalisco,si,8,380.0,0.3,0.36,0.41
+San Martín Hidalgo,Jalisco,si,0,53190.0,0.17,0.18,0.21
+San Martín Hidalgo,Jalisco,si,1,53190.0,0.24,0.26,0.3
+San Martín Hidalgo,Jalisco,si,2,53190.0,0.3,0.33,0.37
+San Martín Hidalgo,Jalisco,si,3,51638.0,0.34,0.38,0.44
+San Martín Hidalgo,Jalisco,si,4,30028.0,0.34,0.38,0.44
+San Martín Hidalgo,Jalisco,si,5,17187.0,0.34,0.4,0.45
+San Martín Hidalgo,Jalisco,si,6,8440.0,0.34,0.4,0.46
+San Martín Hidalgo,Jalisco,si,7,6720.0,0.31,0.36,0.44
+San Martín Hidalgo,Jalisco,si,8,3129.0,0.34,0.38,0.45
+San Miguel el Alto,Jalisco,si,0,91578.0,0.15,0.16,0.18
+San Miguel el Alto,Jalisco,si,1,91578.0,0.2,0.23,0.26
+San Miguel el Alto,Jalisco,si,2,91578.0,0.28,0.31,0.34
+San Miguel el Alto,Jalisco,si,3,88926.0,0.34,0.38,0.42
+San Miguel el Alto,Jalisco,si,4,60040.0,0.34,0.38,0.43
+San Miguel el Alto,Jalisco,si,5,27157.0,0.32,0.37,0.42
+San Miguel el Alto,Jalisco,si,6,4068.0,0.28,0.32,0.38
+San Miguel el Alto,Jalisco,si,7,1148.0,0.28,0.33,0.4
+San Miguel el Alto,Jalisco,si,8,279.0,0.32,0.37,0.46
+Gómez Farías,Jalisco,si,0,45874.0,0.16,0.19,0.22
+Gómez Farías,Jalisco,si,1,45871.0,0.23,0.27,0.3
+Gómez Farías,Jalisco,si,2,45869.0,0.28,0.31,0.36
+Gómez Farías,Jalisco,si,3,42742.0,0.3,0.35,0.4
+Gómez Farías,Jalisco,si,4,35260.0,0.32,0.37,0.43
+Gómez Farías,Jalisco,si,5,26744.0,0.35,0.41,0.48
+Gómez Farías,Jalisco,si,6,13426.0,0.35,0.42,0.5
+Gómez Farías,Jalisco,si,7,9106.0,0.38,0.47,0.56
+Gómez Farías,Jalisco,si,8,2957.0,0.4,0.51,0.62
+San Sebastián del Oeste,Jalisco,si,0,18772.0,0.16,0.18,0.22
+San Sebastián del Oeste,Jalisco,si,1,18771.0,0.23,0.27,0.31
+San Sebastián del Oeste,Jalisco,si,2,18771.0,0.29,0.34,0.4
+San Sebastián del Oeste,Jalisco,si,3,17949.0,0.32,0.37,0.42
+San Sebastián del Oeste,Jalisco,si,4,12890.0,0.32,0.36,0.42
+San Sebastián del Oeste,Jalisco,si,5,8258.0,0.32,0.36,0.42
+San Sebastián del Oeste,Jalisco,si,6,5018.0,0.32,0.38,0.44
+San Sebastián del Oeste,Jalisco,si,7,3957.0,0.32,0.38,0.46
+San Sebastián del Oeste,Jalisco,si,8,2333.0,0.34,0.42,0.51
+Santa María de los Ángeles,Jalisco,si,0,1128.0,0.16,0.22,0.24
+Santa María de los Ángeles,Jalisco,si,1,1128.0,0.26,0.3,0.37
+Santa María de los Ángeles,Jalisco,si,2,1128.0,0.26,0.3,0.37
+Santa María de los Ángeles,Jalisco,si,3,1048.0,0.28,0.32,0.38
+Santa María de los Ángeles,Jalisco,si,4,790.0,0.26,0.3,0.36
+Santa María de los Ángeles,Jalisco,si,5,659.0,0.21,0.36,0.4
+Santa María de los Ángeles,Jalisco,si,6,304.0,0.29,0.32,0.36
+Santa María de los Ángeles,Jalisco,si,7,259.0,0.2,0.24,0.32
+Santa María de los Ángeles,Jalisco,si,8,220.0,0.38,0.46,0.56
+Sayula,Jalisco,si,0,43415.0,0.14,0.17,0.2
+Sayula,Jalisco,si,1,43415.0,0.22,0.26,0.32
+Sayula,Jalisco,si,2,43415.0,0.27,0.31,0.36
+Sayula,Jalisco,si,3,40153.0,0.3,0.36,0.42
+Sayula,Jalisco,si,4,30995.0,0.31,0.37,0.44
+Sayula,Jalisco,si,5,25361.0,0.34,0.4,0.48
+Sayula,Jalisco,si,6,14948.0,0.34,0.42,0.5
+Sayula,Jalisco,si,7,9688.0,0.38,0.46,0.56
+Sayula,Jalisco,si,8,2445.0,0.41,0.5,0.59
+Tala,Jalisco,si,0,45241.0,0.15,0.18,0.21
+Tala,Jalisco,si,1,45241.0,0.23,0.28,0.33
+Tala,Jalisco,si,2,45241.0,0.28,0.32,0.38
+Tala,Jalisco,si,3,40960.0,0.32,0.36,0.41
+Tala,Jalisco,si,4,28362.0,0.32,0.36,0.4
+Tala,Jalisco,si,5,20451.0,0.32,0.36,0.42
+Tala,Jalisco,si,6,10574.0,0.31,0.35,0.4
+Tala,Jalisco,si,7,9265.0,0.31,0.35,0.41
+Tala,Jalisco,si,8,5176.0,0.34,0.38,0.42
+Talpa de Allende,Jalisco,si,0,11992.0,0.18,0.22,0.24
+Talpa de Allende,Jalisco,si,1,11992.0,0.27,0.32,0.37
+Talpa de Allende,Jalisco,si,2,11992.0,0.3,0.34,0.38
+Talpa de Allende,Jalisco,si,3,11555.0,0.32,0.36,0.4
+Talpa de Allende,Jalisco,si,4,7920.0,0.32,0.36,0.42
+Talpa de Allende,Jalisco,si,5,5358.0,0.33,0.38,0.43
+Talpa de Allende,Jalisco,si,6,3182.0,0.3,0.35,0.4
+Talpa de Allende,Jalisco,si,7,2529.0,0.32,0.36,0.4
+Talpa de Allende,Jalisco,si,8,741.0,0.34,0.38,0.44
+Tamazula de Gordiano,Jalisco,si,0,44087.0,0.16,0.19,0.22
+Tamazula de Gordiano,Jalisco,si,1,44085.0,0.26,0.31,0.42
+Tamazula de Gordiano,Jalisco,si,2,44087.0,0.3,0.35,0.42
+Tamazula de Gordiano,Jalisco,si,3,40014.0,0.32,0.38,0.44
+Tamazula de Gordiano,Jalisco,si,4,31345.0,0.32,0.38,0.44
+Tamazula de Gordiano,Jalisco,si,5,25020.0,0.34,0.4,0.46
+Tamazula de Gordiano,Jalisco,si,6,13892.0,0.34,0.41,0.48
+Tamazula de Gordiano,Jalisco,si,7,10382.0,0.35,0.42,0.5
+Tamazula de Gordiano,Jalisco,si,8,5094.0,0.38,0.45,0.52
+Tapalpa,Jalisco,si,0,40667.0,0.16,0.2,0.23
+Tapalpa,Jalisco,si,1,40666.0,0.24,0.28,0.32
+Tapalpa,Jalisco,si,2,40665.0,0.26,0.29,0.34
+Tapalpa,Jalisco,si,3,38774.0,0.28,0.32,0.38
+Tapalpa,Jalisco,si,4,30258.0,0.28,0.33,0.38
+Tapalpa,Jalisco,si,5,26634.0,0.32,0.38,0.43
+Tapalpa,Jalisco,si,6,17564.0,0.34,0.4,0.46
+Tapalpa,Jalisco,si,7,13386.0,0.38,0.44,0.5
+Tapalpa,Jalisco,si,8,5906.0,0.44,0.51,0.56
+Tecalitlán,Jalisco,si,0,16925.0,0.17,0.2,0.23
+Tecalitlán,Jalisco,si,1,16925.0,0.26,0.3,0.36
+Tecalitlán,Jalisco,si,2,16925.0,0.3,0.34,0.4
+Tecalitlán,Jalisco,si,3,15464.0,0.33,0.38,0.44
+Tecalitlán,Jalisco,si,4,11982.0,0.33,0.38,0.44
+Tecalitlán,Jalisco,si,5,9283.0,0.34,0.39,0.44
+Tecalitlán,Jalisco,si,6,4203.0,0.32,0.37,0.42
+Tecalitlán,Jalisco,si,7,2508.0,0.32,0.38,0.46
+Tecalitlán,Jalisco,si,8,1090.0,0.34,0.4,0.48
+Tecolotlán,Jalisco,si,0,34229.0,0.16,0.19,0.21
+Tecolotlán,Jalisco,si,1,34229.0,0.24,0.26,0.3
+Tecolotlán,Jalisco,si,2,34229.0,0.28,0.32,0.36
+Tecolotlán,Jalisco,si,3,32739.0,0.32,0.36,0.41
+Tecolotlán,Jalisco,si,4,22902.0,0.3,0.36,0.42
+Tecolotlán,Jalisco,si,5,13546.0,0.32,0.37,0.42
+Tecolotlán,Jalisco,si,6,4708.0,0.3,0.35,0.4
+Tecolotlán,Jalisco,si,7,2655.0,0.31,0.37,0.43
+Tecolotlán,Jalisco,si,8,346.0,0.32,0.38,0.43
+Techaluta de Montenegro,Jalisco,si,0,7424.0,0.16,0.18,0.22
+Techaluta de Montenegro,Jalisco,si,1,7424.0,0.23,0.26,0.3
+Techaluta de Montenegro,Jalisco,si,2,7424.0,0.28,0.32,0.36
+Techaluta de Montenegro,Jalisco,si,3,7123.0,0.32,0.37,0.42
+Techaluta de Montenegro,Jalisco,si,4,5448.0,0.33,0.38,0.44
+Techaluta de Montenegro,Jalisco,si,5,3615.0,0.34,0.4,0.46
+Techaluta de Montenegro,Jalisco,si,6,1672.0,0.34,0.41,0.46
+Techaluta de Montenegro,Jalisco,si,7,984.0,0.34,0.42,0.48
+Techaluta de Montenegro,Jalisco,si,8,262.0,0.44,0.55,0.6
+Tenamaxtlán,Jalisco,si,0,28087.0,0.16,0.18,0.2
+Tenamaxtlán,Jalisco,si,1,28087.0,0.23,0.26,0.3
+Tenamaxtlán,Jalisco,si,2,28087.0,0.3,0.33,0.38
+Tenamaxtlán,Jalisco,si,3,26671.0,0.31,0.36,0.42
+Tenamaxtlán,Jalisco,si,4,20405.0,0.32,0.38,0.44
+Tenamaxtlán,Jalisco,si,5,8527.0,0.32,0.38,0.42
+Tenamaxtlán,Jalisco,si,6,3212.0,0.28,0.32,0.38
+Tenamaxtlán,Jalisco,si,7,2287.0,0.3,0.36,0.42
+Tenamaxtlán,Jalisco,si,8,337.0,0.28,0.31,0.38
+Teocaltiche,Jalisco,si,0,39910.0,0.16,0.18,0.22
+Teocaltiche,Jalisco,si,1,39910.0,0.2,0.23,0.3
+Teocaltiche,Jalisco,si,2,39910.0,0.26,0.28,0.32
+Teocaltiche,Jalisco,si,3,36789.0,0.29,0.32,0.36
+Teocaltiche,Jalisco,si,4,29581.0,0.3,0.34,0.38
+Teocaltiche,Jalisco,si,5,23071.0,0.32,0.36,0.4
+Teocaltiche,Jalisco,si,6,6647.0,0.28,0.32,0.36
+Teocaltiche,Jalisco,si,7,2192.0,0.28,0.32,0.4
+Teocaltiche,Jalisco,si,8,713.0,0.32,0.36,0.42
+Teocuitatlán de Corona,Jalisco,si,0,68254.0,0.16,0.18,0.21
+Teocuitatlán de Corona,Jalisco,si,1,68254.0,0.24,0.26,0.3
+Teocuitatlán de Corona,Jalisco,si,2,68253.0,0.29,0.34,0.38
+Teocuitatlán de Corona,Jalisco,si,3,62430.0,0.34,0.4,0.46
+Teocuitatlán de Corona,Jalisco,si,4,44467.0,0.35,0.41,0.46
+Teocuitatlán de Corona,Jalisco,si,5,33415.0,0.36,0.42,0.47
+Teocuitatlán de Corona,Jalisco,si,6,15328.0,0.36,0.41,0.46
+Teocuitatlán de Corona,Jalisco,si,7,7267.0,0.32,0.38,0.44
+Teocuitatlán de Corona,Jalisco,si,8,1548.0,0.32,0.4,0.49
+Tepatitlán de Morelos,Jalisco,si,0,271182.0,0.14,0.16,0.19
+Tepatitlán de Morelos,Jalisco,si,1,271175.0,0.2,0.24,0.27
+Tepatitlán de Morelos,Jalisco,si,2,271165.0,0.28,0.31,0.35
+Tepatitlán de Morelos,Jalisco,si,3,266313.0,0.34,0.38,0.44
+Tepatitlán de Morelos,Jalisco,si,4,189165.0,0.34,0.4,0.46
+Tepatitlán de Morelos,Jalisco,si,5,110523.0,0.34,0.4,0.46
+Tepatitlán de Morelos,Jalisco,si,6,33583.0,0.32,0.38,0.44
+Tepatitlán de Morelos,Jalisco,si,7,18240.0,0.31,0.38,0.46
+Tepatitlán de Morelos,Jalisco,si,8,6309.0,0.35,0.44,0.54
+Tequila,Jalisco,si,0,145490.0,0.16,0.19,0.22
+Tequila,Jalisco,si,1,145446.0,0.24,0.27,0.31
+Tequila,Jalisco,si,2,145463.0,0.28,0.32,0.36
+Tequila,Jalisco,si,3,143567.0,0.34,0.38,0.42
+Tequila,Jalisco,si,4,94051.0,0.32,0.36,0.41
+Tequila,Jalisco,si,5,68718.0,0.32,0.36,0.42
+Tequila,Jalisco,si,6,18453.0,0.3,0.35,0.4
+Tequila,Jalisco,si,7,12976.0,0.28,0.32,0.38
+Tequila,Jalisco,si,8,3675.0,0.3,0.35,0.4
+Teuchitlán,Jalisco,si,0,54932.0,0.15,0.18,0.2
+Teuchitlán,Jalisco,si,1,54932.0,0.22,0.26,0.3
+Teuchitlán,Jalisco,si,2,54932.0,0.28,0.32,0.36
+Teuchitlán,Jalisco,si,3,53096.0,0.34,0.38,0.44
+Teuchitlán,Jalisco,si,4,36835.0,0.34,0.38,0.44
+Teuchitlán,Jalisco,si,5,24348.0,0.34,0.4,0.44
+Teuchitlán,Jalisco,si,6,6176.0,0.32,0.37,0.42
+Teuchitlán,Jalisco,si,7,3920.0,0.3,0.36,0.42
+Teuchitlán,Jalisco,si,8,1165.0,0.33,0.4,0.5
+Tizapán el Alto,Jalisco,si,0,18174.0,0.14,0.18,0.21
+Tizapán el Alto,Jalisco,si,1,18174.0,0.24,0.28,0.35
+Tizapán el Alto,Jalisco,si,2,18174.0,0.28,0.34,0.4
+Tizapán el Alto,Jalisco,si,3,16391.0,0.32,0.37,0.44
+Tizapán el Alto,Jalisco,si,4,11851.0,0.32,0.38,0.44
+Tizapán el Alto,Jalisco,si,5,8609.0,0.32,0.38,0.45
+Tizapán el Alto,Jalisco,si,6,4136.0,0.32,0.38,0.46
+Tizapán el Alto,Jalisco,si,7,1915.0,0.32,0.4,0.48
+Tizapán el Alto,Jalisco,si,8,571.0,0.32,0.39,0.46
+Tlajomulco de Zúñiga,Jalisco,si,0,89507.0,0.16,0.18,0.22
+Tlajomulco de Zúñiga,Jalisco,si,1,89507.0,0.24,0.29,0.35
+Tlajomulco de Zúñiga,Jalisco,si,2,89507.0,0.28,0.32,0.38
+Tlajomulco de Zúñiga,Jalisco,si,3,87149.0,0.32,0.38,0.42
+Tlajomulco de Zúñiga,Jalisco,si,4,66230.0,0.3,0.35,0.42
+Tlajomulco de Zúñiga,Jalisco,si,5,46552.0,0.32,0.36,0.41
+Tlajomulco de Zúñiga,Jalisco,si,6,28432.0,0.28,0.32,0.38
+Tlajomulco de Zúñiga,Jalisco,si,7,25205.0,0.33,0.37,0.41
+Tlajomulco de Zúñiga,Jalisco,si,8,6325.0,0.36,0.42,0.46
+San Pedro Tlaquepaque,Jalisco,si,0,7629.0,0.16,0.2,0.23
+San Pedro Tlaquepaque,Jalisco,si,1,7629.0,0.26,0.3,0.36
+San Pedro Tlaquepaque,Jalisco,si,2,7629.0,0.28,0.32,0.38
+San Pedro Tlaquepaque,Jalisco,si,3,7030.0,0.3,0.34,0.4
+San Pedro Tlaquepaque,Jalisco,si,4,5059.0,0.3,0.34,0.39
+San Pedro Tlaquepaque,Jalisco,si,5,4371.0,0.32,0.36,0.42
+San Pedro Tlaquepaque,Jalisco,si,6,2325.0,0.32,0.36,0.42
+San Pedro Tlaquepaque,Jalisco,si,7,1690.0,0.32,0.36,0.42
+San Pedro Tlaquepaque,Jalisco,si,8,823.0,0.33,0.38,0.44
+Tolimán,Jalisco,si,0,45711.0,0.12,0.15,0.18
+Tolimán,Jalisco,si,1,45700.0,0.2,0.26,0.32
+Tolimán,Jalisco,si,2,45708.0,0.27,0.32,0.4
+Tolimán,Jalisco,si,3,43472.0,0.31,0.36,0.42
+Tolimán,Jalisco,si,4,34542.0,0.32,0.37,0.44
+Tolimán,Jalisco,si,5,27968.0,0.32,0.37,0.44
+Tolimán,Jalisco,si,6,12223.0,0.34,0.4,0.48
+Tolimán,Jalisco,si,7,9342.0,0.34,0.4,0.46
+Tolimán,Jalisco,si,8,4419.0,0.38,0.44,0.48
+Tomatlán,Jalisco,si,0,85881.0,0.17,0.2,0.23
+Tomatlán,Jalisco,si,1,85878.0,0.28,0.34,0.43
+Tomatlán,Jalisco,si,2,85878.0,0.31,0.37,0.44
+Tomatlán,Jalisco,si,3,73182.0,0.3,0.36,0.44
+Tomatlán,Jalisco,si,4,57737.0,0.32,0.38,0.46
+Tomatlán,Jalisco,si,5,42098.0,0.32,0.39,0.47
+Tomatlán,Jalisco,si,6,28907.0,0.33,0.4,0.48
+Tomatlán,Jalisco,si,7,21558.0,0.34,0.4,0.49
+Tomatlán,Jalisco,si,8,12586.0,0.32,0.4,0.48
+Tonalá,Jalisco,si,0,7099.0,0.16,0.19,0.22
+Tonalá,Jalisco,si,1,7095.0,0.24,0.28,0.32
+Tonalá,Jalisco,si,2,7091.0,0.27,0.3,0.35
+Tonalá,Jalisco,si,3,6740.0,0.3,0.34,0.4
+Tonalá,Jalisco,si,4,4977.0,0.3,0.34,0.38
+Tonalá,Jalisco,si,5,3974.0,0.32,0.36,0.4
+Tonalá,Jalisco,si,6,1461.0,0.3,0.34,0.4
+Tonalá,Jalisco,si,7,1091.0,0.31,0.36,0.4
+Tonalá,Jalisco,si,8,450.0,0.32,0.36,0.42
+Tonaya,Jalisco,si,0,29037.0,0.15,0.18,0.2
+Tonaya,Jalisco,si,1,29037.0,0.22,0.26,0.3
+Tonaya,Jalisco,si,2,29037.0,0.28,0.32,0.36
+Tonaya,Jalisco,si,3,26873.0,0.3,0.34,0.4
+Tonaya,Jalisco,si,4,20276.0,0.31,0.35,0.4
+Tonaya,Jalisco,si,5,15299.0,0.32,0.37,0.42
+Tonaya,Jalisco,si,6,5161.0,0.3,0.34,0.39
+Tonaya,Jalisco,si,7,3022.0,0.3,0.36,0.42
+Tonaya,Jalisco,si,8,699.0,0.3,0.36,0.4
+Tonila,Jalisco,si,0,17476.0,0.16,0.2,0.23
+Tonila,Jalisco,si,1,17475.0,0.26,0.29,0.35
+Tonila,Jalisco,si,2,17475.0,0.28,0.33,0.39
+Tonila,Jalisco,si,3,16439.0,0.32,0.36,0.42
+Tonila,Jalisco,si,4,12367.0,0.32,0.37,0.42
+Tonila,Jalisco,si,5,9686.0,0.33,0.38,0.44
+Tonila,Jalisco,si,6,6338.0,0.34,0.38,0.44
+Tonila,Jalisco,si,7,4085.0,0.34,0.4,0.47
+Tonila,Jalisco,si,8,2198.0,0.4,0.45,0.51
+Totatiche,Jalisco,si,0,2835.0,0.22,0.24,0.24
+Totatiche,Jalisco,si,1,2829.0,0.28,0.31,0.36
+Totatiche,Jalisco,si,2,2826.0,0.3,0.34,0.4
+Totatiche,Jalisco,si,3,1873.0,0.27,0.3,0.36
+Totatiche,Jalisco,si,4,1531.0,0.28,0.31,0.36
+Totatiche,Jalisco,si,5,1366.0,0.32,0.37,0.41
+Totatiche,Jalisco,si,6,430.0,0.28,0.32,0.38
+Totatiche,Jalisco,si,7,388.0,0.28,0.32,0.36
+Totatiche,Jalisco,si,8,204.0,0.31,0.36,0.4
+Tototlán,Jalisco,si,0,94486.0,0.14,0.16,0.2
+Tototlán,Jalisco,si,1,94486.0,0.22,0.25,0.29
+Tototlán,Jalisco,si,2,94486.0,0.28,0.32,0.36
+Tototlán,Jalisco,si,3,90888.0,0.33,0.38,0.42
+Tototlán,Jalisco,si,4,68998.0,0.33,0.38,0.43
+Tototlán,Jalisco,si,5,43449.0,0.32,0.37,0.42
+Tototlán,Jalisco,si,6,16580.0,0.32,0.37,0.44
+Tototlán,Jalisco,si,7,9073.0,0.32,0.38,0.44
+Tototlán,Jalisco,si,8,3965.0,0.34,0.42,0.5
+Tuxcacuesco,Jalisco,si,0,47191.0,0.14,0.16,0.19
+Tuxcacuesco,Jalisco,si,1,47176.0,0.22,0.25,0.3
+Tuxcacuesco,Jalisco,si,2,47183.0,0.28,0.31,0.36
+Tuxcacuesco,Jalisco,si,3,44737.0,0.3,0.35,0.4
+Tuxcacuesco,Jalisco,si,4,36142.0,0.31,0.36,0.4
+Tuxcacuesco,Jalisco,si,5,27579.0,0.32,0.36,0.42
+Tuxcacuesco,Jalisco,si,6,10906.0,0.31,0.36,0.42
+Tuxcacuesco,Jalisco,si,7,6346.0,0.3,0.37,0.44
+Tuxcacuesco,Jalisco,si,8,1921.0,0.33,0.4,0.48
+Tuxcueca,Jalisco,si,0,6521.0,0.16,0.18,0.22
+Tuxcueca,Jalisco,si,1,6521.0,0.24,0.28,0.34
+Tuxcueca,Jalisco,si,2,6521.0,0.28,0.32,0.38
+Tuxcueca,Jalisco,si,3,5881.0,0.32,0.36,0.42
+Tuxcueca,Jalisco,si,4,4351.0,0.32,0.36,0.43
+Tuxcueca,Jalisco,si,5,3498.0,0.32,0.38,0.46
+Tuxcueca,Jalisco,si,6,1281.0,0.32,0.4,0.49
+Tuxcueca,Jalisco,si,7,818.0,0.32,0.38,0.48
+Tuxcueca,Jalisco,si,8,181.0,0.3,0.36,0.44
+Tuxpan,Jalisco,si,0,136031.0,0.14,0.18,0.21
+Tuxpan,Jalisco,si,1,136004.0,0.23,0.28,0.33
+Tuxpan,Jalisco,si,2,136010.0,0.28,0.32,0.38
+Tuxpan,Jalisco,si,3,131454.0,0.32,0.36,0.42
+Tuxpan,Jalisco,si,4,112030.0,0.33,0.38,0.44
+Tuxpan,Jalisco,si,5,92600.0,0.34,0.4,0.47
+Tuxpan,Jalisco,si,6,51986.0,0.36,0.43,0.5
+Tuxpan,Jalisco,si,7,39349.0,0.36,0.44,0.52
+Tuxpan,Jalisco,si,8,18242.0,0.4,0.49,0.58
+Unión de San Antonio,Jalisco,si,0,90734.0,0.16,0.18,0.19
+Unión de San Antonio,Jalisco,si,1,90734.0,0.22,0.24,0.27
+Unión de San Antonio,Jalisco,si,2,90734.0,0.28,0.3,0.34
+Unión de San Antonio,Jalisco,si,3,85150.0,0.32,0.36,0.41
+Unión de San Antonio,Jalisco,si,4,57387.0,0.34,0.38,0.42
+Unión de San Antonio,Jalisco,si,5,37432.0,0.34,0.38,0.43
+Unión de San Antonio,Jalisco,si,6,7522.0,0.3,0.36,0.42
+Unión de San Antonio,Jalisco,si,7,1959.0,0.31,0.38,0.46
+Unión de San Antonio,Jalisco,si,8,903.0,0.31,0.36,0.46
+Unión de Tula,Jalisco,si,0,15481.0,0.16,0.18,0.2
+Unión de Tula,Jalisco,si,1,15469.0,0.23,0.27,0.32
+Unión de Tula,Jalisco,si,2,15463.0,0.3,0.34,0.39
+Unión de Tula,Jalisco,si,3,14474.0,0.32,0.38,0.44
+Unión de Tula,Jalisco,si,4,8895.0,0.32,0.37,0.43
+Unión de Tula,Jalisco,si,5,4644.0,0.3,0.36,0.42
+Unión de Tula,Jalisco,si,6,1640.0,0.3,0.36,0.44
+Unión de Tula,Jalisco,si,7,1312.0,0.29,0.35,0.44
+Unión de Tula,Jalisco,si,8,198.0,0.31,0.36,0.44
+Valle de Guadalupe,Jalisco,si,0,14251.0,0.16,0.18,0.19
+Valle de Guadalupe,Jalisco,si,1,14251.0,0.2,0.24,0.28
+Valle de Guadalupe,Jalisco,si,2,14251.0,0.28,0.3,0.34
+Valle de Guadalupe,Jalisco,si,3,12853.0,0.32,0.36,0.4
+Valle de Guadalupe,Jalisco,si,4,8979.0,0.32,0.37,0.42
+Valle de Guadalupe,Jalisco,si,5,3819.0,0.31,0.36,0.42
+Valle de Guadalupe,Jalisco,si,6,936.0,0.27,0.32,0.4
+Valle de Guadalupe,Jalisco,si,7,615.0,0.31,0.37,0.43
+Valle de Guadalupe,Jalisco,si,8,154.0,0.32,0.38,0.45
+Valle de Juárez,Jalisco,si,0,3888.0,0.2,0.22,0.24
+Valle de Juárez,Jalisco,si,1,3888.0,0.28,0.3,0.34
+Valle de Juárez,Jalisco,si,2,3888.0,0.28,0.32,0.38
+Valle de Juárez,Jalisco,si,3,3141.0,0.31,0.36,0.42
+Valle de Juárez,Jalisco,si,4,2091.0,0.29,0.34,0.4
+Valle de Juárez,Jalisco,si,5,1727.0,0.35,0.4,0.46
+Valle de Juárez,Jalisco,si,6,890.0,0.32,0.38,0.44
+Valle de Juárez,Jalisco,si,7,619.0,0.36,0.42,0.5
+Valle de Juárez,Jalisco,si,8,142.0,0.38,0.42,0.52
+San Gabriel,Jalisco,si,0,156211.0,0.15,0.18,0.2
+San Gabriel,Jalisco,si,1,156204.0,0.22,0.26,0.3
+San Gabriel,Jalisco,si,2,156207.0,0.28,0.32,0.36
+San Gabriel,Jalisco,si,3,151372.0,0.32,0.36,0.42
+San Gabriel,Jalisco,si,4,123716.0,0.32,0.38,0.44
+San Gabriel,Jalisco,si,5,95154.0,0.34,0.39,0.45
+San Gabriel,Jalisco,si,6,44850.0,0.35,0.41,0.48
+San Gabriel,Jalisco,si,7,32056.0,0.36,0.43,0.5
+San Gabriel,Jalisco,si,8,13972.0,0.4,0.47,0.54
+Villa Corona,Jalisco,si,0,55563.0,0.16,0.18,0.2
+Villa Corona,Jalisco,si,1,55563.0,0.24,0.26,0.3
+Villa Corona,Jalisco,si,2,55563.0,0.29,0.33,0.38
+Villa Corona,Jalisco,si,3,53518.0,0.34,0.38,0.44
+Villa Corona,Jalisco,si,4,35857.0,0.34,0.38,0.44
+Villa Corona,Jalisco,si,5,21823.0,0.34,0.4,0.44
+Villa Corona,Jalisco,si,6,7389.0,0.32,0.36,0.41
+Villa Corona,Jalisco,si,7,4702.0,0.3,0.36,0.42
+Villa Corona,Jalisco,si,8,1461.0,0.32,0.38,0.45
+Villa Guerrero,Jalisco,si,0,4486.0,0.21,0.24,0.24
+Villa Guerrero,Jalisco,si,1,4461.0,0.28,0.3,0.34
+Villa Guerrero,Jalisco,si,2,4459.0,0.26,0.3,0.38
+Villa Guerrero,Jalisco,si,3,3192.0,0.26,0.3,0.36
+Villa Guerrero,Jalisco,si,4,2563.0,0.26,0.29,0.34
+Villa Guerrero,Jalisco,si,5,2446.0,0.28,0.34,0.39
+Villa Guerrero,Jalisco,si,6,1185.0,0.26,0.3,0.36
+Villa Guerrero,Jalisco,si,7,1078.0,0.32,0.36,0.4
+Villa Guerrero,Jalisco,si,8,298.0,0.32,0.36,0.42
+Villa Hidalgo,Jalisco,si,0,9915.0,0.19,0.22,0.24
+Villa Hidalgo,Jalisco,si,1,9915.0,0.27,0.3,0.34
+Villa Hidalgo,Jalisco,si,2,9915.0,0.28,0.32,0.37
+Villa Hidalgo,Jalisco,si,3,9226.0,0.3,0.36,0.4
+Villa Hidalgo,Jalisco,si,4,3586.0,0.28,0.32,0.36
+Villa Hidalgo,Jalisco,si,5,3104.0,0.29,0.34,0.39
+Villa Hidalgo,Jalisco,si,6,1128.0,0.26,0.34,0.4
+Villa Hidalgo,Jalisco,si,7,893.0,0.34,0.42,0.52
+Villa Hidalgo,Jalisco,si,8,432.0,0.36,0.46,0.56
+Cañadas de Obregón,Jalisco,si,0,21484.0,0.16,0.17,0.19
+Cañadas de Obregón,Jalisco,si,1,21483.0,0.2,0.23,0.26
+Cañadas de Obregón,Jalisco,si,2,21483.0,0.26,0.29,0.32
+Cañadas de Obregón,Jalisco,si,3,20403.0,0.31,0.34,0.38
+Cañadas de Obregón,Jalisco,si,4,16885.0,0.32,0.36,0.4
+Cañadas de Obregón,Jalisco,si,5,11374.0,0.31,0.36,0.41
+Cañadas de Obregón,Jalisco,si,6,867.0,0.3,0.35,0.42
+Cañadas de Obregón,Jalisco,si,7,384.0,0.28,0.34,0.42
+Cañadas de Obregón,Jalisco,si,8,90.0,0.32,0.37,0.44
+Yahualica de González Gallo,Jalisco,si,0,39678.0,0.14,0.16,0.18
+Yahualica de González Gallo,Jalisco,si,1,39677.0,0.2,0.22,0.26
+Yahualica de González Gallo,Jalisco,si,2,39678.0,0.26,0.3,0.34
+Yahualica de González Gallo,Jalisco,si,3,36804.0,0.32,0.35,0.39
+Yahualica de González Gallo,Jalisco,si,4,28357.0,0.32,0.35,0.39
+Yahualica de González Gallo,Jalisco,si,5,17209.0,0.3,0.34,0.38
+Yahualica de González Gallo,Jalisco,si,6,2641.0,0.28,0.32,0.36
+Yahualica de González Gallo,Jalisco,si,7,1067.0,0.28,0.32,0.37
+Yahualica de González Gallo,Jalisco,si,8,275.0,0.27,0.32,0.38
+Zacoalco de Torres,Jalisco,si,0,96565.0,0.16,0.18,0.2
+Zacoalco de Torres,Jalisco,si,1,96565.0,0.23,0.26,0.3
+Zacoalco de Torres,Jalisco,si,2,96565.0,0.29,0.32,0.37
+Zacoalco de Torres,Jalisco,si,3,92552.0,0.34,0.38,0.44
+Zacoalco de Torres,Jalisco,si,4,71779.0,0.34,0.4,0.45
+Zacoalco de Torres,Jalisco,si,5,53016.0,0.35,0.4,0.46
+Zacoalco de Torres,Jalisco,si,6,22045.0,0.33,0.38,0.44
+Zacoalco de Torres,Jalisco,si,7,13689.0,0.3,0.36,0.42
+Zacoalco de Torres,Jalisco,si,8,4077.0,0.32,0.39,0.47
+Zapopan,Jalisco,si,0,71750.0,0.16,0.18,0.22
+Zapopan,Jalisco,si,1,71745.0,0.24,0.28,0.34
+Zapopan,Jalisco,si,2,71739.0,0.28,0.31,0.36
+Zapopan,Jalisco,si,3,69815.0,0.31,0.35,0.4
+Zapopan,Jalisco,si,4,56771.0,0.3,0.34,0.38
+Zapopan,Jalisco,si,5,47691.0,0.32,0.37,0.42
+Zapopan,Jalisco,si,6,17906.0,0.3,0.34,0.39
+Zapopan,Jalisco,si,7,14279.0,0.31,0.36,0.4
+Zapopan,Jalisco,si,8,5891.0,0.32,0.36,0.41
+Zapotiltic,Jalisco,si,0,50571.0,0.13,0.17,0.22
+Zapotiltic,Jalisco,si,1,50570.0,0.26,0.34,0.49
+Zapotiltic,Jalisco,si,2,50570.0,0.3,0.37,0.44
+Zapotiltic,Jalisco,si,3,46238.0,0.32,0.38,0.44
+Zapotiltic,Jalisco,si,4,39458.0,0.33,0.4,0.47
+Zapotiltic,Jalisco,si,5,29681.0,0.34,0.42,0.5
+Zapotiltic,Jalisco,si,6,16551.0,0.36,0.45,0.53
+Zapotiltic,Jalisco,si,7,11354.0,0.36,0.44,0.52
+Zapotiltic,Jalisco,si,8,6031.0,0.38,0.46,0.54
+Zapotitlán de Vadillo,Jalisco,si,0,32973.0,0.13,0.16,0.2
+Zapotitlán de Vadillo,Jalisco,si,1,32959.0,0.22,0.26,0.31
+Zapotitlán de Vadillo,Jalisco,si,2,32964.0,0.28,0.32,0.38
+Zapotitlán de Vadillo,Jalisco,si,3,31707.0,0.32,0.37,0.42
+Zapotitlán de Vadillo,Jalisco,si,4,24308.0,0.33,0.38,0.43
+Zapotitlán de Vadillo,Jalisco,si,5,19844.0,0.34,0.4,0.46
+Zapotitlán de Vadillo,Jalisco,si,6,7676.0,0.34,0.39,0.46
+Zapotitlán de Vadillo,Jalisco,si,7,5774.0,0.34,0.4,0.48
+Zapotitlán de Vadillo,Jalisco,si,8,2121.0,0.37,0.46,0.54
+Zapotlán del Rey,Jalisco,si,0,55888.0,0.15,0.17,0.2
+Zapotlán del Rey,Jalisco,si,1,55888.0,0.22,0.25,0.29
+Zapotlán del Rey,Jalisco,si,2,55888.0,0.28,0.32,0.36
+Zapotlán del Rey,Jalisco,si,3,52061.0,0.34,0.38,0.44
+Zapotlán del Rey,Jalisco,si,4,34968.0,0.33,0.38,0.44
+Zapotlán del Rey,Jalisco,si,5,23254.0,0.31,0.36,0.42
+Zapotlán del Rey,Jalisco,si,6,6864.0,0.3,0.34,0.4
+Zapotlán del Rey,Jalisco,si,7,2542.0,0.29,0.34,0.4
+Zapotlán del Rey,Jalisco,si,8,584.0,0.32,0.38,0.45
+Zapotlanejo,Jalisco,si,0,105436.0,0.15,0.17,0.2
+Zapotlanejo,Jalisco,si,1,105420.0,0.22,0.24,0.28
+Zapotlanejo,Jalisco,si,2,105427.0,0.28,0.31,0.35
+Zapotlanejo,Jalisco,si,3,103045.0,0.34,0.38,0.42
+Zapotlanejo,Jalisco,si,4,64959.0,0.33,0.38,0.43
+Zapotlanejo,Jalisco,si,5,39234.0,0.32,0.38,0.42
+Zapotlanejo,Jalisco,si,6,8812.0,0.3,0.35,0.4
+Zapotlanejo,Jalisco,si,7,4441.0,0.3,0.34,0.4
+Zapotlanejo,Jalisco,si,8,1245.0,0.32,0.37,0.44
+San Ignacio Cerro Gordo,Jalisco,si,0,77869.0,0.14,0.16,0.18
+San Ignacio Cerro Gordo,Jalisco,si,1,77869.0,0.2,0.23,0.26
+San Ignacio Cerro Gordo,Jalisco,si,2,77869.0,0.28,0.32,0.36
+San Ignacio Cerro Gordo,Jalisco,si,3,77362.0,0.34,0.39,0.44
+San Ignacio Cerro Gordo,Jalisco,si,4,62016.0,0.34,0.4,0.44
+San Ignacio Cerro Gordo,Jalisco,si,5,42431.0,0.33,0.39,0.44
+San Ignacio Cerro Gordo,Jalisco,si,6,12639.0,0.31,0.36,0.44
+San Ignacio Cerro Gordo,Jalisco,si,7,5994.0,0.31,0.37,0.46
+San Ignacio Cerro Gordo,Jalisco,si,8,2162.0,0.35,0.44,0.55
+Zamora,Michoacan de Ocampo,si,0,33948.0,0.14,0.18,0.21
+Zamora,Michoacan de Ocampo,si,1,33948.0,0.24,0.29,0.36
+Zamora,Michoacan de Ocampo,si,2,33948.0,0.28,0.34,0.42
+Zamora,Michoacan de Ocampo,si,3,30097.0,0.3,0.38,0.46
+Zamora,Michoacan de Ocampo,si,4,22139.0,0.31,0.39,0.48
+Zamora,Michoacan de Ocampo,si,5,13932.0,0.3,0.38,0.48
+Zamora,Michoacan de Ocampo,si,6,9948.0,0.32,0.4,0.49
+Zamora,Michoacan de Ocampo,si,7,6522.0,0.34,0.41,0.51
+Zamora,Michoacan de Ocampo,si,8,2624.0,0.34,0.4,0.48
+Tangancícuaro,Michoacan de Ocampo,si,0,35280.0,0.15,0.2,0.23
+Tangancícuaro,Michoacan de Ocampo,si,1,35280.0,0.25,0.29,0.34
+Tangancícuaro,Michoacan de Ocampo,si,2,35280.0,0.27,0.31,0.38
+Tangancícuaro,Michoacan de Ocampo,si,3,29862.0,0.28,0.33,0.38
+Tangancícuaro,Michoacan de Ocampo,si,4,24943.0,0.3,0.36,0.42
+Tangancícuaro,Michoacan de Ocampo,si,5,18084.0,0.32,0.39,0.46
+Tangancícuaro,Michoacan de Ocampo,si,6,10294.0,0.32,0.39,0.47
+Tangancícuaro,Michoacan de Ocampo,si,7,8408.0,0.37,0.46,0.56
+Tangancícuaro,Michoacan de Ocampo,si,8,2370.0,0.37,0.44,0.54
+Chinicuila,Michoacan de Ocampo,no,0,2.0,0.14,0.14,0.24
+Chinicuila,Michoacan de Ocampo,no,1,2.0,0.31,0.31,0.32
+Chinicuila,Michoacan de Ocampo,no,2,2.0,0.29,0.29,0.38
+Chinicuila,Michoacan de Ocampo,no,3,1.0,0.29,0.29,0.29
+Chinicuila,Michoacan de Ocampo,no,4,1.0,0.34,0.34,0.34
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,0,117.0,0.2,0.22,0.24
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,1,117.0,0.28,0.31,0.36
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2,117.0,0.3,0.34,0.4
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,3,103.0,0.29,0.32,0.4
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,4,85.0,0.3,0.35,0.4
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,5,85.0,0.31,0.36,0.41
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,6,57.0,0.31,0.36,0.42
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,7,56.0,0.32,0.38,0.42
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,8,30.0,0.37,0.42,0.48
+Aguililla,Michoacan de Ocampo,no,0,11589.0,0.14,0.17,0.21
+Aguililla,Michoacan de Ocampo,no,1,11589.0,0.23,0.27,0.3
+Aguililla,Michoacan de Ocampo,no,2,11589.0,0.32,0.36,0.42
+Aguililla,Michoacan de Ocampo,no,3,10079.0,0.34,0.4,0.46
+Aguililla,Michoacan de Ocampo,no,4,6835.0,0.34,0.4,0.45
+Aguililla,Michoacan de Ocampo,no,5,6545.0,0.38,0.42,0.48
+Aguililla,Michoacan de Ocampo,no,6,5193.0,0.38,0.42,0.48
+Aguililla,Michoacan de Ocampo,no,7,4146.0,0.38,0.44,0.5
+Aguililla,Michoacan de Ocampo,no,8,3051.0,0.38,0.44,0.48
+La Huacana,Michoacan de Ocampo,no,0,5031.0,0.16,0.2,0.23
+La Huacana,Michoacan de Ocampo,no,1,5013.0,0.26,0.3,0.36
+La Huacana,Michoacan de Ocampo,no,2,5020.0,0.29,0.34,0.4
+La Huacana,Michoacan de Ocampo,no,3,4483.0,0.3,0.35,0.4
+La Huacana,Michoacan de Ocampo,no,4,4095.0,0.32,0.38,0.44
+La Huacana,Michoacan de Ocampo,no,5,3697.0,0.34,0.39,0.46
+La Huacana,Michoacan de Ocampo,no,6,2329.0,0.35,0.41,0.49
+La Huacana,Michoacan de Ocampo,no,7,1512.0,0.38,0.46,0.54
+La Huacana,Michoacan de Ocampo,no,8,720.0,0.4,0.49,0.58
+Múgica,Michoacan de Ocampo,no,0,29279.0,0.14,0.18,0.22
+Múgica,Michoacan de Ocampo,no,1,29279.0,0.27,0.33,0.42
+Múgica,Michoacan de Ocampo,no,2,29279.0,0.3,0.36,0.42
+Múgica,Michoacan de Ocampo,no,3,26090.0,0.32,0.38,0.44
+Múgica,Michoacan de Ocampo,no,4,22377.0,0.34,0.4,0.46
+Múgica,Michoacan de Ocampo,no,5,18748.0,0.36,0.42,0.48
+Múgica,Michoacan de Ocampo,no,6,12496.0,0.38,0.44,0.5
+Múgica,Michoacan de Ocampo,no,7,8118.0,0.39,0.45,0.51
+Múgica,Michoacan de Ocampo,no,8,3240.0,0.38,0.45,0.52
+Turicato,Michoacan de Ocampo,no,0,18046.0,0.18,0.21,0.24
+Turicato,Michoacan de Ocampo,no,1,18036.0,0.26,0.3,0.36
+Turicato,Michoacan de Ocampo,no,2,18032.0,0.28,0.32,0.38
+Turicato,Michoacan de Ocampo,no,3,16310.0,0.3,0.34,0.4
+Turicato,Michoacan de Ocampo,no,4,14875.0,0.33,0.37,0.42
+Turicato,Michoacan de Ocampo,no,5,12715.0,0.34,0.39,0.44
+Turicato,Michoacan de Ocampo,no,6,7541.0,0.36,0.41,0.47
+Turicato,Michoacan de Ocampo,no,7,5540.0,0.38,0.42,0.48
+Turicato,Michoacan de Ocampo,no,8,2141.0,0.38,0.44,0.5
+Carácuaro,Michoacan de Ocampo,no,0,802.0,0.18,0.22,0.24
+Carácuaro,Michoacan de Ocampo,no,1,798.0,0.25,0.28,0.32
+Carácuaro,Michoacan de Ocampo,no,2,800.0,0.28,0.31,0.36
+Carácuaro,Michoacan de Ocampo,no,3,713.0,0.28,0.32,0.38
+Carácuaro,Michoacan de Ocampo,no,4,663.0,0.3,0.34,0.4
+Carácuaro,Michoacan de Ocampo,no,5,594.0,0.31,0.35,0.4
+Carácuaro,Michoacan de Ocampo,no,6,531.0,0.3,0.35,0.4
+Carácuaro,Michoacan de Ocampo,no,7,443.0,0.3,0.36,0.42
+Carácuaro,Michoacan de Ocampo,no,8,323.0,0.32,0.38,0.44
+Tepalcatepec,Michoacan de Ocampo,no,0,95084.0,0.14,0.18,0.22
+Tepalcatepec,Michoacan de Ocampo,no,1,95083.0,0.24,0.3,0.39
+Tepalcatepec,Michoacan de Ocampo,no,2,95081.0,0.28,0.34,0.42
+Tepalcatepec,Michoacan de Ocampo,no,3,75779.0,0.3,0.36,0.42
+Tepalcatepec,Michoacan de Ocampo,no,4,64073.0,0.34,0.38,0.44
+Tepalcatepec,Michoacan de Ocampo,no,5,56336.0,0.36,0.42,0.47
+Tepalcatepec,Michoacan de Ocampo,no,6,45243.0,0.37,0.44,0.49
+Tepalcatepec,Michoacan de Ocampo,no,7,35401.0,0.39,0.46,0.51
+Tepalcatepec,Michoacan de Ocampo,no,8,16618.0,0.4,0.46,0.52
+Apatzingán,Michoacan de Ocampo,no,0,122713.0,0.14,0.18,0.22
+Apatzingán,Michoacan de Ocampo,no,1,122712.0,0.26,0.29,0.35
+Apatzingán,Michoacan de Ocampo,no,2,122709.0,0.3,0.34,0.4
+Apatzingán,Michoacan de Ocampo,no,3,113906.0,0.34,0.38,0.43
+Apatzingán,Michoacan de Ocampo,no,4,99574.0,0.36,0.4,0.46
+Apatzingán,Michoacan de Ocampo,no,5,84254.0,0.37,0.42,0.48
+Apatzingán,Michoacan de Ocampo,no,6,64300.0,0.38,0.44,0.49
+Apatzingán,Michoacan de Ocampo,no,7,47094.0,0.38,0.44,0.5
+Apatzingán,Michoacan de Ocampo,no,8,23374.0,0.4,0.45,0.5
+Parácuaro,Michoacan de Ocampo,no,0,53134.0,0.14,0.18,0.22
+Parácuaro,Michoacan de Ocampo,no,1,53134.0,0.26,0.3,0.38
+Parácuaro,Michoacan de Ocampo,no,2,53134.0,0.29,0.34,0.4
+Parácuaro,Michoacan de Ocampo,no,3,48411.0,0.32,0.38,0.44
+Parácuaro,Michoacan de Ocampo,no,4,42459.0,0.35,0.41,0.46
+Parácuaro,Michoacan de Ocampo,no,5,33296.0,0.37,0.43,0.48
+Parácuaro,Michoacan de Ocampo,no,6,23222.0,0.38,0.44,0.5
+Parácuaro,Michoacan de Ocampo,no,7,16912.0,0.38,0.46,0.52
+Parácuaro,Michoacan de Ocampo,no,8,7799.0,0.4,0.46,0.52
+Nocupétaro,Michoacan de Ocampo,no,0,1312.0,0.19,0.22,0.24
+Nocupétaro,Michoacan de Ocampo,no,1,1280.0,0.26,0.28,0.32
+Nocupétaro,Michoacan de Ocampo,no,2,1290.0,0.28,0.32,0.36
+Nocupétaro,Michoacan de Ocampo,no,3,1080.0,0.3,0.34,0.39
+Nocupétaro,Michoacan de Ocampo,no,4,995.0,0.31,0.36,0.43
+Nocupétaro,Michoacan de Ocampo,no,5,848.0,0.32,0.38,0.46
+Nocupétaro,Michoacan de Ocampo,no,6,594.0,0.32,0.37,0.46
+Nocupétaro,Michoacan de Ocampo,no,7,449.0,0.34,0.39,0.46
+Nocupétaro,Michoacan de Ocampo,no,8,231.0,0.32,0.38,0.45
+Nuevo Urecho,Michoacan de Ocampo,no,0,13936.0,0.16,0.2,0.23
+Nuevo Urecho,Michoacan de Ocampo,no,1,13932.0,0.27,0.32,0.4
+Nuevo Urecho,Michoacan de Ocampo,no,2,13935.0,0.3,0.36,0.42
+Nuevo Urecho,Michoacan de Ocampo,no,3,12745.0,0.32,0.38,0.44
+Nuevo Urecho,Michoacan de Ocampo,no,4,11819.0,0.32,0.38,0.44
+Nuevo Urecho,Michoacan de Ocampo,no,5,10258.0,0.34,0.4,0.46
+Nuevo Urecho,Michoacan de Ocampo,no,6,7110.0,0.34,0.4,0.46
+Nuevo Urecho,Michoacan de Ocampo,no,7,4451.0,0.37,0.42,0.48
+Nuevo Urecho,Michoacan de Ocampo,no,8,1675.0,0.38,0.42,0.48
+Gabriel Zamora,Michoacan de Ocampo,no,0,28320.0,0.16,0.2,0.22
+Gabriel Zamora,Michoacan de Ocampo,no,1,28314.0,0.27,0.32,0.4
+Gabriel Zamora,Michoacan de Ocampo,no,2,28308.0,0.3,0.36,0.43
+Gabriel Zamora,Michoacan de Ocampo,no,3,25779.0,0.32,0.38,0.44
+Gabriel Zamora,Michoacan de Ocampo,no,4,22529.0,0.34,0.4,0.46
+Gabriel Zamora,Michoacan de Ocampo,no,5,18512.0,0.36,0.42,0.48
+Gabriel Zamora,Michoacan de Ocampo,no,6,13530.0,0.37,0.44,0.5
+Gabriel Zamora,Michoacan de Ocampo,no,7,8162.0,0.38,0.44,0.53
+Gabriel Zamora,Michoacan de Ocampo,no,8,4026.0,0.38,0.46,0.55
+Ario,Michoacan de Ocampo,no,0,35488.0,0.16,0.2,0.23
+Ario,Michoacan de Ocampo,no,1,35475.0,0.26,0.29,0.34
+Ario,Michoacan de Ocampo,no,2,35472.0,0.28,0.32,0.36
+Ario,Michoacan de Ocampo,no,3,31655.0,0.3,0.34,0.38
+Ario,Michoacan de Ocampo,no,4,28776.0,0.32,0.36,0.41
+Ario,Michoacan de Ocampo,no,5,25232.0,0.34,0.38,0.44
+Ario,Michoacan de Ocampo,no,6,15978.0,0.34,0.4,0.45
+Ario,Michoacan de Ocampo,no,7,12471.0,0.37,0.42,0.49
+Ario,Michoacan de Ocampo,no,8,5074.0,0.36,0.42,0.5
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,0,291.0,0.2,0.22,0.24
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,1,291.0,0.27,0.3,0.36
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2,291.0,0.28,0.32,0.38
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,3,242.0,0.3,0.32,0.38
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,4,201.0,0.3,0.34,0.38
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,5,184.0,0.31,0.36,0.41
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,6,118.0,0.3,0.36,0.42
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,7,102.0,0.31,0.36,0.42
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,8,54.0,0.33,0.37,0.42
+Taretan,Michoacan de Ocampo,no,0,14150.0,0.18,0.21,0.24
+Taretan,Michoacan de Ocampo,no,1,14148.0,0.28,0.35,0.42
+Taretan,Michoacan de Ocampo,no,2,14143.0,0.31,0.38,0.44
+Taretan,Michoacan de Ocampo,no,3,12409.0,0.32,0.38,0.44
+Taretan,Michoacan de Ocampo,no,4,10837.0,0.34,0.39,0.44
+Taretan,Michoacan de Ocampo,no,5,8762.0,0.34,0.4,0.45
+Taretan,Michoacan de Ocampo,no,6,5721.0,0.34,0.4,0.46
+Taretan,Michoacan de Ocampo,no,7,3914.0,0.36,0.42,0.47
+Taretan,Michoacan de Ocampo,no,8,1200.0,0.36,0.41,0.46
+Buenavista,Michoacan de Ocampo,no,0,163680.0,0.14,0.18,0.22
+Buenavista,Michoacan de Ocampo,no,1,163670.0,0.25,0.3,0.36
+Buenavista,Michoacan de Ocampo,no,2,163671.0,0.29,0.34,0.4
+Buenavista,Michoacan de Ocampo,no,3,147499.0,0.32,0.38,0.42
+Buenavista,Michoacan de Ocampo,no,4,127005.0,0.35,0.4,0.46
+Buenavista,Michoacan de Ocampo,no,5,107836.0,0.37,0.42,0.48
+Buenavista,Michoacan de Ocampo,no,6,83893.0,0.38,0.44,0.5
+Buenavista,Michoacan de Ocampo,no,7,62228.0,0.39,0.44,0.5
+Buenavista,Michoacan de Ocampo,no,8,31474.0,0.38,0.44,0.5
+Tacámbaro,Michoacan de Ocampo,no,0,44915.0,0.18,0.22,0.24
+Tacámbaro,Michoacan de Ocampo,no,1,44908.0,0.27,0.3,0.36
+Tacámbaro,Michoacan de Ocampo,no,2,44908.0,0.28,0.32,0.38
+Tacámbaro,Michoacan de Ocampo,no,3,39119.0,0.29,0.34,0.38
+Tacámbaro,Michoacan de Ocampo,no,4,35273.0,0.32,0.36,0.42
+Tacámbaro,Michoacan de Ocampo,no,5,30025.0,0.34,0.4,0.45
+Tacámbaro,Michoacan de Ocampo,no,6,15519.0,0.34,0.4,0.47
+Tacámbaro,Michoacan de Ocampo,no,7,12352.0,0.38,0.44,0.52
+Tacámbaro,Michoacan de Ocampo,no,8,4002.0,0.38,0.45,0.53
+Salvador Escalante,Michoacan de Ocampo,no,0,37688.0,0.18,0.22,0.24
+Salvador Escalante,Michoacan de Ocampo,no,1,37684.0,0.26,0.29,0.32
+Salvador Escalante,Michoacan de Ocampo,no,2,37678.0,0.27,0.3,0.34
+Salvador Escalante,Michoacan de Ocampo,no,3,35210.0,0.28,0.32,0.36
+Salvador Escalante,Michoacan de Ocampo,no,4,32406.0,0.31,0.36,0.4
+Salvador Escalante,Michoacan de Ocampo,no,5,26049.0,0.34,0.38,0.44
+Salvador Escalante,Michoacan de Ocampo,no,6,15134.0,0.34,0.39,0.45
+Salvador Escalante,Michoacan de Ocampo,no,7,13685.0,0.38,0.44,0.52
+Salvador Escalante,Michoacan de Ocampo,no,8,2802.0,0.38,0.44,0.52
+Ziracuaretiro,Michoacan de Ocampo,no,0,10124.0,0.16,0.2,0.23
+Ziracuaretiro,Michoacan de Ocampo,no,1,10124.0,0.27,0.31,0.36
+Ziracuaretiro,Michoacan de Ocampo,no,2,10124.0,0.28,0.33,0.38
+Ziracuaretiro,Michoacan de Ocampo,no,3,8867.0,0.3,0.34,0.4
+Ziracuaretiro,Michoacan de Ocampo,no,4,7726.0,0.32,0.36,0.42
+Ziracuaretiro,Michoacan de Ocampo,no,5,6440.0,0.33,0.38,0.43
+Ziracuaretiro,Michoacan de Ocampo,no,6,3480.0,0.33,0.38,0.44
+Ziracuaretiro,Michoacan de Ocampo,no,7,2455.0,0.34,0.38,0.44
+Ziracuaretiro,Michoacan de Ocampo,no,8,677.0,0.34,0.39,0.46
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,0,4904.0,0.2,0.22,0.24
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,1,4900.0,0.26,0.29,0.32
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2,4903.0,0.27,0.3,0.34
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,3,4657.0,0.28,0.32,0.36
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,4,4311.0,0.3,0.34,0.4
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,5,3407.0,0.33,0.38,0.44
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,6,1951.0,0.32,0.36,0.42
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,7,1728.0,0.37,0.42,0.5
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,8,203.0,0.37,0.42,0.49
+Tancítaro,Michoacan de Ocampo,si,0,22096.0,0.18,0.22,0.24
+Tancítaro,Michoacan de Ocampo,si,1,22027.0,0.26,0.28,0.32
+Tancítaro,Michoacan de Ocampo,si,2,22066.0,0.28,0.3,0.35
+Tancítaro,Michoacan de Ocampo,si,3,20289.0,0.3,0.33,0.37
+Tancítaro,Michoacan de Ocampo,si,4,18012.0,0.31,0.35,0.4
+Tancítaro,Michoacan de Ocampo,si,5,15638.0,0.34,0.38,0.43
+Tancítaro,Michoacan de Ocampo,si,6,9829.0,0.32,0.37,0.43
+Tancítaro,Michoacan de Ocampo,si,7,8408.0,0.36,0.42,0.48
+Tancítaro,Michoacan de Ocampo,si,8,2509.0,0.36,0.43,0.5
+Madero,Michoacan de Ocampo,no,0,11173.0,0.19,0.22,0.24
+Madero,Michoacan de Ocampo,no,1,11169.0,0.28,0.3,0.36
+Madero,Michoacan de Ocampo,no,2,11170.0,0.29,0.34,0.38
+Madero,Michoacan de Ocampo,no,3,9617.0,0.3,0.34,0.39
+Madero,Michoacan de Ocampo,no,4,8696.0,0.32,0.37,0.42
+Madero,Michoacan de Ocampo,no,5,7239.0,0.34,0.38,0.44
+Madero,Michoacan de Ocampo,no,6,3916.0,0.34,0.39,0.46
+Madero,Michoacan de Ocampo,no,7,3431.0,0.36,0.42,0.49
+Madero,Michoacan de Ocampo,no,8,1234.0,0.36,0.42,0.49
+Acuitzio,Michoacan de Ocampo,no,0,10162.0,0.19,0.22,0.24
+Acuitzio,Michoacan de Ocampo,no,1,10162.0,0.28,0.3,0.35
+Acuitzio,Michoacan de Ocampo,no,2,10162.0,0.28,0.32,0.37
+Acuitzio,Michoacan de Ocampo,no,3,8907.0,0.29,0.32,0.36
+Acuitzio,Michoacan de Ocampo,no,4,8089.0,0.32,0.36,0.41
+Acuitzio,Michoacan de Ocampo,no,5,7058.0,0.35,0.39,0.44
+Acuitzio,Michoacan de Ocampo,no,6,2593.0,0.34,0.39,0.46
+Acuitzio,Michoacan de Ocampo,no,7,2383.0,0.37,0.44,0.51
+Acuitzio,Michoacan de Ocampo,no,8,996.0,0.38,0.46,0.54
+Huiramba,Michoacan de Ocampo,no,0,4947.0,0.19,0.22,0.24
+Huiramba,Michoacan de Ocampo,no,1,4947.0,0.27,0.3,0.33
+Huiramba,Michoacan de Ocampo,no,2,4947.0,0.28,0.3,0.36
+Huiramba,Michoacan de Ocampo,no,3,4280.0,0.27,0.3,0.34
+Huiramba,Michoacan de Ocampo,no,4,3945.0,0.3,0.34,0.38
+Huiramba,Michoacan de Ocampo,no,5,3742.0,0.34,0.38,0.43
+Huiramba,Michoacan de Ocampo,no,6,1348.0,0.3,0.35,0.42
+Huiramba,Michoacan de Ocampo,no,7,1259.0,0.35,0.4,0.48
+Huiramba,Michoacan de Ocampo,no,8,375.0,0.38,0.45,0.54
+Pátzcuaro,Michoacan de Ocampo,no,0,37722.0,0.18,0.22,0.24
+Pátzcuaro,Michoacan de Ocampo,no,1,37720.0,0.27,0.3,0.36
+Pátzcuaro,Michoacan de Ocampo,no,2,37721.0,0.28,0.32,0.38
+Pátzcuaro,Michoacan de Ocampo,no,3,32035.0,0.28,0.32,0.38
+Pátzcuaro,Michoacan de Ocampo,no,4,28214.0,0.32,0.36,0.42
+Pátzcuaro,Michoacan de Ocampo,no,5,24489.0,0.34,0.4,0.46
+Pátzcuaro,Michoacan de Ocampo,no,6,10383.0,0.33,0.4,0.48
+Pátzcuaro,Michoacan de Ocampo,no,7,8996.0,0.38,0.44,0.53
+Pátzcuaro,Michoacan de Ocampo,no,8,2602.0,0.38,0.45,0.54
+Peribán,Michoacan de Ocampo,si,0,31762.0,0.12,0.16,0.2
+Peribán,Michoacan de Ocampo,si,1,31752.0,0.24,0.3,0.36
+Peribán,Michoacan de Ocampo,si,2,31755.0,0.3,0.34,0.4
+Peribán,Michoacan de Ocampo,si,3,27961.0,0.32,0.38,0.44
+Peribán,Michoacan de Ocampo,si,4,21890.0,0.33,0.38,0.44
+Peribán,Michoacan de Ocampo,si,5,15657.0,0.33,0.38,0.44
+Peribán,Michoacan de Ocampo,si,6,8809.0,0.32,0.38,0.46
+Peribán,Michoacan de Ocampo,si,7,5907.0,0.34,0.4,0.46
+Peribán,Michoacan de Ocampo,si,8,2224.0,0.36,0.43,0.5
+Tingambato,Michoacan de Ocampo,no,0,6164.0,0.2,0.22,0.24
+Tingambato,Michoacan de Ocampo,no,1,6164.0,0.28,0.3,0.35
+Tingambato,Michoacan de Ocampo,no,2,6164.0,0.28,0.32,0.36
+Tingambato,Michoacan de Ocampo,no,3,5503.0,0.3,0.34,0.38
+Tingambato,Michoacan de Ocampo,no,4,4560.0,0.33,0.36,0.4
+Tingambato,Michoacan de Ocampo,no,5,3640.0,0.36,0.4,0.44
+Tingambato,Michoacan de Ocampo,no,6,1419.0,0.35,0.4,0.44
+Tingambato,Michoacan de Ocampo,no,7,1369.0,0.39,0.44,0.5
+Tingambato,Michoacan de Ocampo,no,8,459.0,0.39,0.46,0.5
+Uruapan,Michoacan de Ocampo,no,0,58499.0,0.18,0.22,0.24
+Uruapan,Michoacan de Ocampo,no,1,58462.0,0.26,0.3,0.34
+Uruapan,Michoacan de Ocampo,no,2,58485.0,0.27,0.3,0.34
+Uruapan,Michoacan de Ocampo,no,3,54600.0,0.3,0.33,0.38
+Uruapan,Michoacan de Ocampo,no,4,49114.0,0.3,0.35,0.4
+Uruapan,Michoacan de Ocampo,no,5,42155.0,0.34,0.38,0.44
+Uruapan,Michoacan de Ocampo,no,6,24434.0,0.33,0.38,0.45
+Uruapan,Michoacan de Ocampo,no,7,19866.0,0.36,0.42,0.5
+Uruapan,Michoacan de Ocampo,no,8,4440.0,0.34,0.4,0.49
+Lagunillas,Michoacan de Ocampo,no,0,5989.0,0.18,0.22,0.24
+Lagunillas,Michoacan de Ocampo,no,1,5989.0,0.27,0.3,0.34
+Lagunillas,Michoacan de Ocampo,no,2,5989.0,0.28,0.32,0.39
+Lagunillas,Michoacan de Ocampo,no,3,4390.0,0.27,0.3,0.36
+Lagunillas,Michoacan de Ocampo,no,4,3943.0,0.3,0.34,0.39
+Lagunillas,Michoacan de Ocampo,no,5,3235.0,0.33,0.38,0.42
+Lagunillas,Michoacan de Ocampo,no,6,1147.0,0.31,0.36,0.44
+Lagunillas,Michoacan de Ocampo,no,7,1048.0,0.32,0.4,0.47
+Lagunillas,Michoacan de Ocampo,no,8,393.0,0.42,0.53,0.62
+Tzintzuntzan,Michoacan de Ocampo,no,0,6327.0,0.16,0.22,0.24
+Tzintzuntzan,Michoacan de Ocampo,no,1,6327.0,0.28,0.31,0.37
+Tzintzuntzan,Michoacan de Ocampo,no,2,6327.0,0.29,0.36,0.43
+Tzintzuntzan,Michoacan de Ocampo,no,3,3842.0,0.28,0.32,0.39
+Tzintzuntzan,Michoacan de Ocampo,no,4,3282.0,0.3,0.34,0.41
+Tzintzuntzan,Michoacan de Ocampo,no,5,2848.0,0.33,0.38,0.44
+Tzintzuntzan,Michoacan de Ocampo,no,6,1438.0,0.32,0.38,0.46
+Tzintzuntzan,Michoacan de Ocampo,no,7,1159.0,0.36,0.43,0.54
+Tzintzuntzan,Michoacan de Ocampo,no,8,499.0,0.36,0.43,0.5
+Tzitzio,Michoacan de Ocampo,no,0,1843.0,0.2,0.22,0.24
+Tzitzio,Michoacan de Ocampo,no,1,1843.0,0.26,0.3,0.35
+Tzitzio,Michoacan de Ocampo,no,2,1843.0,0.28,0.32,0.38
+Tzitzio,Michoacan de Ocampo,no,3,1450.0,0.28,0.32,0.37
+Tzitzio,Michoacan de Ocampo,no,4,1390.0,0.31,0.36,0.4
+Tzitzio,Michoacan de Ocampo,no,5,1262.0,0.32,0.36,0.41
+Tzitzio,Michoacan de Ocampo,no,6,907.0,0.32,0.37,0.42
+Tzitzio,Michoacan de Ocampo,no,7,842.0,0.35,0.4,0.46
+Tzitzio,Michoacan de Ocampo,no,8,229.0,0.36,0.41,0.48
+Erongarícuaro,Michoacan de Ocampo,no,0,24403.0,0.16,0.2,0.23
+Erongarícuaro,Michoacan de Ocampo,no,1,24403.0,0.28,0.33,0.39
+Erongarícuaro,Michoacan de Ocampo,no,2,24403.0,0.28,0.34,0.41
+Erongarícuaro,Michoacan de Ocampo,no,3,16784.0,0.28,0.33,0.4
+Erongarícuaro,Michoacan de Ocampo,no,4,14832.0,0.33,0.39,0.48
+Erongarícuaro,Michoacan de Ocampo,no,5,13148.0,0.36,0.43,0.52
+Erongarícuaro,Michoacan de Ocampo,no,6,3891.0,0.34,0.4,0.5
+Erongarícuaro,Michoacan de Ocampo,no,7,3158.0,0.38,0.46,0.55
+Erongarícuaro,Michoacan de Ocampo,no,8,1243.0,0.4,0.48,0.56
+Paracho,Michoacan de Ocampo,no,0,15417.0,0.2,0.22,0.24
+Paracho,Michoacan de Ocampo,no,1,15417.0,0.28,0.3,0.34
+Paracho,Michoacan de Ocampo,no,2,15417.0,0.28,0.3,0.34
+Paracho,Michoacan de Ocampo,no,3,14555.0,0.3,0.33,0.38
+Paracho,Michoacan de Ocampo,no,4,12693.0,0.3,0.34,0.38
+Paracho,Michoacan de Ocampo,no,5,11188.0,0.35,0.4,0.44
+Paracho,Michoacan de Ocampo,no,6,3302.0,0.31,0.36,0.42
+Paracho,Michoacan de Ocampo,no,7,3048.0,0.37,0.42,0.5
+Paracho,Michoacan de Ocampo,no,8,548.0,0.38,0.42,0.48
+Nahuatzen,Michoacan de Ocampo,no,0,24052.0,0.19,0.22,0.24
+Nahuatzen,Michoacan de Ocampo,no,1,24052.0,0.28,0.3,0.35
+Nahuatzen,Michoacan de Ocampo,no,2,24051.0,0.28,0.32,0.36
+Nahuatzen,Michoacan de Ocampo,no,3,21246.0,0.3,0.34,0.38
+Nahuatzen,Michoacan de Ocampo,no,4,18424.0,0.31,0.36,0.42
+Nahuatzen,Michoacan de Ocampo,no,5,15288.0,0.36,0.42,0.48
+Nahuatzen,Michoacan de Ocampo,no,6,4097.0,0.34,0.41,0.52
+Nahuatzen,Michoacan de Ocampo,no,7,3107.0,0.38,0.44,0.55
+Nahuatzen,Michoacan de Ocampo,no,8,865.0,0.4,0.46,0.54
+Quiroga,Michoacan de Ocampo,no,0,7565.0,0.18,0.22,0.24
+Quiroga,Michoacan de Ocampo,no,1,7563.0,0.26,0.3,0.34
+Quiroga,Michoacan de Ocampo,no,2,7563.0,0.28,0.32,0.37
+Quiroga,Michoacan de Ocampo,no,3,6377.0,0.28,0.32,0.37
+Quiroga,Michoacan de Ocampo,no,4,5629.0,0.3,0.36,0.42
+Quiroga,Michoacan de Ocampo,no,5,5066.0,0.35,0.4,0.47
+Quiroga,Michoacan de Ocampo,no,6,1907.0,0.33,0.4,0.46
+Quiroga,Michoacan de Ocampo,no,7,1438.0,0.37,0.46,0.54
+Quiroga,Michoacan de Ocampo,no,8,576.0,0.38,0.44,0.52
+Charo,Michoacan de Ocampo,no,0,9528.0,0.16,0.2,0.23
+Charo,Michoacan de Ocampo,no,1,9528.0,0.25,0.29,0.34
+Charo,Michoacan de Ocampo,no,2,9528.0,0.3,0.34,0.39
+Charo,Michoacan de Ocampo,no,3,7795.0,0.32,0.38,0.47
+Charo,Michoacan de Ocampo,no,4,3459.0,0.32,0.36,0.42
+Charo,Michoacan de Ocampo,no,5,2592.0,0.32,0.36,0.42
+Charo,Michoacan de Ocampo,no,6,1324.0,0.32,0.36,0.42
+Charo,Michoacan de Ocampo,no,7,1202.0,0.32,0.38,0.44
+Charo,Michoacan de Ocampo,no,8,650.0,0.34,0.4,0.48
+Cherán,Michoacan de Ocampo,no,0,16828.0,0.18,0.22,0.24
+Cherán,Michoacan de Ocampo,no,1,16828.0,0.3,0.34,0.4
+Cherán,Michoacan de Ocampo,no,2,16828.0,0.29,0.34,0.4
+Cherán,Michoacan de Ocampo,no,3,14781.0,0.3,0.34,0.4
+Cherán,Michoacan de Ocampo,no,4,13469.0,0.32,0.38,0.44
+Cherán,Michoacan de Ocampo,no,5,12561.0,0.38,0.44,0.52
+Cherán,Michoacan de Ocampo,no,6,2471.0,0.32,0.38,0.46
+Cherán,Michoacan de Ocampo,no,7,2169.0,0.37,0.44,0.52
+Cherán,Michoacan de Ocampo,no,8,767.0,0.39,0.48,0.54
+Los Reyes,Michoacan de Ocampo,si,0,46977.0,0.14,0.2,0.23
+Los Reyes,Michoacan de Ocampo,si,1,46977.0,0.26,0.3,0.37
+Los Reyes,Michoacan de Ocampo,si,2,46976.0,0.28,0.32,0.38
+Los Reyes,Michoacan de Ocampo,si,3,43421.0,0.3,0.35,0.4
+Los Reyes,Michoacan de Ocampo,si,4,37544.0,0.32,0.37,0.43
+Los Reyes,Michoacan de Ocampo,si,5,29974.0,0.34,0.4,0.46
+Los Reyes,Michoacan de Ocampo,si,6,16216.0,0.33,0.39,0.46
+Los Reyes,Michoacan de Ocampo,si,7,13159.0,0.36,0.43,0.51
+Los Reyes,Michoacan de Ocampo,si,8,3414.0,0.36,0.42,0.5
+Charapan,Michoacan de Ocampo,no,0,21208.0,0.19,0.22,0.24
+Charapan,Michoacan de Ocampo,no,1,21208.0,0.27,0.3,0.33
+Charapan,Michoacan de Ocampo,no,2,21205.0,0.27,0.3,0.34
+Charapan,Michoacan de Ocampo,no,3,19662.0,0.3,0.33,0.38
+Charapan,Michoacan de Ocampo,no,4,16192.0,0.3,0.34,0.4
+Charapan,Michoacan de Ocampo,no,5,12689.0,0.36,0.4,0.46
+Charapan,Michoacan de Ocampo,no,6,5158.0,0.32,0.37,0.44
+Charapan,Michoacan de Ocampo,no,7,4615.0,0.39,0.44,0.52
+Charapan,Michoacan de Ocampo,no,8,634.0,0.39,0.46,0.54
+Queréndaro,Michoacan de Ocampo,no,0,120.0,0.22,0.23,0.24
+Queréndaro,Michoacan de Ocampo,no,1,120.0,0.3,0.36,0.41
+Queréndaro,Michoacan de Ocampo,no,2,120.0,0.35,0.4,0.44
+Queréndaro,Michoacan de Ocampo,no,3,51.0,0.34,0.44,0.63
+Queréndaro,Michoacan de Ocampo,no,4,23.0,0.32,0.48,0.64
+Queréndaro,Michoacan de Ocampo,no,5,15.0,0.29,0.39,0.47
+Queréndaro,Michoacan de Ocampo,no,6,7.0,0.3,0.32,0.39
+Queréndaro,Michoacan de Ocampo,no,7,7.0,0.3,0.34,0.48
+Queréndaro,Michoacan de Ocampo,no,8,2.0,0.38,0.38,0.39
+Tocumbo,Michoacan de Ocampo,si,0,16382.0,0.14,0.19,0.22
+Tocumbo,Michoacan de Ocampo,si,1,16380.0,0.26,0.3,0.38
+Tocumbo,Michoacan de Ocampo,si,2,16381.0,0.29,0.34,0.4
+Tocumbo,Michoacan de Ocampo,si,3,14587.0,0.31,0.36,0.42
+Tocumbo,Michoacan de Ocampo,si,4,12459.0,0.33,0.38,0.44
+Tocumbo,Michoacan de Ocampo,si,5,8913.0,0.34,0.4,0.46
+Tocumbo,Michoacan de Ocampo,si,6,5230.0,0.34,0.4,0.46
+Tocumbo,Michoacan de Ocampo,si,7,4061.0,0.34,0.42,0.5
+Tocumbo,Michoacan de Ocampo,si,8,2034.0,0.38,0.44,0.54
+Morelia,Michoacan de Ocampo,no,0,58732.0,0.19,0.22,0.24
+Morelia,Michoacan de Ocampo,no,1,58732.0,0.28,0.32,0.37
+Morelia,Michoacan de Ocampo,no,2,58731.0,0.3,0.36,0.4
+Morelia,Michoacan de Ocampo,no,3,32429.0,0.28,0.32,0.37
+Morelia,Michoacan de Ocampo,no,4,27408.0,0.3,0.34,0.4
+Morelia,Michoacan de Ocampo,no,5,24061.0,0.32,0.37,0.42
+Morelia,Michoacan de Ocampo,no,6,11826.0,0.32,0.36,0.43
+Morelia,Michoacan de Ocampo,no,7,10551.0,0.34,0.4,0.49
+Morelia,Michoacan de Ocampo,no,8,5029.0,0.36,0.42,0.5
+Indaparapeo,Michoacan de Ocampo,no,0,7143.0,0.18,0.2,0.23
+Indaparapeo,Michoacan de Ocampo,no,1,7143.0,0.25,0.29,0.34
+Indaparapeo,Michoacan de Ocampo,no,2,7143.0,0.29,0.34,0.41
+Indaparapeo,Michoacan de Ocampo,no,3,4530.0,0.3,0.36,0.43
+Indaparapeo,Michoacan de Ocampo,no,4,2784.0,0.32,0.37,0.44
+Indaparapeo,Michoacan de Ocampo,no,5,2034.0,0.33,0.38,0.46
+Indaparapeo,Michoacan de Ocampo,no,6,694.0,0.3,0.34,0.4
+Indaparapeo,Michoacan de Ocampo,no,7,586.0,0.32,0.36,0.43
+Indaparapeo,Michoacan de Ocampo,no,8,371.0,0.34,0.38,0.44
+Tarímbaro,Michoacan de Ocampo,no,0,15921.0,0.16,0.2,0.23
+Tarímbaro,Michoacan de Ocampo,no,1,15921.0,0.28,0.34,0.41
+Tarímbaro,Michoacan de Ocampo,no,2,15921.0,0.3,0.36,0.44
+Tarímbaro,Michoacan de Ocampo,no,3,11236.0,0.3,0.38,0.46
+Tarímbaro,Michoacan de Ocampo,no,4,8418.0,0.32,0.4,0.49
+Tarímbaro,Michoacan de Ocampo,no,5,6255.0,0.32,0.4,0.5
+Tarímbaro,Michoacan de Ocampo,no,6,3029.0,0.3,0.38,0.47
+Tarímbaro,Michoacan de Ocampo,no,7,2076.0,0.32,0.39,0.49
+Tarímbaro,Michoacan de Ocampo,no,8,885.0,0.32,0.4,0.48
+Tingüindín,Michoacan de Ocampo,si,0,5925.0,0.17,0.21,0.24
+Tingüindín,Michoacan de Ocampo,si,1,5922.0,0.26,0.3,0.34
+Tingüindín,Michoacan de Ocampo,si,2,5925.0,0.28,0.32,0.38
+Tingüindín,Michoacan de Ocampo,si,3,4920.0,0.3,0.34,0.39
+Tingüindín,Michoacan de Ocampo,si,4,4133.0,0.31,0.36,0.42
+Tingüindín,Michoacan de Ocampo,si,5,3000.0,0.34,0.4,0.46
+Tingüindín,Michoacan de Ocampo,si,6,1402.0,0.33,0.39,0.46
+Tingüindín,Michoacan de Ocampo,si,7,1142.0,0.37,0.44,0.52
+Tingüindín,Michoacan de Ocampo,si,8,424.0,0.38,0.46,0.58
+Cotija,Michoacan de Ocampo,si,0,27249.0,0.13,0.18,0.22
+Cotija,Michoacan de Ocampo,si,1,27249.0,0.24,0.29,0.36
+Cotija,Michoacan de Ocampo,si,2,27249.0,0.28,0.32,0.39
+Cotija,Michoacan de Ocampo,si,3,23602.0,0.3,0.36,0.42
+Cotija,Michoacan de Ocampo,si,4,19309.0,0.32,0.38,0.44
+Cotija,Michoacan de Ocampo,si,5,15719.0,0.34,0.4,0.46
+Cotija,Michoacan de Ocampo,si,6,9277.0,0.35,0.41,0.48
+Cotija,Michoacan de Ocampo,si,7,7049.0,0.36,0.42,0.5
+Cotija,Michoacan de Ocampo,si,8,3540.0,0.38,0.45,0.53
+Chilchota,Michoacan de Ocampo,si,0,35318.0,0.17,0.2,0.23
+Chilchota,Michoacan de Ocampo,si,1,35318.0,0.3,0.36,0.4
+Chilchota,Michoacan de Ocampo,si,2,35318.0,0.32,0.4,0.46
+Chilchota,Michoacan de Ocampo,si,3,15990.0,0.28,0.32,0.38
+Chilchota,Michoacan de Ocampo,si,4,13721.0,0.32,0.37,0.44
+Chilchota,Michoacan de Ocampo,si,5,11861.0,0.36,0.42,0.5
+Chilchota,Michoacan de Ocampo,si,6,3298.0,0.32,0.38,0.45
+Chilchota,Michoacan de Ocampo,si,7,2485.0,0.34,0.41,0.48
+Chilchota,Michoacan de Ocampo,si,8,791.0,0.36,0.42,0.52
+Coeneo,Michoacan de Ocampo,no,0,38023.0,0.19,0.22,0.24
+Coeneo,Michoacan de Ocampo,no,1,38021.0,0.29,0.32,0.36
+Coeneo,Michoacan de Ocampo,no,2,38022.0,0.3,0.38,0.44
+Coeneo,Michoacan de Ocampo,no,3,18851.0,0.28,0.32,0.38
+Coeneo,Michoacan de Ocampo,no,4,15562.0,0.32,0.38,0.44
+Coeneo,Michoacan de Ocampo,no,5,11805.0,0.36,0.42,0.5
+Coeneo,Michoacan de Ocampo,no,6,3034.0,0.32,0.4,0.48
+Coeneo,Michoacan de Ocampo,no,7,2308.0,0.38,0.46,0.56
+Coeneo,Michoacan de Ocampo,no,8,646.0,0.37,0.47,0.6
+Zinapécuaro,Michoacan de Ocampo,no,0,22462.0,-0.12,-0.08,-0.04
+Zinapécuaro,Michoacan de Ocampo,no,1,22462.0,0.06,0.08,0.18
+Zinapécuaro,Michoacan de Ocampo,no,2,22462.0,0.19,0.38,0.46
+Zinapécuaro,Michoacan de Ocampo,no,3,21681.0,0.18,0.36,0.5
+Zinapécuaro,Michoacan de Ocampo,no,4,9587.0,-0.08,-0.04,0.32
+Zinapécuaro,Michoacan de Ocampo,no,5,8435.0,0.08,0.16,0.2
+Zinapécuaro,Michoacan de Ocampo,no,6,7707.0,0.32,0.42,0.48
+Zinapécuaro,Michoacan de Ocampo,no,7,7330.0,0.37,0.47,0.53
+Zinapécuaro,Michoacan de Ocampo,no,8,1293.0,0.34,0.42,0.49
+Huaniqueo,Michoacan de Ocampo,no,0,9355.0,0.2,0.23,0.24
+Huaniqueo,Michoacan de Ocampo,no,1,9355.0,0.3,0.32,0.36
+Huaniqueo,Michoacan de Ocampo,no,2,9355.0,0.34,0.4,0.44
+Huaniqueo,Michoacan de Ocampo,no,3,2801.0,0.28,0.34,0.41
+Huaniqueo,Michoacan de Ocampo,no,4,2064.0,0.3,0.34,0.4
+Huaniqueo,Michoacan de Ocampo,no,5,1698.0,0.31,0.37,0.42
+Huaniqueo,Michoacan de Ocampo,no,6,685.0,0.3,0.37,0.45
+Huaniqueo,Michoacan de Ocampo,no,7,633.0,0.36,0.44,0.54
+Huaniqueo,Michoacan de Ocampo,no,8,147.0,0.36,0.4,0.5
+Álvaro Obregón,Michoacan de Ocampo,no,0,28797.0,0.15,0.18,0.22
+Álvaro Obregón,Michoacan de Ocampo,no,1,28797.0,0.32,0.43,0.52
+Álvaro Obregón,Michoacan de Ocampo,no,2,28797.0,0.31,0.35,0.41
+Álvaro Obregón,Michoacan de Ocampo,no,3,12406.0,0.3,0.36,0.46
+Álvaro Obregón,Michoacan de Ocampo,no,4,10276.0,0.32,0.4,0.52
+Álvaro Obregón,Michoacan de Ocampo,no,5,8412.0,0.32,0.4,0.52
+Álvaro Obregón,Michoacan de Ocampo,no,6,3328.0,0.3,0.38,0.52
+Álvaro Obregón,Michoacan de Ocampo,no,7,2545.0,0.36,0.46,0.6
+Álvaro Obregón,Michoacan de Ocampo,no,8,754.0,0.34,0.41,0.51
+Chucándiro,Michoacan de Ocampo,no,0,21518.0,0.15,0.22,0.24
+Chucándiro,Michoacan de Ocampo,no,1,21517.0,0.26,0.32,0.36
+Chucándiro,Michoacan de Ocampo,no,2,21518.0,0.3,0.38,0.42
+Chucándiro,Michoacan de Ocampo,no,3,9910.0,0.28,0.32,0.39
+Chucándiro,Michoacan de Ocampo,no,4,8557.0,0.24,0.3,0.38
+Chucándiro,Michoacan de Ocampo,no,5,8006.0,0.24,0.32,0.41
+Chucándiro,Michoacan de Ocampo,no,6,6855.0,0.28,0.34,0.44
+Chucándiro,Michoacan de Ocampo,no,7,5911.0,0.36,0.4,0.48
+Chucándiro,Michoacan de Ocampo,no,8,442.0,0.36,0.42,0.48
+Copándaro,Michoacan de Ocampo,no,0,22410.0,-0.04,-0.01,0.2
+Copándaro,Michoacan de Ocampo,no,1,22410.0,0.1,0.22,0.33
+Copándaro,Michoacan de Ocampo,no,2,22410.0,0.2,0.28,0.36
+Copándaro,Michoacan de Ocampo,no,3,19087.0,0.18,0.28,0.36
+Copándaro,Michoacan de Ocampo,no,4,17635.0,0.28,0.34,0.41
+Copándaro,Michoacan de Ocampo,no,5,15975.0,0.24,0.29,0.36
+Copándaro,Michoacan de Ocampo,no,6,13517.0,0.29,0.34,0.4
+Copándaro,Michoacan de Ocampo,no,7,12073.0,0.36,0.42,0.48
+Copándaro,Michoacan de Ocampo,no,8,480.0,0.32,0.38,0.45
+Jiménez,Michoacan de Ocampo,no,0,23619.0,0.17,0.2,0.22
+Jiménez,Michoacan de Ocampo,no,1,23619.0,0.28,0.3,0.34
+Jiménez,Michoacan de Ocampo,no,2,23619.0,0.3,0.36,0.44
+Jiménez,Michoacan de Ocampo,no,3,13003.0,0.24,0.31,0.38
+Jiménez,Michoacan de Ocampo,no,4,10185.0,0.3,0.36,0.42
+Jiménez,Michoacan de Ocampo,no,5,8495.0,0.28,0.37,0.46
+Jiménez,Michoacan de Ocampo,no,6,3786.0,0.32,0.38,0.44
+Jiménez,Michoacan de Ocampo,no,7,3450.0,0.4,0.51,0.6
+Jiménez,Michoacan de Ocampo,no,8,533.0,0.39,0.47,0.56
+Purépero,Michoacan de Ocampo,no,0,23656.0,0.18,0.22,0.24
+Purépero,Michoacan de Ocampo,no,1,23654.0,0.28,0.32,0.38
+Purépero,Michoacan de Ocampo,no,2,23653.0,0.3,0.36,0.42
+Purépero,Michoacan de Ocampo,no,3,15683.0,0.29,0.32,0.37
+Purépero,Michoacan de Ocampo,no,4,14146.0,0.32,0.36,0.41
+Purépero,Michoacan de Ocampo,no,5,12024.0,0.35,0.4,0.46
+Purépero,Michoacan de Ocampo,no,6,6038.0,0.34,0.4,0.46
+Purépero,Michoacan de Ocampo,no,7,4703.0,0.36,0.44,0.52
+Purépero,Michoacan de Ocampo,no,8,1887.0,0.39,0.44,0.53
+Zacapu,Michoacan de Ocampo,no,0,89072.0,0.18,0.22,0.24
+Zacapu,Michoacan de Ocampo,no,1,89072.0,0.28,0.32,0.37
+Zacapu,Michoacan de Ocampo,no,2,89072.0,0.3,0.35,0.41
+Zacapu,Michoacan de Ocampo,no,3,64395.0,0.29,0.33,0.38
+Zacapu,Michoacan de Ocampo,no,4,57326.0,0.32,0.36,0.42
+Zacapu,Michoacan de Ocampo,no,5,50590.0,0.35,0.4,0.48
+Zacapu,Michoacan de Ocampo,no,6,22411.0,0.34,0.38,0.46
+Zacapu,Michoacan de Ocampo,no,7,16389.0,0.38,0.44,0.51
+Zacapu,Michoacan de Ocampo,no,8,6486.0,0.42,0.5,0.58
+Tangamandapio,Michoacan de Ocampo,si,0,13799.0,0.16,0.2,0.23
+Tangamandapio,Michoacan de Ocampo,si,1,13799.0,0.26,0.3,0.37
+Tangamandapio,Michoacan de Ocampo,si,2,13799.0,0.29,0.34,0.4
+Tangamandapio,Michoacan de Ocampo,si,3,11049.0,0.3,0.35,0.4
+Tangamandapio,Michoacan de Ocampo,si,4,7975.0,0.31,0.36,0.42
+Tangamandapio,Michoacan de Ocampo,si,5,6154.0,0.34,0.4,0.46
+Tangamandapio,Michoacan de Ocampo,si,6,2789.0,0.32,0.38,0.44
+Tangamandapio,Michoacan de Ocampo,si,7,2309.0,0.34,0.4,0.48
+Tangamandapio,Michoacan de Ocampo,si,8,862.0,0.38,0.44,0.52
+Jacona,Michoacan de Ocampo,si,0,9492.0,0.13,0.18,0.22
+Jacona,Michoacan de Ocampo,si,1,9492.0,0.26,0.31,0.36
+Jacona,Michoacan de Ocampo,si,2,9492.0,0.28,0.34,0.4
+Jacona,Michoacan de Ocampo,si,3,7960.0,0.29,0.34,0.4
+Jacona,Michoacan de Ocampo,si,4,6261.0,0.3,0.36,0.42
+Jacona,Michoacan de Ocampo,si,5,4497.0,0.3,0.38,0.46
+Jacona,Michoacan de Ocampo,si,6,2448.0,0.31,0.36,0.44
+Jacona,Michoacan de Ocampo,si,7,1325.0,0.31,0.38,0.45
+Jacona,Michoacan de Ocampo,si,8,514.0,0.32,0.38,0.44
+Huandacareo,Michoacan de Ocampo,no,0,3269.0,0.2,0.23,0.24
+Huandacareo,Michoacan de Ocampo,no,1,3269.0,0.28,0.31,0.36
+Huandacareo,Michoacan de Ocampo,no,2,3269.0,0.32,0.4,0.47
+Huandacareo,Michoacan de Ocampo,no,3,1605.0,0.3,0.36,0.44
+Huandacareo,Michoacan de Ocampo,no,4,1188.0,0.3,0.36,0.45
+Huandacareo,Michoacan de Ocampo,no,5,937.0,0.3,0.36,0.46
+Huandacareo,Michoacan de Ocampo,no,6,614.0,0.3,0.36,0.44
+Huandacareo,Michoacan de Ocampo,no,7,461.0,0.32,0.38,0.48
+Huandacareo,Michoacan de Ocampo,no,8,167.0,0.34,0.38,0.45
+Morelos,Michoacan de Ocampo,no,0,9434.0,0.2,0.23,0.24
+Morelos,Michoacan de Ocampo,no,1,9434.0,0.28,0.31,0.34
+Morelos,Michoacan de Ocampo,no,2,9434.0,0.32,0.4,0.46
+Morelos,Michoacan de Ocampo,no,3,3125.0,0.26,0.3,0.37
+Morelos,Michoacan de Ocampo,no,4,2411.0,0.28,0.32,0.36
+Morelos,Michoacan de Ocampo,no,5,2171.0,0.36,0.4,0.46
+Morelos,Michoacan de Ocampo,no,6,525.0,0.28,0.34,0.46
+Morelos,Michoacan de Ocampo,no,7,384.0,0.34,0.42,0.51
+Morelos,Michoacan de Ocampo,no,8,110.0,0.38,0.44,0.55
+Cuitzeo,Michoacan de Ocampo,no,0,109482.0,0.08,0.13,0.17
+Cuitzeo,Michoacan de Ocampo,no,1,109482.0,0.3,0.4,0.49
+Cuitzeo,Michoacan de Ocampo,no,2,109482.0,0.28,0.34,0.4
+Cuitzeo,Michoacan de Ocampo,no,3,41453.0,0.21,0.3,0.38
+Cuitzeo,Michoacan de Ocampo,no,4,39643.0,0.29,0.34,0.44
+Cuitzeo,Michoacan de Ocampo,no,5,34646.0,0.17,0.22,0.34
+Cuitzeo,Michoacan de Ocampo,no,6,24717.0,0.29,0.34,0.41
+Cuitzeo,Michoacan de Ocampo,no,7,24309.0,0.32,0.37,0.46
+Cuitzeo,Michoacan de Ocampo,no,8,1764.0,0.31,0.37,0.44
+Santa Ana Maya,Michoacan de Ocampo,no,0,8259.0,0.12,0.16,0.2
+Santa Ana Maya,Michoacan de Ocampo,no,1,8259.0,0.29,0.33,0.4
+Santa Ana Maya,Michoacan de Ocampo,no,2,8259.0,0.3,0.36,0.44
+Santa Ana Maya,Michoacan de Ocampo,no,3,2915.0,0.27,0.36,0.48
+Santa Ana Maya,Michoacan de Ocampo,no,4,2408.0,0.28,0.4,0.68
+Santa Ana Maya,Michoacan de Ocampo,no,5,1562.0,0.22,0.34,0.46
+Santa Ana Maya,Michoacan de Ocampo,no,6,889.0,0.3,0.34,0.5
+Santa Ana Maya,Michoacan de Ocampo,no,7,773.0,0.36,0.44,0.61
+Santa Ana Maya,Michoacan de Ocampo,no,8,201.0,0.34,0.39,0.45
+Jiquilpan,Michoacan de Ocampo,si,0,19040.0,0.16,0.19,0.22
+Jiquilpan,Michoacan de Ocampo,si,1,19040.0,0.24,0.28,0.32
+Jiquilpan,Michoacan de Ocampo,si,2,19040.0,0.28,0.32,0.37
+Jiquilpan,Michoacan de Ocampo,si,3,17153.0,0.32,0.37,0.42
+Jiquilpan,Michoacan de Ocampo,si,4,12862.0,0.32,0.38,0.44
+Jiquilpan,Michoacan de Ocampo,si,5,9057.0,0.32,0.38,0.44
+Jiquilpan,Michoacan de Ocampo,si,6,3837.0,0.3,0.36,0.41
+Jiquilpan,Michoacan de Ocampo,si,7,2274.0,0.28,0.34,0.42
+Jiquilpan,Michoacan de Ocampo,si,8,1064.0,0.32,0.38,0.45
+Tlazazalca,Michoacan de Ocampo,no,0,10369.0,0.18,0.24,0.24
+Tlazazalca,Michoacan de Ocampo,no,1,10369.0,0.3,0.35,0.38
+Tlazazalca,Michoacan de Ocampo,no,2,10369.0,0.36,0.42,0.46
+Tlazazalca,Michoacan de Ocampo,no,3,2911.0,0.29,0.34,0.42
+Tlazazalca,Michoacan de Ocampo,no,4,2373.0,0.28,0.36,0.44
+Tlazazalca,Michoacan de Ocampo,no,5,2109.0,0.26,0.32,0.42
+Tlazazalca,Michoacan de Ocampo,no,6,1617.0,0.36,0.55,0.65
+Tlazazalca,Michoacan de Ocampo,no,7,1428.0,0.54,0.6,0.64
+Tlazazalca,Michoacan de Ocampo,no,8,235.0,0.4,0.6,0.64
+Villamar,Michoacan de Ocampo,si,0,26630.0,0.15,0.18,0.22
+Villamar,Michoacan de Ocampo,si,1,26630.0,0.25,0.3,0.38
+Villamar,Michoacan de Ocampo,si,2,26630.0,0.28,0.34,0.4
+Villamar,Michoacan de Ocampo,si,3,23894.0,0.31,0.36,0.44
+Villamar,Michoacan de Ocampo,si,4,18105.0,0.32,0.38,0.46
+Villamar,Michoacan de Ocampo,si,5,10949.0,0.32,0.38,0.44
+Villamar,Michoacan de Ocampo,si,6,6080.0,0.3,0.36,0.42
+Villamar,Michoacan de Ocampo,si,7,3941.0,0.29,0.36,0.46
+Villamar,Michoacan de Ocampo,si,8,1747.0,0.34,0.44,0.58
+Marcos Castellanos,Michoacan de Ocampo,si,0,6858.0,0.18,0.21,0.23
+Marcos Castellanos,Michoacan de Ocampo,si,1,6855.0,0.26,0.28,0.32
+Marcos Castellanos,Michoacan de Ocampo,si,2,6848.0,0.28,0.32,0.36
+Marcos Castellanos,Michoacan de Ocampo,si,3,6350.0,0.32,0.36,0.42
+Marcos Castellanos,Michoacan de Ocampo,si,4,3851.0,0.31,0.36,0.41
+Marcos Castellanos,Michoacan de Ocampo,si,5,3174.0,0.34,0.38,0.45
+Marcos Castellanos,Michoacan de Ocampo,si,6,1147.0,0.32,0.38,0.44
+Marcos Castellanos,Michoacan de Ocampo,si,7,764.0,0.31,0.38,0.48
+Marcos Castellanos,Michoacan de Ocampo,si,8,306.0,0.3,0.38,0.48
+Sahuayo,Michoacan de Ocampo,si,0,16720.0,0.16,0.18,0.21
+Sahuayo,Michoacan de Ocampo,si,1,16720.0,0.24,0.27,0.3
+Sahuayo,Michoacan de Ocampo,si,2,16720.0,0.28,0.32,0.38
+Sahuayo,Michoacan de Ocampo,si,3,15606.0,0.32,0.36,0.42
+Sahuayo,Michoacan de Ocampo,si,4,12054.0,0.32,0.36,0.41
+Sahuayo,Michoacan de Ocampo,si,5,8789.0,0.32,0.36,0.42
+Sahuayo,Michoacan de Ocampo,si,6,3183.0,0.3,0.34,0.4
+Sahuayo,Michoacan de Ocampo,si,7,1648.0,0.3,0.34,0.41
+Sahuayo,Michoacan de Ocampo,si,8,169.0,0.32,0.36,0.42
+Panindícuaro,Michoacan de Ocampo,no,0,17664.0,0.18,0.22,0.24
+Panindícuaro,Michoacan de Ocampo,no,1,17664.0,0.28,0.3,0.35
+Panindícuaro,Michoacan de Ocampo,no,2,17664.0,0.31,0.39,0.44
+Panindícuaro,Michoacan de Ocampo,no,3,8308.0,0.31,0.37,0.44
+Panindícuaro,Michoacan de Ocampo,no,4,5158.0,0.31,0.37,0.45
+Panindícuaro,Michoacan de Ocampo,no,5,3240.0,0.33,0.39,0.46
+Panindícuaro,Michoacan de Ocampo,no,6,1572.0,0.32,0.38,0.48
+Panindícuaro,Michoacan de Ocampo,no,7,866.0,0.34,0.42,0.52
+Panindícuaro,Michoacan de Ocampo,no,8,273.0,0.37,0.45,0.56
+Chavinda,Michoacan de Ocampo,si,0,7305.0,0.16,0.18,0.2
+Chavinda,Michoacan de Ocampo,si,1,7305.0,0.22,0.27,0.34
+Chavinda,Michoacan de Ocampo,si,2,7305.0,0.28,0.32,0.38
+Chavinda,Michoacan de Ocampo,si,3,6724.0,0.32,0.38,0.44
+Chavinda,Michoacan de Ocampo,si,4,5193.0,0.32,0.39,0.46
+Chavinda,Michoacan de Ocampo,si,5,3490.0,0.32,0.38,0.44
+Chavinda,Michoacan de Ocampo,si,6,1951.0,0.31,0.36,0.4
+Chavinda,Michoacan de Ocampo,si,7,1029.0,0.33,0.4,0.5
+Chavinda,Michoacan de Ocampo,si,8,376.0,0.34,0.41,0.56
+Cojumatlán de Régules,Michoacan de Ocampo,si,0,23517.0,0.16,0.18,0.21
+Cojumatlán de Régules,Michoacan de Ocampo,si,1,23517.0,0.24,0.27,0.31
+Cojumatlán de Régules,Michoacan de Ocampo,si,2,23517.0,0.3,0.34,0.38
+Cojumatlán de Régules,Michoacan de Ocampo,si,3,22795.0,0.34,0.39,0.44
+Cojumatlán de Régules,Michoacan de Ocampo,si,4,16786.0,0.34,0.38,0.44
+Cojumatlán de Régules,Michoacan de Ocampo,si,5,13231.0,0.34,0.39,0.44
+Cojumatlán de Régules,Michoacan de Ocampo,si,6,5602.0,0.32,0.37,0.43
+Cojumatlán de Régules,Michoacan de Ocampo,si,7,2669.0,0.3,0.34,0.41
+Cojumatlán de Régules,Michoacan de Ocampo,si,8,566.0,0.3,0.38,0.48
+Penjamillo,Michoacan de Ocampo,no,0,24186.0,0.16,0.2,0.24
+Penjamillo,Michoacan de Ocampo,no,1,24186.0,0.24,0.3,0.34
+Penjamillo,Michoacan de Ocampo,no,2,24186.0,0.3,0.36,0.44
+Penjamillo,Michoacan de Ocampo,no,3,11939.0,0.31,0.36,0.42
+Penjamillo,Michoacan de Ocampo,no,4,8061.0,0.34,0.38,0.44
+Penjamillo,Michoacan de Ocampo,no,5,4829.0,0.36,0.42,0.47
+Penjamillo,Michoacan de Ocampo,no,6,1668.0,0.36,0.42,0.48
+Penjamillo,Michoacan de Ocampo,no,7,415.0,0.34,0.4,0.46
+Penjamillo,Michoacan de Ocampo,no,8,159.0,0.36,0.42,0.5
+Angamacutiro,Michoacan de Ocampo,no,0,20998.0,0.16,0.18,0.2
+Angamacutiro,Michoacan de Ocampo,no,1,20998.0,0.22,0.26,0.34
+Angamacutiro,Michoacan de Ocampo,no,2,20998.0,0.27,0.32,0.38
+Angamacutiro,Michoacan de Ocampo,no,3,16857.0,0.31,0.36,0.42
+Angamacutiro,Michoacan de Ocampo,no,4,12898.0,0.34,0.4,0.46
+Angamacutiro,Michoacan de Ocampo,no,5,9624.0,0.36,0.42,0.48
+Angamacutiro,Michoacan de Ocampo,no,6,4113.0,0.36,0.44,0.51
+Angamacutiro,Michoacan de Ocampo,no,7,1221.0,0.32,0.4,0.48
+Angamacutiro,Michoacan de Ocampo,no,8,366.0,0.37,0.42,0.58
+Ixtlán,Michoacan de Ocampo,no,0,12638.0,0.16,0.18,0.21
+Ixtlán,Michoacan de Ocampo,no,1,12638.0,0.24,0.28,0.38
+Ixtlán,Michoacan de Ocampo,no,2,12638.0,0.3,0.34,0.41
+Ixtlán,Michoacan de Ocampo,no,3,11111.0,0.32,0.38,0.44
+Ixtlán,Michoacan de Ocampo,no,4,6973.0,0.32,0.4,0.46
+Ixtlán,Michoacan de Ocampo,no,5,4923.0,0.33,0.39,0.46
+Ixtlán,Michoacan de Ocampo,no,6,3052.0,0.34,0.4,0.48
+Ixtlán,Michoacan de Ocampo,no,7,1378.0,0.32,0.4,0.48
+Ixtlán,Michoacan de Ocampo,no,8,489.0,0.32,0.4,0.48
+Churintzio,Michoacan de Ocampo,si,0,46311.0,0.16,0.18,0.21
+Churintzio,Michoacan de Ocampo,si,1,46311.0,0.22,0.25,0.3
+Churintzio,Michoacan de Ocampo,si,2,46311.0,0.3,0.34,0.38
+Churintzio,Michoacan de Ocampo,si,3,37869.0,0.34,0.38,0.44
+Churintzio,Michoacan de Ocampo,si,4,30322.0,0.34,0.4,0.46
+Churintzio,Michoacan de Ocampo,si,5,14499.0,0.34,0.39,0.44
+Churintzio,Michoacan de Ocampo,si,6,4274.0,0.3,0.34,0.4
+Churintzio,Michoacan de Ocampo,si,7,2242.0,0.28,0.32,0.38
+Churintzio,Michoacan de Ocampo,si,8,433.0,0.33,0.42,0.52
+Venustiano Carranza,Michoacan de Ocampo,si,0,59858.0,0.16,0.18,0.22
+Venustiano Carranza,Michoacan de Ocampo,si,1,59858.0,0.26,0.32,0.4
+Venustiano Carranza,Michoacan de Ocampo,si,2,59858.0,0.29,0.35,0.42
+Venustiano Carranza,Michoacan de Ocampo,si,3,54800.0,0.32,0.38,0.46
+Venustiano Carranza,Michoacan de Ocampo,si,4,36671.0,0.32,0.39,0.47
+Venustiano Carranza,Michoacan de Ocampo,si,5,28200.0,0.32,0.4,0.48
+Venustiano Carranza,Michoacan de Ocampo,si,6,15129.0,0.34,0.41,0.5
+Venustiano Carranza,Michoacan de Ocampo,si,7,7331.0,0.32,0.39,0.48
+Venustiano Carranza,Michoacan de Ocampo,si,8,2758.0,0.31,0.4,0.5
+Pajacuarán,Michoacan de Ocampo,si,0,20617.0,0.16,0.18,0.22
+Pajacuarán,Michoacan de Ocampo,si,1,20617.0,0.26,0.32,0.4
+Pajacuarán,Michoacan de Ocampo,si,2,20617.0,0.29,0.34,0.42
+Pajacuarán,Michoacan de Ocampo,si,3,17897.0,0.32,0.38,0.46
+Pajacuarán,Michoacan de Ocampo,si,4,10498.0,0.32,0.39,0.46
+Pajacuarán,Michoacan de Ocampo,si,5,7533.0,0.33,0.4,0.48
+Pajacuarán,Michoacan de Ocampo,si,6,4804.0,0.34,0.41,0.52
+Pajacuarán,Michoacan de Ocampo,si,7,2510.0,0.33,0.4,0.52
+Pajacuarán,Michoacan de Ocampo,si,8,932.0,0.33,0.43,0.54
+Zináparo,Michoacan de Ocampo,si,0,23235.0,0.16,0.17,0.19
+Zináparo,Michoacan de Ocampo,si,1,23235.0,0.22,0.24,0.26
+Zináparo,Michoacan de Ocampo,si,2,23235.0,0.28,0.31,0.35
+Zináparo,Michoacan de Ocampo,si,3,21577.0,0.33,0.38,0.43
+Zináparo,Michoacan de Ocampo,si,4,18487.0,0.34,0.38,0.44
+Zináparo,Michoacan de Ocampo,si,5,12005.0,0.32,0.37,0.42
+Zináparo,Michoacan de Ocampo,si,6,4181.0,0.28,0.34,0.38
+Zináparo,Michoacan de Ocampo,si,7,663.0,0.27,0.32,0.38
+Zináparo,Michoacan de Ocampo,si,8,212.0,0.28,0.3,0.36
+Ecuandureo,Michoacan de Ocampo,si,0,35074.0,0.15,0.17,0.2
+Ecuandureo,Michoacan de Ocampo,si,1,35074.0,0.22,0.26,0.32
+Ecuandureo,Michoacan de Ocampo,si,2,35074.0,0.3,0.33,0.38
+Ecuandureo,Michoacan de Ocampo,si,3,29020.0,0.34,0.4,0.45
+Ecuandureo,Michoacan de Ocampo,si,4,22189.0,0.36,0.42,0.48
+Ecuandureo,Michoacan de Ocampo,si,5,10836.0,0.34,0.4,0.46
+Ecuandureo,Michoacan de Ocampo,si,6,4165.0,0.32,0.38,0.46
+Ecuandureo,Michoacan de Ocampo,si,7,1459.0,0.32,0.39,0.48
+Ecuandureo,Michoacan de Ocampo,si,8,597.0,0.35,0.43,0.52
+Puruándiro,Michoacan de Ocampo,no,0,20940.0,0.19,0.23,0.24
+Puruándiro,Michoacan de Ocampo,no,1,20940.0,0.29,0.32,0.36
+Puruándiro,Michoacan de Ocampo,no,2,20940.0,0.34,0.4,0.44
+Puruándiro,Michoacan de Ocampo,no,3,7626.0,0.29,0.34,0.41
+Puruándiro,Michoacan de Ocampo,no,4,5970.0,0.29,0.33,0.39
+Puruándiro,Michoacan de Ocampo,no,5,5381.0,0.3,0.37,0.43
+Puruándiro,Michoacan de Ocampo,no,6,2379.0,0.34,0.4,0.52
+Puruándiro,Michoacan de Ocampo,no,7,1593.0,0.36,0.46,0.64
+Puruándiro,Michoacan de Ocampo,no,8,348.0,0.33,0.38,0.46
+Briseñas,Michoacan de Ocampo,si,0,15896.0,0.14,0.18,0.22
+Briseñas,Michoacan de Ocampo,si,1,15896.0,0.24,0.3,0.38
+Briseñas,Michoacan de Ocampo,si,2,15896.0,0.28,0.32,0.4
+Briseñas,Michoacan de Ocampo,si,3,14476.0,0.3,0.36,0.44
+Briseñas,Michoacan de Ocampo,si,4,10016.0,0.32,0.38,0.45
+Briseñas,Michoacan de Ocampo,si,5,6702.0,0.32,0.38,0.48
+Briseñas,Michoacan de Ocampo,si,6,4011.0,0.32,0.41,0.56
+Briseñas,Michoacan de Ocampo,si,7,3026.0,0.36,0.42,0.49
+Briseñas,Michoacan de Ocampo,si,8,1550.0,0.4,0.47,0.58
+Numarán,Michoacan de Ocampo,si,0,17322.0,0.14,0.16,0.18
+Numarán,Michoacan de Ocampo,si,1,17322.0,0.2,0.23,0.27
+Numarán,Michoacan de Ocampo,si,2,17322.0,0.27,0.3,0.36
+Numarán,Michoacan de Ocampo,si,3,16400.0,0.32,0.38,0.44
+Numarán,Michoacan de Ocampo,si,4,13935.0,0.34,0.4,0.45
+Numarán,Michoacan de Ocampo,si,5,10536.0,0.34,0.4,0.44
+Numarán,Michoacan de Ocampo,si,6,4889.0,0.32,0.38,0.42
+Numarán,Michoacan de Ocampo,si,7,1222.0,0.28,0.34,0.42
+Numarán,Michoacan de Ocampo,si,8,353.0,0.31,0.36,0.42
+Vista Hermosa,Michoacan de Ocampo,si,0,55035.0,0.16,0.18,0.2
+Vista Hermosa,Michoacan de Ocampo,si,1,55035.0,0.22,0.26,0.32
+Vista Hermosa,Michoacan de Ocampo,si,2,55035.0,0.28,0.32,0.38
+Vista Hermosa,Michoacan de Ocampo,si,3,52157.0,0.33,0.38,0.43
+Vista Hermosa,Michoacan de Ocampo,si,4,38907.0,0.34,0.39,0.44
+Vista Hermosa,Michoacan de Ocampo,si,5,29162.0,0.33,0.38,0.44
+Vista Hermosa,Michoacan de Ocampo,si,6,13779.0,0.31,0.38,0.46
+Vista Hermosa,Michoacan de Ocampo,si,7,5022.0,0.32,0.38,0.52
+Vista Hermosa,Michoacan de Ocampo,si,8,2532.0,0.35,0.48,0.7
+José Sixto Verduzco,Michoacan de Ocampo,no,0,27208.0,0.15,0.18,0.22
+José Sixto Verduzco,Michoacan de Ocampo,no,1,27208.0,0.3,0.38,0.46
+José Sixto Verduzco,Michoacan de Ocampo,no,2,27208.0,0.33,0.4,0.46
+José Sixto Verduzco,Michoacan de Ocampo,no,3,11717.0,0.3,0.38,0.46
+José Sixto Verduzco,Michoacan de Ocampo,no,4,7675.0,0.32,0.4,0.49
+José Sixto Verduzco,Michoacan de Ocampo,no,5,5988.0,0.34,0.41,0.5
+José Sixto Verduzco,Michoacan de Ocampo,no,6,2583.0,0.34,0.42,0.51
+José Sixto Verduzco,Michoacan de Ocampo,no,7,1295.0,0.36,0.43,0.52
+José Sixto Verduzco,Michoacan de Ocampo,no,8,456.0,0.34,0.4,0.52
+Tanhuato,Michoacan de Ocampo,si,0,47862.0,0.16,0.17,0.19
+Tanhuato,Michoacan de Ocampo,si,1,47862.0,0.22,0.25,0.3
+Tanhuato,Michoacan de Ocampo,si,2,47862.0,0.28,0.32,0.36
+Tanhuato,Michoacan de Ocampo,si,3,45721.0,0.32,0.37,0.42
+Tanhuato,Michoacan de Ocampo,si,4,35284.0,0.34,0.38,0.44
+Tanhuato,Michoacan de Ocampo,si,5,24607.0,0.32,0.37,0.43
+Tanhuato,Michoacan de Ocampo,si,6,12648.0,0.3,0.36,0.42
+Tanhuato,Michoacan de Ocampo,si,7,5353.0,0.32,0.38,0.47
+Tanhuato,Michoacan de Ocampo,si,8,1459.0,0.34,0.44,0.58
+Yurécuaro,Michoacan de Ocampo,si,0,32159.0,0.15,0.17,0.2
+Yurécuaro,Michoacan de Ocampo,si,1,32159.0,0.23,0.26,0.32
+Yurécuaro,Michoacan de Ocampo,si,2,32159.0,0.3,0.35,0.4
+Yurécuaro,Michoacan de Ocampo,si,3,29325.0,0.34,0.4,0.46
+Yurécuaro,Michoacan de Ocampo,si,4,23811.0,0.33,0.39,0.45
+Yurécuaro,Michoacan de Ocampo,si,5,15147.0,0.31,0.36,0.42
+Yurécuaro,Michoacan de Ocampo,si,6,7086.0,0.3,0.35,0.44
+Yurécuaro,Michoacan de Ocampo,si,7,2870.0,0.31,0.4,0.5
+Yurécuaro,Michoacan de Ocampo,si,8,1214.0,0.33,0.4,0.58
+La Piedad,Michoacan de Ocampo,si,0,67612.0,0.15,0.17,0.19
+La Piedad,Michoacan de Ocampo,si,1,67611.0,0.22,0.25,0.29
+La Piedad,Michoacan de Ocampo,si,2,67611.0,0.29,0.34,0.38
+La Piedad,Michoacan de Ocampo,si,3,61491.0,0.34,0.39,0.45
+La Piedad,Michoacan de Ocampo,si,4,51649.0,0.34,0.39,0.45
+La Piedad,Michoacan de Ocampo,si,5,33896.0,0.32,0.36,0.42
+La Piedad,Michoacan de Ocampo,si,6,13385.0,0.29,0.34,0.4
+La Piedad,Michoacan de Ocampo,si,7,3108.0,0.29,0.34,0.39
+La Piedad,Michoacan de Ocampo,si,8,1301.0,0.3,0.34,0.4
+Acaponeta,Nayarit,no,0,57.0,0.22,0.24,0.24
+Acaponeta,Nayarit,no,1,57.0,0.26,0.3,0.38
+Acaponeta,Nayarit,no,2,57.0,0.29,0.34,0.44
+Acaponeta,Nayarit,no,3,35.0,0.32,0.35,0.4
+Acaponeta,Nayarit,no,4,17.0,0.3,0.34,0.37
+Acaponeta,Nayarit,no,5,7.0,0.28,0.3,0.32
+Acaponeta,Nayarit,no,6,1.0,0.32,0.32,0.32
+Ahuacatlán,Nayarit,si,0,44187.0,0.14,0.18,0.2
+Ahuacatlán,Nayarit,si,1,44185.0,0.22,0.26,0.31
+Ahuacatlán,Nayarit,si,2,44187.0,0.3,0.34,0.39
+Ahuacatlán,Nayarit,si,3,41610.0,0.32,0.37,0.42
+Ahuacatlán,Nayarit,si,4,29819.0,0.32,0.36,0.42
+Ahuacatlán,Nayarit,si,5,18676.0,0.31,0.36,0.42
+Ahuacatlán,Nayarit,si,6,9317.0,0.31,0.36,0.42
+Ahuacatlán,Nayarit,si,7,6832.0,0.32,0.37,0.43
+Ahuacatlán,Nayarit,si,8,4219.0,0.33,0.38,0.46
+Amatlán de Cañas,Nayarit,si,0,52652.0,0.16,0.18,0.2
+Amatlán de Cañas,Nayarit,si,1,52651.0,0.22,0.26,0.3
+Amatlán de Cañas,Nayarit,si,2,52651.0,0.3,0.33,0.38
+Amatlán de Cañas,Nayarit,si,3,49723.0,0.32,0.36,0.42
+Amatlán de Cañas,Nayarit,si,4,32102.0,0.33,0.37,0.42
+Amatlán de Cañas,Nayarit,si,5,18491.0,0.32,0.36,0.42
+Amatlán de Cañas,Nayarit,si,6,6796.0,0.31,0.36,0.41
+Amatlán de Cañas,Nayarit,si,7,4500.0,0.3,0.34,0.4
+Amatlán de Cañas,Nayarit,si,8,1577.0,0.31,0.36,0.42
+Ixtlán del Río,Nayarit,si,0,47947.0,0.14,0.17,0.2
+Ixtlán del Río,Nayarit,si,1,47947.0,0.22,0.26,0.31
+Ixtlán del Río,Nayarit,si,2,47947.0,0.29,0.33,0.38
+Ixtlán del Río,Nayarit,si,3,46071.0,0.34,0.38,0.42
+Ixtlán del Río,Nayarit,si,4,29167.0,0.34,0.38,0.43
+Ixtlán del Río,Nayarit,si,5,15498.0,0.32,0.36,0.42
+Ixtlán del Río,Nayarit,si,6,4026.0,0.31,0.36,0.43
+Ixtlán del Río,Nayarit,si,7,2947.0,0.3,0.36,0.42
+Ixtlán del Río,Nayarit,si,8,1569.0,0.3,0.36,0.42
+Jala,Nayarit,si,0,10326.0,0.16,0.2,0.22
+Jala,Nayarit,si,1,10325.0,0.24,0.28,0.32
+Jala,Nayarit,si,2,10324.0,0.29,0.33,0.38
+Jala,Nayarit,si,3,10031.0,0.31,0.35,0.4
+Jala,Nayarit,si,4,7306.0,0.32,0.36,0.41
+Jala,Nayarit,si,5,4709.0,0.32,0.36,0.41
+Jala,Nayarit,si,6,3040.0,0.32,0.36,0.42
+Jala,Nayarit,si,7,2788.0,0.32,0.37,0.43
+Jala,Nayarit,si,8,1705.0,0.32,0.36,0.42
+Xalisco,Nayarit,si,0,28090.0,0.14,0.19,0.22
+Xalisco,Nayarit,si,1,28090.0,0.24,0.28,0.35
+Xalisco,Nayarit,si,2,28090.0,0.29,0.33,0.38
+Xalisco,Nayarit,si,3,26689.0,0.31,0.36,0.4
+Xalisco,Nayarit,si,4,20340.0,0.32,0.36,0.42
+Xalisco,Nayarit,si,5,13722.0,0.34,0.39,0.44
+Xalisco,Nayarit,si,6,9046.0,0.34,0.39,0.46
+Xalisco,Nayarit,si,7,7519.0,0.34,0.4,0.47
+Xalisco,Nayarit,si,8,3852.0,0.36,0.42,0.5
+Del Nayar,Nayarit,no,0,83338.0,0.22,0.24,0.24
+Del Nayar,Nayarit,no,1,83287.0,0.28,0.31,0.36
+Del Nayar,Nayarit,no,2,83288.0,0.28,0.3,0.36
+Del Nayar,Nayarit,no,3,77039.0,0.3,0.36,0.4
+Del Nayar,Nayarit,no,4,57273.0,0.3,0.34,0.38
+Del Nayar,Nayarit,no,5,51275.0,0.3,0.36,0.4
+Del Nayar,Nayarit,no,6,11911.0,0.32,0.36,0.42
+Del Nayar,Nayarit,no,7,11223.0,0.32,0.37,0.44
+Del Nayar,Nayarit,no,8,5405.0,0.31,0.36,0.4
+Ruíz,Nayarit,no,0,2452.0,0.17,0.22,0.24
+Ruíz,Nayarit,no,1,2450.0,0.26,0.29,0.34
+Ruíz,Nayarit,no,2,2451.0,0.28,0.34,0.38
+Ruíz,Nayarit,no,3,2422.0,0.3,0.36,0.42
+Ruíz,Nayarit,no,4,2008.0,0.3,0.36,0.41
+Ruíz,Nayarit,no,5,1755.0,0.33,0.36,0.42
+Ruíz,Nayarit,no,6,991.0,0.34,0.38,0.46
+Ruíz,Nayarit,no,7,877.0,0.35,0.4,0.48
+Ruíz,Nayarit,no,8,267.0,0.34,0.39,0.47
+San Pedro Lagunillas,Nayarit,si,0,100863.0,0.16,0.18,0.2
+San Pedro Lagunillas,Nayarit,si,1,100863.0,0.23,0.26,0.3
+San Pedro Lagunillas,Nayarit,si,2,100863.0,0.3,0.34,0.39
+San Pedro Lagunillas,Nayarit,si,3,98402.0,0.34,0.38,0.42
+San Pedro Lagunillas,Nayarit,si,4,68507.0,0.33,0.38,0.42
+San Pedro Lagunillas,Nayarit,si,5,39800.0,0.32,0.36,0.42
+San Pedro Lagunillas,Nayarit,si,6,19277.0,0.32,0.36,0.42
+San Pedro Lagunillas,Nayarit,si,7,12573.0,0.31,0.36,0.41
+San Pedro Lagunillas,Nayarit,si,8,6078.0,0.32,0.36,0.42
+Santa María del Oro,Nayarit,si,0,134958.0,0.14,0.16,0.2
+Santa María del Oro,Nayarit,si,1,134886.0,0.22,0.26,0.3
+Santa María del Oro,Nayarit,si,2,134935.0,0.3,0.34,0.38
+Santa María del Oro,Nayarit,si,3,129017.0,0.34,0.38,0.43
+Santa María del Oro,Nayarit,si,4,88735.0,0.34,0.39,0.44
+Santa María del Oro,Nayarit,si,5,47673.0,0.34,0.4,0.45
+Santa María del Oro,Nayarit,si,6,21805.0,0.32,0.38,0.44
+Santa María del Oro,Nayarit,si,7,14921.0,0.32,0.38,0.44
+Santa María del Oro,Nayarit,si,8,7722.0,0.34,0.4,0.48
+Tepic,Nayarit,si,0,76794.0,0.15,0.18,0.22
+Tepic,Nayarit,si,1,76776.0,0.24,0.28,0.34
+Tepic,Nayarit,si,2,76793.0,0.3,0.34,0.4
+Tepic,Nayarit,si,3,72206.0,0.32,0.36,0.42
+Tepic,Nayarit,si,4,49199.0,0.32,0.37,0.42
+Tepic,Nayarit,si,5,29828.0,0.32,0.38,0.44
+Tepic,Nayarit,si,6,18678.0,0.33,0.38,0.45
+Tepic,Nayarit,si,7,15855.0,0.32,0.38,0.44
+Tepic,Nayarit,si,8,9390.0,0.34,0.4,0.46
+La Yesca,Nayarit,no,0,28263.0,0.22,0.24,0.24
+La Yesca,Nayarit,no,1,28245.0,0.28,0.31,0.36
+La Yesca,Nayarit,no,2,28242.0,0.28,0.32,0.37
+La Yesca,Nayarit,no,3,24855.0,0.3,0.34,0.38
+La Yesca,Nayarit,no,4,12216.0,0.28,0.32,0.36
+La Yesca,Nayarit,no,5,10433.0,0.29,0.33,0.38
+La Yesca,Nayarit,no,6,5342.0,0.3,0.32,0.36
+La Yesca,Nayarit,no,7,5092.0,0.28,0.32,0.36
+La Yesca,Nayarit,no,8,3906.0,0.29,0.32,0.37
+Bahía de Banderas,Nayarit,no,0,20848.0,0.16,0.2,0.22
+Bahía de Banderas,Nayarit,no,1,20848.0,0.26,0.32,0.4
+Bahía de Banderas,Nayarit,no,2,20848.0,0.3,0.36,0.44
+Bahía de Banderas,Nayarit,no,3,18332.0,0.3,0.36,0.44
+Bahía de Banderas,Nayarit,no,4,15072.0,0.3,0.36,0.44
+Bahía de Banderas,Nayarit,no,5,11381.0,0.32,0.38,0.46
+Bahía de Banderas,Nayarit,no,6,8359.0,0.32,0.4,0.5
+Bahía de Banderas,Nayarit,no,7,6193.0,0.32,0.38,0.48
+Bahía de Banderas,Nayarit,no,8,3376.0,0.32,0.4,0.49
+Compostela,Nayarit,no,0,16002.0,0.15,0.18,0.22
+Compostela,Nayarit,no,1,16002.0,0.24,0.28,0.34
+Compostela,Nayarit,no,2,16002.0,0.3,0.35,0.4
+Compostela,Nayarit,no,3,14820.0,0.32,0.37,0.42
+Compostela,Nayarit,no,4,10328.0,0.32,0.38,0.44
+Compostela,Nayarit,no,5,6127.0,0.32,0.36,0.43
+Compostela,Nayarit,no,6,4277.0,0.32,0.37,0.43
+Compostela,Nayarit,no,7,3576.0,0.32,0.37,0.43
+Compostela,Nayarit,no,8,2388.0,0.32,0.36,0.44
+Santiago Ixcuintla,Nayarit,no,0,1664.0,0.18,0.21,0.24
+Santiago Ixcuintla,Nayarit,no,1,1664.0,0.28,0.32,0.36
+Santiago Ixcuintla,Nayarit,no,2,1664.0,0.31,0.36,0.4
+Santiago Ixcuintla,Nayarit,no,3,1138.0,0.32,0.38,0.42
+Santiago Ixcuintla,Nayarit,no,4,943.0,0.34,0.4,0.45
+Santiago Ixcuintla,Nayarit,no,5,685.0,0.36,0.42,0.49
+Santiago Ixcuintla,Nayarit,no,6,388.0,0.35,0.42,0.5
+Santiago Ixcuintla,Nayarit,no,7,348.0,0.37,0.44,0.51
+Santiago Ixcuintla,Nayarit,no,8,249.0,0.39,0.46,0.52
+Rosamorada,Nayarit,no,0,1247.0,0.18,0.22,0.24
+Rosamorada,Nayarit,no,1,1247.0,0.28,0.32,0.36
+Rosamorada,Nayarit,no,2,1247.0,0.32,0.36,0.41
+Rosamorada,Nayarit,no,3,1233.0,0.32,0.37,0.42
+Rosamorada,Nayarit,no,4,936.0,0.32,0.37,0.41
+Rosamorada,Nayarit,no,5,733.0,0.34,0.38,0.42
+Rosamorada,Nayarit,no,6,284.0,0.34,0.37,0.44
+Rosamorada,Nayarit,no,7,280.0,0.32,0.36,0.42
+Rosamorada,Nayarit,no,8,217.0,0.33,0.37,0.42

@@ -1,0 +1,1301 @@
+municipio,estado,denominacion_origen,anio_plantacion,bosque denso,selva / caducifolia,cultivo anual,pastizal / matorral,agave anterior (replantación),pct_desmonte
+Comonfort,Guanajuato,no,2020,0.0,0.0,0.0,0.0,0.0,
+Comonfort,Guanajuato,no,2021,0.0,3.0,2.0,4.0,1.0,0.0
+Comonfort,Guanajuato,no,2022,0.0,0.0,0.0,0.0,0.0,
+Comonfort,Guanajuato,no,2023,0.0,0.0,0.0,0.0,0.0,
+Comonfort,Guanajuato,no,2024,0.0,2.0,1.0,2.0,1.0,0.0
+Purísima del Rincón,Guanajuato,si,2020,12.0,18.0,101.0,41.0,15.0,6.4
+Purísima del Rincón,Guanajuato,si,2021,51.0,41.0,445.0,127.0,59.0,7.1
+Purísima del Rincón,Guanajuato,si,2022,45.0,48.0,376.0,107.0,59.0,7.1
+Purísima del Rincón,Guanajuato,si,2023,29.0,25.0,321.0,48.0,23.0,6.5
+Purísima del Rincón,Guanajuato,si,2024,19.0,24.0,72.0,22.0,15.0,12.5
+San Felipe,Guanajuato,no,2020,7.0,11.0,51.0,106.0,48.0,3.1
+San Felipe,Guanajuato,no,2021,104.0,238.0,154.0,943.0,736.0,4.8
+San Felipe,Guanajuato,no,2022,14.0,10.0,9.0,27.0,23.0,16.9
+San Felipe,Guanajuato,no,2023,28.0,22.0,82.0,138.0,56.0,8.6
+San Felipe,Guanajuato,no,2024,43.0,33.0,45.0,309.0,339.0,5.6
+Uriangato,Guanajuato,no,2020,1.0,2.0,2.0,1.0,0.0,16.7
+Uriangato,Guanajuato,no,2021,1.0,10.0,10.0,10.0,3.0,2.9
+Uriangato,Guanajuato,no,2022,1.0,3.0,4.0,3.0,0.0,9.1
+Uriangato,Guanajuato,no,2023,2.0,4.0,6.0,5.0,2.0,10.5
+Uriangato,Guanajuato,no,2024,2.0,16.0,23.0,10.0,3.0,3.7
+Salvatierra,Guanajuato,no,2020,26.0,21.0,12.0,4.0,1.0,40.6
+Salvatierra,Guanajuato,no,2021,61.0,65.0,24.0,28.0,14.0,31.8
+Salvatierra,Guanajuato,no,2022,18.0,27.0,13.0,8.0,5.0,25.4
+Salvatierra,Guanajuato,no,2023,35.0,62.0,35.0,26.0,8.0,21.1
+Salvatierra,Guanajuato,no,2024,31.0,136.0,66.0,30.0,8.0,11.4
+Pueblo Nuevo,Guanajuato,no,2020,8.0,3.0,2.0,4.0,4.0,38.1
+Pueblo Nuevo,Guanajuato,no,2021,23.0,23.0,10.0,31.0,25.0,20.5
+Pueblo Nuevo,Guanajuato,no,2022,2.0,7.0,7.0,2.0,3.0,9.5
+Pueblo Nuevo,Guanajuato,no,2023,11.0,21.0,13.0,14.0,12.0,15.5
+Pueblo Nuevo,Guanajuato,no,2024,12.0,90.0,92.0,55.0,40.0,4.2
+Santiago Maravatío,Guanajuato,no,2020,2.0,4.0,1.0,1.0,0.0,25.0
+Santiago Maravatío,Guanajuato,no,2021,10.0,20.0,13.0,8.0,3.0,18.5
+Santiago Maravatío,Guanajuato,no,2022,5.0,11.0,9.0,3.0,1.0,17.2
+Santiago Maravatío,Guanajuato,no,2023,5.0,12.0,12.0,6.0,2.0,13.5
+Santiago Maravatío,Guanajuato,no,2024,2.0,19.0,26.0,4.0,1.0,3.8
+Yuriria,Guanajuato,no,2020,8.0,7.0,13.0,12.0,7.0,17.0
+Yuriria,Guanajuato,no,2021,56.0,92.0,54.0,64.0,37.0,18.5
+Yuriria,Guanajuato,no,2022,34.0,34.0,19.0,20.0,24.0,26.0
+Yuriria,Guanajuato,no,2023,8.0,52.0,43.0,43.0,15.0,5.0
+Yuriria,Guanajuato,no,2024,23.0,316.0,122.0,82.0,33.0,4.0
+Cortazar,Guanajuato,no,2020,5.0,14.0,14.0,7.0,6.0,10.9
+Cortazar,Guanajuato,no,2021,17.0,32.0,28.0,28.0,18.0,13.8
+Cortazar,Guanajuato,no,2022,8.0,15.0,33.0,17.0,11.0,9.5
+Cortazar,Guanajuato,no,2023,23.0,48.0,37.0,27.0,22.0,14.6
+Cortazar,Guanajuato,no,2024,20.0,79.0,64.0,24.0,10.0,10.2
+Acámbaro,Guanajuato,no,2020,2.0,8.0,2.0,4.0,6.0,9.1
+Acámbaro,Guanajuato,no,2021,3.0,3.0,2.0,5.0,8.0,14.3
+Acámbaro,Guanajuato,no,2022,0.0,4.0,112.0,33.0,1.0,0.0
+Acámbaro,Guanajuato,no,2023,2.0,2.0,11.0,13.0,4.0,6.2
+Acámbaro,Guanajuato,no,2024,13.0,29.0,8.0,17.0,17.0,15.5
+San Miguel de Allende,Guanajuato,no,2020,0.0,0.0,1.0,1.0,1.0,0.0
+San Miguel de Allende,Guanajuato,no,2021,1.0,20.0,7.0,25.0,15.0,1.5
+San Miguel de Allende,Guanajuato,no,2022,0.0,0.0,0.0,0.0,0.0,
+San Miguel de Allende,Guanajuato,no,2023,0.0,1.0,1.0,2.0,1.0,0.0
+San Miguel de Allende,Guanajuato,no,2024,0.0,3.0,1.0,6.0,1.0,0.0
+San Francisco del Rincón,Guanajuato,no,2020,5.0,12.0,144.0,67.0,22.0,2.0
+San Francisco del Rincón,Guanajuato,no,2021,23.0,92.0,1272.0,323.0,84.0,1.3
+San Francisco del Rincón,Guanajuato,no,2022,1.0,1.0,17.0,23.0,5.0,2.1
+San Francisco del Rincón,Guanajuato,no,2023,29.0,30.0,401.0,142.0,102.0,4.1
+San Francisco del Rincón,Guanajuato,no,2024,39.0,36.0,84.0,47.0,40.0,15.9
+Manuel Doblado,Guanajuato,si,2020,20.0,32.0,407.0,114.0,53.0,3.2
+Manuel Doblado,Guanajuato,si,2021,79.0,149.0,1745.0,253.0,201.0,3.3
+Manuel Doblado,Guanajuato,si,2022,52.0,118.0,1341.0,188.0,224.0,2.7
+Manuel Doblado,Guanajuato,si,2023,27.0,80.0,877.0,139.0,161.0,2.1
+Manuel Doblado,Guanajuato,si,2024,30.0,239.0,227.0,175.0,105.0,3.9
+Cuerámaro,Guanajuato,si,2020,16.0,41.0,222.0,54.0,10.0,4.7
+Cuerámaro,Guanajuato,si,2021,38.0,61.0,521.0,129.0,69.0,4.6
+Cuerámaro,Guanajuato,si,2022,34.0,56.0,315.0,69.0,50.0,6.5
+Cuerámaro,Guanajuato,si,2023,26.0,66.0,206.0,62.0,51.0,6.3
+Cuerámaro,Guanajuato,si,2024,34.0,169.0,185.0,121.0,74.0,5.8
+Valle de Santiago,Guanajuato,no,2020,43.0,68.0,66.0,33.0,21.0,18.6
+Valle de Santiago,Guanajuato,no,2021,86.0,156.0,159.0,89.0,42.0,16.2
+Valle de Santiago,Guanajuato,no,2022,41.0,97.0,113.0,40.0,29.0,12.8
+Valle de Santiago,Guanajuato,no,2023,99.0,191.0,157.0,71.0,35.0,17.9
+Valle de Santiago,Guanajuato,no,2024,93.0,718.0,427.0,118.0,50.0,6.6
+Pénjamo,Guanajuato,si,2020,97.0,125.0,1149.0,210.0,68.0,5.9
+Pénjamo,Guanajuato,si,2021,233.0,266.0,3086.0,473.0,274.0,5.4
+Pénjamo,Guanajuato,si,2022,124.0,265.0,2482.0,305.0,362.0,3.5
+Pénjamo,Guanajuato,si,2023,171.0,251.0,1674.0,280.0,355.0,6.3
+Pénjamo,Guanajuato,si,2024,75.0,683.0,442.0,263.0,120.0,4.7
+Silao de la Victoria,Guanajuato,no,2020,14.0,10.0,72.0,32.0,14.0,9.9
+Silao de la Victoria,Guanajuato,no,2021,28.0,109.0,568.0,169.0,55.0,3.0
+Silao de la Victoria,Guanajuato,no,2022,3.0,3.0,8.0,5.0,2.0,14.3
+Silao de la Victoria,Guanajuato,no,2023,39.0,39.0,282.0,49.0,37.0,8.7
+Silao de la Victoria,Guanajuato,no,2024,24.0,49.0,91.0,52.0,54.0,8.9
+Abasolo,Guanajuato,si,2020,56.0,77.0,566.0,124.0,54.0,6.4
+Abasolo,Guanajuato,si,2021,166.0,154.0,1389.0,266.0,139.0,7.9
+Abasolo,Guanajuato,si,2022,93.0,142.0,1059.0,158.0,98.0,6.0
+Abasolo,Guanajuato,si,2023,156.0,124.0,535.0,153.0,155.0,13.9
+Abasolo,Guanajuato,si,2024,94.0,229.0,231.0,199.0,135.0,10.6
+Huanímaro,Guanajuato,si,2020,33.0,26.0,173.0,28.0,14.0,12.0
+Huanímaro,Guanajuato,si,2021,104.0,50.0,339.0,68.0,50.0,17.0
+Huanímaro,Guanajuato,si,2022,33.0,45.0,180.0,39.0,55.0,9.4
+Huanímaro,Guanajuato,si,2023,61.0,60.0,102.0,39.0,40.0,20.2
+Huanímaro,Guanajuato,si,2024,54.0,81.0,26.0,33.0,18.0,25.5
+San Diego de la Unión,Guanajuato,no,2020,0.0,1.0,0.0,1.0,0.0,0.0
+San Diego de la Unión,Guanajuato,no,2021,0.0,24.0,15.0,20.0,8.0,0.0
+San Diego de la Unión,Guanajuato,no,2022,1.0,2.0,0.0,4.0,1.0,12.5
+San Diego de la Unión,Guanajuato,no,2023,0.0,0.0,0.0,0.0,0.0,
+San Diego de la Unión,Guanajuato,no,2024,2.0,15.0,4.0,96.0,153.0,0.7
+Villagrán,Guanajuato,no,2020,3.0,13.0,18.0,9.0,4.0,6.4
+Villagrán,Guanajuato,no,2021,18.0,21.0,33.0,32.0,15.0,15.1
+Villagrán,Guanajuato,no,2022,7.0,11.0,23.0,15.0,6.0,11.3
+Villagrán,Guanajuato,no,2023,21.0,19.0,37.0,21.0,14.0,18.8
+Villagrán,Guanajuato,no,2024,38.0,91.0,55.0,44.0,18.0,15.4
+Santa Cruz de Juventino Rosas,Guanajuato,no,2020,2.0,7.0,25.0,12.0,7.0,3.8
+Santa Cruz de Juventino Rosas,Guanajuato,no,2021,20.0,25.0,71.0,50.0,29.0,10.3
+Santa Cruz de Juventino Rosas,Guanajuato,no,2022,4.0,11.0,60.0,29.0,14.0,3.4
+Santa Cruz de Juventino Rosas,Guanajuato,no,2023,11.0,17.0,98.0,27.0,11.0,6.7
+Santa Cruz de Juventino Rosas,Guanajuato,no,2024,12.0,46.0,57.0,44.0,28.0,6.4
+Salamanca,Guanajuato,no,2020,37.0,62.0,46.0,53.0,34.0,15.9
+Salamanca,Guanajuato,no,2021,92.0,133.0,114.0,128.0,86.0,16.6
+Salamanca,Guanajuato,no,2022,30.0,76.0,87.0,57.0,42.0,10.3
+Salamanca,Guanajuato,no,2023,80.0,121.0,123.0,109.0,58.0,16.3
+Salamanca,Guanajuato,no,2024,152.0,542.0,456.0,226.0,113.0,10.2
+Irapuato,Guanajuato,no,2020,41.0,79.0,125.0,80.0,39.0,11.3
+Irapuato,Guanajuato,no,2021,96.0,167.0,485.0,203.0,93.0,9.2
+Irapuato,Guanajuato,no,2022,35.0,73.0,214.0,73.0,38.0,8.1
+Irapuato,Guanajuato,no,2023,59.0,126.0,213.0,84.0,49.0,11.1
+Irapuato,Guanajuato,no,2024,137.0,325.0,296.0,182.0,107.0,13.1
+Romita,Guanajuato,si,2020,11.0,30.0,587.0,175.0,110.0,1.2
+Romita,Guanajuato,si,2021,50.0,150.0,2398.0,935.0,797.0,1.2
+Romita,Guanajuato,si,2022,13.0,10.0,330.0,78.0,133.0,2.3
+Romita,Guanajuato,si,2023,43.0,79.0,849.0,320.0,690.0,2.2
+Romita,Guanajuato,si,2024,23.0,49.0,115.0,106.0,124.0,5.5
+Guanajuato,Guanajuato,no,2020,1.0,1.0,18.0,7.0,1.0,3.6
+Guanajuato,Guanajuato,no,2021,81.0,127.0,181.0,167.0,195.0,10.8
+Guanajuato,Guanajuato,no,2022,6.0,2.0,2.0,16.0,13.0,15.4
+Guanajuato,Guanajuato,no,2023,25.0,9.0,60.0,20.0,50.0,15.2
+Guanajuato,Guanajuato,no,2024,171.0,72.0,10.0,124.0,193.0,30.0
+León,Guanajuato,no,2020,8.0,15.0,78.0,56.0,20.0,4.5
+León,Guanajuato,no,2021,28.0,104.0,361.0,236.0,123.0,3.3
+León,Guanajuato,no,2022,2.0,3.0,12.0,17.0,9.0,4.7
+León,Guanajuato,no,2023,33.0,44.0,159.0,71.0,54.0,9.1
+León,Guanajuato,no,2024,36.0,41.0,89.0,55.0,46.0,13.5
+Jaral del Progreso,Guanajuato,no,2020,1.0,10.0,10.0,5.0,2.0,3.6
+Jaral del Progreso,Guanajuato,no,2021,21.0,42.0,22.0,33.0,13.0,16.0
+Jaral del Progreso,Guanajuato,no,2022,4.0,18.0,19.0,8.0,3.0,7.7
+Jaral del Progreso,Guanajuato,no,2023,12.0,51.0,36.0,18.0,6.0,9.8
+Jaral del Progreso,Guanajuato,no,2024,15.0,197.0,173.0,35.0,12.0,3.5
+Ocampo,Guanajuato,no,2020,0.0,2.0,5.0,7.0,2.0,0.0
+Ocampo,Guanajuato,no,2021,4.0,28.0,16.0,105.0,70.0,1.8
+Ocampo,Guanajuato,no,2022,0.0,0.0,1.0,6.0,8.0,0.0
+Ocampo,Guanajuato,no,2023,4.0,3.0,4.0,19.0,18.0,8.3
+Ocampo,Guanajuato,no,2024,5.0,2.0,11.0,26.0,32.0,6.6
+Moroleón,Guanajuato,no,2020,0.0,0.0,0.0,0.0,0.0,
+Moroleón,Guanajuato,no,2021,1.0,18.0,5.0,13.0,3.0,2.5
+Moroleón,Guanajuato,no,2022,0.0,0.0,7.0,4.0,0.0,0.0
+Moroleón,Guanajuato,no,2023,0.0,4.0,5.0,3.0,1.0,0.0
+Moroleón,Guanajuato,no,2024,0.0,48.0,26.0,14.0,2.0,0.0
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,2020,5.0,1.0,5.0,18.0,10.0,12.8
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,2021,47.0,64.0,53.0,239.0,170.0,8.2
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,2022,1.0,2.0,1.0,4.0,2.0,10.0
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,2023,6.0,8.0,14.0,43.0,28.0,6.1
+Dolores Hidalgo Cuna de la Independencia Nacional,Guanajuato,no,2024,60.0,51.0,21.0,221.0,315.0,9.0
+Acatic,Jalisco,si,2020,1.0,4.0,83.0,46.0,29.0,0.6
+Acatic,Jalisco,si,2021,4.0,78.0,523.0,52.0,20.0,0.6
+Acatic,Jalisco,si,2022,2.0,54.0,528.0,24.0,13.0,0.3
+Acatic,Jalisco,si,2023,5.0,68.0,563.0,24.0,16.0,0.7
+Acatic,Jalisco,si,2024,5.0,31.0,26.0,11.0,12.0,5.9
+Acatlán de Juárez,Jalisco,si,2020,0.0,6.0,45.0,3.0,1.0,0.0
+Acatlán de Juárez,Jalisco,si,2021,8.0,37.0,316.0,18.0,14.0,2.0
+Acatlán de Juárez,Jalisco,si,2022,4.0,19.0,180.0,12.0,12.0,1.8
+Acatlán de Juárez,Jalisco,si,2023,12.0,47.0,312.0,26.0,33.0,2.8
+Acatlán de Juárez,Jalisco,si,2024,4.0,21.0,18.0,4.0,1.0,8.3
+Ahualulco de Mercado,Jalisco,si,2020,1.0,13.0,56.0,12.0,3.0,1.2
+Ahualulco de Mercado,Jalisco,si,2021,4.0,111.0,352.0,35.0,24.0,0.8
+Ahualulco de Mercado,Jalisco,si,2022,5.0,66.0,326.0,37.0,30.0,1.1
+Ahualulco de Mercado,Jalisco,si,2023,4.0,103.0,462.0,48.0,35.0,0.6
+Ahualulco de Mercado,Jalisco,si,2024,1.0,30.0,31.0,5.0,1.0,1.5
+Amacueca,Jalisco,si,2020,8.0,8.0,24.0,21.0,15.0,10.5
+Amacueca,Jalisco,si,2021,37.0,42.0,156.0,61.0,19.0,11.7
+Amacueca,Jalisco,si,2022,43.0,28.0,88.0,27.0,42.0,18.9
+Amacueca,Jalisco,si,2023,50.0,47.0,123.0,32.0,22.0,18.2
+Amacueca,Jalisco,si,2024,11.0,20.0,40.0,5.0,3.0,13.9
+Amatitán,Jalisco,si,2020,1.0,21.0,101.0,35.0,23.0,0.6
+Amatitán,Jalisco,si,2021,12.0,301.0,505.0,232.0,163.0,1.0
+Amatitán,Jalisco,si,2022,5.0,118.0,253.0,151.0,160.0,0.7
+Amatitán,Jalisco,si,2023,7.0,183.0,282.0,273.0,254.0,0.7
+Amatitán,Jalisco,si,2024,0.0,10.0,9.0,9.0,7.0,0.0
+Ameca,Jalisco,si,2020,4.0,32.0,138.0,27.0,17.0,1.8
+Ameca,Jalisco,si,2021,12.0,156.0,659.0,61.0,57.0,1.3
+Ameca,Jalisco,si,2022,12.0,132.0,640.0,43.0,62.0,1.3
+Ameca,Jalisco,si,2023,19.0,226.0,891.0,69.0,77.0,1.5
+Ameca,Jalisco,si,2024,4.0,70.0,71.0,10.0,9.0,2.4
+San Juanito de Escobedo,Jalisco,si,2020,4.0,24.0,64.0,16.0,8.0,3.4
+San Juanito de Escobedo,Jalisco,si,2021,15.0,121.0,282.0,56.0,41.0,2.9
+San Juanito de Escobedo,Jalisco,si,2022,8.0,77.0,284.0,45.0,49.0,1.7
+San Juanito de Escobedo,Jalisco,si,2023,9.0,139.0,329.0,59.0,67.0,1.5
+San Juanito de Escobedo,Jalisco,si,2024,4.0,41.0,28.0,7.0,5.0,4.7
+Arandas,Jalisco,si,2020,4.0,32.0,638.0,97.0,19.0,0.5
+Arandas,Jalisco,si,2021,38.0,275.0,2930.0,327.0,173.0,1.0
+Arandas,Jalisco,si,2022,20.0,205.0,2988.0,424.0,209.0,0.5
+Arandas,Jalisco,si,2023,7.0,135.0,1938.0,228.0,203.0,0.3
+Arandas,Jalisco,si,2024,3.0,61.0,106.0,34.0,21.0,1.3
+El Arenal,Jalisco,si,2020,0.0,9.0,49.0,30.0,6.0,0.0
+El Arenal,Jalisco,si,2021,2.0,88.0,313.0,67.0,34.0,0.4
+El Arenal,Jalisco,si,2022,2.0,58.0,175.0,48.0,32.0,0.6
+El Arenal,Jalisco,si,2023,2.0,90.0,238.0,96.0,57.0,0.4
+El Arenal,Jalisco,si,2024,1.0,7.0,9.0,3.0,5.0,4.0
+Atemajac de Brizuela,Jalisco,si,2020,0.0,0.0,0.0,1.0,1.0,0.0
+Atemajac de Brizuela,Jalisco,si,2021,2.0,8.0,5.0,11.0,5.0,6.5
+Atemajac de Brizuela,Jalisco,si,2022,0.0,7.0,4.0,2.0,1.0,0.0
+Atemajac de Brizuela,Jalisco,si,2023,2.0,41.0,21.0,14.0,5.0,2.4
+Atemajac de Brizuela,Jalisco,si,2024,2.0,6.0,3.0,2.0,1.0,14.3
+Atengo,Jalisco,si,2020,0.0,0.0,12.0,1.0,1.0,0.0
+Atengo,Jalisco,si,2021,1.0,50.0,74.0,4.0,1.0,0.8
+Atengo,Jalisco,si,2022,0.0,54.0,206.0,11.0,1.0,0.0
+Atengo,Jalisco,si,2023,1.0,53.0,168.0,6.0,1.0,0.4
+Atengo,Jalisco,si,2024,0.0,6.0,12.0,1.0,0.0,0.0
+Atenguillo,Jalisco,si,2020,0.0,1.0,0.0,9.0,3.0,0.0
+Atenguillo,Jalisco,si,2021,2.0,4.0,6.0,8.0,3.0,8.7
+Atenguillo,Jalisco,si,2022,11.0,8.0,18.0,7.0,3.0,23.4
+Atenguillo,Jalisco,si,2023,15.0,16.0,30.0,7.0,4.0,20.8
+Atenguillo,Jalisco,si,2024,2.0,4.0,2.0,1.0,1.0,20.0
+Atotonilco el Alto,Jalisco,si,2020,50.0,118.0,971.0,126.0,59.0,3.8
+Atotonilco el Alto,Jalisco,si,2021,47.0,279.0,2454.0,254.0,131.0,1.5
+Atotonilco el Alto,Jalisco,si,2022,85.0,211.0,2038.0,188.0,178.0,3.1
+Atotonilco el Alto,Jalisco,si,2023,63.0,188.0,1373.0,151.0,179.0,3.2
+Atotonilco el Alto,Jalisco,si,2024,11.0,43.0,73.0,15.0,20.0,6.8
+Atoyac,Jalisco,si,2020,19.0,32.0,94.0,23.0,10.0,10.7
+Atoyac,Jalisco,si,2021,26.0,70.0,176.0,61.0,31.0,7.1
+Atoyac,Jalisco,si,2022,31.0,62.0,131.0,56.0,31.0,10.0
+Atoyac,Jalisco,si,2023,40.0,97.0,226.0,41.0,23.0,9.4
+Atoyac,Jalisco,si,2024,23.0,41.0,45.0,26.0,9.0,16.0
+Autlán de Navarro,Jalisco,si,2020,23.0,61.0,37.0,52.0,23.0,11.7
+Autlán de Navarro,Jalisco,si,2021,56.0,195.0,245.0,169.0,99.0,7.3
+Autlán de Navarro,Jalisco,si,2022,56.0,167.0,169.0,134.0,126.0,8.6
+Autlán de Navarro,Jalisco,si,2023,67.0,164.0,204.0,117.0,83.0,10.6
+Autlán de Navarro,Jalisco,si,2024,36.0,78.0,26.0,43.0,28.0,17.1
+Ayotlán,Jalisco,si,2020,37.0,72.0,330.0,56.0,23.0,7.1
+Ayotlán,Jalisco,si,2021,46.0,108.0,844.0,111.0,55.0,4.0
+Ayotlán,Jalisco,si,2022,62.0,132.0,723.0,97.0,70.0,5.7
+Ayotlán,Jalisco,si,2023,57.0,146.0,422.0,72.0,60.0,7.5
+Ayotlán,Jalisco,si,2024,64.0,215.0,132.0,46.0,13.0,13.6
+Ayutla,Jalisco,si,2020,2.0,5.0,5.0,7.0,2.0,9.5
+Ayutla,Jalisco,si,2021,2.0,12.0,74.0,10.0,3.0,2.0
+Ayutla,Jalisco,si,2022,4.0,12.0,199.0,16.0,7.0,1.7
+Ayutla,Jalisco,si,2023,1.0,20.0,121.0,8.0,2.0,0.7
+Ayutla,Jalisco,si,2024,1.0,2.0,5.0,2.0,1.0,9.1
+La Barca,Jalisco,si,2020,123.0,74.0,444.0,74.0,32.0,16.5
+La Barca,Jalisco,si,2021,43.0,103.0,2075.0,113.0,36.0,1.8
+La Barca,Jalisco,si,2022,90.0,110.0,1705.0,65.0,45.0,4.5
+La Barca,Jalisco,si,2023,105.0,136.0,1654.0,73.0,60.0,5.2
+La Barca,Jalisco,si,2024,26.0,72.0,99.0,24.0,15.0,11.0
+Bolaños,Jalisco,si,2020,0.0,0.0,5.0,3.0,2.0,0.0
+Bolaños,Jalisco,si,2021,3.0,13.0,16.0,23.0,22.0,3.9
+Bolaños,Jalisco,si,2022,0.0,4.0,38.0,3.0,5.0,0.0
+Bolaños,Jalisco,si,2023,0.0,27.0,80.0,23.0,4.0,0.0
+Bolaños,Jalisco,si,2024,0.0,12.0,4.0,4.0,2.0,0.0
+Cabo Corrientes,Jalisco,si,2020,14.0,5.0,4.0,8.0,4.0,40.0
+Cabo Corrientes,Jalisco,si,2021,11.0,6.0,7.0,7.0,4.0,31.4
+Cabo Corrientes,Jalisco,si,2022,11.0,7.0,4.0,9.0,9.0,27.5
+Cabo Corrientes,Jalisco,si,2023,213.0,20.0,6.0,19.0,68.0,65.3
+Cabo Corrientes,Jalisco,si,2024,6.0,9.0,10.0,3.0,4.0,18.8
+Casimiro Castillo,Jalisco,si,2020,21.0,41.0,13.0,9.0,3.0,24.1
+Casimiro Castillo,Jalisco,si,2021,39.0,90.0,33.0,33.0,10.0,19.0
+Casimiro Castillo,Jalisco,si,2022,42.0,120.0,35.0,22.0,6.0,18.7
+Casimiro Castillo,Jalisco,si,2023,28.0,133.0,84.0,18.0,6.0,10.4
+Casimiro Castillo,Jalisco,si,2024,9.0,58.0,26.0,8.0,2.0,8.7
+Cihuatlán,Jalisco,si,2020,9.0,10.0,21.0,14.0,8.0,14.5
+Cihuatlán,Jalisco,si,2021,30.0,26.0,42.0,37.0,18.0,19.6
+Cihuatlán,Jalisco,si,2022,21.0,15.0,21.0,28.0,18.0,20.4
+Cihuatlán,Jalisco,si,2023,13.0,7.0,12.0,10.0,8.0,26.0
+Cihuatlán,Jalisco,si,2024,18.0,10.0,7.0,8.0,10.0,34.0
+Zapotlán el Grande,Jalisco,si,2020,21.0,38.0,137.0,111.0,20.0,6.4
+Zapotlán el Grande,Jalisco,si,2021,32.0,168.0,259.0,186.0,33.0,4.7
+Zapotlán el Grande,Jalisco,si,2022,29.0,42.0,82.0,77.0,33.0,11.0
+Zapotlán el Grande,Jalisco,si,2023,30.0,47.0,121.0,61.0,21.0,10.7
+Zapotlán el Grande,Jalisco,si,2024,36.0,33.0,53.0,34.0,9.0,21.8
+Cocula,Jalisco,si,2020,2.0,9.0,26.0,6.0,3.0,4.3
+Cocula,Jalisco,si,2021,8.0,57.0,175.0,14.0,8.0,3.1
+Cocula,Jalisco,si,2022,37.0,51.0,184.0,14.0,13.0,12.4
+Cocula,Jalisco,si,2023,18.0,153.0,430.0,19.0,8.0,2.9
+Cocula,Jalisco,si,2024,8.0,59.0,43.0,6.0,7.0,6.5
+Colotlán,Jalisco,si,2020,0.0,0.0,1.0,1.0,0.0,0.0
+Colotlán,Jalisco,si,2021,6.0,14.0,5.0,15.0,8.0,12.5
+Colotlán,Jalisco,si,2022,1.0,6.0,6.0,6.0,3.0,4.5
+Colotlán,Jalisco,si,2023,1.0,4.0,4.0,6.0,4.0,5.3
+Colotlán,Jalisco,si,2024,0.0,7.0,3.0,5.0,2.0,0.0
+Concepción de Buenos Aires,Jalisco,si,2020,1.0,7.0,14.0,12.0,12.0,2.2
+Concepción de Buenos Aires,Jalisco,si,2021,33.0,94.0,50.0,50.0,11.0,13.9
+Concepción de Buenos Aires,Jalisco,si,2022,13.0,28.0,34.0,15.0,5.0,13.7
+Concepción de Buenos Aires,Jalisco,si,2023,24.0,38.0,58.0,9.0,3.0,18.2
+Concepción de Buenos Aires,Jalisco,si,2024,12.0,12.0,11.0,6.0,2.0,27.9
+Cuautitlán de García Barragán,Jalisco,si,2020,3.0,5.0,6.0,5.0,4.0,13.0
+Cuautitlán de García Barragán,Jalisco,si,2021,26.0,53.0,22.0,30.0,16.0,17.7
+Cuautitlán de García Barragán,Jalisco,si,2022,15.0,36.0,25.0,25.0,14.0,13.0
+Cuautitlán de García Barragán,Jalisco,si,2023,9.0,49.0,29.0,15.0,9.0,8.1
+Cuautitlán de García Barragán,Jalisco,si,2024,24.0,18.0,9.0,9.0,14.0,32.4
+Cuautla,Jalisco,si,2020,0.0,5.0,1.0,2.0,0.0,0.0
+Cuautla,Jalisco,si,2021,17.0,14.0,11.0,20.0,7.0,24.6
+Cuautla,Jalisco,si,2022,3.0,5.0,4.0,8.0,2.0,13.6
+Cuautla,Jalisco,si,2023,3.0,12.0,13.0,9.0,3.0,7.5
+Cuautla,Jalisco,si,2024,0.0,1.0,4.0,0.0,0.0,0.0
+Cuquío,Jalisco,si,2020,3.0,9.0,59.0,11.0,13.0,3.2
+Cuquío,Jalisco,si,2021,5.0,70.0,403.0,39.0,26.0,0.9
+Cuquío,Jalisco,si,2022,0.0,27.0,456.0,29.0,11.0,0.0
+Cuquío,Jalisco,si,2023,1.0,33.0,726.0,33.0,15.0,0.1
+Cuquío,Jalisco,si,2024,0.0,47.0,76.0,13.0,3.0,0.0
+Chapala,Jalisco,si,2020,22.0,2.0,5.0,20.0,13.0,35.5
+Chapala,Jalisco,si,2021,23.0,19.0,55.0,20.0,14.0,17.6
+Chapala,Jalisco,si,2022,10.0,6.0,62.0,8.0,9.0,10.5
+Chapala,Jalisco,si,2023,12.0,8.0,41.0,14.0,7.0,14.6
+Chapala,Jalisco,si,2024,35.0,26.0,5.0,11.0,27.0,33.7
+Chimaltitán,Jalisco,si,2020,0.0,0.0,0.0,2.0,3.0,0.0
+Chimaltitán,Jalisco,si,2021,6.0,8.0,4.0,23.0,38.0,7.6
+Chimaltitán,Jalisco,si,2022,0.0,1.0,2.0,2.0,1.0,0.0
+Chimaltitán,Jalisco,si,2023,0.0,9.0,14.0,30.0,14.0,0.0
+Chimaltitán,Jalisco,si,2024,1.0,15.0,12.0,8.0,2.0,2.6
+Chiquilistlán,Jalisco,si,2020,0.0,0.0,0.0,1.0,0.0,0.0
+Chiquilistlán,Jalisco,si,2021,4.0,10.0,37.0,6.0,3.0,6.7
+Chiquilistlán,Jalisco,si,2022,5.0,7.0,14.0,2.0,2.0,16.7
+Chiquilistlán,Jalisco,si,2023,13.0,10.0,17.0,5.0,3.0,27.1
+Chiquilistlán,Jalisco,si,2024,6.0,1.0,1.0,0.0,0.0,75.0
+Degollado,Jalisco,si,2020,1.0,8.0,221.0,15.0,2.0,0.4
+Degollado,Jalisco,si,2021,6.0,32.0,557.0,38.0,12.0,0.9
+Degollado,Jalisco,si,2022,1.0,21.0,635.0,36.0,8.0,0.1
+Degollado,Jalisco,si,2023,7.0,29.0,583.0,27.0,14.0,1.1
+Degollado,Jalisco,si,2024,4.0,46.0,61.0,18.0,5.0,3.0
+Ejutla,Jalisco,si,2020,0.0,1.0,3.0,1.0,0.0,0.0
+Ejutla,Jalisco,si,2021,3.0,2.0,22.0,3.0,0.0,10.0
+Ejutla,Jalisco,si,2022,3.0,2.0,21.0,3.0,1.0,10.0
+Ejutla,Jalisco,si,2023,0.0,9.0,18.0,2.0,0.0,0.0
+Ejutla,Jalisco,si,2024,2.0,14.0,8.0,1.0,1.0,7.7
+Encarnación de Díaz,Jalisco,si,2020,2.0,12.0,72.0,43.0,6.0,1.5
+Encarnación de Díaz,Jalisco,si,2021,10.0,85.0,814.0,276.0,63.0,0.8
+Encarnación de Díaz,Jalisco,si,2022,6.0,33.0,555.0,101.0,10.0,0.9
+Encarnación de Díaz,Jalisco,si,2023,13.0,72.0,710.0,104.0,21.0,1.4
+Encarnación de Díaz,Jalisco,si,2024,3.0,72.0,153.0,104.0,29.0,0.8
+Etzatlán,Jalisco,si,2020,1.0,5.0,32.0,7.0,4.0,2.0
+Etzatlán,Jalisco,si,2021,5.0,51.0,204.0,20.0,14.0,1.7
+Etzatlán,Jalisco,si,2022,2.0,38.0,257.0,18.0,6.0,0.6
+Etzatlán,Jalisco,si,2023,7.0,92.0,435.0,20.0,13.0,1.2
+Etzatlán,Jalisco,si,2024,2.0,13.0,24.0,7.0,4.0,4.0
+El Grullo,Jalisco,si,2020,23.0,45.0,20.0,11.0,5.0,22.1
+El Grullo,Jalisco,si,2021,15.0,111.0,48.0,19.0,9.0,7.4
+El Grullo,Jalisco,si,2022,25.0,56.0,26.0,21.0,16.0,17.4
+El Grullo,Jalisco,si,2023,20.0,92.0,25.0,31.0,18.0,10.8
+El Grullo,Jalisco,si,2024,7.0,32.0,31.0,10.0,3.0,8.4
+Guachinango,Jalisco,si,2020,2.0,6.0,55.0,21.0,3.0,2.3
+Guachinango,Jalisco,si,2021,11.0,31.0,143.0,24.0,12.0,5.0
+Guachinango,Jalisco,si,2022,11.0,111.0,114.0,55.0,35.0,3.4
+Guachinango,Jalisco,si,2023,17.0,71.0,216.0,21.0,23.0,4.9
+Guachinango,Jalisco,si,2024,1.0,12.0,15.0,5.0,1.0,2.9
+Guadalajara,Jalisco,si,2020,1.0,0.0,0.0,12.0,4.0,5.9
+Guadalajara,Jalisco,si,2021,1.0,3.0,3.0,30.0,12.0,2.0
+Guadalajara,Jalisco,si,2022,0.0,1.0,2.0,7.0,3.0,0.0
+Guadalajara,Jalisco,si,2023,1.0,1.0,3.0,11.0,7.0,4.3
+Guadalajara,Jalisco,si,2024,0.0,0.0,1.0,2.0,2.0,0.0
+Hostotipaquillo,Jalisco,si,2020,0.0,21.0,61.0,18.0,8.0,0.0
+Hostotipaquillo,Jalisco,si,2021,9.0,164.0,572.0,78.0,39.0,1.0
+Hostotipaquillo,Jalisco,si,2022,2.0,98.0,434.0,43.0,42.0,0.3
+Hostotipaquillo,Jalisco,si,2023,7.0,219.0,597.0,164.0,94.0,0.6
+Hostotipaquillo,Jalisco,si,2024,0.0,5.0,18.0,5.0,6.0,0.0
+Huejúcar,Jalisco,si,2020,0.0,0.0,0.0,0.0,0.0,
+Huejúcar,Jalisco,si,2021,2.0,3.0,1.0,10.0,10.0,7.7
+Huejúcar,Jalisco,si,2022,0.0,0.0,1.0,4.0,3.0,0.0
+Huejúcar,Jalisco,si,2023,0.0,0.0,0.0,2.0,2.0,0.0
+Huejúcar,Jalisco,si,2024,0.0,3.0,0.0,5.0,1.0,0.0
+Huejuquilla el Alto,Jalisco,si,2020,0.0,0.0,0.0,0.0,0.0,
+Huejuquilla el Alto,Jalisco,si,2021,0.0,1.0,1.0,3.0,3.0,0.0
+Huejuquilla el Alto,Jalisco,si,2022,0.0,1.0,0.0,1.0,0.0,0.0
+Huejuquilla el Alto,Jalisco,si,2023,0.0,1.0,0.0,1.0,1.0,0.0
+Huejuquilla el Alto,Jalisco,si,2024,0.0,0.0,0.0,0.0,0.0,
+La Huerta,Jalisco,si,2020,17.0,42.0,18.0,25.0,12.0,14.9
+La Huerta,Jalisco,si,2021,38.0,80.0,55.0,68.0,37.0,13.7
+La Huerta,Jalisco,si,2022,41.0,81.0,38.0,69.0,46.0,14.9
+La Huerta,Jalisco,si,2023,22.0,48.0,67.0,45.0,29.0,10.4
+La Huerta,Jalisco,si,2024,27.0,42.0,25.0,20.0,16.0,20.8
+Ixtlahuacán de los Membrillos,Jalisco,si,2020,1.0,3.0,28.0,6.0,2.0,2.5
+Ixtlahuacán de los Membrillos,Jalisco,si,2021,12.0,80.0,262.0,52.0,18.0,2.8
+Ixtlahuacán de los Membrillos,Jalisco,si,2022,48.0,28.0,192.0,25.0,13.0,15.7
+Ixtlahuacán de los Membrillos,Jalisco,si,2023,74.0,31.0,240.0,25.0,17.0,19.1
+Ixtlahuacán de los Membrillos,Jalisco,si,2024,23.0,34.0,13.0,16.0,11.0,23.7
+Ixtlahuacán del Río,Jalisco,si,2020,2.0,4.0,32.0,10.0,4.0,3.8
+Ixtlahuacán del Río,Jalisco,si,2021,26.0,73.0,437.0,58.0,87.0,3.8
+Ixtlahuacán del Río,Jalisco,si,2022,1.0,12.0,378.0,8.0,8.0,0.2
+Ixtlahuacán del Río,Jalisco,si,2023,1.0,36.0,575.0,14.0,27.0,0.2
+Ixtlahuacán del Río,Jalisco,si,2024,7.0,34.0,69.0,12.0,6.0,5.5
+Jalostotitlán,Jalisco,si,2020,0.0,4.0,25.0,6.0,2.0,0.0
+Jalostotitlán,Jalisco,si,2021,4.0,27.0,229.0,29.0,14.0,1.3
+Jalostotitlán,Jalisco,si,2022,1.0,15.0,338.0,19.0,3.0,0.3
+Jalostotitlán,Jalisco,si,2023,6.0,15.0,290.0,8.0,3.0,1.9
+Jalostotitlán,Jalisco,si,2024,3.0,18.0,22.0,11.0,4.0,5.2
+Jamay,Jalisco,si,2020,87.0,18.0,96.0,36.0,17.0,34.3
+Jamay,Jalisco,si,2021,180.0,56.0,357.0,51.0,39.0,26.4
+Jamay,Jalisco,si,2022,186.0,66.0,194.0,56.0,44.0,34.1
+Jamay,Jalisco,si,2023,218.0,59.0,329.0,57.0,45.0,30.8
+Jamay,Jalisco,si,2024,42.0,17.0,9.0,28.0,26.0,34.4
+Jesús María,Jalisco,si,2020,2.0,21.0,353.0,36.0,8.0,0.5
+Jesús María,Jalisco,si,2021,9.0,135.0,1615.0,201.0,96.0,0.4
+Jesús María,Jalisco,si,2022,16.0,126.0,1527.0,286.0,197.0,0.7
+Jesús María,Jalisco,si,2023,7.0,72.0,901.0,156.0,131.0,0.6
+Jesús María,Jalisco,si,2024,4.0,86.0,50.0,39.0,22.0,2.0
+Jilotlán de los Dolores,Jalisco,si,2020,12.0,9.0,40.0,36.0,25.0,9.8
+Jilotlán de los Dolores,Jalisco,si,2021,35.0,28.0,88.0,101.0,45.0,11.8
+Jilotlán de los Dolores,Jalisco,si,2022,18.0,15.0,64.0,55.0,59.0,8.5
+Jilotlán de los Dolores,Jalisco,si,2023,68.0,25.0,73.0,68.0,69.0,22.4
+Jilotlán de los Dolores,Jalisco,si,2024,20.0,20.0,66.0,46.0,75.0,8.8
+Jocotepec,Jalisco,si,2020,1.0,4.0,11.0,14.0,4.0,2.9
+Jocotepec,Jalisco,si,2021,2.0,30.0,104.0,29.0,12.0,1.1
+Jocotepec,Jalisco,si,2022,1.0,14.0,91.0,13.0,3.0,0.8
+Jocotepec,Jalisco,si,2023,2.0,25.0,147.0,22.0,7.0,1.0
+Jocotepec,Jalisco,si,2024,2.0,25.0,21.0,15.0,4.0,3.0
+Juanacatlán,Jalisco,si,2020,2.0,3.0,27.0,5.0,1.0,5.3
+Juanacatlán,Jalisco,si,2021,9.0,38.0,173.0,22.0,7.0,3.6
+Juanacatlán,Jalisco,si,2022,7.0,16.0,92.0,9.0,5.0,5.4
+Juanacatlán,Jalisco,si,2023,28.0,39.0,213.0,18.0,10.0,9.1
+Juanacatlán,Jalisco,si,2024,5.0,11.0,12.0,5.0,2.0,14.3
+Juchitlán,Jalisco,si,2020,2.0,18.0,57.0,13.0,21.0,1.8
+Juchitlán,Jalisco,si,2021,18.0,55.0,213.0,51.0,67.0,4.5
+Juchitlán,Jalisco,si,2022,3.0,57.0,213.0,50.0,51.0,0.8
+Juchitlán,Jalisco,si,2023,2.0,49.0,248.0,83.0,109.0,0.4
+Juchitlán,Jalisco,si,2024,0.0,10.0,21.0,18.0,25.0,0.0
+Lagos de Moreno,Jalisco,si,2020,10.0,25.0,52.0,96.0,19.0,5.0
+Lagos de Moreno,Jalisco,si,2021,38.0,505.0,479.0,714.0,226.0,1.9
+Lagos de Moreno,Jalisco,si,2022,15.0,26.0,101.0,46.0,25.0,7.0
+Lagos de Moreno,Jalisco,si,2023,29.0,181.0,446.0,235.0,75.0,3.0
+Lagos de Moreno,Jalisco,si,2024,15.0,60.0,121.0,119.0,36.0,4.3
+El Limón,Jalisco,si,2020,0.0,2.0,8.0,1.0,1.0,0.0
+El Limón,Jalisco,si,2021,7.0,18.0,35.0,9.0,14.0,8.4
+El Limón,Jalisco,si,2022,3.0,13.0,44.0,10.0,13.0,3.6
+El Limón,Jalisco,si,2023,4.0,25.0,36.0,11.0,8.0,4.8
+El Limón,Jalisco,si,2024,2.0,18.0,10.0,4.0,1.0,5.7
+Magdalena,Jalisco,si,2020,0.0,5.0,48.0,15.0,3.0,0.0
+Magdalena,Jalisco,si,2021,6.0,76.0,384.0,98.0,82.0,0.9
+Magdalena,Jalisco,si,2022,2.0,32.0,282.0,96.0,74.0,0.4
+Magdalena,Jalisco,si,2023,6.0,91.0,296.0,172.0,108.0,0.9
+Magdalena,Jalisco,si,2024,1.0,14.0,19.0,6.0,3.0,2.3
+Santa María del Oro,Jalisco,si,2020,0.0,0.0,0.0,1.0,0.0,0.0
+Santa María del Oro,Jalisco,si,2021,1.0,1.0,3.0,1.0,0.0,16.7
+Santa María del Oro,Jalisco,si,2022,1.0,1.0,1.0,3.0,3.0,11.1
+Santa María del Oro,Jalisco,si,2023,1.0,1.0,3.0,3.0,2.0,10.0
+Santa María del Oro,Jalisco,si,2024,12.0,17.0,1.0,4.0,3.0,32.4
+La Manzanilla de la Paz,Jalisco,si,2020,0.0,1.0,1.0,1.0,1.0,0.0
+La Manzanilla de la Paz,Jalisco,si,2021,2.0,9.0,6.0,6.0,3.0,7.7
+La Manzanilla de la Paz,Jalisco,si,2022,7.0,20.0,12.0,6.0,1.0,15.2
+La Manzanilla de la Paz,Jalisco,si,2023,3.0,17.0,19.0,4.0,1.0,6.8
+La Manzanilla de la Paz,Jalisco,si,2024,1.0,9.0,4.0,3.0,2.0,5.3
+Mascota,Jalisco,si,2020,4.0,11.0,8.0,16.0,12.0,7.8
+Mascota,Jalisco,si,2021,30.0,51.0,36.0,27.0,10.0,19.5
+Mascota,Jalisco,si,2022,51.0,80.0,57.0,53.0,21.0,19.5
+Mascota,Jalisco,si,2023,28.0,54.0,58.0,27.0,17.0,15.2
+Mascota,Jalisco,si,2024,11.0,16.0,23.0,10.0,6.0,16.7
+Mazamitla,Jalisco,si,2020,3.0,4.0,4.0,14.0,3.0,10.7
+Mazamitla,Jalisco,si,2021,58.0,60.0,24.0,47.0,18.0,28.0
+Mazamitla,Jalisco,si,2022,6.0,23.0,16.0,16.0,3.0,9.4
+Mazamitla,Jalisco,si,2023,16.0,65.0,36.0,19.0,7.0,11.2
+Mazamitla,Jalisco,si,2024,2.0,7.0,4.0,2.0,1.0,12.5
+Mexticacán,Jalisco,si,2020,0.0,1.0,11.0,28.0,1.0,0.0
+Mexticacán,Jalisco,si,2021,1.0,14.0,173.0,50.0,5.0,0.4
+Mexticacán,Jalisco,si,2022,0.0,2.0,68.0,20.0,1.0,0.0
+Mexticacán,Jalisco,si,2023,0.0,7.0,88.0,13.0,3.0,0.0
+Mexticacán,Jalisco,si,2024,0.0,32.0,14.0,5.0,1.0,0.0
+Mezquitic,Jalisco,si,2020,1.0,0.0,1.0,6.0,1.0,11.1
+Mezquitic,Jalisco,si,2021,44.0,84.0,15.0,116.0,141.0,11.0
+Mezquitic,Jalisco,si,2022,6.0,18.0,4.0,23.0,21.0,8.3
+Mezquitic,Jalisco,si,2023,2.0,112.0,43.0,95.0,47.0,0.7
+Mezquitic,Jalisco,si,2024,1.0,125.0,44.0,75.0,50.0,0.3
+Mixtlán,Jalisco,si,2020,3.0,1.0,18.0,2.0,0.0,12.5
+Mixtlán,Jalisco,si,2021,5.0,7.0,30.0,7.0,3.0,9.6
+Mixtlán,Jalisco,si,2022,2.0,15.0,25.0,5.0,4.0,3.9
+Mixtlán,Jalisco,si,2023,19.0,19.0,50.0,8.0,6.0,18.6
+Mixtlán,Jalisco,si,2024,3.0,19.0,13.0,1.0,0.0,8.3
+Ocotlán,Jalisco,si,2020,30.0,23.0,214.0,17.0,11.0,10.2
+Ocotlán,Jalisco,si,2021,121.0,85.0,946.0,64.0,20.0,9.8
+Ocotlán,Jalisco,si,2022,55.0,55.0,801.0,38.0,28.0,5.6
+Ocotlán,Jalisco,si,2023,69.0,52.0,534.0,43.0,46.0,9.3
+Ocotlán,Jalisco,si,2024,40.0,22.0,42.0,12.0,21.0,29.2
+Ojuelos de Jalisco,Jalisco,si,2020,1.0,1.0,6.0,5.0,3.0,6.2
+Ojuelos de Jalisco,Jalisco,si,2021,10.0,66.0,38.0,166.0,125.0,2.5
+Ojuelos de Jalisco,Jalisco,si,2022,1.0,1.0,2.0,14.0,10.0,3.6
+Ojuelos de Jalisco,Jalisco,si,2023,5.0,7.0,10.0,23.0,22.0,7.5
+Ojuelos de Jalisco,Jalisco,si,2024,5.0,4.0,17.0,47.0,46.0,4.2
+Pihuamo,Jalisco,si,2020,3.0,19.0,22.0,19.0,9.0,4.2
+Pihuamo,Jalisco,si,2021,4.0,88.0,120.0,41.0,18.0,1.5
+Pihuamo,Jalisco,si,2022,4.0,59.0,150.0,38.0,12.0,1.5
+Pihuamo,Jalisco,si,2023,3.0,90.0,174.0,25.0,4.0,1.0
+Pihuamo,Jalisco,si,2024,5.0,26.0,21.0,4.0,3.0,8.5
+Poncitlán,Jalisco,si,2020,108.0,12.0,115.0,59.0,52.0,31.2
+Poncitlán,Jalisco,si,2021,210.0,55.0,417.0,45.0,27.0,27.9
+Poncitlán,Jalisco,si,2022,183.0,53.0,315.0,44.0,39.0,28.9
+Poncitlán,Jalisco,si,2023,100.0,52.0,308.0,52.0,44.0,18.0
+Poncitlán,Jalisco,si,2024,51.0,27.0,21.0,19.0,16.0,38.1
+Puerto Vallarta,Jalisco,si,2020,3.0,4.0,19.0,13.0,5.0,6.8
+Puerto Vallarta,Jalisco,si,2021,13.0,15.0,20.0,23.0,13.0,15.5
+Puerto Vallarta,Jalisco,si,2022,11.0,18.0,23.0,20.0,15.0,12.6
+Puerto Vallarta,Jalisco,si,2023,13.0,23.0,25.0,18.0,8.0,14.9
+Puerto Vallarta,Jalisco,si,2024,5.0,8.0,8.0,6.0,5.0,15.6
+Villa Purificación,Jalisco,si,2020,3.0,4.0,5.0,5.0,4.0,14.3
+Villa Purificación,Jalisco,si,2021,7.0,20.0,6.0,15.0,7.0,12.7
+Villa Purificación,Jalisco,si,2022,15.0,17.0,4.0,14.0,8.0,25.9
+Villa Purificación,Jalisco,si,2023,13.0,32.0,12.0,10.0,7.0,17.6
+Villa Purificación,Jalisco,si,2024,6.0,20.0,6.0,3.0,2.0,16.2
+Quitupan,Jalisco,si,2020,1.0,6.0,9.0,8.0,4.0,3.6
+Quitupan,Jalisco,si,2021,14.0,39.0,38.0,29.0,14.0,10.4
+Quitupan,Jalisco,si,2022,11.0,13.0,15.0,12.0,5.0,19.6
+Quitupan,Jalisco,si,2023,10.0,24.0,19.0,12.0,12.0,13.0
+Quitupan,Jalisco,si,2024,11.0,24.0,9.0,6.0,64.0,9.6
+El Salto,Jalisco,si,2020,1.0,1.0,1.0,2.0,1.0,16.7
+El Salto,Jalisco,si,2021,4.0,8.0,28.0,14.0,8.0,6.5
+El Salto,Jalisco,si,2022,9.0,1.0,38.0,5.0,3.0,16.1
+El Salto,Jalisco,si,2023,3.0,9.0,28.0,7.0,5.0,5.8
+El Salto,Jalisco,si,2024,2.0,6.0,2.0,5.0,2.0,11.8
+San Cristóbal de la Barranca,Jalisco,si,2020,1.0,3.0,7.0,9.0,3.0,4.3
+San Cristóbal de la Barranca,Jalisco,si,2021,5.0,51.0,148.0,71.0,97.0,1.3
+San Cristóbal de la Barranca,Jalisco,si,2022,1.0,24.0,116.0,53.0,23.0,0.5
+San Cristóbal de la Barranca,Jalisco,si,2023,2.0,35.0,164.0,74.0,37.0,0.6
+San Cristóbal de la Barranca,Jalisco,si,2024,0.0,8.0,11.0,2.0,2.0,0.0
+San Diego de Alejandría,Jalisco,si,2020,0.0,8.0,206.0,100.0,43.0,0.0
+San Diego de Alejandría,Jalisco,si,2021,3.0,47.0,1101.0,236.0,107.0,0.2
+San Diego de Alejandría,Jalisco,si,2022,1.0,36.0,893.0,138.0,32.0,0.1
+San Diego de Alejandría,Jalisco,si,2023,1.0,16.0,516.0,64.0,38.0,0.2
+San Diego de Alejandría,Jalisco,si,2024,3.0,15.0,70.0,24.0,9.0,2.5
+San Juan de los Lagos,Jalisco,si,2020,1.0,4.0,12.0,13.0,5.0,2.9
+San Juan de los Lagos,Jalisco,si,2021,5.0,41.0,298.0,58.0,25.0,1.2
+San Juan de los Lagos,Jalisco,si,2022,5.0,21.0,364.0,40.0,9.0,1.1
+San Juan de los Lagos,Jalisco,si,2023,8.0,29.0,413.0,22.0,5.0,1.7
+San Juan de los Lagos,Jalisco,si,2024,3.0,36.0,39.0,22.0,12.0,2.7
+San Julián,Jalisco,si,2020,0.0,1.0,13.0,8.0,0.0,0.0
+San Julián,Jalisco,si,2021,0.0,18.0,287.0,39.0,8.0,0.0
+San Julián,Jalisco,si,2022,0.0,13.0,478.0,37.0,8.0,0.0
+San Julián,Jalisco,si,2023,0.0,9.0,432.0,35.0,8.0,0.0
+San Julián,Jalisco,si,2024,0.0,12.0,33.0,11.0,3.0,0.0
+San Marcos,Jalisco,si,2020,0.0,3.0,9.0,2.0,0.0,0.0
+San Marcos,Jalisco,si,2021,4.0,54.0,65.0,18.0,12.0,2.6
+San Marcos,Jalisco,si,2022,2.0,47.0,100.0,11.0,4.0,1.2
+San Marcos,Jalisco,si,2023,6.0,141.0,168.0,60.0,18.0,1.5
+San Marcos,Jalisco,si,2024,0.0,4.0,10.0,0.0,0.0,0.0
+San Martín de Bolaños,Jalisco,si,2020,0.0,0.0,0.0,2.0,1.0,0.0
+San Martín de Bolaños,Jalisco,si,2021,2.0,16.0,22.0,44.0,32.0,1.7
+San Martín de Bolaños,Jalisco,si,2022,0.0,0.0,1.0,3.0,1.0,0.0
+San Martín de Bolaños,Jalisco,si,2023,1.0,15.0,15.0,41.0,40.0,0.9
+San Martín de Bolaños,Jalisco,si,2024,0.0,9.0,10.0,6.0,3.0,0.0
+San Martín Hidalgo,Jalisco,si,2020,1.0,7.0,50.0,7.0,5.0,1.4
+San Martín Hidalgo,Jalisco,si,2021,3.0,49.0,260.0,25.0,13.0,0.9
+San Martín Hidalgo,Jalisco,si,2022,1.0,42.0,452.0,12.0,5.0,0.2
+San Martín Hidalgo,Jalisco,si,2023,8.0,68.0,740.0,34.0,14.0,0.9
+San Martín Hidalgo,Jalisco,si,2024,2.0,20.0,33.0,3.0,4.0,3.2
+San Miguel el Alto,Jalisco,si,2020,0.0,4.0,74.0,32.0,6.0,0.0
+San Miguel el Alto,Jalisco,si,2021,2.0,48.0,810.0,51.0,13.0,0.2
+San Miguel el Alto,Jalisco,si,2022,0.0,33.0,1204.0,72.0,6.0,0.0
+San Miguel el Alto,Jalisco,si,2023,9.0,36.0,1070.0,28.0,12.0,0.8
+San Miguel el Alto,Jalisco,si,2024,1.0,19.0,67.0,12.0,6.0,1.0
+Gómez Farías,Jalisco,si,2020,48.0,18.0,41.0,45.0,20.0,27.9
+Gómez Farías,Jalisco,si,2021,38.0,125.0,264.0,81.0,25.0,7.1
+Gómez Farías,Jalisco,si,2022,32.0,56.0,186.0,41.0,26.0,9.4
+Gómez Farías,Jalisco,si,2023,48.0,46.0,153.0,29.0,22.0,16.1
+Gómez Farías,Jalisco,si,2024,30.0,26.0,43.0,17.0,9.0,24.0
+San Sebastián del Oeste,Jalisco,si,2020,0.0,10.0,15.0,12.0,4.0,0.0
+San Sebastián del Oeste,Jalisco,si,2021,5.0,27.0,63.0,27.0,8.0,3.8
+San Sebastián del Oeste,Jalisco,si,2022,6.0,33.0,105.0,22.0,20.0,3.2
+San Sebastián del Oeste,Jalisco,si,2023,4.0,40.0,121.0,17.0,20.0,2.0
+San Sebastián del Oeste,Jalisco,si,2024,3.0,10.0,16.0,3.0,2.0,8.8
+Santa María de los Ángeles,Jalisco,si,2020,0.0,0.0,1.0,0.0,0.0,0.0
+Santa María de los Ángeles,Jalisco,si,2021,2.0,3.0,2.0,5.0,3.0,13.3
+Santa María de los Ángeles,Jalisco,si,2022,0.0,1.0,2.0,1.0,0.0,0.0
+Santa María de los Ángeles,Jalisco,si,2023,1.0,2.0,4.0,3.0,1.0,9.1
+Santa María de los Ángeles,Jalisco,si,2024,0.0,1.0,1.0,1.0,1.0,0.0
+Sayula,Jalisco,si,2020,15.0,18.0,57.0,76.0,44.0,7.1
+Sayula,Jalisco,si,2021,42.0,61.0,128.0,137.0,49.0,10.1
+Sayula,Jalisco,si,2022,26.0,44.0,93.0,47.0,15.0,11.6
+Sayula,Jalisco,si,2023,43.0,79.0,158.0,71.0,16.0,11.7
+Sayula,Jalisco,si,2024,16.0,28.0,43.0,31.0,12.0,12.3
+Tala,Jalisco,si,2020,1.0,5.0,27.0,16.0,3.0,1.9
+Tala,Jalisco,si,2021,11.0,114.0,212.0,48.0,10.0,2.8
+Tala,Jalisco,si,2022,7.0,62.0,216.0,24.0,9.0,2.2
+Tala,Jalisco,si,2023,9.0,114.0,337.0,31.0,13.0,1.8
+Tala,Jalisco,si,2024,6.0,92.0,61.0,9.0,3.0,3.5
+Talpa de Allende,Jalisco,si,2020,10.0,2.0,2.0,8.0,5.0,37.0
+Talpa de Allende,Jalisco,si,2021,46.0,13.0,6.0,13.0,9.0,52.9
+Talpa de Allende,Jalisco,si,2022,33.0,19.0,7.0,23.0,20.0,32.4
+Talpa de Allende,Jalisco,si,2023,49.0,34.0,13.0,31.0,17.0,34.0
+Talpa de Allende,Jalisco,si,2024,5.0,5.0,2.0,3.0,2.0,29.4
+Tamazula de Gordiano,Jalisco,si,2020,13.0,54.0,41.0,25.0,8.0,9.2
+Tamazula de Gordiano,Jalisco,si,2021,60.0,183.0,125.0,61.0,16.0,13.5
+Tamazula de Gordiano,Jalisco,si,2022,27.0,104.0,79.0,27.0,15.0,10.7
+Tamazula de Gordiano,Jalisco,si,2023,33.0,141.0,129.0,34.0,10.0,9.5
+Tamazula de Gordiano,Jalisco,si,2024,22.0,95.0,31.0,12.0,3.0,13.5
+Tapalpa,Jalisco,si,2020,11.0,23.0,24.0,72.0,37.0,6.6
+Tapalpa,Jalisco,si,2021,20.0,73.0,87.0,135.0,49.0,5.5
+Tapalpa,Jalisco,si,2022,5.0,29.0,56.0,44.0,11.0,3.4
+Tapalpa,Jalisco,si,2023,13.0,94.0,121.0,91.0,21.0,3.8
+Tapalpa,Jalisco,si,2024,4.0,24.0,27.0,14.0,7.0,5.3
+Tecalitlán,Jalisco,si,2020,3.0,15.0,31.0,11.0,8.0,4.4
+Tecalitlán,Jalisco,si,2021,7.0,64.0,88.0,36.0,9.0,3.4
+Tecalitlán,Jalisco,si,2022,21.0,35.0,39.0,10.0,3.0,19.4
+Tecalitlán,Jalisco,si,2023,23.0,40.0,60.0,10.0,6.0,16.5
+Tecalitlán,Jalisco,si,2024,2.0,24.0,27.0,4.0,1.0,3.4
+Tecolotlán,Jalisco,si,2020,2.0,12.0,57.0,6.0,5.0,2.4
+Tecolotlán,Jalisco,si,2021,3.0,61.0,238.0,36.0,16.0,0.8
+Tecolotlán,Jalisco,si,2022,1.0,33.0,276.0,34.0,30.0,0.3
+Tecolotlán,Jalisco,si,2023,3.0,59.0,270.0,37.0,25.0,0.8
+Tecolotlán,Jalisco,si,2024,3.0,26.0,20.0,8.0,3.0,5.0
+Techaluta de Montenegro,Jalisco,si,2020,2.0,7.0,14.0,3.0,1.0,7.4
+Techaluta de Montenegro,Jalisco,si,2021,8.0,13.0,47.0,8.0,1.0,10.4
+Techaluta de Montenegro,Jalisco,si,2022,6.0,20.0,42.0,5.0,1.0,8.1
+Techaluta de Montenegro,Jalisco,si,2023,5.0,12.0,41.0,6.0,3.0,7.5
+Techaluta de Montenegro,Jalisco,si,2024,3.0,2.0,6.0,1.0,0.0,25.0
+Tenamaxtlán,Jalisco,si,2020,2.0,2.0,24.0,5.0,3.0,5.6
+Tenamaxtlán,Jalisco,si,2021,2.0,25.0,111.0,37.0,37.0,0.9
+Tenamaxtlán,Jalisco,si,2022,2.0,22.0,352.0,40.0,59.0,0.4
+Tenamaxtlán,Jalisco,si,2023,1.0,25.0,186.0,15.0,24.0,0.4
+Tenamaxtlán,Jalisco,si,2024,3.0,34.0,13.0,4.0,3.0,5.3
+Teocaltiche,Jalisco,si,2020,5.0,4.0,26.0,132.0,11.0,2.8
+Teocaltiche,Jalisco,si,2021,15.0,67.0,248.0,249.0,78.0,2.3
+Teocaltiche,Jalisco,si,2022,2.0,12.0,114.0,112.0,21.0,0.8
+Teocaltiche,Jalisco,si,2023,5.0,46.0,115.0,86.0,37.0,1.7
+Teocaltiche,Jalisco,si,2024,4.0,45.0,22.0,35.0,18.0,3.2
+Teocuitatlán de Corona,Jalisco,si,2020,31.0,50.0,160.0,50.0,31.0,9.6
+Teocuitatlán de Corona,Jalisco,si,2021,58.0,87.0,420.0,86.0,72.0,8.0
+Teocuitatlán de Corona,Jalisco,si,2022,40.0,54.0,280.0,22.0,47.0,9.0
+Teocuitatlán de Corona,Jalisco,si,2023,46.0,114.0,461.0,54.0,43.0,6.4
+Teocuitatlán de Corona,Jalisco,si,2024,19.0,62.0,95.0,33.0,23.0,8.2
+Tepatitlán de Morelos,Jalisco,si,2020,2.0,24.0,510.0,69.0,8.0,0.3
+Tepatitlán de Morelos,Jalisco,si,2021,18.0,367.0,2453.0,172.0,68.0,0.6
+Tepatitlán de Morelos,Jalisco,si,2022,5.0,209.0,2716.0,144.0,71.0,0.2
+Tepatitlán de Morelos,Jalisco,si,2023,8.0,290.0,2572.0,126.0,89.0,0.3
+Tepatitlán de Morelos,Jalisco,si,2024,2.0,65.0,91.0,19.0,17.0,1.0
+Tequila,Jalisco,si,2020,1.0,26.0,106.0,64.0,22.0,0.5
+Tequila,Jalisco,si,2021,11.0,322.0,972.0,359.0,345.0,0.5
+Tequila,Jalisco,si,2022,5.0,125.0,500.0,179.0,205.0,0.5
+Tequila,Jalisco,si,2023,10.0,353.0,800.0,435.0,383.0,0.5
+Tequila,Jalisco,si,2024,0.0,20.0,34.0,11.0,11.0,0.0
+Teuchitlán,Jalisco,si,2020,3.0,12.0,62.0,11.0,2.0,3.3
+Teuchitlán,Jalisco,si,2021,27.0,128.0,485.0,55.0,32.0,3.7
+Teuchitlán,Jalisco,si,2022,6.0,100.0,345.0,27.0,22.0,1.2
+Teuchitlán,Jalisco,si,2023,3.0,143.0,396.0,62.0,46.0,0.5
+Teuchitlán,Jalisco,si,2024,2.0,25.0,33.0,7.0,6.0,2.7
+Tizapán el Alto,Jalisco,si,2020,5.0,7.0,44.0,20.0,13.0,5.6
+Tizapán el Alto,Jalisco,si,2021,8.0,14.0,98.0,45.0,14.0,4.5
+Tizapán el Alto,Jalisco,si,2022,5.0,9.0,73.0,26.0,17.0,3.8
+Tizapán el Alto,Jalisco,si,2023,10.0,19.0,99.0,33.0,20.0,5.5
+Tizapán el Alto,Jalisco,si,2024,4.0,14.0,22.0,22.0,9.0,5.6
+Tlajomulco de Zúñiga,Jalisco,si,2020,5.0,13.0,61.0,38.0,13.0,3.8
+Tlajomulco de Zúñiga,Jalisco,si,2021,20.0,97.0,403.0,132.0,73.0,2.8
+Tlajomulco de Zúñiga,Jalisco,si,2022,46.0,21.0,331.0,32.0,356.0,5.9
+Tlajomulco de Zúñiga,Jalisco,si,2023,16.0,56.0,606.0,56.0,102.0,1.9
+Tlajomulco de Zúñiga,Jalisco,si,2024,5.0,19.0,37.0,18.0,15.0,5.3
+San Pedro Tlaquepaque,Jalisco,si,2020,1.0,4.0,4.0,10.0,6.0,4.0
+San Pedro Tlaquepaque,Jalisco,si,2021,4.0,14.0,15.0,34.0,15.0,4.9
+San Pedro Tlaquepaque,Jalisco,si,2022,1.0,2.0,12.0,8.0,4.0,3.7
+San Pedro Tlaquepaque,Jalisco,si,2023,6.0,10.0,32.0,20.0,12.0,7.5
+San Pedro Tlaquepaque,Jalisco,si,2024,5.0,3.0,5.0,5.0,6.0,20.8
+Tolimán,Jalisco,si,2020,1.0,2.0,32.0,76.0,4.0,0.9
+Tolimán,Jalisco,si,2021,9.0,33.0,273.0,272.0,42.0,1.4
+Tolimán,Jalisco,si,2022,8.0,15.0,115.0,92.0,33.0,3.0
+Tolimán,Jalisco,si,2023,19.0,22.0,136.0,151.0,30.0,5.3
+Tolimán,Jalisco,si,2024,2.0,3.0,38.0,39.0,7.0,2.2
+Tomatlán,Jalisco,si,2020,41.0,57.0,81.0,75.0,40.0,13.9
+Tomatlán,Jalisco,si,2021,88.0,135.0,141.0,108.0,55.0,16.7
+Tomatlán,Jalisco,si,2022,83.0,151.0,149.0,145.0,99.0,13.2
+Tomatlán,Jalisco,si,2023,83.0,180.0,173.0,113.0,69.0,13.4
+Tomatlán,Jalisco,si,2024,67.0,158.0,158.0,77.0,48.0,13.2
+Tonalá,Jalisco,si,2020,0.0,2.0,4.0,6.0,3.0,0.0
+Tonalá,Jalisco,si,2021,3.0,18.0,41.0,28.0,11.0,3.0
+Tonalá,Jalisco,si,2022,1.0,2.0,26.0,7.0,4.0,2.5
+Tonalá,Jalisco,si,2023,1.0,10.0,44.0,11.0,5.0,1.4
+Tonalá,Jalisco,si,2024,1.0,3.0,4.0,4.0,3.0,6.7
+Tonaya,Jalisco,si,2020,1.0,7.0,52.0,20.0,5.0,1.2
+Tonaya,Jalisco,si,2021,1.0,53.0,297.0,37.0,16.0,0.2
+Tonaya,Jalisco,si,2022,1.0,46.0,119.0,16.0,17.0,0.5
+Tonaya,Jalisco,si,2023,2.0,61.0,155.0,27.0,19.0,0.8
+Tonaya,Jalisco,si,2024,0.0,50.0,26.0,7.0,3.0,0.0
+Tonila,Jalisco,si,2020,2.0,22.0,52.0,10.0,5.0,2.2
+Tonila,Jalisco,si,2021,4.0,51.0,59.0,16.0,4.0,3.0
+Tonila,Jalisco,si,2022,8.0,39.0,42.0,14.0,5.0,7.4
+Tonila,Jalisco,si,2023,8.0,62.0,74.0,13.0,6.0,4.9
+Tonila,Jalisco,si,2024,6.0,16.0,13.0,5.0,2.0,14.3
+Totatiche,Jalisco,si,2020,0.0,0.0,0.0,1.0,0.0,0.0
+Totatiche,Jalisco,si,2021,2.0,14.0,3.0,13.0,6.0,5.3
+Totatiche,Jalisco,si,2022,0.0,2.0,2.0,2.0,1.0,0.0
+Totatiche,Jalisco,si,2023,1.0,4.0,3.0,4.0,2.0,7.1
+Totatiche,Jalisco,si,2024,1.0,20.0,8.0,8.0,2.0,2.6
+Tototlán,Jalisco,si,2020,31.0,66.0,164.0,27.0,12.0,10.3
+Tototlán,Jalisco,si,2021,65.0,121.0,807.0,63.0,19.0,6.0
+Tototlán,Jalisco,si,2022,49.0,97.0,837.0,28.0,12.0,4.8
+Tototlán,Jalisco,si,2023,90.0,106.0,609.0,47.0,24.0,10.3
+Tototlán,Jalisco,si,2024,44.0,35.0,35.0,18.0,12.0,30.6
+Tuxcacuesco,Jalisco,si,2020,1.0,9.0,46.0,114.0,12.0,0.5
+Tuxcacuesco,Jalisco,si,2021,22.0,78.0,283.0,193.0,90.0,3.3
+Tuxcacuesco,Jalisco,si,2022,19.0,32.0,138.0,65.0,88.0,5.6
+Tuxcacuesco,Jalisco,si,2023,12.0,39.0,182.0,50.0,60.0,3.5
+Tuxcacuesco,Jalisco,si,2024,20.0,16.0,36.0,15.0,11.0,20.4
+Tuxcueca,Jalisco,si,2020,2.0,1.0,5.0,6.0,4.0,11.1
+Tuxcueca,Jalisco,si,2021,8.0,16.0,53.0,9.0,4.0,8.9
+Tuxcueca,Jalisco,si,2022,2.0,2.0,24.0,4.0,2.0,5.9
+Tuxcueca,Jalisco,si,2023,1.0,7.0,43.0,8.0,2.0,1.6
+Tuxcueca,Jalisco,si,2024,2.0,7.0,9.0,5.0,2.0,8.0
+Tuxpan,Jalisco,si,2020,38.0,129.0,169.0,122.0,47.0,7.5
+Tuxpan,Jalisco,si,2021,103.0,597.0,559.0,292.0,75.0,6.3
+Tuxpan,Jalisco,si,2022,68.0,229.0,302.0,139.0,39.0,8.8
+Tuxpan,Jalisco,si,2023,86.0,258.0,286.0,98.0,49.0,11.1
+Tuxpan,Jalisco,si,2024,9.0,70.0,78.0,17.0,8.0,4.9
+Unión de San Antonio,Jalisco,si,2020,6.0,8.0,123.0,81.0,5.0,2.7
+Unión de San Antonio,Jalisco,si,2021,10.0,109.0,884.0,164.0,29.0,0.8
+Unión de San Antonio,Jalisco,si,2022,7.0,37.0,623.0,111.0,20.0,0.9
+Unión de San Antonio,Jalisco,si,2023,11.0,84.0,841.0,159.0,16.0,1.0
+Unión de San Antonio,Jalisco,si,2024,2.0,57.0,99.0,49.0,15.0,0.9
+Unión de Tula,Jalisco,si,2020,1.0,2.0,6.0,3.0,1.0,7.7
+Unión de Tula,Jalisco,si,2021,3.0,20.0,84.0,10.0,4.0,2.5
+Unión de Tula,Jalisco,si,2022,4.0,21.0,119.0,14.0,11.0,2.4
+Unión de Tula,Jalisco,si,2023,16.0,33.0,155.0,12.0,7.0,7.2
+Unión de Tula,Jalisco,si,2024,5.0,8.0,23.0,2.0,1.0,12.8
+Valle de Guadalupe,Jalisco,si,2020,0.0,1.0,4.0,6.0,2.0,0.0
+Valle de Guadalupe,Jalisco,si,2021,2.0,9.0,81.0,19.0,5.0,1.7
+Valle de Guadalupe,Jalisco,si,2022,0.0,10.0,186.0,6.0,4.0,0.0
+Valle de Guadalupe,Jalisco,si,2023,2.0,11.0,135.0,6.0,1.0,1.3
+Valle de Guadalupe,Jalisco,si,2024,1.0,24.0,19.0,8.0,3.0,1.8
+Valle de Juárez,Jalisco,si,2020,0.0,3.0,4.0,2.0,1.0,0.0
+Valle de Juárez,Jalisco,si,2021,4.0,11.0,5.0,10.0,4.0,11.8
+Valle de Juárez,Jalisco,si,2022,1.0,6.0,4.0,3.0,1.0,6.7
+Valle de Juárez,Jalisco,si,2023,1.0,14.0,19.0,6.0,2.0,2.4
+Valle de Juárez,Jalisco,si,2024,2.0,14.0,7.0,4.0,1.0,7.1
+San Gabriel,Jalisco,si,2020,25.0,35.0,296.0,113.0,43.0,4.9
+San Gabriel,Jalisco,si,2021,58.0,236.0,1155.0,375.0,189.0,2.9
+San Gabriel,Jalisco,si,2022,54.0,91.0,630.0,174.0,193.0,4.7
+San Gabriel,Jalisco,si,2023,57.0,133.0,605.0,161.0,151.0,5.1
+San Gabriel,Jalisco,si,2024,22.0,25.0,76.0,34.0,36.0,11.4
+Villa Corona,Jalisco,si,2020,2.0,20.0,71.0,9.0,6.0,1.9
+Villa Corona,Jalisco,si,2021,8.0,119.0,387.0,44.0,19.0,1.4
+Villa Corona,Jalisco,si,2022,8.0,80.0,403.0,35.0,36.0,1.4
+Villa Corona,Jalisco,si,2023,20.0,173.0,417.0,45.0,52.0,2.8
+Villa Corona,Jalisco,si,2024,2.0,37.0,31.0,8.0,5.0,2.4
+Villa Guerrero,Jalisco,si,2020,0.0,0.0,0.0,2.0,1.0,0.0
+Villa Guerrero,Jalisco,si,2021,1.0,12.0,7.0,18.0,13.0,2.0
+Villa Guerrero,Jalisco,si,2022,0.0,1.0,1.0,1.0,1.0,0.0
+Villa Guerrero,Jalisco,si,2023,0.0,5.0,8.0,7.0,5.0,0.0
+Villa Guerrero,Jalisco,si,2024,0.0,18.0,14.0,14.0,5.0,0.0
+Villa Hidalgo,Jalisco,si,2020,0.0,1.0,3.0,4.0,0.0,0.0
+Villa Hidalgo,Jalisco,si,2021,6.0,17.0,13.0,26.0,18.0,7.5
+Villa Hidalgo,Jalisco,si,2022,0.0,2.0,10.0,6.0,1.0,0.0
+Villa Hidalgo,Jalisco,si,2023,31.0,49.0,14.0,51.0,82.0,13.7
+Villa Hidalgo,Jalisco,si,2024,1.0,6.0,3.0,11.0,6.0,3.7
+Cañadas de Obregón,Jalisco,si,2020,0.0,4.0,9.0,5.0,1.0,0.0
+Cañadas de Obregón,Jalisco,si,2021,2.0,26.0,347.0,40.0,6.0,0.5
+Cañadas de Obregón,Jalisco,si,2022,0.0,10.0,176.0,33.0,1.0,0.0
+Cañadas de Obregón,Jalisco,si,2023,0.0,6.0,123.0,8.0,3.0,0.0
+Cañadas de Obregón,Jalisco,si,2024,0.0,20.0,15.0,6.0,2.0,0.0
+Yahualica de González Gallo,Jalisco,si,2020,0.0,6.0,39.0,17.0,1.0,0.0
+Yahualica de González Gallo,Jalisco,si,2021,2.0,37.0,468.0,60.0,15.0,0.3
+Yahualica de González Gallo,Jalisco,si,2022,0.0,21.0,365.0,38.0,21.0,0.0
+Yahualica de González Gallo,Jalisco,si,2023,2.0,20.0,278.0,23.0,15.0,0.6
+Yahualica de González Gallo,Jalisco,si,2024,1.0,51.0,42.0,15.0,7.0,0.9
+Zacoalco de Torres,Jalisco,si,2020,21.0,21.0,233.0,41.0,19.0,6.3
+Zacoalco de Torres,Jalisco,si,2021,41.0,89.0,857.0,113.0,138.0,3.3
+Zacoalco de Torres,Jalisco,si,2022,20.0,60.0,473.0,70.0,127.0,2.7
+Zacoalco de Torres,Jalisco,si,2023,22.0,82.0,400.0,109.0,217.0,2.7
+Zacoalco de Torres,Jalisco,si,2024,5.0,28.0,72.0,20.0,35.0,3.1
+Zapopan,Jalisco,si,2020,3.0,9.0,67.0,51.0,15.0,2.1
+Zapopan,Jalisco,si,2021,252.0,85.0,296.0,192.0,366.0,21.2
+Zapopan,Jalisco,si,2022,32.0,26.0,210.0,64.0,31.0,8.8
+Zapopan,Jalisco,si,2023,17.0,60.0,335.0,74.0,35.0,3.3
+Zapopan,Jalisco,si,2024,4.0,15.0,29.0,16.0,13.0,5.2
+Zapotiltic,Jalisco,si,2020,25.0,90.0,61.0,17.0,15.0,12.0
+Zapotiltic,Jalisco,si,2021,81.0,209.0,150.0,68.0,16.0,15.5
+Zapotiltic,Jalisco,si,2022,35.0,236.0,81.0,34.0,6.0,8.9
+Zapotiltic,Jalisco,si,2023,35.0,119.0,82.0,30.0,5.0,12.9
+Zapotiltic,Jalisco,si,2024,17.0,86.0,51.0,17.0,2.0,9.8
+Zapotitlán de Vadillo,Jalisco,si,2020,1.0,2.0,41.0,29.0,3.0,1.3
+Zapotitlán de Vadillo,Jalisco,si,2021,19.0,83.0,273.0,103.0,9.0,3.9
+Zapotitlán de Vadillo,Jalisco,si,2022,5.0,20.0,109.0,27.0,17.0,2.8
+Zapotitlán de Vadillo,Jalisco,si,2023,4.0,46.0,206.0,33.0,7.0,1.4
+Zapotitlán de Vadillo,Jalisco,si,2024,4.0,21.0,18.0,4.0,5.0,7.7
+Zapotlán del Rey,Jalisco,si,2020,12.0,20.0,119.0,15.0,7.0,6.9
+Zapotlán del Rey,Jalisco,si,2021,23.0,65.0,479.0,40.0,49.0,3.5
+Zapotlán del Rey,Jalisco,si,2022,40.0,36.0,335.0,14.0,44.0,8.5
+Zapotlán del Rey,Jalisco,si,2023,88.0,44.0,495.0,17.0,39.0,12.9
+Zapotlán del Rey,Jalisco,si,2024,48.0,41.0,39.0,14.0,10.0,31.6
+Zapotlanejo,Jalisco,si,2020,2.0,18.0,128.0,21.0,6.0,1.1
+Zapotlanejo,Jalisco,si,2021,4.0,124.0,1027.0,49.0,12.0,0.3
+Zapotlanejo,Jalisco,si,2022,2.0,72.0,918.0,29.0,9.0,0.2
+Zapotlanejo,Jalisco,si,2023,6.0,104.0,1342.0,51.0,20.0,0.4
+Zapotlanejo,Jalisco,si,2024,3.0,32.0,47.0,9.0,4.0,3.2
+San Ignacio Cerro Gordo,Jalisco,si,2020,0.0,18.0,233.0,13.0,1.0,0.0
+San Ignacio Cerro Gordo,Jalisco,si,2021,6.0,117.0,966.0,71.0,32.0,0.5
+San Ignacio Cerro Gordo,Jalisco,si,2022,2.0,55.0,668.0,38.0,21.0,0.3
+San Ignacio Cerro Gordo,Jalisco,si,2023,2.0,46.0,485.0,43.0,36.0,0.3
+San Ignacio Cerro Gordo,Jalisco,si,2024,0.0,5.0,9.0,4.0,1.0,0.0
+Zamora,Michoacan de Ocampo,si,2020,13.0,11.0,27.0,55.0,30.0,9.6
+Zamora,Michoacan de Ocampo,si,2021,10.0,16.0,49.0,57.0,27.0,6.3
+Zamora,Michoacan de Ocampo,si,2022,17.0,45.0,150.0,68.0,48.0,5.2
+Zamora,Michoacan de Ocampo,si,2023,24.0,65.0,147.0,59.0,24.0,7.5
+Zamora,Michoacan de Ocampo,si,2024,11.0,44.0,60.0,27.0,11.0,7.2
+Tangancícuaro,Michoacan de Ocampo,si,2020,6.0,7.0,28.0,21.0,14.0,7.9
+Tangancícuaro,Michoacan de Ocampo,si,2021,33.0,46.0,103.0,91.0,39.0,10.6
+Tangancícuaro,Michoacan de Ocampo,si,2022,27.0,30.0,117.0,71.0,29.0,9.9
+Tangancícuaro,Michoacan de Ocampo,si,2023,13.0,26.0,91.0,44.0,22.0,6.6
+Tangancícuaro,Michoacan de Ocampo,si,2024,26.0,108.0,46.0,26.0,10.0,12.0
+Chinicuila,Michoacan de Ocampo,no,2022,0.0,0.0,0.0,0.0,0.0,
+Chinicuila,Michoacan de Ocampo,no,2024,0.0,0.0,0.0,0.0,0.0,
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2020,0.0,0.0,0.0,0.0,0.0,
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2021,0.0,0.0,0.0,0.0,0.0,
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2023,0.0,0.0,0.0,0.0,0.0,
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2024,0.0,0.0,0.0,0.0,0.0,
+Aguililla,Michoacan de Ocampo,no,2020,5.0,3.0,5.0,12.0,17.0,11.9
+Aguililla,Michoacan de Ocampo,no,2021,12.0,4.0,7.0,9.0,23.0,21.8
+Aguililla,Michoacan de Ocampo,no,2022,1.0,3.0,2.0,4.0,2.0,8.3
+Aguililla,Michoacan de Ocampo,no,2023,21.0,15.0,9.0,59.0,25.0,16.3
+Aguililla,Michoacan de Ocampo,no,2024,0.0,10.0,46.0,3.0,1.0,0.0
+La Huacana,Michoacan de Ocampo,no,2020,2.0,11.0,14.0,5.0,1.0,6.1
+La Huacana,Michoacan de Ocampo,no,2021,2.0,13.0,29.0,7.0,4.0,3.6
+La Huacana,Michoacan de Ocampo,no,2022,1.0,2.0,4.0,3.0,5.0,6.7
+La Huacana,Michoacan de Ocampo,no,2023,0.0,1.0,10.0,2.0,1.0,0.0
+La Huacana,Michoacan de Ocampo,no,2024,0.0,4.0,14.0,3.0,1.0,0.0
+Múgica,Michoacan de Ocampo,no,2020,35.0,10.0,46.0,54.0,31.0,19.9
+Múgica,Michoacan de Ocampo,no,2021,89.0,14.0,41.0,68.0,39.0,35.5
+Múgica,Michoacan de Ocampo,no,2022,45.0,10.0,25.0,34.0,30.0,31.2
+Múgica,Michoacan de Ocampo,no,2023,55.0,12.0,21.0,39.0,21.0,37.2
+Múgica,Michoacan de Ocampo,no,2024,61.0,10.0,14.0,23.0,19.0,48.0
+Turicato,Michoacan de Ocampo,no,2020,3.0,28.0,28.0,17.0,4.0,3.8
+Turicato,Michoacan de Ocampo,no,2021,12.0,54.0,72.0,54.0,16.0,5.8
+Turicato,Michoacan de Ocampo,no,2022,5.0,32.0,32.0,12.0,5.0,5.8
+Turicato,Michoacan de Ocampo,no,2023,5.0,22.0,19.0,9.0,2.0,8.8
+Turicato,Michoacan de Ocampo,no,2024,3.0,37.0,21.0,7.0,1.0,4.3
+Carácuaro,Michoacan de Ocampo,no,2020,0.0,0.0,1.0,2.0,0.0,0.0
+Carácuaro,Michoacan de Ocampo,no,2021,0.0,0.0,1.0,1.0,0.0,0.0
+Carácuaro,Michoacan de Ocampo,no,2022,0.0,0.0,1.0,1.0,0.0,0.0
+Carácuaro,Michoacan de Ocampo,no,2023,0.0,0.0,0.0,1.0,1.0,0.0
+Carácuaro,Michoacan de Ocampo,no,2024,0.0,2.0,1.0,0.0,0.0,0.0
+Tepalcatepec,Michoacan de Ocampo,no,2020,45.0,76.0,169.0,71.0,32.0,11.5
+Tepalcatepec,Michoacan de Ocampo,no,2021,87.0,80.0,139.0,76.0,63.0,19.6
+Tepalcatepec,Michoacan de Ocampo,no,2022,74.0,65.0,73.0,63.0,35.0,23.9
+Tepalcatepec,Michoacan de Ocampo,no,2023,99.0,116.0,115.0,89.0,49.0,21.2
+Tepalcatepec,Michoacan de Ocampo,no,2024,149.0,209.0,204.0,125.0,86.0,19.3
+Apatzingán,Michoacan de Ocampo,no,2020,115.0,42.0,161.0,151.0,220.0,16.7
+Apatzingán,Michoacan de Ocampo,no,2021,221.0,71.0,166.0,160.0,180.0,27.7
+Apatzingán,Michoacan de Ocampo,no,2022,114.0,72.0,120.0,148.0,158.0,18.6
+Apatzingán,Michoacan de Ocampo,no,2023,151.0,79.0,132.0,115.0,96.0,26.4
+Apatzingán,Michoacan de Ocampo,no,2024,99.0,59.0,71.0,58.0,66.0,28.0
+Parácuaro,Michoacan de Ocampo,no,2020,68.0,22.0,56.0,62.0,44.0,27.0
+Parácuaro,Michoacan de Ocampo,no,2021,105.0,42.0,96.0,77.0,83.0,26.1
+Parácuaro,Michoacan de Ocampo,no,2022,150.0,41.0,50.0,60.0,66.0,40.9
+Parácuaro,Michoacan de Ocampo,no,2023,74.0,26.0,63.0,45.0,30.0,31.1
+Parácuaro,Michoacan de Ocampo,no,2024,55.0,26.0,40.0,34.0,34.0,29.1
+Nocupétaro,Michoacan de Ocampo,no,2020,0.0,2.0,2.0,1.0,0.0,0.0
+Nocupétaro,Michoacan de Ocampo,no,2021,0.0,2.0,4.0,2.0,2.0,0.0
+Nocupétaro,Michoacan de Ocampo,no,2022,0.0,1.0,3.0,1.0,1.0,0.0
+Nocupétaro,Michoacan de Ocampo,no,2023,0.0,0.0,2.0,1.0,0.0,0.0
+Nocupétaro,Michoacan de Ocampo,no,2024,0.0,4.0,2.0,1.0,0.0,0.0
+Nuevo Urecho,Michoacan de Ocampo,no,2020,9.0,32.0,24.0,30.0,11.0,8.5
+Nuevo Urecho,Michoacan de Ocampo,no,2021,17.0,45.0,35.0,23.0,7.0,13.4
+Nuevo Urecho,Michoacan de Ocampo,no,2022,12.0,21.0,15.0,7.0,7.0,19.4
+Nuevo Urecho,Michoacan de Ocampo,no,2023,11.0,12.0,8.0,5.0,2.0,28.9
+Nuevo Urecho,Michoacan de Ocampo,no,2024,9.0,17.0,13.0,5.0,3.0,19.1
+Gabriel Zamora,Michoacan de Ocampo,no,2020,20.0,54.0,88.0,36.0,18.0,9.3
+Gabriel Zamora,Michoacan de Ocampo,no,2021,18.0,42.0,97.0,28.0,14.0,9.0
+Gabriel Zamora,Michoacan de Ocampo,no,2022,34.0,38.0,53.0,21.0,14.0,21.2
+Gabriel Zamora,Michoacan de Ocampo,no,2023,19.0,32.0,45.0,16.0,18.0,14.6
+Gabriel Zamora,Michoacan de Ocampo,no,2024,19.0,34.0,25.0,16.0,8.0,18.6
+Ario,Michoacan de Ocampo,no,2020,12.0,23.0,37.0,46.0,23.0,8.5
+Ario,Michoacan de Ocampo,no,2021,40.0,94.0,86.0,115.0,36.0,10.8
+Ario,Michoacan de Ocampo,no,2022,25.0,36.0,40.0,29.0,12.0,17.6
+Ario,Michoacan de Ocampo,no,2023,24.0,31.0,35.0,18.0,7.0,20.9
+Ario,Michoacan de Ocampo,no,2024,23.0,41.0,62.0,21.0,6.0,15.0
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2020,0.0,0.0,0.0,0.0,0.0,
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2021,0.0,1.0,1.0,1.0,0.0,0.0
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2022,0.0,0.0,0.0,0.0,0.0,
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2023,0.0,0.0,1.0,1.0,0.0,0.0
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2024,0.0,1.0,0.0,0.0,0.0,0.0
+Taretan,Michoacan de Ocampo,no,2020,5.0,43.0,11.0,10.0,3.0,6.9
+Taretan,Michoacan de Ocampo,no,2021,28.0,43.0,21.0,21.0,9.0,23.0
+Taretan,Michoacan de Ocampo,no,2022,25.0,27.0,13.0,13.0,6.0,29.8
+Taretan,Michoacan de Ocampo,no,2023,19.0,20.0,7.0,9.0,8.0,30.2
+Taretan,Michoacan de Ocampo,no,2024,14.0,28.0,10.0,13.0,4.0,20.3
+Buenavista,Michoacan de Ocampo,no,2020,89.0,57.0,156.0,315.0,250.0,10.3
+Buenavista,Michoacan de Ocampo,no,2021,151.0,67.0,232.0,250.0,258.0,15.8
+Buenavista,Michoacan de Ocampo,no,2022,145.0,81.0,210.0,149.0,182.0,18.9
+Buenavista,Michoacan de Ocampo,no,2023,170.0,85.0,193.0,177.0,194.0,20.8
+Buenavista,Michoacan de Ocampo,no,2024,165.0,65.0,120.0,130.0,166.0,25.5
+Tacámbaro,Michoacan de Ocampo,no,2020,24.0,27.0,26.0,35.0,15.0,18.9
+Tacámbaro,Michoacan de Ocampo,no,2021,73.0,173.0,105.0,161.0,69.0,12.6
+Tacámbaro,Michoacan de Ocampo,no,2022,34.0,55.0,61.0,45.0,15.0,16.2
+Tacámbaro,Michoacan de Ocampo,no,2023,32.0,52.0,31.0,26.0,12.0,20.9
+Tacámbaro,Michoacan de Ocampo,no,2024,34.0,101.0,43.0,38.0,16.0,14.7
+Salvador Escalante,Michoacan de Ocampo,no,2020,1.0,8.0,18.0,27.0,3.0,1.8
+Salvador Escalante,Michoacan de Ocampo,no,2021,19.0,116.0,77.0,159.0,65.0,4.4
+Salvador Escalante,Michoacan de Ocampo,no,2022,15.0,74.0,84.0,67.0,15.0,5.9
+Salvador Escalante,Michoacan de Ocampo,no,2023,7.0,37.0,43.0,21.0,5.0,6.2
+Salvador Escalante,Michoacan de Ocampo,no,2024,10.0,33.0,39.0,13.0,4.0,10.1
+Ziracuaretiro,Michoacan de Ocampo,no,2020,8.0,7.0,1.0,17.0,9.0,19.0
+Ziracuaretiro,Michoacan de Ocampo,no,2021,37.0,20.0,6.0,31.0,24.0,31.4
+Ziracuaretiro,Michoacan de Ocampo,no,2022,22.0,7.0,2.0,10.0,10.0,43.1
+Ziracuaretiro,Michoacan de Ocampo,no,2023,18.0,9.0,2.0,9.0,8.0,39.1
+Ziracuaretiro,Michoacan de Ocampo,no,2024,20.0,6.0,2.0,12.0,10.0,40.0
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2020,0.0,1.0,3.0,3.0,2.0,0.0
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2021,3.0,16.0,7.0,23.0,8.0,5.3
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2022,2.0,7.0,11.0,13.0,3.0,5.6
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2023,1.0,3.0,4.0,4.0,1.0,7.7
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2024,1.0,3.0,4.0,1.0,1.0,10.0
+Tancítaro,Michoacan de Ocampo,si,2020,3.0,9.0,11.0,23.0,12.0,5.2
+Tancítaro,Michoacan de Ocampo,si,2021,14.0,55.0,53.0,77.0,33.0,6.0
+Tancítaro,Michoacan de Ocampo,si,2022,23.0,15.0,23.0,23.0,10.0,24.5
+Tancítaro,Michoacan de Ocampo,si,2023,26.0,22.0,19.0,15.0,10.0,28.3
+Tancítaro,Michoacan de Ocampo,si,2024,6.0,27.0,23.0,11.0,4.0,8.5
+Madero,Michoacan de Ocampo,no,2020,2.0,6.0,5.0,4.0,2.0,10.5
+Madero,Michoacan de Ocampo,no,2021,12.0,41.0,31.0,35.0,13.0,9.1
+Madero,Michoacan de Ocampo,no,2022,13.0,11.0,18.0,11.0,6.0,22.0
+Madero,Michoacan de Ocampo,no,2023,9.0,10.0,9.0,6.0,3.0,24.3
+Madero,Michoacan de Ocampo,no,2024,7.0,28.0,14.0,8.0,5.0,11.3
+Acuitzio,Michoacan de Ocampo,no,2020,1.0,2.0,2.0,3.0,1.0,11.1
+Acuitzio,Michoacan de Ocampo,no,2021,7.0,48.0,38.0,65.0,20.0,3.9
+Acuitzio,Michoacan de Ocampo,no,2022,1.0,9.0,18.0,11.0,3.0,2.4
+Acuitzio,Michoacan de Ocampo,no,2023,3.0,7.0,11.0,12.0,1.0,8.8
+Acuitzio,Michoacan de Ocampo,no,2024,4.0,25.0,15.0,4.0,2.0,8.0
+Huiramba,Michoacan de Ocampo,no,2020,0.0,1.0,2.0,0.0,0.0,0.0
+Huiramba,Michoacan de Ocampo,no,2021,3.0,21.0,27.0,34.0,11.0,3.1
+Huiramba,Michoacan de Ocampo,no,2022,0.0,1.0,4.0,2.0,1.0,0.0
+Huiramba,Michoacan de Ocampo,no,2023,0.0,5.0,5.0,2.0,1.0,0.0
+Huiramba,Michoacan de Ocampo,no,2024,0.0,14.0,8.0,3.0,2.0,0.0
+Pátzcuaro,Michoacan de Ocampo,no,2020,3.0,7.0,11.0,31.0,4.0,5.4
+Pátzcuaro,Michoacan de Ocampo,no,2021,49.0,163.0,87.0,188.0,77.0,8.7
+Pátzcuaro,Michoacan de Ocampo,no,2022,17.0,33.0,47.0,40.0,13.0,11.3
+Pátzcuaro,Michoacan de Ocampo,no,2023,12.0,57.0,43.0,29.0,12.0,7.8
+Pátzcuaro,Michoacan de Ocampo,no,2024,19.0,103.0,62.0,29.0,15.0,8.3
+Peribán,Michoacan de Ocampo,si,2020,19.0,18.0,42.0,25.0,12.0,16.4
+Peribán,Michoacan de Ocampo,si,2021,57.0,49.0,80.0,50.0,37.0,20.9
+Peribán,Michoacan de Ocampo,si,2022,46.0,64.0,62.0,54.0,23.0,18.5
+Peribán,Michoacan de Ocampo,si,2023,45.0,55.0,94.0,31.0,17.0,18.6
+Peribán,Michoacan de Ocampo,si,2024,38.0,33.0,39.0,20.0,22.0,25.0
+Tingambato,Michoacan de Ocampo,no,2020,1.0,0.0,0.0,1.0,0.0,50.0
+Tingambato,Michoacan de Ocampo,no,2021,16.0,24.0,7.0,30.0,12.0,18.0
+Tingambato,Michoacan de Ocampo,no,2022,10.0,6.0,7.0,9.0,6.0,26.3
+Tingambato,Michoacan de Ocampo,no,2023,8.0,10.0,10.0,7.0,3.0,21.1
+Tingambato,Michoacan de Ocampo,no,2024,5.0,7.0,11.0,2.0,1.0,19.2
+Uruapan,Michoacan de Ocampo,no,2020,46.0,22.0,25.0,64.0,25.0,25.3
+Uruapan,Michoacan de Ocampo,no,2021,74.0,133.0,109.0,282.0,111.0,10.4
+Uruapan,Michoacan de Ocampo,no,2022,26.0,42.0,66.0,114.0,31.0,9.3
+Uruapan,Michoacan de Ocampo,no,2023,25.0,46.0,63.0,62.0,23.0,11.4
+Uruapan,Michoacan de Ocampo,no,2024,22.0,54.0,32.0,32.0,15.0,14.2
+Lagunillas,Michoacan de Ocampo,no,2020,0.0,0.0,1.0,2.0,0.0,0.0
+Lagunillas,Michoacan de Ocampo,no,2021,3.0,25.0,12.0,31.0,13.0,3.6
+Lagunillas,Michoacan de Ocampo,no,2022,1.0,7.0,13.0,7.0,1.0,3.4
+Lagunillas,Michoacan de Ocampo,no,2023,0.0,5.0,7.0,4.0,1.0,0.0
+Lagunillas,Michoacan de Ocampo,no,2024,3.0,32.0,20.0,8.0,2.0,4.6
+Tzintzuntzan,Michoacan de Ocampo,no,2020,1.0,1.0,3.0,6.0,1.0,8.3
+Tzintzuntzan,Michoacan de Ocampo,no,2021,4.0,21.0,7.0,16.0,8.0,7.1
+Tzintzuntzan,Michoacan de Ocampo,no,2022,1.0,6.0,5.0,4.0,1.0,5.9
+Tzintzuntzan,Michoacan de Ocampo,no,2023,1.0,8.0,7.0,5.0,2.0,4.3
+Tzintzuntzan,Michoacan de Ocampo,no,2024,19.0,52.0,17.0,7.0,4.0,19.2
+Tzitzio,Michoacan de Ocampo,no,2020,0.0,0.0,1.0,1.0,0.0,0.0
+Tzitzio,Michoacan de Ocampo,no,2021,2.0,3.0,2.0,5.0,2.0,14.3
+Tzitzio,Michoacan de Ocampo,no,2022,0.0,1.0,1.0,2.0,1.0,0.0
+Tzitzio,Michoacan de Ocampo,no,2023,0.0,1.0,1.0,1.0,0.0,0.0
+Tzitzio,Michoacan de Ocampo,no,2024,1.0,10.0,4.0,2.0,0.0,5.9
+Erongarícuaro,Michoacan de Ocampo,no,2020,1.0,2.0,7.0,16.0,3.0,3.4
+Erongarícuaro,Michoacan de Ocampo,no,2021,50.0,75.0,51.0,77.0,117.0,13.5
+Erongarícuaro,Michoacan de Ocampo,no,2022,5.0,15.0,25.0,16.0,7.0,7.4
+Erongarícuaro,Michoacan de Ocampo,no,2023,6.0,23.0,19.0,10.0,21.0,7.6
+Erongarícuaro,Michoacan de Ocampo,no,2024,35.0,86.0,54.0,35.0,95.0,11.5
+Paracho,Michoacan de Ocampo,no,2020,0.0,1.0,3.0,5.0,1.0,0.0
+Paracho,Michoacan de Ocampo,no,2021,19.0,89.0,41.0,135.0,31.0,6.0
+Paracho,Michoacan de Ocampo,no,2022,4.0,15.0,21.0,17.0,3.0,6.7
+Paracho,Michoacan de Ocampo,no,2023,2.0,27.0,27.0,16.0,2.0,2.7
+Paracho,Michoacan de Ocampo,no,2024,1.0,17.0,12.0,4.0,1.0,2.9
+Nahuatzen,Michoacan de Ocampo,no,2020,3.0,5.0,9.0,18.0,5.0,7.5
+Nahuatzen,Michoacan de Ocampo,no,2021,45.0,109.0,54.0,174.0,66.0,10.0
+Nahuatzen,Michoacan de Ocampo,no,2022,31.0,21.0,39.0,28.0,8.0,24.4
+Nahuatzen,Michoacan de Ocampo,no,2023,11.0,29.0,49.0,20.0,4.0,9.7
+Nahuatzen,Michoacan de Ocampo,no,2024,21.0,31.0,46.0,10.0,4.0,18.8
+Quiroga,Michoacan de Ocampo,no,2020,2.0,1.0,2.0,13.0,1.0,10.5
+Quiroga,Michoacan de Ocampo,no,2021,14.0,36.0,16.0,45.0,15.0,11.1
+Quiroga,Michoacan de Ocampo,no,2022,3.0,4.0,11.0,4.0,1.0,13.0
+Quiroga,Michoacan de Ocampo,no,2023,1.0,13.0,9.0,5.0,2.0,3.3
+Quiroga,Michoacan de Ocampo,no,2024,1.0,26.0,12.0,7.0,2.0,2.1
+Charo,Michoacan de Ocampo,no,2020,0.0,1.0,1.0,1.0,1.0,0.0
+Charo,Michoacan de Ocampo,no,2021,4.0,14.0,14.0,13.0,7.0,7.7
+Charo,Michoacan de Ocampo,no,2022,2.0,6.0,20.0,4.0,2.0,5.9
+Charo,Michoacan de Ocampo,no,2023,7.0,20.0,134.0,9.0,4.0,4.0
+Charo,Michoacan de Ocampo,no,2024,4.0,21.0,39.0,4.0,2.0,5.7
+Cherán,Michoacan de Ocampo,no,2020,1.0,3.0,5.0,2.0,1.0,8.3
+Cherán,Michoacan de Ocampo,no,2021,116.0,132.0,34.0,87.0,34.0,28.8
+Cherán,Michoacan de Ocampo,no,2022,2.0,9.0,17.0,6.0,2.0,5.6
+Cherán,Michoacan de Ocampo,no,2023,3.0,20.0,18.0,9.0,2.0,5.8
+Cherán,Michoacan de Ocampo,no,2024,4.0,51.0,15.0,9.0,2.0,4.9
+Los Reyes,Michoacan de Ocampo,si,2020,25.0,32.0,25.0,27.0,13.0,20.5
+Los Reyes,Michoacan de Ocampo,si,2021,162.0,109.0,87.0,125.0,68.0,29.4
+Los Reyes,Michoacan de Ocampo,si,2022,69.0,54.0,79.0,63.0,37.0,22.8
+Los Reyes,Michoacan de Ocampo,si,2023,54.0,45.0,61.0,52.0,24.0,22.9
+Los Reyes,Michoacan de Ocampo,si,2024,45.0,33.0,26.0,23.0,15.0,31.7
+Charapan,Michoacan de Ocampo,no,2020,3.0,4.0,6.0,6.0,2.0,14.3
+Charapan,Michoacan de Ocampo,no,2021,25.0,98.0,39.0,110.0,30.0,8.3
+Charapan,Michoacan de Ocampo,no,2022,11.0,40.0,47.0,34.0,9.0,7.8
+Charapan,Michoacan de Ocampo,no,2023,22.0,34.0,56.0,22.0,4.0,15.9
+Charapan,Michoacan de Ocampo,no,2024,7.0,16.0,35.0,4.0,0.0,11.3
+Queréndaro,Michoacan de Ocampo,no,2021,0.0,0.0,0.0,0.0,0.0,
+Queréndaro,Michoacan de Ocampo,no,2022,0.0,0.0,0.0,0.0,0.0,
+Queréndaro,Michoacan de Ocampo,no,2023,1.0,0.0,0.0,0.0,0.0,100.0
+Queréndaro,Michoacan de Ocampo,no,2024,1.0,1.0,0.0,0.0,0.0,50.0
+Tocumbo,Michoacan de Ocampo,si,2020,3.0,14.0,14.0,14.0,3.0,6.2
+Tocumbo,Michoacan de Ocampo,si,2021,20.0,43.0,45.0,30.0,10.0,13.5
+Tocumbo,Michoacan de Ocampo,si,2022,34.0,35.0,44.0,17.0,11.0,24.1
+Tocumbo,Michoacan de Ocampo,si,2023,7.0,32.0,33.0,9.0,4.0,8.2
+Tocumbo,Michoacan de Ocampo,si,2024,6.0,39.0,11.0,9.0,7.0,8.3
+Morelia,Michoacan de Ocampo,no,2020,2.0,9.0,15.0,19.0,6.0,3.9
+Morelia,Michoacan de Ocampo,no,2021,30.0,134.0,99.0,161.0,65.0,6.1
+Morelia,Michoacan de Ocampo,no,2022,13.0,24.0,38.0,42.0,17.0,9.7
+Morelia,Michoacan de Ocampo,no,2023,9.0,78.0,44.0,48.0,21.0,4.5
+Morelia,Michoacan de Ocampo,no,2024,29.0,665.0,198.0,123.0,36.0,2.8
+Indaparapeo,Michoacan de Ocampo,no,2020,0.0,0.0,2.0,2.0,0.0,0.0
+Indaparapeo,Michoacan de Ocampo,no,2021,4.0,7.0,28.0,11.0,4.0,7.4
+Indaparapeo,Michoacan de Ocampo,no,2022,1.0,6.0,18.0,4.0,1.0,3.3
+Indaparapeo,Michoacan de Ocampo,no,2023,2.0,8.0,52.0,6.0,2.0,2.9
+Indaparapeo,Michoacan de Ocampo,no,2024,6.0,36.0,54.0,7.0,2.0,5.7
+Tarímbaro,Michoacan de Ocampo,no,2020,6.0,7.0,10.0,10.0,5.0,15.8
+Tarímbaro,Michoacan de Ocampo,no,2021,17.0,28.0,43.0,27.0,15.0,13.1
+Tarímbaro,Michoacan de Ocampo,no,2022,19.0,15.0,32.0,13.0,8.0,21.8
+Tarímbaro,Michoacan de Ocampo,no,2023,33.0,23.0,33.0,15.0,9.0,29.2
+Tarímbaro,Michoacan de Ocampo,no,2024,33.0,64.0,50.0,28.0,11.0,17.7
+Tingüindín,Michoacan de Ocampo,si,2020,0.0,2.0,4.0,3.0,1.0,0.0
+Tingüindín,Michoacan de Ocampo,si,2021,3.0,20.0,16.0,19.0,6.0,4.7
+Tingüindín,Michoacan de Ocampo,si,2022,8.0,13.0,11.0,7.0,7.0,17.4
+Tingüindín,Michoacan de Ocampo,si,2023,2.0,7.0,9.0,7.0,7.0,6.2
+Tingüindín,Michoacan de Ocampo,si,2024,2.0,15.0,10.0,8.0,5.0,5.0
+Cotija,Michoacan de Ocampo,si,2020,8.0,28.0,28.0,19.0,6.0,9.0
+Cotija,Michoacan de Ocampo,si,2021,28.0,72.0,82.0,54.0,21.0,10.9
+Cotija,Michoacan de Ocampo,si,2022,14.0,34.0,65.0,19.0,11.0,9.8
+Cotija,Michoacan de Ocampo,si,2023,14.0,44.0,86.0,18.0,9.0,8.2
+Cotija,Michoacan de Ocampo,si,2024,17.0,65.0,48.0,10.0,6.0,11.6
+Chilchota,Michoacan de Ocampo,si,2020,4.0,6.0,9.0,10.0,4.0,12.1
+Chilchota,Michoacan de Ocampo,si,2021,69.0,123.0,42.0,79.0,29.0,20.2
+Chilchota,Michoacan de Ocampo,si,2022,6.0,17.0,25.0,19.0,8.0,8.0
+Chilchota,Michoacan de Ocampo,si,2023,5.0,26.0,43.0,14.0,3.0,5.5
+Chilchota,Michoacan de Ocampo,si,2024,172.0,383.0,45.0,153.0,19.0,22.3
+Coeneo,Michoacan de Ocampo,no,2020,3.0,6.0,8.0,6.0,6.0,10.3
+Coeneo,Michoacan de Ocampo,no,2021,103.0,66.0,43.0,88.0,51.0,29.3
+Coeneo,Michoacan de Ocampo,no,2022,51.0,24.0,37.0,26.0,13.0,33.8
+Coeneo,Michoacan de Ocampo,no,2023,8.0,42.0,31.0,32.0,19.0,6.1
+Coeneo,Michoacan de Ocampo,no,2024,23.0,496.0,86.0,105.0,56.0,3.0
+Zinapécuaro,Michoacan de Ocampo,no,2020,1.0,1.0,1.0,5.0,7.0,6.7
+Zinapécuaro,Michoacan de Ocampo,no,2021,6.0,4.0,5.0,8.0,7.0,20.0
+Zinapécuaro,Michoacan de Ocampo,no,2022,1.0,1.0,19.0,23.0,2.0,2.2
+Zinapécuaro,Michoacan de Ocampo,no,2023,1.0,2.0,67.0,368.0,44.0,0.2
+Zinapécuaro,Michoacan de Ocampo,no,2024,2.0,5.0,10.0,6.0,8.0,6.5
+Huaniqueo,Michoacan de Ocampo,no,2020,0.0,1.0,1.0,0.0,0.0,0.0
+Huaniqueo,Michoacan de Ocampo,no,2021,4.0,9.0,6.0,12.0,10.0,9.8
+Huaniqueo,Michoacan de Ocampo,no,2022,1.0,2.0,3.0,7.0,2.0,6.7
+Huaniqueo,Michoacan de Ocampo,no,2023,1.0,8.0,7.0,8.0,6.0,3.3
+Huaniqueo,Michoacan de Ocampo,no,2024,11.0,168.0,28.0,39.0,17.0,4.2
+Álvaro Obregón,Michoacan de Ocampo,no,2020,6.0,5.0,5.0,11.0,4.0,19.4
+Álvaro Obregón,Michoacan de Ocampo,no,2021,40.0,51.0,38.0,41.0,33.0,19.7
+Álvaro Obregón,Michoacan de Ocampo,no,2022,9.0,17.0,22.0,17.0,9.0,12.2
+Álvaro Obregón,Michoacan de Ocampo,no,2023,22.0,21.0,19.0,17.0,6.0,25.9
+Álvaro Obregón,Michoacan de Ocampo,no,2024,224.0,105.0,56.0,147.0,123.0,34.2
+Chucándiro,Michoacan de Ocampo,no,2020,11.0,5.0,7.0,6.0,8.0,29.7
+Chucándiro,Michoacan de Ocampo,no,2021,3.0,13.0,7.0,12.0,12.0,6.4
+Chucándiro,Michoacan de Ocampo,no,2022,2.0,5.0,8.0,6.0,1.0,9.1
+Chucándiro,Michoacan de Ocampo,no,2023,1.0,19.0,15.0,14.0,4.0,1.9
+Chucándiro,Michoacan de Ocampo,no,2024,1.0,347.0,55.0,49.0,13.0,0.2
+Copándaro,Michoacan de Ocampo,no,2020,1.0,1.0,2.0,48.0,5.0,1.8
+Copándaro,Michoacan de Ocampo,no,2021,9.0,17.0,9.0,31.0,32.0,9.2
+Copándaro,Michoacan de Ocampo,no,2022,2.0,5.0,8.0,44.0,8.0,3.0
+Copándaro,Michoacan de Ocampo,no,2023,3.0,11.0,14.0,16.0,14.0,5.2
+Copándaro,Michoacan de Ocampo,no,2024,4.0,41.0,36.0,35.0,17.0,3.0
+Jiménez,Michoacan de Ocampo,no,2020,0.0,2.0,4.0,5.0,3.0,0.0
+Jiménez,Michoacan de Ocampo,no,2021,10.0,49.0,25.0,56.0,47.0,5.3
+Jiménez,Michoacan de Ocampo,no,2022,1.0,16.0,30.0,16.0,4.0,1.5
+Jiménez,Michoacan de Ocampo,no,2023,1.0,34.0,69.0,7.0,1.0,0.9
+Jiménez,Michoacan de Ocampo,no,2024,2.0,237.0,61.0,106.0,19.0,0.5
+Purépero,Michoacan de Ocampo,no,2020,17.0,2.0,3.0,27.0,5.0,31.5
+Purépero,Michoacan de Ocampo,no,2021,33.0,51.0,20.0,99.0,37.0,13.8
+Purépero,Michoacan de Ocampo,no,2022,13.0,16.0,26.0,26.0,5.0,15.1
+Purépero,Michoacan de Ocampo,no,2023,8.0,16.0,19.0,13.0,5.0,13.1
+Purépero,Michoacan de Ocampo,no,2024,11.0,263.0,20.0,19.0,5.0,3.5
+Zacapu,Michoacan de Ocampo,no,2020,61.0,39.0,44.0,66.0,31.0,25.3
+Zacapu,Michoacan de Ocampo,no,2021,239.0,358.0,121.0,290.0,118.0,21.2
+Zacapu,Michoacan de Ocampo,no,2022,67.0,66.0,66.0,52.0,18.0,24.9
+Zacapu,Michoacan de Ocampo,no,2023,55.0,104.0,61.0,48.0,14.0,19.5
+Zacapu,Michoacan de Ocampo,no,2024,66.0,604.0,159.0,133.0,25.0,6.7
+Tangamandapio,Michoacan de Ocampo,si,2020,1.0,3.0,7.0,6.0,2.0,5.3
+Tangamandapio,Michoacan de Ocampo,si,2021,35.0,27.0,37.0,26.0,10.0,25.9
+Tangamandapio,Michoacan de Ocampo,si,2022,2.0,9.0,38.0,17.0,7.0,2.7
+Tangamandapio,Michoacan de Ocampo,si,2023,2.0,28.0,70.0,13.0,10.0,1.6
+Tangamandapio,Michoacan de Ocampo,si,2024,9.0,71.0,19.0,9.0,2.0,8.2
+Jacona,Michoacan de Ocampo,si,2020,3.0,4.0,6.0,21.0,12.0,6.5
+Jacona,Michoacan de Ocampo,si,2021,15.0,9.0,16.0,30.0,12.0,18.3
+Jacona,Michoacan de Ocampo,si,2022,5.0,7.0,17.0,27.0,14.0,7.1
+Jacona,Michoacan de Ocampo,si,2023,1.0,9.0,26.0,25.0,7.0,1.5
+Jacona,Michoacan de Ocampo,si,2024,1.0,23.0,18.0,13.0,7.0,1.6
+Huandacareo,Michoacan de Ocampo,no,2020,0.0,2.0,2.0,2.0,1.0,0.0
+Huandacareo,Michoacan de Ocampo,no,2021,1.0,3.0,5.0,3.0,2.0,7.1
+Huandacareo,Michoacan de Ocampo,no,2022,1.0,2.0,5.0,2.0,1.0,9.1
+Huandacareo,Michoacan de Ocampo,no,2023,2.0,4.0,6.0,3.0,1.0,12.5
+Huandacareo,Michoacan de Ocampo,no,2024,2.0,49.0,10.0,5.0,1.0,3.0
+Morelos,Michoacan de Ocampo,no,2020,0.0,0.0,1.0,2.0,2.0,0.0
+Morelos,Michoacan de Ocampo,no,2021,2.0,15.0,5.0,26.0,17.0,3.1
+Morelos,Michoacan de Ocampo,no,2022,0.0,2.0,4.0,3.0,1.0,0.0
+Morelos,Michoacan de Ocampo,no,2023,0.0,9.0,8.0,8.0,3.0,0.0
+Morelos,Michoacan de Ocampo,no,2024,1.0,119.0,39.0,68.0,26.0,0.4
+Cuitzeo,Michoacan de Ocampo,no,2020,2.0,2.0,6.0,4.0,2.0,12.5
+Cuitzeo,Michoacan de Ocampo,no,2021,21.0,40.0,29.0,103.0,205.0,5.3
+Cuitzeo,Michoacan de Ocampo,no,2022,11.0,4.0,13.0,71.0,101.0,5.5
+Cuitzeo,Michoacan de Ocampo,no,2023,5.0,14.0,22.0,22.0,9.0,6.9
+Cuitzeo,Michoacan de Ocampo,no,2024,40.0,112.0,176.0,697.0,1697.0,1.5
+Santa Ana Maya,Michoacan de Ocampo,no,2020,0.0,1.0,2.0,1.0,0.0,0.0
+Santa Ana Maya,Michoacan de Ocampo,no,2021,3.0,6.0,6.0,8.0,4.0,11.1
+Santa Ana Maya,Michoacan de Ocampo,no,2022,1.0,1.0,2.0,25.0,5.0,2.9
+Santa Ana Maya,Michoacan de Ocampo,no,2023,1.0,7.0,7.0,4.0,2.0,4.8
+Santa Ana Maya,Michoacan de Ocampo,no,2024,4.0,55.0,92.0,49.0,13.0,1.9
+Jiquilpan,Michoacan de Ocampo,si,2020,3.0,9.0,37.0,9.0,5.0,4.8
+Jiquilpan,Michoacan de Ocampo,si,2021,19.0,23.0,124.0,31.0,12.0,9.1
+Jiquilpan,Michoacan de Ocampo,si,2022,1.0,15.0,99.0,22.0,15.0,0.7
+Jiquilpan,Michoacan de Ocampo,si,2023,2.0,20.0,126.0,14.0,10.0,1.2
+Jiquilpan,Michoacan de Ocampo,si,2024,1.0,17.0,41.0,15.0,2.0,1.3
+Tlazazalca,Michoacan de Ocampo,no,2020,1.0,1.0,2.0,3.0,1.0,12.5
+Tlazazalca,Michoacan de Ocampo,no,2021,1.0,7.0,6.0,5.0,2.0,4.8
+Tlazazalca,Michoacan de Ocampo,no,2022,0.0,2.0,5.0,2.0,1.0,0.0
+Tlazazalca,Michoacan de Ocampo,no,2023,0.0,10.0,6.0,4.0,1.0,0.0
+Tlazazalca,Michoacan de Ocampo,no,2024,3.0,246.0,40.0,7.0,2.0,1.0
+Villamar,Michoacan de Ocampo,si,2020,9.0,17.0,21.0,18.0,20.0,10.6
+Villamar,Michoacan de Ocampo,si,2021,13.0,43.0,84.0,34.0,21.0,6.7
+Villamar,Michoacan de Ocampo,si,2022,19.0,35.0,132.0,53.0,47.0,6.6
+Villamar,Michoacan de Ocampo,si,2023,14.0,31.0,108.0,45.0,33.0,6.1
+Villamar,Michoacan de Ocampo,si,2024,10.0,29.0,35.0,20.0,15.0,9.2
+Marcos Castellanos,Michoacan de Ocampo,si,2020,1.0,2.0,5.0,4.0,4.0,6.2
+Marcos Castellanos,Michoacan de Ocampo,si,2021,2.0,18.0,37.0,18.0,6.0,2.5
+Marcos Castellanos,Michoacan de Ocampo,si,2022,1.0,4.0,17.0,4.0,1.0,3.7
+Marcos Castellanos,Michoacan de Ocampo,si,2023,2.0,30.0,58.0,9.0,1.0,2.0
+Marcos Castellanos,Michoacan de Ocampo,si,2024,0.0,4.0,12.0,3.0,1.0,0.0
+Sahuayo,Michoacan de Ocampo,si,2020,1.0,7.0,38.0,11.0,4.0,1.6
+Sahuayo,Michoacan de Ocampo,si,2021,7.0,25.0,162.0,23.0,7.0,3.1
+Sahuayo,Michoacan de Ocampo,si,2022,2.0,19.0,93.0,8.0,8.0,1.5
+Sahuayo,Michoacan de Ocampo,si,2023,2.0,12.0,117.0,8.0,3.0,1.4
+Sahuayo,Michoacan de Ocampo,si,2024,0.0,10.0,33.0,2.0,0.0,0.0
+Panindícuaro,Michoacan de Ocampo,no,2020,2.0,6.0,7.0,7.0,6.0,7.1
+Panindícuaro,Michoacan de Ocampo,no,2021,7.0,16.0,19.0,18.0,7.0,10.4
+Panindícuaro,Michoacan de Ocampo,no,2022,4.0,27.0,28.0,14.0,4.0,5.2
+Panindícuaro,Michoacan de Ocampo,no,2023,4.0,50.0,57.0,12.0,4.0,3.1
+Panindícuaro,Michoacan de Ocampo,no,2024,3.0,229.0,127.0,12.0,3.0,0.8
+Chavinda,Michoacan de Ocampo,si,2020,3.0,2.0,23.0,7.0,2.0,8.1
+Chavinda,Michoacan de Ocampo,si,2021,3.0,3.0,45.0,7.0,2.0,5.0
+Chavinda,Michoacan de Ocampo,si,2022,2.0,9.0,45.0,10.0,3.0,2.9
+Chavinda,Michoacan de Ocampo,si,2023,5.0,9.0,40.0,6.0,2.0,8.1
+Chavinda,Michoacan de Ocampo,si,2024,1.0,6.0,12.0,4.0,1.0,4.2
+Cojumatlán de Régules,Michoacan de Ocampo,si,2020,6.0,16.0,74.0,16.0,5.0,5.1
+Cojumatlán de Régules,Michoacan de Ocampo,si,2021,6.0,19.0,250.0,20.0,10.0,2.0
+Cojumatlán de Régules,Michoacan de Ocampo,si,2022,8.0,12.0,99.0,13.0,10.0,5.6
+Cojumatlán de Régules,Michoacan de Ocampo,si,2023,5.0,27.0,173.0,19.0,17.0,2.1
+Cojumatlán de Régules,Michoacan de Ocampo,si,2024,5.0,6.0,7.0,5.0,5.0,17.9
+Penjamillo,Michoacan de Ocampo,no,2020,8.0,5.0,25.0,6.0,5.0,16.3
+Penjamillo,Michoacan de Ocampo,no,2021,6.0,13.0,84.0,14.0,10.0,4.7
+Penjamillo,Michoacan de Ocampo,no,2022,2.0,8.0,104.0,13.0,2.0,1.6
+Penjamillo,Michoacan de Ocampo,no,2023,5.0,16.0,122.0,9.0,3.0,3.2
+Penjamillo,Michoacan de Ocampo,no,2024,5.0,242.0,205.0,30.0,8.0,1.0
+Angamacutiro,Michoacan de Ocampo,no,2020,8.0,8.0,73.0,23.0,4.0,6.9
+Angamacutiro,Michoacan de Ocampo,no,2021,17.0,19.0,127.0,40.0,18.0,7.7
+Angamacutiro,Michoacan de Ocampo,no,2022,2.0,11.0,92.0,12.0,14.0,1.5
+Angamacutiro,Michoacan de Ocampo,no,2023,7.0,25.0,99.0,17.0,11.0,4.4
+Angamacutiro,Michoacan de Ocampo,no,2024,5.0,60.0,69.0,23.0,8.0,3.0
+Ixtlán,Michoacan de Ocampo,no,2020,3.0,6.0,35.0,16.0,8.0,4.4
+Ixtlán,Michoacan de Ocampo,no,2021,5.0,5.0,45.0,11.0,8.0,6.8
+Ixtlán,Michoacan de Ocampo,no,2022,2.0,8.0,50.0,11.0,11.0,2.4
+Ixtlán,Michoacan de Ocampo,no,2023,4.0,50.0,75.0,20.0,17.0,2.4
+Ixtlán,Michoacan de Ocampo,no,2024,3.0,30.0,20.0,5.0,2.0,5.0
+Churintzio,Michoacan de Ocampo,si,2020,1.0,8.0,64.0,7.0,2.0,1.2
+Churintzio,Michoacan de Ocampo,si,2021,4.0,28.0,332.0,37.0,9.0,1.0
+Churintzio,Michoacan de Ocampo,si,2022,1.0,26.0,545.0,35.0,25.0,0.2
+Churintzio,Michoacan de Ocampo,si,2023,9.0,41.0,229.0,14.0,9.0,3.0
+Churintzio,Michoacan de Ocampo,si,2024,5.0,253.0,67.0,10.0,3.0,1.5
+Venustiano Carranza,Michoacan de Ocampo,si,2020,58.0,77.0,91.0,49.0,37.0,18.6
+Venustiano Carranza,Michoacan de Ocampo,si,2021,76.0,96.0,206.0,95.0,51.0,14.5
+Venustiano Carranza,Michoacan de Ocampo,si,2022,30.0,73.0,144.0,55.0,37.0,8.8
+Venustiano Carranza,Michoacan de Ocampo,si,2023,86.0,163.0,331.0,101.0,45.0,11.8
+Venustiano Carranza,Michoacan de Ocampo,si,2024,20.0,46.0,80.0,30.0,25.0,10.0
+Pajacuarán,Michoacan de Ocampo,si,2020,8.0,27.0,34.0,15.0,8.0,8.7
+Pajacuarán,Michoacan de Ocampo,si,2021,6.0,29.0,52.0,15.0,7.0,5.5
+Pajacuarán,Michoacan de Ocampo,si,2022,5.0,24.0,76.0,8.0,5.0,4.2
+Pajacuarán,Michoacan de Ocampo,si,2023,18.0,85.0,163.0,22.0,7.0,6.1
+Pajacuarán,Michoacan de Ocampo,si,2024,7.0,30.0,58.0,10.0,4.0,6.4
+Zináparo,Michoacan de Ocampo,si,2020,2.0,2.0,131.0,4.0,1.0,1.4
+Zináparo,Michoacan de Ocampo,si,2021,2.0,3.0,284.0,13.0,11.0,0.6
+Zináparo,Michoacan de Ocampo,si,2022,0.0,1.0,230.0,20.0,8.0,0.0
+Zináparo,Michoacan de Ocampo,si,2023,1.0,9.0,87.0,15.0,11.0,0.8
+Zináparo,Michoacan de Ocampo,si,2024,0.0,33.0,26.0,6.0,1.0,0.0
+Ecuandureo,Michoacan de Ocampo,si,2020,7.0,8.0,70.0,19.0,4.0,6.5
+Ecuandureo,Michoacan de Ocampo,si,2021,3.0,11.0,234.0,15.0,3.0,1.1
+Ecuandureo,Michoacan de Ocampo,si,2022,10.0,16.0,384.0,37.0,7.0,2.2
+Ecuandureo,Michoacan de Ocampo,si,2023,12.0,37.0,209.0,11.0,3.0,4.4
+Ecuandureo,Michoacan de Ocampo,si,2024,14.0,131.0,59.0,29.0,8.0,5.8
+Puruándiro,Michoacan de Ocampo,no,2020,4.0,2.0,3.0,5.0,17.0,12.9
+Puruándiro,Michoacan de Ocampo,no,2021,10.0,29.0,21.0,41.0,20.0,8.3
+Puruándiro,Michoacan de Ocampo,no,2022,0.0,3.0,9.0,7.0,4.0,0.0
+Puruándiro,Michoacan de Ocampo,no,2023,1.0,20.0,29.0,13.0,3.0,1.5
+Puruándiro,Michoacan de Ocampo,no,2024,0.0,327.0,140.0,46.0,18.0,0.0
+Briseñas,Michoacan de Ocampo,si,2020,4.0,12.0,12.0,7.0,4.0,10.3
+Briseñas,Michoacan de Ocampo,si,2021,15.0,22.0,36.0,19.0,16.0,13.9
+Briseñas,Michoacan de Ocampo,si,2022,8.0,18.0,83.0,13.0,9.0,6.1
+Briseñas,Michoacan de Ocampo,si,2023,27.0,49.0,81.0,15.0,7.0,15.1
+Briseñas,Michoacan de Ocampo,si,2024,7.0,18.0,20.0,7.0,4.0,12.5
+Numarán,Michoacan de Ocampo,si,2020,6.0,2.0,122.0,14.0,3.0,4.1
+Numarán,Michoacan de Ocampo,si,2021,15.0,7.0,162.0,31.0,10.0,6.7
+Numarán,Michoacan de Ocampo,si,2022,1.0,8.0,110.0,12.0,5.0,0.7
+Numarán,Michoacan de Ocampo,si,2023,6.0,8.0,64.0,15.0,5.0,6.1
+Numarán,Michoacan de Ocampo,si,2024,3.0,11.0,14.0,6.0,3.0,8.1
+Vista Hermosa,Michoacan de Ocampo,si,2020,42.0,83.0,155.0,39.0,32.0,12.0
+Vista Hermosa,Michoacan de Ocampo,si,2021,44.0,69.0,340.0,77.0,85.0,7.2
+Vista Hermosa,Michoacan de Ocampo,si,2022,14.0,35.0,194.0,50.0,96.0,3.6
+Vista Hermosa,Michoacan de Ocampo,si,2023,35.0,100.0,162.0,97.0,137.0,6.6
+Vista Hermosa,Michoacan de Ocampo,si,2024,19.0,48.0,23.0,18.0,7.0,16.5
+José Sixto Verduzco,Michoacan de Ocampo,no,2020,9.0,13.0,12.0,10.0,9.0,17.0
+José Sixto Verduzco,Michoacan de Ocampo,no,2021,25.0,40.0,21.0,31.0,19.0,18.4
+José Sixto Verduzco,Michoacan de Ocampo,no,2022,8.0,21.0,26.0,9.0,4.0,11.8
+José Sixto Verduzco,Michoacan de Ocampo,no,2023,22.0,64.0,42.0,25.0,9.0,13.6
+José Sixto Verduzco,Michoacan de Ocampo,no,2024,63.0,306.0,113.0,102.0,36.0,10.2
+Tanhuato,Michoacan de Ocampo,si,2020,4.0,17.0,222.0,35.0,14.0,1.4
+Tanhuato,Michoacan de Ocampo,si,2021,8.0,17.0,390.0,45.0,19.0,1.7
+Tanhuato,Michoacan de Ocampo,si,2022,12.0,17.0,365.0,15.0,18.0,2.8
+Tanhuato,Michoacan de Ocampo,si,2023,17.0,41.0,298.0,30.0,32.0,4.1
+Tanhuato,Michoacan de Ocampo,si,2024,17.0,20.0,28.0,14.0,7.0,19.8
+Yurécuaro,Michoacan de Ocampo,si,2020,9.0,18.0,111.0,20.0,11.0,5.3
+Yurécuaro,Michoacan de Ocampo,si,2021,19.0,17.0,258.0,18.0,12.0,5.9
+Yurécuaro,Michoacan de Ocampo,si,2022,8.0,18.0,274.0,25.0,21.0,2.3
+Yurécuaro,Michoacan de Ocampo,si,2023,20.0,25.0,130.0,24.0,22.0,9.0
+Yurécuaro,Michoacan de Ocampo,si,2024,19.0,40.0,20.0,20.0,15.0,16.7
+La Piedad,Michoacan de Ocampo,si,2020,16.0,24.0,341.0,22.0,8.0,3.9
+La Piedad,Michoacan de Ocampo,si,2021,23.0,24.0,701.0,45.0,28.0,2.8
+La Piedad,Michoacan de Ocampo,si,2022,25.0,33.0,564.0,34.0,54.0,3.5
+La Piedad,Michoacan de Ocampo,si,2023,12.0,40.0,269.0,29.0,44.0,3.0
+La Piedad,Michoacan de Ocampo,si,2024,10.0,97.0,99.0,21.0,18.0,4.1
+Acaponeta,Nayarit,no,2020,0.0,0.0,0.0,0.0,0.0,
+Acaponeta,Nayarit,no,2021,0.0,0.0,0.0,0.0,0.0,
+Acaponeta,Nayarit,no,2022,0.0,0.0,0.0,0.0,0.0,
+Acaponeta,Nayarit,no,2023,0.0,0.0,0.0,0.0,0.0,
+Acaponeta,Nayarit,no,2024,0.0,1.0,0.0,0.0,0.0,0.0
+Ahuacatlán,Nayarit,si,2020,3.0,12.0,63.0,15.0,6.0,3.0
+Ahuacatlán,Nayarit,si,2021,9.0,68.0,217.0,38.0,42.0,2.4
+Ahuacatlán,Nayarit,si,2022,8.0,54.0,259.0,59.0,67.0,1.8
+Ahuacatlán,Nayarit,si,2023,12.0,73.0,291.0,47.0,49.0,2.5
+Ahuacatlán,Nayarit,si,2024,3.0,27.0,56.0,8.0,10.0,2.9
+Amatlán de Cañas,Nayarit,si,2020,3.0,7.0,54.0,20.0,8.0,3.3
+Amatlán de Cañas,Nayarit,si,2021,9.0,107.0,261.0,51.0,39.0,1.9
+Amatlán de Cañas,Nayarit,si,2022,18.0,114.0,345.0,43.0,25.0,3.3
+Amatlán de Cañas,Nayarit,si,2023,70.0,150.0,374.0,53.0,58.0,9.9
+Amatlán de Cañas,Nayarit,si,2024,3.0,64.0,41.0,5.0,4.0,2.6
+Ixtlán del Río,Nayarit,si,2020,1.0,13.0,18.0,7.0,4.0,2.3
+Ixtlán del Río,Nayarit,si,2021,6.0,106.0,242.0,59.0,47.0,1.3
+Ixtlán del Río,Nayarit,si,2022,5.0,80.0,321.0,45.0,96.0,0.9
+Ixtlán del Río,Nayarit,si,2023,12.0,123.0,353.0,86.0,102.0,1.8
+Ixtlán del Río,Nayarit,si,2024,2.0,28.0,34.0,6.0,6.0,2.6
+Jala,Nayarit,si,2020,1.0,1.0,5.0,3.0,1.0,9.1
+Jala,Nayarit,si,2021,5.0,10.0,36.0,12.0,4.0,7.5
+Jala,Nayarit,si,2022,19.0,8.0,52.0,17.0,7.0,18.4
+Jala,Nayarit,si,2023,5.0,13.0,77.0,10.0,2.0,4.7
+Jala,Nayarit,si,2024,3.0,2.0,6.0,1.0,0.0,25.0
+Xalisco,Nayarit,si,2020,3.0,14.0,14.0,22.0,8.0,4.9
+Xalisco,Nayarit,si,2021,15.0,61.0,50.0,46.0,14.0,8.1
+Xalisco,Nayarit,si,2022,20.0,81.0,93.0,53.0,18.0,7.5
+Xalisco,Nayarit,si,2023,16.0,89.0,105.0,35.0,8.0,6.3
+Xalisco,Nayarit,si,2024,5.0,23.0,20.0,6.0,1.0,9.1
+Del Nayar,Nayarit,no,2020,2.0,3.0,4.0,15.0,4.0,7.1
+Del Nayar,Nayarit,no,2021,63.0,572.0,104.0,540.0,294.0,4.0
+Del Nayar,Nayarit,no,2022,48.0,62.0,26.0,69.0,35.0,20.0
+Del Nayar,Nayarit,no,2023,16.0,358.0,178.0,187.0,53.0,2.0
+Del Nayar,Nayarit,no,2024,12.0,169.0,20.0,39.0,9.0,4.8
+Ruíz,Nayarit,no,2020,0.0,0.0,0.0,4.0,0.0,0.0
+Ruíz,Nayarit,no,2021,6.0,13.0,1.0,8.0,1.0,20.7
+Ruíz,Nayarit,no,2022,2.0,2.0,1.0,3.0,3.0,18.2
+Ruíz,Nayarit,no,2023,2.0,2.0,1.0,8.0,4.0,11.8
+Ruíz,Nayarit,no,2024,0.0,0.0,0.0,0.0,0.0,
+San Pedro Lagunillas,Nayarit,si,2020,5.0,39.0,160.0,39.0,26.0,1.9
+San Pedro Lagunillas,Nayarit,si,2021,5.0,172.0,492.0,78.0,75.0,0.6
+San Pedro Lagunillas,Nayarit,si,2022,6.0,184.0,668.0,134.0,157.0,0.5
+San Pedro Lagunillas,Nayarit,si,2023,6.0,192.0,641.0,213.0,144.0,0.5
+San Pedro Lagunillas,Nayarit,si,2024,1.0,22.0,46.0,14.0,16.0,1.0
+Santa María del Oro,Nayarit,si,2020,8.0,49.0,140.0,56.0,24.0,2.9
+Santa María del Oro,Nayarit,si,2021,27.0,270.0,499.0,124.0,112.0,2.6
+Santa María del Oro,Nayarit,si,2022,66.0,355.0,837.0,212.0,174.0,4.0
+Santa María del Oro,Nayarit,si,2023,36.0,357.0,896.0,184.0,141.0,2.2
+Santa María del Oro,Nayarit,si,2024,10.0,60.0,113.0,23.0,28.0,4.3
+Tepic,Nayarit,si,2020,8.0,25.0,34.0,36.0,11.0,7.0
+Tepic,Nayarit,si,2021,41.0,150.0,144.0,80.0,29.0,9.2
+Tepic,Nayarit,si,2022,48.0,231.0,344.0,113.0,39.0,6.2
+Tepic,Nayarit,si,2023,39.0,287.0,466.0,95.0,34.0,4.2
+Tepic,Nayarit,si,2024,8.0,87.0,67.0,15.0,5.0,4.4
+La Yesca,Nayarit,no,2020,1.0,1.0,1.0,5.0,2.0,10.0
+La Yesca,Nayarit,no,2021,7.0,29.0,13.0,86.0,70.0,3.4
+La Yesca,Nayarit,no,2022,2.0,19.0,9.0,28.0,13.0,2.8
+La Yesca,Nayarit,no,2023,9.0,203.0,75.0,162.0,56.0,1.8
+La Yesca,Nayarit,no,2024,2.0,84.0,22.0,23.0,5.0,1.5
+Bahía de Banderas,Nayarit,no,2020,10.0,12.0,34.0,19.0,11.0,11.6
+Bahía de Banderas,Nayarit,no,2021,13.0,36.0,31.0,26.0,14.0,10.8
+Bahía de Banderas,Nayarit,no,2022,19.0,39.0,37.0,37.0,16.0,12.8
+Bahía de Banderas,Nayarit,no,2023,14.0,32.0,38.0,30.0,17.0,10.7
+Bahía de Banderas,Nayarit,no,2024,10.0,22.0,22.0,28.0,19.0,9.9
+Compostela,Nayarit,no,2020,0.0,7.0,15.0,5.0,1.0,0.0
+Compostela,Nayarit,no,2021,3.0,20.0,41.0,7.0,3.0,4.1
+Compostela,Nayarit,no,2022,4.0,29.0,117.0,15.0,4.0,2.4
+Compostela,Nayarit,no,2023,6.0,37.0,117.0,10.0,11.0,3.3
+Compostela,Nayarit,no,2024,1.0,21.0,18.0,4.0,3.0,2.1
+Santiago Ixcuintla,Nayarit,no,2020,0.0,0.0,0.0,0.0,0.0,
+Santiago Ixcuintla,Nayarit,no,2021,3.0,3.0,2.0,2.0,2.0,25.0
+Santiago Ixcuintla,Nayarit,no,2022,2.0,2.0,2.0,2.0,2.0,20.0
+Santiago Ixcuintla,Nayarit,no,2023,2.0,2.0,1.0,2.0,1.0,25.0
+Santiago Ixcuintla,Nayarit,no,2024,0.0,18.0,1.0,2.0,0.0,0.0
+Rosamorada,Nayarit,no,2020,0.0,0.0,0.0,0.0,0.0,
+Rosamorada,Nayarit,no,2021,1.0,8.0,0.0,6.0,2.0,5.9
+Rosamorada,Nayarit,no,2022,0.0,3.0,1.0,2.0,1.0,0.0
+Rosamorada,Nayarit,no,2023,1.0,2.0,1.0,5.0,4.0,7.7
+Rosamorada,Nayarit,no,2024,0.0,0.0,0.0,0.0,0.0,
