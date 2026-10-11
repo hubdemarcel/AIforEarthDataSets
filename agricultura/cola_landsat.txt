@@ -1,0 +1,45 @@
+# Cola de historia Landsat 2009–2017 por mosaico (se procesa cuando se vacía cola_mosaicos.txt).
+# Fecha las plantaciones de agave anteriores a 2018 para contar el agave maduro o sobremaduro
+# que sigue en pie. Un mosaico está hecho cuando existe plantacion_historica_total.csv.
+# 13QFD ya tiene la historia completa 1993–2026.
+
+# Valles y alrededores
+13QFC
+13QEC
+13QED
+13QGD
+# Los Altos y Ciénega
+13QGC
+13QHC
+13QHD
+14QKH
+14QKJ
+# Sur, Michoacán y Guanajuato
+13QFB
+13QGB
+13QHB
+14QKG
+13QEB
+# Norte
+13QFE
+13QGE
+13QEE
+13QHE
+14QKK
+# Costa y extremos
+13QDB
+13QDC
+13QDD
+13QFA
+13QEF
+13QFF
+14QLG
+14QLH
+# Tamaulipas
+14QML
+14QNL
+14QNK
+14QMK
+14QLL
+14QPL
+14QPK

@@ -119,11 +119,11 @@ def ndvi_escena(carpeta, rejilla):
     return np.where(_mascara_nubes(bqa, sensor), ndvi, np.nan).astype("float32")
 
 
-def rejilla_zona(bbox, resolucion=30):
-    """Rejilla UTM fija de la zona (misma para todas las escenas)."""
+def rejilla_zona(bbox, resolucion=30, epsg=None):
+    """Rejilla UTM fija de la zona (misma para todas las escenas). `epsg`: forzar la zona UTM."""
     from pyproj import Transformer
 
-    epsg = datos.epsg_utm(bbox)
+    epsg = epsg or datos.epsg_utm(bbox)
     tr = Transformer.from_crs(4326, epsg, always_xy=True)
     x0, y0 = tr.transform(bbox[0], bbox[1])
     x1, y1 = tr.transform(bbox[2], bbox[3])
@@ -134,11 +134,11 @@ def rejilla_zona(bbox, resolucion=30):
             "ancho": ancho, "alto": alto, "x0": x0, "y1": y1, "res": resolucion}
 
 
-def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8, meses=None, comprimido=False):
+def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8, meses=None, comprimido=False, epsg=None):
     """NDVI mensual. `meses`: lista de meses a bajar (p. ej. secas y lluvias); por omisión todos.
     `comprimido`: guarda cada mes como .npz con NDVI x10000 en int16 (para zonas grandes)."""
     carpeta.mkdir(parents=True, exist_ok=True)
-    rejilla = rejilla_zona(bbox)
+    rejilla = rejilla_zona(bbox, epsg=epsg)
     r = rejilla["res"]
     x = rejilla["x0"] + r / 2 + r * np.arange(rejilla["ancho"])
     y = rejilla["y1"] - r / 2 - r * np.arange(rejilla["alto"])

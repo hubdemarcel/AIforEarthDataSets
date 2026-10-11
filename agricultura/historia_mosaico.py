@@ -22,7 +22,7 @@ from rasterio.transform import from_origin
 from rasterio.warp import Resampling, reproject
 
 from . import agave
-from .municipios import LADO_PROPIO, MUNICIPIOS
+from .municipios import LADO_PROPIO, MUNICIPIOS, _en_zona_siguiente
 
 AMPLITUD_LANDSAT = 1.15  # Landsat TOA subestima la amplitud ~15 % frente a Sentinel-2 (calibrado en 2018–2021)
 SIN_DATO = -32768
@@ -153,6 +153,7 @@ def main(argv=None):
 
     # Solo el cuadro propio de 100 km del mosaico (para no contar dos veces al unir mosaicos)
     propio = (y[:, None] > ytop_s2 - LADO_PROPIO) & (x[None, :] < x0_s2 + LADO_PROPIO)
+    propio &= ~_en_zona_siguiente(CRS.from_user_input(crs).to_epsg(), x, y)
     mun = gpd.read_file(MUNICIPIOS).reset_index(drop=True)
     ids = rasterize(zip(mun.to_crs(crs).geometry, mun.index + 1), out_shape=(alto, ancho),
                     transform=from_origin(x[0] - res / 2, y[0] + res / 2, res, res), fill=0, dtype="int32")
