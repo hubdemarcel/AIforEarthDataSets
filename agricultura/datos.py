@@ -7,6 +7,8 @@ zona y cada mes se reduce a un compuesto mediano sin nubes.
 
 import json
 import re
+import time
+import urllib.error
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from datetime import date
@@ -55,9 +57,16 @@ def mosaicos_mgrs(bbox, paso=0.02):
     return sorted({conv.toMGRS(lat, lon, MGRSPrecision=0) for lat in lats for lon in lons})
 
 
-def _leer_url(url):
-    with urllib.request.urlopen(url, timeout=60) as r:
-        return r.read()
+def _leer_url(url, intentos=5):
+    """Contenido de una URL, con reintentos ante cortes de red (espera 2, 4, 8, 16 s)."""
+    for i in range(intentos):
+        try:
+            with urllib.request.urlopen(url, timeout=60) as r:
+                return r.read()
+        except (OSError, urllib.error.URLError):
+            if i == intentos - 1:
+                raise
+            time.sleep(2 ** (i + 1))
 
 
 def _listar(prefijo):
