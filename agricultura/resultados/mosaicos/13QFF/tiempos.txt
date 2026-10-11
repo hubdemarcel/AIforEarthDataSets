@@ -1,0 +1,3 @@
+descarga_s=1846
+total_s=2353
+pixeles=30140100
