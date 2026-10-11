@@ -25,6 +25,7 @@ from .agave import CLASES
 
 MUNICIPIOS = Path(__file__).parent / "datos_externos" / "municipios_estados_do.geojson"
 LADO_PROPIO = 100_000  # metros del cuadro MGRS propio de cada mosaico
+ORILLA_ZONA_SIGUIENTE = 199_980  # este del borde oeste de la primera columna de mosaicos de una zona
 AGAVE, COSECHADO = 4, 5
 
 
@@ -34,7 +35,29 @@ def _area_propia(capa):
     res_x, res_y = capa.rio.resolution()
     x0 = x[0] - res_x / 2
     y_top = y[0] - res_y / 2  # res_y es negativo
-    return (y[:, None] > y_top - LADO_PROPIO) & (x[None, :] < x0 + LADO_PROPIO)
+    propio = (y[:, None] > y_top - LADO_PROPIO) & (x[None, :] < x0 + LADO_PROPIO)
+    return propio & ~_en_zona_siguiente(capa.rio.crs.to_epsg(), x, y)
+
+
+def _en_zona_siguiente(epsg, x, y):
+    """Pixeles que ya cubren los mosaicos de la zona UTM siguiente (al oriente).
+
+    Los mosaicos de la orilla este de una zona (p. ej. 13QH*) pasan del meridiano límite
+    y se enciman con la primera columna completa de la zona siguiente (14QK*, que empieza
+    en el este 199 980 m). Esos pixeles se cuentan solo en la zona siguiente.
+    """
+    if not (32601 <= epsg <= 32660) or x[-1] < 700_000:
+        return np.zeros((len(y), len(x)), bool)
+    from pyproj import Transformer
+
+    tr = Transformer.from_crs(epsg, epsg + 1, always_xy=True)
+    # El este en la zona siguiente varía suavemente: se calcula en una rejilla gruesa y se interpola por fila
+    paso = 20
+    xs, ys = x[::paso], y[::paso]
+    este = tr.transform(*np.meshgrid(xs, ys))[0]
+    filas = np.array([np.interp(y, ys[::-1], este[::-1, j]) for j in range(len(xs))]).T
+    este_total = np.array([np.interp(x, xs, fila) for fila in filas])
+    return este_total >= ORILLA_ZONA_SIGUIENTE
 
 
 def resumir_mosaico(carpeta, municipios):
