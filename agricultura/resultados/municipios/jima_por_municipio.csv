@@ -1,16 +1,23 @@
 municipio,estado,denominacion_origen,area_ha,cobertura_pct,jima_2020,jima_2021,jima_2022,jima_2023,jima_2024,jima_2025,jima_2026
+Purísima del Rincón,Guanajuato,si,28719.0,100.0,0.0,7.0,2.0,3.0,26.0,40.0,142.0
+San Felipe,Guanajuato,no,297835.0,53.3,0.0,3.0,1.0,3.0,17.0,7.0,6.0
 Uriangato,Guanajuato,no,11559.0,30.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Pueblo Nuevo,Guanajuato,no,5955.0,100.0,0.0,0.0,0.0,5.0,3.0,3.0,8.0
 Yuriria,Guanajuato,no,66155.0,63.4,0.0,5.0,0.0,7.0,3.0,5.0,14.0
-Manuel Doblado,Guanajuato,si,81289.0,76.3,1.0,3.0,6.0,7.0,21.0,81.0,242.0
+San Francisco del Rincón,Guanajuato,no,42257.0,100.0,0.0,1.0,11.0,10.0,28.0,62.0,195.0
+Manuel Doblado,Guanajuato,si,81289.0,100.0,2.0,15.0,7.0,13.0,34.0,117.0,352.0
 Cuerámaro,Guanajuato,si,25834.0,100.0,0.0,10.0,2.0,12.0,31.0,60.0,120.0
 Valle de Santiago,Guanajuato,no,81310.0,81.8,0.0,1.0,6.0,16.0,26.0,60.0,79.0
 Pénjamo,Guanajuato,si,154825.0,100.0,4.0,8.0,27.0,68.0,141.0,290.0,636.0
-Abasolo,Guanajuato,si,61021.0,100.0,2.0,8.0,15.0,41.0,96.0,248.0,330.0
+Silao de la Victoria,Guanajuato,no,53408.0,100.0,0.0,1.0,4.0,21.0,45.0,95.0,149.0
+Abasolo,Guanajuato,si,61021.0,100.0,2.0,8.0,15.0,41.0,96.0,248.0,333.0
 Huanímaro,Guanajuato,si,12650.0,100.0,0.0,1.0,1.0,11.0,9.0,29.0,96.0
-Salamanca,Guanajuato,no,74906.0,47.9,0.0,1.0,9.0,20.0,24.0,101.0,74.0
-Irapuato,Guanajuato,no,84392.0,71.9,1.0,4.0,16.0,25.0,56.0,109.0,156.0
-Romita,Guanajuato,si,43650.0,14.3,0.0,1.0,1.0,4.0,8.0,33.0,72.0
+Salamanca,Guanajuato,no,74906.0,49.1,0.0,1.0,9.0,20.0,24.0,101.0,74.0
+Irapuato,Guanajuato,no,84392.0,100.0,1.0,5.0,18.0,28.0,76.0,125.0,178.0
+Romita,Guanajuato,si,43650.0,100.0,0.0,8.0,7.0,42.0,96.0,260.0,472.0
+Guanajuato,Guanajuato,no,100554.0,85.6,0.0,2.0,3.0,2.0,11.0,15.0,14.0
+León,Guanajuato,no,121034.0,100.0,5.0,12.0,15.0,12.0,57.0,87.0,153.0
+Ocampo,Guanajuato,no,101635.0,78.2,0.0,0.0,0.0,1.0,2.0,4.0,4.0
 Moroleón,Guanajuato,no,15858.0,99.6,0.0,0.0,0.0,0.0,0.0,0.0,1.0
 Acatic,Jalisco,si,33611.0,100.0,0.0,4.0,1.0,3.0,22.0,21.0,45.0
 Acatlán de Juárez,Jalisco,si,15248.0,100.0,0.0,1.0,2.0,1.0,4.0,21.0,19.0
@@ -19,7 +26,7 @@ Amacueca,Jalisco,si,12398.0,100.0,0.0,0.0,1.0,1.0,5.0,12.0,20.0
 Amatitán,Jalisco,si,17138.0,100.0,0.0,1.0,1.0,8.0,14.0,73.0,124.0
 Ameca,Jalisco,si,83197.0,100.0,0.0,2.0,2.0,6.0,10.0,54.0,106.0
 San Juanito de Escobedo,Jalisco,si,19301.0,100.0,0.0,1.0,0.0,4.0,8.0,34.0,50.0
-Arandas,Jalisco,si,94162.0,95.8,0.0,3.0,3.0,17.0,28.0,180.0,619.0
+Arandas,Jalisco,si,94162.0,100.0,0.0,3.0,3.0,17.0,30.0,186.0,677.0
 El Arenal,Jalisco,si,11080.0,100.0,0.0,1.0,1.0,2.0,2.0,26.0,50.0
 Atemajac de Brizuela,Jalisco,si,35348.0,100.0,0.0,0.0,0.0,0.0,1.0,2.0,2.0
 Atengo,Jalisco,si,43740.0,100.0,0.0,0.0,0.0,1.0,0.0,4.0,10.0
@@ -38,7 +45,7 @@ Chimaltitán,Jalisco,si,64865.0,32.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Chiquilistlán,Jalisco,si,29517.0,100.0,0.0,0.0,0.0,0.0,0.0,1.0,2.0
 Degollado,Jalisco,si,42345.0,100.0,0.0,0.0,4.0,4.0,4.0,55.0,227.0
 Ejutla,Jalisco,si,29598.0,65.8,0.0,0.0,0.0,0.0,0.0,1.0,1.0
-Encarnación de Díaz,Jalisco,si,124130.0,71.1,0.0,2.0,3.0,6.0,17.0,27.0,121.0
+Encarnación de Díaz,Jalisco,si,124130.0,90.5,0.0,3.0,4.0,8.0,20.0,32.0,124.0
 Etzatlán,Jalisco,si,33479.0,100.0,0.0,1.0,0.0,10.0,3.0,11.0,28.0
 Guachinango,Jalisco,si,83108.0,100.0,0.0,1.0,0.0,3.0,3.0,11.0,35.0
 Guadalajara,Jalisco,si,14985.0,100.0,0.0,0.0,0.0,1.0,1.0,2.0,3.0
@@ -51,7 +58,7 @@ Jesús María,Jalisco,si,65918.0,100.0,0.0,3.0,2.0,3.0,19.0,110.0,284.0
 Jocotepec,Jalisco,si,32182.0,100.0,0.0,6.0,2.0,6.0,11.0,17.0,31.0
 Juanacatlán,Jalisco,si,13692.0,100.0,0.0,1.0,0.0,1.0,6.0,12.0,24.0
 Juchitlán,Jalisco,si,24420.0,100.0,0.0,7.0,0.0,4.0,14.0,41.0,73.0
-Lagos de Moreno,Jalisco,si,249022.0,2.9,0.0,0.0,0.0,1.0,0.0,0.0,1.0
+Lagos de Moreno,Jalisco,si,249022.0,83.1,0.0,6.0,8.0,12.0,26.0,51.0,81.0
 El Limón,Jalisco,si,11335.0,9.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Magdalena,Jalisco,si,29077.0,100.0,0.0,1.0,1.0,16.0,15.0,42.0,93.0
 La Manzanilla de la Paz,Jalisco,si,13298.0,100.0,0.0,0.0,0.0,1.0,4.0,6.0,1.0
@@ -60,13 +67,15 @@ Mazamitla,Jalisco,si,28760.0,55.4,0.0,0.0,0.0,5.0,1.0,5.0,2.0
 Mexticacán,Jalisco,si,28430.0,100.0,0.0,0.0,0.0,0.0,1.0,13.0,28.0
 Mixtlán,Jalisco,si,62589.0,100.0,0.0,2.0,1.0,1.0,0.0,0.0,1.0
 Ocotlán,Jalisco,si,24085.0,100.0,0.0,4.0,2.0,10.0,28.0,73.0,191.0
+Ojuelos de Jalisco,Jalisco,si,114366.0,12.5,0.0,1.0,0.0,1.0,0.0,0.0,1.0
 Poncitlán,Jalisco,si,82843.0,100.0,1.0,6.0,12.0,29.0,46.0,115.0,261.0
 Villa Purificación,Jalisco,si,183554.0,20.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Quitupan,Jalisco,si,67028.0,22.5,0.0,0.0,0.0,0.0,3.0,1.0,1.0
 El Salto,Jalisco,si,9216.0,100.0,0.0,1.0,0.0,1.0,3.0,8.0,3.0
 San Cristóbal de la Barranca,Jalisco,si,51751.0,100.0,0.0,1.0,0.0,1.0,1.0,6.0,10.0
+San Diego de Alejandría,Jalisco,si,34882.0,100.0,0.0,1.0,3.0,5.0,8.0,58.0,153.0
 San Juan de los Lagos,Jalisco,si,83980.0,100.0,0.0,1.0,2.0,4.0,6.0,46.0,37.0
-San Julián,Jalisco,si,25921.0,96.0,0.0,0.0,1.0,1.0,3.0,5.0,61.0
+San Julián,Jalisco,si,25921.0,100.0,0.0,0.0,1.0,1.0,3.0,8.0,62.0
 San Marcos,Jalisco,si,30286.0,100.0,0.0,0.0,0.0,1.0,1.0,28.0,32.0
 San Martín de Bolaños,Jalisco,si,68352.0,86.1,0.0,0.0,0.0,0.0,1.0,1.0,0.0
 San Martín Hidalgo,Jalisco,si,33991.0,100.0,0.0,1.0,2.0,2.0,5.0,22.0,34.0
@@ -94,7 +103,7 @@ Tonalá,Jalisco,si,15641.0,100.0,0.0,0.0,0.0,1.0,2.0,5.0,6.0
 Tonaya,Jalisco,si,29180.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Tototlán,Jalisco,si,33381.0,100.0,0.0,1.0,2.0,14.0,24.0,44.0,126.0
 Tuxcueca,Jalisco,si,13121.0,100.0,0.0,0.0,0.0,2.0,4.0,5.0,13.0
-Unión de San Antonio,Jalisco,si,72267.0,15.3,0.0,0.0,2.0,0.0,0.0,3.0,18.0
+Unión de San Antonio,Jalisco,si,72267.0,100.0,0.0,2.0,3.0,5.0,9.0,38.0,138.0
 Unión de Tula,Jalisco,si,43997.0,96.4,0.0,2.0,2.0,2.0,6.0,15.0,35.0
 Valle de Guadalupe,Jalisco,si,34900.0,100.0,0.0,0.0,1.0,8.0,3.0,6.0,7.0
 Valle de Juárez,Jalisco,si,19358.0,49.9,0.0,0.0,0.0,0.0,1.0,4.0,1.0
