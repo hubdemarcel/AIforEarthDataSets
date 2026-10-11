@@ -2,45 +2,45 @@
 # Un mosaico se considera hecho cuando existe resultados/mosaicos/<ID>/uso_suelo.tif.
 # Las líneas que empiezan con # se ignoran; se puede reordenar libremente.
 
-# Región Valles (alrededor de Tequila)
+# Ya procesados
 13QFD
 13QFC
 13QEC
 13QED
-# Hacia Los Altos y zona metropolitana
 13QGD
 13QGC
-# Los Altos de Jalisco
 13QHC
 13QHD
 14QKH
 14QKJ
-# Sur y Ciénega
 13QFB
 13QGB
 13QEB
 13QHB
 14QKG
-# Norte de Valles y Altos
 13QFE
 13QGE
 13QEE
 13QHE
 14QKK
-# Resto de Jalisco (costa, sur, norte)
 13QDB
+
+# Faltantes de la DO en Jalisco y Nayarit (costa, sur, norte)
 13QDC
 13QDD
-13QEA
 13QFA
-13QGA
-13QHA
-14QKF
-13QDA
-13QDE
-13QDF
 13QEF
 13QFF
-13QGF
-13QHF
-14QKL
+# Michoacán oriente (Maravatío)
+14QLG
+14QLH
+# Tamaulipas (11 municipios de la DO)
+14QML
+14QNL
+14QNK
+14QMK
+14QLL
+14QPL
+14QPK
+# Sin municipios de la DO pendientes (opcionales, quitar el # para procesarlos)
+# 13QEA 13QGA 13QHA 14QKF 13QDA 13QDE 13QDF 13QGF 13QHF 14QKL
