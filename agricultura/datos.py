@@ -192,11 +192,15 @@ def elevacion(bbox, plantilla):
     from rasterio.enums import Resampling
     from rioxarray.merge import merge_arrays
 
-    mosaicos = [
-        rioxarray.open_rasterio(_url_dem(lat, lon)).squeeze("band", drop=True)
-        for lat in range(int(np.floor(bbox[1])), int(np.floor(bbox[3])) + 1)
-        for lon in range(int(np.floor(bbox[0])), int(np.floor(bbox[2])) + 1)
-    ]
+    import rasterio
+
+    mosaicos = []
+    for lat in range(int(np.floor(bbox[1])), int(np.floor(bbox[3])) + 1):
+        for lon in range(int(np.floor(bbox[0])), int(np.floor(bbox[2])) + 1):
+            try:
+                mosaicos.append(rioxarray.open_rasterio(_url_dem(lat, lon)).squeeze("band", drop=True))
+            except rasterio.errors.RasterioIOError:  # cuadros solo de mar no existen en el DEM
+                continue
     dem = merge_arrays(mosaicos) if len(mosaicos) > 1 else mosaicos[0]
     elev = dem.rio.reproject_match(plantilla, resampling=Resampling.bilinear).astype("float32")
     elev = elev.assign_coords(x=plantilla.x, y=plantilla.y)
