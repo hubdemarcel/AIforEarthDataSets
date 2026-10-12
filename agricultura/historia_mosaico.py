@@ -138,31 +138,43 @@ def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--mosaico", type=Path, required=True, help="carpeta del mosaico (con landsat_mensual/ y metricas_anuales.npz)")
     p.add_argument("--hasta-landsat", type=int, default=2017)
+    p.add_argument("--guardado", action="store_true",
+                   help="usar metricas_historia.npz de una corrida anterior en vez de landsat_mensual/")
     args = p.parse_args(argv)
     m = args.mosaico
 
-    print("Métricas anuales de Landsat...", flush=True)
-    al, sl, aml, x, y, crs = metricas_landsat(m / "landsat_mensual")
-    keep = [i for i, a in enumerate(al) if a <= args.hasta_landsat]
-    al, sl, aml = [al[i] for i in keep], sl[keep], aml[keep]
-    print("Sentinel-2 a 30 m...", flush=True)
-    a2, s2, am2, (x0_s2, ytop_s2) = s2_a_rejilla(m / "metricas_anuales.npz", x, y, crs)
-    anios = np.array(al + a2)
-    secas = np.concatenate([sl, s2])
-    amp = np.concatenate([aml, am2])
-    del sl, aml, s2, am2
+    guardado = m / "metricas_historia.npz"
+    if args.guardado:
+        # Serie ya unida y homologada de una corrida anterior: no hace falta bajar Landsat
+        z = np.load(guardado)
+        anios, secas, amp, x, y = z["anios"], z["secas"], z["amplitud"], z["x"], z["y"]
+        crs, x0_s2, ytop_s2 = str(z["crs"]), float(z["x0_s2"]), float(z["ytop_s2"])
+    else:
+        print("Métricas anuales de Landsat...", flush=True)
+        al, sl, aml, x, y, crs = metricas_landsat(m / "landsat_mensual")
+        keep = [i for i, a in enumerate(al) if a <= args.hasta_landsat]
+        al, sl, aml = [al[i] for i in keep], sl[keep], aml[keep]
+        print("Sentinel-2 a 30 m...", flush=True)
+        a2, s2, am2, (x0_s2, ytop_s2) = s2_a_rejilla(m / "metricas_anuales.npz", x, y, crs)
+        anios = np.array(al + a2)
+        secas = np.concatenate([sl, s2])
+        amp = np.concatenate([aml, am2])
+        del sl, aml, s2, am2
 
-    import rioxarray
-    uso = rioxarray.open_rasterio(m / "uso_suelo.tif").squeeze("band", drop=True)
+        import rioxarray
+        uso = rioxarray.open_rasterio(m / "uso_suelo.tif").squeeze("band", drop=True)
+        res = float(x[1] - x[0])
+        clase = np.zeros((len(y), len(x)), "uint8")
+        reproject(uso.values, clase, src_transform=uso.rio.transform(), src_crs=uso.rio.crs,
+                  dst_transform=from_origin(x[0] - res / 2, y[0] + res / 2, res, res),
+                  dst_crs=CRS.from_user_input(crs), resampling=Resampling.nearest)
+        ajustes = homologar(secas, amp, anios, clase == CULTIVO_ANUAL, set(a2))
+        pd.DataFrame(ajustes, columns=["anio", "desplazamiento_secas", "factor_amplitud"]).to_csv(
+            m / "homologacion_landsat.csv", index=False)
+        print("Ajustes por año (año, +secas, ×amplitud):", ajustes, flush=True)
+        # Serie unida (int16, ~1 GB) para ajustar reglas sin volver a bajar imágenes; no se sube
+        np.savez(guardado, anios=anios, secas=secas, amplitud=amp, x=x, y=y, crs=crs, x0_s2=x0_s2, ytop_s2=ytop_s2)
     res = float(x[1] - x[0])
-    clase = np.zeros((len(y), len(x)), "uint8")
-    reproject(uso.values, clase, src_transform=uso.rio.transform(), src_crs=uso.rio.crs,
-              dst_transform=from_origin(x[0] - res / 2, y[0] + res / 2, res, res),
-              dst_crs=CRS.from_user_input(crs), resampling=Resampling.nearest)
-    ajustes = homologar(secas, amp, anios, clase == CULTIVO_ANUAL, set(a2))
-    pd.DataFrame(ajustes, columns=["anio", "desplazamiento_secas", "factor_amplitud"]).to_csv(
-        m / "homologacion_landsat.csv", index=False)
-    print("Ajustes por año (año, +secas, ×amplitud):", ajustes, flush=True)
 
     print("Detectando plantaciones...", flush=True)
     alto, ancho = len(y), len(x)
