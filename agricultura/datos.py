@@ -63,6 +63,10 @@ def _leer_url(url, intentos=5):
         try:
             with urllib.request.urlopen(url, timeout=60) as r:
                 return r.read()
+        except urllib.error.HTTPError as e:
+            if e.code == 404 or i == intentos - 1:  # un archivo que no existe no aparece reintentando
+                raise
+            time.sleep(2 ** (i + 1))
         except (OSError, urllib.error.URLError):
             if i == intentos - 1:
                 raise
@@ -91,10 +95,15 @@ def escenas_mosaicos(mosaicos, anio, mes, nubes_max=70):
 
     def item(carpeta):
         nombre = carpeta.rstrip("/").split("/")[-1]
-        return pystac.Item.from_dict(json.loads(_leer_url(f"{S2_BUCKET}/{carpeta}{nombre}.json")))
+        try:
+            return pystac.Item.from_dict(json.loads(_leer_url(f"{S2_BUCKET}/{carpeta}{nombre}.json")))
+        except urllib.error.HTTPError as e:
+            if e.code == 404:  # carpetas de escena sin su JSON de metadatos
+                return None
+            raise
 
     with ThreadPoolExecutor(8) as pool:
-        items = list(pool.map(item, carpetas))
+        items = [i for i in pool.map(item, carpetas) if i is not None]
     # Algunas fechas tienen varias versiones (_0, _1, _2) y no todas apuntan a los COG
     # públicos; se conserva la versión más reciente con archivos públicos por mosaico y fecha.
     por_escena = {}
