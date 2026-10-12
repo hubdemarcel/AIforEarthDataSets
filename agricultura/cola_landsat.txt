@@ -14,32 +14,33 @@
 13QHD
 14QKH
 14QKJ
+# --- Desactivados para ahorrar uso; quitar el # para procesarlos ---
 # Sur, Michoacán y Guanajuato
-13QFB
-13QGB
-13QHB
-14QKG
-13QEB
+# 13QFB
+# 13QGB
+# 13QHB
+# 14QKG
+# 13QEB
 # Norte
-13QFE
-13QGE
-13QEE
-13QHE
-14QKK
+# 13QFE
+# 13QGE
+# 13QEE
+# 13QHE
+# 14QKK
 # Costa y extremos
-13QDB
-13QDC
-13QDD
-13QFA
-13QEF
-13QFF
-14QLG
-14QLH
+# 13QDB
+# 13QDC
+# 13QDD
+# 13QFA
+# 13QEF
+# 13QFF
+# 14QLG
+# 14QLH
 # Tamaulipas
-14QML
-14QNL
-14QNK
-14QMK
-14QLL
-14QPL
-14QPK
+# 14QML
+# 14QNL
+# 14QNK
+# 14QMK
+# 14QLL
+# 14QPL
+# 14QPK
