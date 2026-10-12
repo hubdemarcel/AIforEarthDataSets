@@ -7,7 +7,9 @@ por municipio. Subir los resultados (git commit/push) lo hace quien lo ejecuta.
 
 Cuando la cola de Sentinel-2 se vacía, sigue con `cola_landsat.txt`: baja Landsat
 2009–2017 de cada mosaico (meses de secas y lluvias), corre `historia_mosaico.py` para
-fechar las plantaciones anteriores a 2018 y borra el caché de Landsat.
+fechar las plantaciones anteriores a 2018 y ver cuáles siguen en pie, y borra el caché
+de Landsat. Si faltan las métricas de Sentinel-2 (`metricas_anuales.npz`, no se suben al
+repositorio) las vuelve a calcular primero sin tocar los mapas del mosaico.
 
 Uso:
     python -m agricultura.nocturno --max 2
@@ -39,22 +41,35 @@ def pendientes():
 def pendientes_landsat():
     ids = [l.strip() for l in COLA_LANDSAT.read_text().splitlines() if l.strip() and not l.startswith("#")]
     return [i for i in ids if (MOSAICOS / i / "uso_suelo.tif").exists()
-            and not (MOSAICOS / i / "plantacion_historica_total.csv").exists()]
+            and not (MOSAICOS / i / "agave_viejo_por_municipio.csv").exists()]
 
 
-def historia_landsat(mid):
+def historia_landsat(mid, desde=2018, hasta=2026):
     """Landsat 2009–2017 del mosaico + historia de plantación; borra el caché al terminar."""
     import rasterio
     from rasterio.warp import transform_bounds
 
     carpeta = MOSAICOS / mid
+    if not (carpeta / "metricas_anuales.npz").exists():
+        print(f"Métricas de Sentinel-2 de {mid}...", flush=True)
+        mosaico.solo_metricas(mid, list(range(desde, hasta + 1)), carpeta)
+        shutil.rmtree(carpeta / "mensual", ignore_errors=True)
     with rasterio.open(carpeta / "uso_suelo.tif") as src:
         epsg = src.crs.to_epsg()
         bbox = transform_bounds(src.crs, "EPSG:4326", *src.bounds, densify_pts=21)
     path_rows = pd.read_csv(PATH_ROW).set_index("mosaico").loc[mid, "path_row"].split()
     landsat.descargar(bbox, path_rows, LANDSAT_DESDE, LANDSAT_HASTA, carpeta / "landsat_mensual",
                       meses=mosaico.MESES, comprimido=True, epsg=epsg)
+    # Una historia previa más larga (p. ej. 13QFD, desde 1993) no se reemplaza por la de 2009–2017
+    previa = {n: (carpeta / n).read_bytes() for n in ("plantacion_historica_por_municipio.csv",
+                                                      "plantacion_historica_total.csv", "homologacion_landsat.csv")
+              if (carpeta / n).exists()}
+    larga = "plantacion_historica_total.csv" in previa and \
+        pd.read_csv(carpeta / "plantacion_historica_total.csv").anio.min() < LANDSAT_DESDE[0]
     historia_mosaico.main(["--mosaico", str(carpeta)])
+    if larga:
+        for n, contenido in previa.items():
+            (carpeta / n).write_bytes(contenido)
     shutil.rmtree(carpeta / "landsat_mensual", ignore_errors=True)
 
 
@@ -88,7 +103,7 @@ def main(argv=None):
                 break
             inicio = time.time()
             print(f"Historia Landsat de {mid}...", flush=True)
-            historia_landsat(mid)
+            historia_landsat(mid, args.desde, args.hasta)
             print(f"Mosaico {mid} (Landsat): {(time.time() - inicio) / 60:.0f} min", flush=True)
         print(f"Quedan {len(pendientes_landsat())} mosaicos en la cola de Landsat.", flush=True)
 

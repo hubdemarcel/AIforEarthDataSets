@@ -6,6 +6,10 @@ Une las métricas anuales de Landsat (calculadas aquí desde los NDVI mensuales 
 de 30+ años detecta todos los años de plantación de cada pixel (`agave.plantaciones`)
 y los resume por municipio, contando solo el cuadro de 100 km propio del mosaico.
 
+Para cada plantación hasta 2017 busca también su jima en el mismo pixel (`jimas`):
+el agave que no tiene jima sigue en pie al final de la serie (agave viejo: maduro o
+sobremaduro). Se guarda en `agave_viejo_por_municipio.csv`, que usa `oferta.py`.
+
 Uso:
     python -m agricultura.historia_mosaico --mosaico agricultura/resultados/mosaicos/13QFD
 """
@@ -112,6 +116,24 @@ def homologar(secas, amp, anios, referencia, anios_ref):
     return ajustes
 
 
+def jimas(secas, evento, anios, hasta):
+    """Año de jima de cada plantación hasta `hasta`: el primer año, desde el segundo después
+    de plantar, con verdor de secas bajo el valle (cosecha o replantación). 0 = sigue en pie.
+
+    `secas` (años, n) float, `evento` (años, n) bool. Devuelve (plantacion, jima, indice de pixel).
+    """
+    k, i = np.nonzero(evento & (anios <= hasta)[:, None])
+    bajo = secas < agave.VALLE
+    jima = np.zeros(len(i), "int32")
+    for d in range(2, len(anios)):
+        j = k + d
+        ok = (jima == 0) & (j < len(anios))
+        hit = ok.copy()
+        hit[ok] = bajo[j[ok], i[ok]]
+        jima[hit] = anios[j[hit]]
+    return anios[k], jima, i
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--mosaico", type=Path, required=True, help="carpeta del mosaico (con landsat_mensual/ y metricas_anuales.npz)")
@@ -145,11 +167,15 @@ def main(argv=None):
     print("Detectando plantaciones...", flush=True)
     alto, ancho = len(y), len(x)
     evento = np.zeros((len(anios), alto, ancho), bool)
+    viejo = []  # (plantación, jima, fila, columna) de cada plantación hasta --hasta-landsat
     for f in range(0, alto, 300):
         b = slice(f, f + 300)
         n = secas[:, b].shape[1] * ancho
-        evento[:, b] = agave.plantaciones(_flotante(secas[:, b]).reshape(len(anios), n),
-                                          _flotante(amp[:, b]).reshape(len(anios), n)).reshape(len(anios), -1, ancho)
+        s_b = _flotante(secas[:, b]).reshape(len(anios), n)
+        e_b = agave.plantaciones(s_b, _flotante(amp[:, b]).reshape(len(anios), n))
+        evento[:, b] = e_b.reshape(len(anios), -1, ancho)
+        pl, ji, idx = jimas(s_b, e_b, anios, args.hasta_landsat)
+        viejo.append((pl, ji, f + idx // ancho, idx % ancho))
 
     # Solo el cuadro propio de 100 km del mosaico (para no contar dos veces al unir mosaicos)
     propio = (y[:, None] > ytop_s2 - LADO_PROPIO) & (x[None, :] < x0_s2 + LADO_PROPIO)
@@ -171,6 +197,19 @@ def main(argv=None):
     total.index.name = "anio"
     total.to_csv(m / "plantacion_historica_total.csv")
     print(total.to_string())
+
+    # Agave viejo: hectáreas por municipio, año de plantación y año de jima (0 = en pie)
+    pl, ji, fi, co = (np.concatenate(c) for c in zip(*viejo))
+    sel = propio[fi, co] & (ids[fi, co] > 0)
+    v = (pd.DataFrame({"mun": ids[fi, co][sel] - 1, "plantacion": pl[sel], "jima": ji[sel]})
+         .value_counts().mul(ha).round(1).rename("hectareas").reset_index())
+    v = mun[["municipio", "estado", "denominacion_origen"]].join(v.set_index("mun"), how="inner")
+    v["serie_hasta"] = int(anios[-1])  # último año observado: después no se pueden ver jimas
+    v.sort_values(["estado", "municipio", "plantacion", "jima"]).to_csv(
+        m / "agave_viejo_por_municipio.csv", index=False)
+    en_pie = v[v.jima == 0].groupby("plantacion").hectareas.sum().round(0)
+    print(f"Agave plantado hasta {args.hasta_landsat} que sigue en pie en {anios[-1]} (ha):")
+    print(en_pie.to_string())
 
 
 if __name__ == "__main__":

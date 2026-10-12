@@ -8,8 +8,12 @@ convierten a toneladas con el rendimiento del SIAP (toneladas por hectárea cose
 
 Límites:
 - Tamaulipas queda fuera de los totales (las reglas no están calibradas para esa región).
-- Solo cuenta lo plantado de 2018 a 2024: el agave plantado antes ya estaba establecido al
-  inicio de la serie de Sentinel-2 y no se fecha (casi todo debió jimarse antes de 2025).
+- Lo plantado de 2018 a 2024 viene de Sentinel-2 (20 m, con nivel de confianza). Lo plantado
+  antes (2009–2017) viene de la historia Landsat (`agave_viejo_por_municipio.csv`, 30 m, sin
+  nivel de confianza) y solo en los mosaicos que ya la tienen. Ese agave viejo se reporta
+  aparte como inventario: hectáreas que siguen en pie cada año (ya tiene 7 años o más, está
+  listo para jima). Después del último año observado no se ven jimas nuevas, así que el
+  agave viejo de esos años es un máximo.
 - Lo plantado en 2025–2026 todavía no se puede confirmar (hacen falta dos años de
   crecimiento), así que la oferta de 2031 en adelante está incompleta.
 
@@ -113,6 +117,34 @@ def main(argv=None):
     print(seis.to_string())
     do = o[(o.edad == 6) & (o.denominacion_origen == "si")].groupby(["estado", "anio"]).alta_media.sum().unstack().round(0)
     print(do.to_string())
+    agave_viejo(args.mosaicos, args.salida, rend_mun, rend_edo)
+
+
+def agave_viejo(mosaicos, salida, rend_mun, rend_edo, anios=range(2024, 2032)):
+    """Agave plantado hasta 2017 que sigue en pie cada año, por municipio (historia Landsat)."""
+    archivos = sorted(mosaicos.glob("*/agave_viejo_por_municipio.csv"))
+    if not archivos:
+        print("Ningún mosaico tiene agave_viejo_por_municipio.csv todavía.")
+        return
+    v = pd.concat(pd.read_csv(a) for a in archivos)
+    observado = int(v.serie_hasta.min())
+    filas = []
+    for anio in anios:
+        # En pie durante el año: sin jima, o con la caída de verdor en un año posterior
+        g = v[(v.jima == 0) | (v.jima > anio)]
+        filas.append(g.groupby(["municipio", "estado", "denominacion_origen"]).hectareas.sum().rename(anio))
+    t = pd.concat(filas, axis=1).fillna(0).rename_axis(columns="anio").stack().rename("ha_en_pie").reset_index()
+    clave = list(zip(t.estado.map(_norm), t.municipio.map(_norm)))
+    t["rend_t_ha"] = [rend_mun.get(k, rend_edo.get(k[0], np.nan)) for k in clave]
+    t["ton"] = (t.ha_en_pie * t.rend_t_ha).round(0)
+    t["ha_en_pie"] = t.ha_en_pie.round(0)
+    t["maximo"] = t.anio > observado
+    t.sort_values(["estado", "municipio", "anio"]).to_csv(salida / "oferta_agave_viejo_por_municipio.csv", index=False)
+    total = t[~t.estado.isin(SIN_CALIBRAR)].groupby("anio").agg(ha_en_pie=("ha_en_pie", "sum"), ton=("ton", "sum"),
+                                                              maximo=("maximo", "first"))
+    total.to_csv(salida / "oferta_agave_viejo_total.csv")
+    print(f"Agave plantado hasta 2017 en pie ({len(archivos)} mosaicos; después de {observado} es un máximo):")
+    print(total.to_string())
 
 
 if __name__ == "__main__":

@@ -115,6 +115,26 @@ def metricas(carpeta, anios, alto, ancho, filas_bloque=500):
     return secas, lluvias - secas
 
 
+def guardar_metricas(salida, anios, secas, amp, geobox):
+    """Métricas anuales (NDVI x10000 en enteros) para reusarlas sin volver a bajar imágenes.
+
+    Se redondean a pasos de 0.01 de NDVI (muy por debajo de los umbrales) para que el
+    archivo comprima ~55 % mejor.
+    """
+    a_entero = lambda arr: np.where(np.isfinite(arr), np.round(arr * ESCALA / PASO) * PASO, SIN_DATO).astype("int16")
+    np.savez_compressed(salida / "metricas_anuales.npz", anios=np.array(anios), secas=a_entero(secas),
+                        amplitud=a_entero(amp), x=geobox.coords["x"].values, y=geobox.coords["y"].values,
+                        crs=geobox.crs.to_wkt())
+
+
+def solo_metricas(mosaico, anios, salida, simultaneos=1):
+    """Vuelve a bajar Sentinel-2 y guarda solo `metricas_anuales.npz`, sin tocar los mapas ya hechos."""
+    geobox = descargar(mosaico, anios, salida / "mensual", simultaneos)
+    alto, ancho = geobox.shape
+    secas, amp = metricas(salida / "mensual", anios, alto, ancho)
+    guardar_metricas(salida, anios, secas, amp, geobox)
+
+
 def main(argv=None):
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--mosaico", required=True, help="mosaico MGRS, p. ej. 13QFD")
@@ -162,12 +182,7 @@ def main(argv=None):
     exportar(clase, "uso_suelo.tif")
     exportar(est, "agave_establecimiento.tif")
     exportar(jima, "agave_jima.tif")
-    # Métricas anuales (NDVI x10000 en enteros) para reusarlas sin volver a bajar imágenes.
-    # Se redondean a pasos de 0.01 de NDVI (muy por debajo de los umbrales) para que el
-    # archivo comprima ~55 % mejor.
-    a_entero = lambda arr: np.where(np.isfinite(arr), np.round(arr * ESCALA / PASO) * PASO, SIN_DATO).astype("int16")
-    np.savez_compressed(args.salida / "metricas_anuales.npz", anios=np.array(anios), secas=a_entero(secas),
-                        amplitud=a_entero(amp), x=coords["x"], y=coords["y"], crs=geobox.crs.to_wkt())
+    guardar_metricas(args.salida, anios, secas, amp, geobox)
 
     ha = RESOLUCION**2 / 10_000
     sup = pd.Series(clase.ravel()).value_counts().sort_index()

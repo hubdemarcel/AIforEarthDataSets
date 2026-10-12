@@ -1,9 +1,10 @@
 # Cola de historia Landsat 2009–2017 por mosaico (se procesa cuando se vacía cola_mosaicos.txt).
 # Fecha las plantaciones de agave anteriores a 2018 para contar el agave maduro o sobremaduro
-# que sigue en pie. Un mosaico está hecho cuando existe plantacion_historica_total.csv.
-# 13QFD ya tiene la historia completa 1993–2026.
+# que sigue en pie. Un mosaico está hecho cuando existe agave_viejo_por_municipio.csv
+# (plantaciones hasta 2017 con su año de jima por pixel; 0 = sigue en pie).
 
 # Valles y alrededores
+13QFD
 13QFC
 13QEC
 13QED
