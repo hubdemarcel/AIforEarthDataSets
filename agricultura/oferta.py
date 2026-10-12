@@ -7,6 +7,7 @@ convierten a toneladas con el rendimiento del SIAP (toneladas por hectárea cose
 2019–2025; del municipio si cosechó al menos 200 ha en esos años, si no del estado).
 
 Límites:
+- Tamaulipas queda fuera de los totales (las reglas no están calibradas para esa región).
 - Solo cuenta lo plantado de 2018 a 2024: el agave plantado antes ya estaba establecido al
   inicio de la serie de Sentinel-2 y no se fecha (casi todo debió jimarse antes de 2025).
 - Lo plantado en 2025–2026 todavía no se puede confirmar (hacen falta dos años de
@@ -35,6 +36,9 @@ AGAVE = 4
 EDAD_JIMA = (6, 7)
 COSECHADA_MIN = 200  # ha cosechadas 2019–2025 para usar el rendimiento del municipio
 NIVELES = {1: "baja", 2: "media", 3: "alta"}
+# Estados fuera de los totales: las reglas, calibradas en Jalisco, detectan ~67 veces el agave
+# del SIAP en Tamaulipas (caña, cítricos, matorral). Siguen en la tabla por municipio.
+SIN_CALIBRAR = {"Tamaulipas"}
 
 
 def _norm(texto):
@@ -103,9 +107,9 @@ def main(argv=None):
         args.salida / "oferta_agave_maduro_por_municipio.csv", index=False)
 
     # Total: hectáreas que cumplen 6 años (edad típica de jima) cada año, y toneladas
-    seis = o[o.edad == 6].groupby("anio")[["alta", "alta_media", "todo", "ton_alta_media"]].sum()
+    seis = o[(o.edad == 6) & ~o.estado.isin(SIN_CALIBRAR)].groupby("anio")[["alta", "alta_media", "todo", "ton_alta_media"]].sum()
     seis.to_csv(args.salida / "oferta_agave_maduro_total.csv")
-    print("Agave que cumple 6 años (ha) y toneladas (alta+media):")
+    print(f"Agave que cumple 6 años (ha) y toneladas (alta+media), sin {', '.join(sorted(SIN_CALIBRAR))}:")
     print(seis.to_string())
     do = o[(o.edad == 6) & (o.denominacion_origen == "si")].groupby(["estado", "anio"]).alta_media.sum().unstack().round(0)
     print(do.to_string())
