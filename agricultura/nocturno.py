@@ -30,6 +30,7 @@ MOSAICOS = RAIZ / "resultados" / "mosaicos"
 COLA_LANDSAT = RAIZ / "cola_landsat.txt"
 PATH_ROW = RAIZ / "landsat_path_row.csv"  # path/row WRS-2 que tocan el cuadro propio de cada mosaico
 LANDSAT_DESDE, LANDSAT_HASTA = (2009, 1), (2017, 12)
+DISCO_GUARDAR_GB = 12  # debajo de esto no se guarda metricas_historia.npz (~1 GB por mosaico)
 DISCO_MIN_GB = 6  # caché mensual (~3 GB) + métricas (~0.6 GB) + margen
 
 
@@ -71,6 +72,10 @@ def historia_landsat(mid, desde=2018, hasta=2026):
         for n, contenido in previa.items():
             (carpeta / n).write_bytes(contenido)
     shutil.rmtree(carpeta / "landsat_mensual", ignore_errors=True)
+    # Las métricas de Sentinel-2 se pueden volver a calcular; la serie unida solo se guarda si sobra disco
+    (carpeta / "metricas_anuales.npz").unlink(missing_ok=True)
+    if shutil.disk_usage(MOSAICOS).free / 1e9 < DISCO_GUARDAR_GB:
+        (carpeta / "metricas_historia.npz").unlink(missing_ok=True)
 
 
 def main(argv=None):
