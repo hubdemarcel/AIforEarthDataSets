@@ -171,7 +171,9 @@ def descargar(bbox, path_rows, desde, hasta, carpeta, simultaneos=8, meses=None,
             del capas
             if comprimido:
                 entero = np.where(np.isfinite(mediana), np.round(mediana * 10000), -32768).astype("int16")
-                np.savez_compressed(ruta, ndvi=entero, x=x, y=y, crs=rejilla["crs"])
+                tmp = ruta.with_name("tmp_" + ruta.name)  # se renombra al final: un corte no deja archivos a medias
+                np.savez_compressed(tmp, ndvi=entero, x=x, y=y, crs=rejilla["crs"])
+                tmp.replace(ruta)
                 print(f"  {anio}-{mes:02d}: listo", flush=True)
                 continue
             da = xr.DataArray(mediana[None], dims=("tiempo", "y", "x"),

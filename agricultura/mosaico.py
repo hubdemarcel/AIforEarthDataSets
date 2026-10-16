@@ -81,7 +81,9 @@ def descargar(mosaico, anios, carpeta, simultaneos=3):
         if ndvi is None:
             print(f"  {anio}-{mes:02d}: sin escenas útiles", flush=True)
             return
-        np.savez_compressed(ruta, ndvi=ndvi)
+        tmp = ruta.with_name("tmp_" + ruta.name)  # se renombra al final: un corte no deja archivos a medias
+        np.savez_compressed(tmp, ndvi=ndvi)
+        tmp.replace(ruta)
         print(f"  {anio}-{mes:02d}: {fechas} fechas en {time.time() - inicio:.0f} s", flush=True)
 
     periodos = [(a, m) for a in anios for m in MESES]
