@@ -7,6 +7,11 @@
   nombre con `do_tequila_municipios.csv` (los 181 municipios cruzan; cuatro nombres
   difieren entre fuentes: Ciudad Manuel Doblado, Briseñas de Matamoros, Régules y
   Vistahermosa).
+- `municipios_oaxaca.geojson`: los municipios de Oaxaca (569 de 570; falta uno chico que la
+  versión simplificada une a su vecino), de la misma fuente (geoBoundaries gbOpen MEX ADM2,
+  simplificada), asignados al estado con geoBoundaries ADM1. Todo Oaxaca está en la
+  denominación de origen del mezcal (`denominacion_origen` = "si"). Para la prueba de
+  mezcal en el mosaico 14QQD (Matatlán, Tlacolula, Miahuatlán, Ejutla, Sola de Vega).
 - `precios_agave_prensa.csv`: precios aproximados del agave reportados en prensa, con
   la fuente de cada dato. No es una serie oficial.
 - `do_tequila_municipios.csv`: **lista oficial de los 181 municipios con denominación de
