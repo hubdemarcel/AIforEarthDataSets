@@ -1,0 +1,69 @@
+id,municipio,anio_establecimiento,lat,lon,google_maps,es_agave,grupo
+q000,Amatitán,2022,20.78132,-103.749588,"https://maps.google.com/?q=20.78132,-103.749588&t=k",,agave_seguro
+q001,Amatitán,2021,20.773912,-103.725058,"https://maps.google.com/?q=20.773912,-103.725058&t=k",,agave_seguro
+q002,Amatitán,2022,20.780882,-103.739024,"https://maps.google.com/?q=20.780882,-103.739024&t=k",,agave_seguro
+q003,Amatitán,2022,20.781578,-103.760152,"https://maps.google.com/?q=20.781578,-103.760152&t=k",,agave_seguro
+q004,Amatitán,2021,20.792803,-103.714139,"https://maps.google.com/?q=20.792803,-103.714139&t=k",,agave_seguro
+q005,Amatitán,2020,20.793128,-103.758329,"https://maps.google.com/?q=20.793128,-103.758329&t=k",,agave_seguro
+q006,Amatitán,2021,20.899547,-103.709002,"https://maps.google.com/?q=20.899547,-103.709002&t=k",,agave_seguro
+q007,Amatitán,2023,20.860825,-103.750085,"https://maps.google.com/?q=20.860825,-103.750085&t=k",,agave_seguro
+q008,Arandas,2021,20.649227,-102.34438,"https://maps.google.com/?q=20.649227,-102.34438&t=k",,agave_seguro
+q009,Arandas,2021,20.676538,-102.455004,"https://maps.google.com/?q=20.676538,-102.455004&t=k",,agave_seguro
+q010,Arandas,2021,20.644661,-102.352709,"https://maps.google.com/?q=20.644661,-102.352709&t=k",,agave_seguro
+q011,Arandas,2020,20.721038,-102.352342,"https://maps.google.com/?q=20.721038,-102.352342&t=k",,agave_seguro
+q012,Arandas,2019,20.730647,-102.217629,"https://maps.google.com/?q=20.730647,-102.217629&t=k",,agave_seguro
+q013,Arandas,2021,20.668328,-102.425016,"https://maps.google.com/?q=20.668328,-102.425016&t=k",,agave_seguro
+q014,Arandas,2023,20.774885,-102.19551,"https://maps.google.com/?q=20.774885,-102.19551&t=k",,agave_seguro
+q015,Arandas,2021,20.70673,-102.246084,"https://maps.google.com/?q=20.70673,-102.246084&t=k",,agave_seguro
+q016,Tepatitlán de Morelos,2022,20.765439,-102.675289,"https://maps.google.com/?q=20.765439,-102.675289&t=k",,agave_seguro
+q017,Tepatitlán de Morelos,2021,20.691466,-102.601759,"https://maps.google.com/?q=20.691466,-102.601759&t=k",,agave_seguro
+q018,Tepatitlán de Morelos,2023,20.647909,-102.612421,"https://maps.google.com/?q=20.647909,-102.612421&t=k",,agave_seguro
+q019,Tepatitlán de Morelos,2022,20.647071,-102.565427,"https://maps.google.com/?q=20.647071,-102.565427&t=k",,agave_seguro
+q020,Tepatitlán de Morelos,2022,20.658466,-102.69822,"https://maps.google.com/?q=20.658466,-102.69822&t=k",,agave_seguro
+q021,Tepatitlán de Morelos,2021,20.671441,-102.792636,"https://maps.google.com/?q=20.671441,-102.792636&t=k",,agave_seguro
+q022,Tepatitlán de Morelos,2023,20.605428,-102.886821,"https://maps.google.com/?q=20.605428,-102.886821&t=k",,agave_seguro
+q023,Tepatitlán de Morelos,2022,20.625604,-102.853158,"https://maps.google.com/?q=20.625604,-102.853158&t=k",,agave_seguro
+q024,Tequila,2022,20.988526,-103.649946,"https://maps.google.com/?q=20.988526,-103.649946&t=k",,agave_seguro
+q025,Tequila,2022,20.901213,-103.840507,"https://maps.google.com/?q=20.901213,-103.840507&t=k",,agave_seguro
+q026,Tequila,2022,20.931087,-103.849509,"https://maps.google.com/?q=20.931087,-103.849509&t=k",,agave_seguro
+q027,Tequila,2023,21.022241,-103.686973,"https://maps.google.com/?q=21.022241,-103.686973&t=k",,agave_seguro
+q028,Tequila,2021,20.895263,-103.790177,"https://maps.google.com/?q=20.895263,-103.790177&t=k",,agave_seguro
+q029,Tequila,2022,20.916538,-103.835582,"https://maps.google.com/?q=20.916538,-103.835582&t=k",,agave_seguro
+q030,Tequila,2023,20.850538,-103.776695,"https://maps.google.com/?q=20.850538,-103.776695&t=k",,agave_seguro
+q031,Tequila,2022,20.989875,-103.660707,"https://maps.google.com/?q=20.989875,-103.660707&t=k",,agave_seguro
+q032,Tancítaro,2021,19.394989,-102.477855,"https://maps.google.com/?q=19.394989,-102.477855&t=k",,aguacate
+q033,Tancítaro,2023,19.226022,-102.22169,"https://maps.google.com/?q=19.226022,-102.22169&t=k",,aguacate
+q034,Tancítaro,2022,19.205906,-102.401477,"https://maps.google.com/?q=19.205906,-102.401477&t=k",,aguacate
+q035,Tancítaro,2022,19.448045,-102.41078,"https://maps.google.com/?q=19.448045,-102.41078&t=k",,aguacate
+q036,Tancítaro,2019,19.37057,-102.449305,"https://maps.google.com/?q=19.37057,-102.449305&t=k",,aguacate
+q037,Peribán,2024,19.489556,-102.511816,"https://maps.google.com/?q=19.489556,-102.511816&t=k",,aguacate
+q038,Peribán,2022,19.480884,-102.485478,"https://maps.google.com/?q=19.480884,-102.485478&t=k",,aguacate
+q039,Peribán,2019,19.513116,-102.45279,"https://maps.google.com/?q=19.513116,-102.45279&t=k",,aguacate
+q040,Peribán,2022,19.559113,-102.461594,"https://maps.google.com/?q=19.559113,-102.461594&t=k",,aguacate
+q041,Peribán,2021,19.456319,-102.5247,"https://maps.google.com/?q=19.456319,-102.5247&t=k",,aguacate
+q042,Peribán,2020,19.447668,-102.539302,"https://maps.google.com/?q=19.447668,-102.539302&t=k",,aguacate
+q043,Peribán,2022,19.489902,-102.484577,"https://maps.google.com/?q=19.489902,-102.484577&t=k",,aguacate
+q044,Peribán,2022,19.483331,-102.492677,"https://maps.google.com/?q=19.483331,-102.492677&t=k",,aguacate
+q045,Uruapan,2019,19.566043,-102.232864,"https://maps.google.com/?q=19.566043,-102.232864&t=k",,aguacate
+q046,Uruapan,2021,19.588187,-102.263923,"https://maps.google.com/?q=19.588187,-102.263923&t=k",,aguacate
+q047,Uruapan,2018,19.564131,-102.077264,"https://maps.google.com/?q=19.564131,-102.077264&t=k",,aguacate
+q048,Uruapan,2019,19.588161,-102.089404,"https://maps.google.com/?q=19.588161,-102.089404&t=k",,aguacate
+q049,Uruapan,2019,19.58031,-102.084021,"https://maps.google.com/?q=19.58031,-102.084021&t=k",,aguacate
+q050,Uruapan,2021,19.536321,-102.08824,"https://maps.google.com/?q=19.536321,-102.08824&t=k",,aguacate
+q051,Uruapan,2018,19.380188,-101.991712,"https://maps.google.com/?q=19.380188,-101.991712&t=k",,aguacate
+q052,Uruapan,2022,19.583337,-102.103779,"https://maps.google.com/?q=19.583337,-102.103779&t=k",,aguacate
+q053,Los Reyes,2018,19.591557,-102.561515,"https://maps.google.com/?q=19.591557,-102.561515&t=k",,aguacate
+q054,Los Reyes,2022,19.592289,-102.48337,"https://maps.google.com/?q=19.592289,-102.48337&t=k",,aguacate
+q055,Los Reyes,2022,19.58786,-102.489537,"https://maps.google.com/?q=19.58786,-102.489537&t=k",,aguacate
+q056,Los Reyes,2021,19.595395,-102.498949,"https://maps.google.com/?q=19.595395,-102.498949&t=k",,aguacate
+q057,Los Reyes,2020,19.797748,-102.390477,"https://maps.google.com/?q=19.797748,-102.390477&t=k",,aguacate
+q058,Los Reyes,2021,19.610657,-102.441156,"https://maps.google.com/?q=19.610657,-102.441156&t=k",,aguacate
+q059,Los Reyes,2019,19.58951,-102.291719,"https://maps.google.com/?q=19.58951,-102.291719&t=k",,aguacate
+q060,Los Reyes,2020,19.532027,-102.580318,"https://maps.google.com/?q=19.532027,-102.580318&t=k",,aguacate
+q061,Bolaños,2022,21.925235,-103.711963,"https://maps.google.com/?q=21.925235,-103.711963&t=k",,sierra
+q062,Bolaños,2022,21.914996,-103.719412,"https://maps.google.com/?q=21.914996,-103.719412&t=k",,sierra
+q063,Bolaños,2023,22.002729,-103.85695,"https://maps.google.com/?q=22.002729,-103.85695&t=k",,sierra
+q064,Mezquitic,2021,22.09562,-103.861244,"https://maps.google.com/?q=22.09562,-103.861244&t=k",,sierra
+q065,Del Nayar,2021,22.155412,-104.652696,"https://maps.google.com/?q=22.155412,-104.652696&t=k",,sierra
+q066,Del Nayar,2019,21.929086,-104.536858,"https://maps.google.com/?q=21.929086,-104.536858&t=k",,sierra
+q067,Del Nayar,2021,22.17586,-104.588239,"https://maps.google.com/?q=22.17586,-104.588239&t=k",,sierra
