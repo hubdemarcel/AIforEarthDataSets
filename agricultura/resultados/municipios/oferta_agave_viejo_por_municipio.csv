@@ -7,30 +7,62 @@ Abasolo,Guanajuato,si,2028,1109.0,73.2153591160221,81174.0,True
 Abasolo,Guanajuato,si,2029,1109.0,73.2153591160221,81174.0,True
 Abasolo,Guanajuato,si,2030,1109.0,73.2153591160221,81174.0,True
 Abasolo,Guanajuato,si,2031,1109.0,73.2153591160221,81174.0,True
-Acámbaro,Guanajuato,no,2024,254.0,68.49384971310924,17363.0,False
-Acámbaro,Guanajuato,no,2025,251.0,68.49384971310924,17199.0,False
-Acámbaro,Guanajuato,no,2026,248.0,68.49384971310924,17007.0,False
-Acámbaro,Guanajuato,no,2027,248.0,68.49384971310924,17007.0,True
-Acámbaro,Guanajuato,no,2028,248.0,68.49384971310924,17007.0,True
-Acámbaro,Guanajuato,no,2029,248.0,68.49384971310924,17007.0,True
-Acámbaro,Guanajuato,no,2030,248.0,68.49384971310924,17007.0,True
-Acámbaro,Guanajuato,no,2031,248.0,68.49384971310924,17007.0,True
-Comonfort,Guanajuato,no,2024,102.0,46.7836,4753.0,False
-Comonfort,Guanajuato,no,2025,100.0,46.7836,4660.0,False
-Comonfort,Guanajuato,no,2026,99.0,46.7836,4650.0,False
-Comonfort,Guanajuato,no,2027,99.0,46.7836,4650.0,True
-Comonfort,Guanajuato,no,2028,99.0,46.7836,4650.0,True
-Comonfort,Guanajuato,no,2029,99.0,46.7836,4650.0,True
-Comonfort,Guanajuato,no,2030,99.0,46.7836,4650.0,True
-Comonfort,Guanajuato,no,2031,99.0,46.7836,4650.0,True
-Cortazar,Guanajuato,no,2024,653.0,68.49384971310924,44706.0,False
-Cortazar,Guanajuato,no,2025,595.0,68.49384971310924,40781.0,False
-Cortazar,Guanajuato,no,2026,531.0,68.49384971310924,36363.0,False
-Cortazar,Guanajuato,no,2027,531.0,68.49384971310924,36363.0,True
-Cortazar,Guanajuato,no,2028,531.0,68.49384971310924,36363.0,True
-Cortazar,Guanajuato,no,2029,531.0,68.49384971310924,36363.0,True
-Cortazar,Guanajuato,no,2030,531.0,68.49384971310924,36363.0,True
-Cortazar,Guanajuato,no,2031,531.0,68.49384971310924,36363.0,True
+Acámbaro,Guanajuato,no,2024,1386.0,68.49384971310924,94967.0,False
+Acámbaro,Guanajuato,no,2025,1323.0,68.49384971310924,90611.0,False
+Acámbaro,Guanajuato,no,2026,1288.0,68.49384971310924,88206.0,False
+Acámbaro,Guanajuato,no,2027,1288.0,68.49384971310924,88206.0,True
+Acámbaro,Guanajuato,no,2028,1288.0,68.49384971310924,88206.0,True
+Acámbaro,Guanajuato,no,2029,1288.0,68.49384971310924,88206.0,True
+Acámbaro,Guanajuato,no,2030,1288.0,68.49384971310924,88206.0,True
+Acámbaro,Guanajuato,no,2031,1288.0,68.49384971310924,88206.0,True
+Apaseo el Alto,Guanajuato,no,2024,710.0,68.49384971310924,48658.0,False
+Apaseo el Alto,Guanajuato,no,2025,656.0,68.49384971310924,44925.0,False
+Apaseo el Alto,Guanajuato,no,2026,633.0,68.49384971310924,43384.0,False
+Apaseo el Alto,Guanajuato,no,2027,633.0,68.49384971310924,43384.0,True
+Apaseo el Alto,Guanajuato,no,2028,633.0,68.49384971310924,43384.0,True
+Apaseo el Alto,Guanajuato,no,2029,633.0,68.49384971310924,43384.0,True
+Apaseo el Alto,Guanajuato,no,2030,633.0,68.49384971310924,43384.0,True
+Apaseo el Alto,Guanajuato,no,2031,633.0,68.49384971310924,43384.0,True
+Apaseo el Grande,Guanajuato,no,2024,846.0,68.49384971310924,57973.0,False
+Apaseo el Grande,Guanajuato,no,2025,761.0,68.49384971310924,52103.0,False
+Apaseo el Grande,Guanajuato,no,2026,691.0,68.49384971310924,47329.0,False
+Apaseo el Grande,Guanajuato,no,2027,691.0,68.49384971310924,47329.0,True
+Apaseo el Grande,Guanajuato,no,2028,691.0,68.49384971310924,47329.0,True
+Apaseo el Grande,Guanajuato,no,2029,691.0,68.49384971310924,47329.0,True
+Apaseo el Grande,Guanajuato,no,2030,691.0,68.49384971310924,47329.0,True
+Apaseo el Grande,Guanajuato,no,2031,691.0,68.49384971310924,47329.0,True
+Celaya,Guanajuato,no,2024,1145.0,68.49384971310924,78425.0,False
+Celaya,Guanajuato,no,2025,976.0,68.49384971310924,66850.0,False
+Celaya,Guanajuato,no,2026,895.0,68.49384971310924,61295.0,False
+Celaya,Guanajuato,no,2027,895.0,68.49384971310924,61295.0,True
+Celaya,Guanajuato,no,2028,895.0,68.49384971310924,61295.0,True
+Celaya,Guanajuato,no,2029,895.0,68.49384971310924,61295.0,True
+Celaya,Guanajuato,no,2030,895.0,68.49384971310924,61295.0,True
+Celaya,Guanajuato,no,2031,895.0,68.49384971310924,61295.0,True
+Comonfort,Guanajuato,no,2024,797.0,46.7836,37305.0,False
+Comonfort,Guanajuato,no,2025,719.0,46.7836,33633.0,False
+Comonfort,Guanajuato,no,2026,694.0,46.7836,32444.0,False
+Comonfort,Guanajuato,no,2027,694.0,46.7836,32444.0,True
+Comonfort,Guanajuato,no,2028,694.0,46.7836,32444.0,True
+Comonfort,Guanajuato,no,2029,694.0,46.7836,32444.0,True
+Comonfort,Guanajuato,no,2030,694.0,46.7836,32444.0,True
+Comonfort,Guanajuato,no,2031,694.0,46.7836,32444.0,True
+Coroneo,Guanajuato,no,2024,216.0,68.49384971310924,14795.0,False
+Coroneo,Guanajuato,no,2025,209.0,68.49384971310924,14343.0,False
+Coroneo,Guanajuato,no,2026,209.0,68.49384971310924,14308.0,False
+Coroneo,Guanajuato,no,2027,209.0,68.49384971310924,14308.0,True
+Coroneo,Guanajuato,no,2028,209.0,68.49384971310924,14308.0,True
+Coroneo,Guanajuato,no,2029,209.0,68.49384971310924,14308.0,True
+Coroneo,Guanajuato,no,2030,209.0,68.49384971310924,14308.0,True
+Coroneo,Guanajuato,no,2031,209.0,68.49384971310924,14308.0,True
+Cortazar,Guanajuato,no,2024,817.0,68.49384971310924,55973.0,False
+Cortazar,Guanajuato,no,2025,756.0,68.49384971310924,51775.0,False
+Cortazar,Guanajuato,no,2026,686.0,68.49384971310924,46987.0,False
+Cortazar,Guanajuato,no,2027,686.0,68.49384971310924,46987.0,True
+Cortazar,Guanajuato,no,2028,686.0,68.49384971310924,46987.0,True
+Cortazar,Guanajuato,no,2029,686.0,68.49384971310924,46987.0,True
+Cortazar,Guanajuato,no,2030,686.0,68.49384971310924,46987.0,True
+Cortazar,Guanajuato,no,2031,686.0,68.49384971310924,46987.0,True
 Cuerámaro,Guanajuato,si,2024,1098.0,69.95417607223476,76796.0,False
 Cuerámaro,Guanajuato,si,2025,1019.0,69.95417607223476,71269.0,False
 Cuerámaro,Guanajuato,si,2026,924.0,69.95417607223476,64666.0,False
@@ -79,6 +111,14 @@ Jaral del Progreso,Guanajuato,no,2028,615.0,68.49384971310924,42151.0,True
 Jaral del Progreso,Guanajuato,no,2029,615.0,68.49384971310924,42151.0,True
 Jaral del Progreso,Guanajuato,no,2030,615.0,68.49384971310924,42151.0,True
 Jaral del Progreso,Guanajuato,no,2031,615.0,68.49384971310924,42151.0,True
+Jerécuaro,Guanajuato,no,2024,1450.0,68.49384971310924,99316.0,False
+Jerécuaro,Guanajuato,no,2025,1424.0,68.49384971310924,97515.0,False
+Jerécuaro,Guanajuato,no,2026,1415.0,68.49384971310924,96898.0,False
+Jerécuaro,Guanajuato,no,2027,1415.0,68.49384971310924,96898.0,True
+Jerécuaro,Guanajuato,no,2028,1415.0,68.49384971310924,96898.0,True
+Jerécuaro,Guanajuato,no,2029,1415.0,68.49384971310924,96898.0,True
+Jerécuaro,Guanajuato,no,2030,1415.0,68.49384971310924,96898.0,True
+Jerécuaro,Guanajuato,no,2031,1415.0,68.49384971310924,96898.0,True
 León,Guanajuato,no,2024,2468.0,63.606010928961744,156973.0,False
 León,Guanajuato,no,2025,1945.0,63.606010928961744,123726.0,False
 León,Guanajuato,no,2026,1890.0,63.606010928961744,120234.0,False
@@ -103,14 +143,14 @@ Moroleón,Guanajuato,no,2028,183.0,68.49384971310924,12555.0,True
 Moroleón,Guanajuato,no,2029,183.0,68.49384971310924,12555.0,True
 Moroleón,Guanajuato,no,2030,183.0,68.49384971310924,12555.0,True
 Moroleón,Guanajuato,no,2031,183.0,68.49384971310924,12555.0,True
-Ocampo,Guanajuato,no,2024,2173.0,68.49384971310924,148844.0,False
-Ocampo,Guanajuato,no,2025,2072.0,68.49384971310924,141947.0,False
-Ocampo,Guanajuato,no,2026,2053.0,68.49384971310924,140611.0,False
-Ocampo,Guanajuato,no,2027,2053.0,68.49384971310924,140611.0,True
-Ocampo,Guanajuato,no,2028,2053.0,68.49384971310924,140611.0,True
-Ocampo,Guanajuato,no,2029,2053.0,68.49384971310924,140611.0,True
-Ocampo,Guanajuato,no,2030,2053.0,68.49384971310924,140611.0,True
-Ocampo,Guanajuato,no,2031,2053.0,68.49384971310924,140611.0,True
+Ocampo,Guanajuato,no,2024,2190.0,68.49384971310924,149995.0,False
+Ocampo,Guanajuato,no,2025,2087.0,68.49384971310924,142954.0,False
+Ocampo,Guanajuato,no,2026,2067.0,68.49384971310924,141577.0,False
+Ocampo,Guanajuato,no,2027,2067.0,68.49384971310924,141577.0,True
+Ocampo,Guanajuato,no,2028,2067.0,68.49384971310924,141577.0,True
+Ocampo,Guanajuato,no,2029,2067.0,68.49384971310924,141577.0,True
+Ocampo,Guanajuato,no,2030,2067.0,68.49384971310924,141577.0,True
+Ocampo,Guanajuato,no,2031,2067.0,68.49384971310924,141577.0,True
 Pueblo Nuevo,Guanajuato,no,2024,120.0,68.49384971310924,8185.0,False
 Pueblo Nuevo,Guanajuato,no,2025,112.0,68.49384971310924,7678.0,False
 Pueblo Nuevo,Guanajuato,no,2026,103.0,68.49384971310924,7027.0,False
@@ -151,14 +191,14 @@ Salamanca,Guanajuato,no,2028,1337.0,68.49384971310924,91604.0,True
 Salamanca,Guanajuato,no,2029,1337.0,68.49384971310924,91604.0,True
 Salamanca,Guanajuato,no,2030,1337.0,68.49384971310924,91604.0,True
 Salamanca,Guanajuato,no,2031,1337.0,68.49384971310924,91604.0,True
-Salvatierra,Guanajuato,no,2024,963.0,68.49384971310924,65946.0,False
-Salvatierra,Guanajuato,no,2025,884.0,68.49384971310924,60555.0,False
-Salvatierra,Guanajuato,no,2026,829.0,68.49384971310924,56788.0,False
-Salvatierra,Guanajuato,no,2027,829.0,68.49384971310924,56788.0,True
-Salvatierra,Guanajuato,no,2028,829.0,68.49384971310924,56788.0,True
-Salvatierra,Guanajuato,no,2029,829.0,68.49384971310924,56788.0,True
-Salvatierra,Guanajuato,no,2030,829.0,68.49384971310924,56788.0,True
-Salvatierra,Guanajuato,no,2031,829.0,68.49384971310924,56788.0,True
+Salvatierra,Guanajuato,no,2024,1681.0,68.49384971310924,115118.0,False
+Salvatierra,Guanajuato,no,2025,1562.0,68.49384971310924,106981.0,False
+Salvatierra,Guanajuato,no,2026,1479.0,68.49384971310924,101282.0,False
+Salvatierra,Guanajuato,no,2027,1479.0,68.49384971310924,101282.0,True
+Salvatierra,Guanajuato,no,2028,1479.0,68.49384971310924,101282.0,True
+Salvatierra,Guanajuato,no,2029,1479.0,68.49384971310924,101282.0,True
+Salvatierra,Guanajuato,no,2030,1479.0,68.49384971310924,101282.0,True
+Salvatierra,Guanajuato,no,2031,1479.0,68.49384971310924,101282.0,True
 San Diego de la Unión,Guanajuato,no,2024,590.0,68.49384971310924,40411.0,False
 San Diego de la Unión,Guanajuato,no,2025,584.0,68.49384971310924,40028.0,False
 San Diego de la Unión,Guanajuato,no,2026,581.0,68.49384971310924,39788.0,False
@@ -167,14 +207,14 @@ San Diego de la Unión,Guanajuato,no,2028,581.0,68.49384971310924,39788.0,True
 San Diego de la Unión,Guanajuato,no,2029,581.0,68.49384971310924,39788.0,True
 San Diego de la Unión,Guanajuato,no,2030,581.0,68.49384971310924,39788.0,True
 San Diego de la Unión,Guanajuato,no,2031,581.0,68.49384971310924,39788.0,True
-San Felipe,Guanajuato,no,2024,5882.0,64.14582191780822,377306.0,False
-San Felipe,Guanajuato,no,2025,5346.0,64.14582191780822,342924.0,False
-San Felipe,Guanajuato,no,2026,5303.0,64.14582191780822,340172.0,False
-San Felipe,Guanajuato,no,2027,5303.0,64.14582191780822,340172.0,True
-San Felipe,Guanajuato,no,2028,5303.0,64.14582191780822,340172.0,True
-San Felipe,Guanajuato,no,2029,5303.0,64.14582191780822,340172.0,True
-San Felipe,Guanajuato,no,2030,5303.0,64.14582191780822,340172.0,True
-San Felipe,Guanajuato,no,2031,5303.0,64.14582191780822,340172.0,True
+San Felipe,Guanajuato,no,2024,6614.0,64.14582191780822,424273.0,False
+San Felipe,Guanajuato,no,2025,6016.0,64.14582191780822,385921.0,False
+San Felipe,Guanajuato,no,2026,5956.0,64.14582191780822,382085.0,False
+San Felipe,Guanajuato,no,2027,5956.0,64.14582191780822,382085.0,True
+San Felipe,Guanajuato,no,2028,5956.0,64.14582191780822,382085.0,True
+San Felipe,Guanajuato,no,2029,5956.0,64.14582191780822,382085.0,True
+San Felipe,Guanajuato,no,2030,5956.0,64.14582191780822,382085.0,True
+San Felipe,Guanajuato,no,2031,5956.0,64.14582191780822,382085.0,True
 San Francisco del Rincón,Guanajuato,no,2024,868.0,80.38473520249221,69814.0,False
 San Francisco del Rincón,Guanajuato,no,2025,770.0,80.38473520249221,61912.0,False
 San Francisco del Rincón,Guanajuato,no,2026,713.0,80.38473520249221,57290.0,False
@@ -183,22 +223,22 @@ San Francisco del Rincón,Guanajuato,no,2028,713.0,80.38473520249221,57290.0,Tru
 San Francisco del Rincón,Guanajuato,no,2029,713.0,80.38473520249221,57290.0,True
 San Francisco del Rincón,Guanajuato,no,2030,713.0,80.38473520249221,57290.0,True
 San Francisco del Rincón,Guanajuato,no,2031,713.0,80.38473520249221,57290.0,True
-San Miguel de Allende,Guanajuato,no,2024,263.0,68.49384971310924,18028.0,False
-San Miguel de Allende,Guanajuato,no,2025,250.0,68.49384971310924,17103.0,False
-San Miguel de Allende,Guanajuato,no,2026,250.0,68.49384971310924,17096.0,False
-San Miguel de Allende,Guanajuato,no,2027,250.0,68.49384971310924,17096.0,True
-San Miguel de Allende,Guanajuato,no,2028,250.0,68.49384971310924,17096.0,True
-San Miguel de Allende,Guanajuato,no,2029,250.0,68.49384971310924,17096.0,True
-San Miguel de Allende,Guanajuato,no,2030,250.0,68.49384971310924,17096.0,True
-San Miguel de Allende,Guanajuato,no,2031,250.0,68.49384971310924,17096.0,True
-Santa Cruz de Juventino Rosas,Guanajuato,no,2024,505.0,68.49384971310924,34569.0,False
-Santa Cruz de Juventino Rosas,Guanajuato,no,2025,463.0,68.49384971310924,31713.0,False
-Santa Cruz de Juventino Rosas,Guanajuato,no,2026,446.0,68.49384971310924,30569.0,False
-Santa Cruz de Juventino Rosas,Guanajuato,no,2027,446.0,68.49384971310924,30569.0,True
-Santa Cruz de Juventino Rosas,Guanajuato,no,2028,446.0,68.49384971310924,30569.0,True
-Santa Cruz de Juventino Rosas,Guanajuato,no,2029,446.0,68.49384971310924,30569.0,True
-Santa Cruz de Juventino Rosas,Guanajuato,no,2030,446.0,68.49384971310924,30569.0,True
-Santa Cruz de Juventino Rosas,Guanajuato,no,2031,446.0,68.49384971310924,30569.0,True
+San Miguel de Allende,Guanajuato,no,2024,316.0,68.49384971310924,21617.0,False
+San Miguel de Allende,Guanajuato,no,2025,300.0,68.49384971310924,20582.0,False
+San Miguel de Allende,Guanajuato,no,2026,300.0,68.49384971310924,20569.0,False
+San Miguel de Allende,Guanajuato,no,2027,300.0,68.49384971310924,20569.0,True
+San Miguel de Allende,Guanajuato,no,2028,300.0,68.49384971310924,20569.0,True
+San Miguel de Allende,Guanajuato,no,2029,300.0,68.49384971310924,20569.0,True
+San Miguel de Allende,Guanajuato,no,2030,300.0,68.49384971310924,20569.0,True
+San Miguel de Allende,Guanajuato,no,2031,300.0,68.49384971310924,20569.0,True
+Santa Cruz de Juventino Rosas,Guanajuato,no,2024,714.0,68.49384971310924,48925.0,False
+Santa Cruz de Juventino Rosas,Guanajuato,no,2025,662.0,68.49384971310924,45322.0,False
+Santa Cruz de Juventino Rosas,Guanajuato,no,2026,640.0,68.49384971310924,43843.0,False
+Santa Cruz de Juventino Rosas,Guanajuato,no,2027,640.0,68.49384971310924,43843.0,True
+Santa Cruz de Juventino Rosas,Guanajuato,no,2028,640.0,68.49384971310924,43843.0,True
+Santa Cruz de Juventino Rosas,Guanajuato,no,2029,640.0,68.49384971310924,43843.0,True
+Santa Cruz de Juventino Rosas,Guanajuato,no,2030,640.0,68.49384971310924,43843.0,True
+Santa Cruz de Juventino Rosas,Guanajuato,no,2031,640.0,68.49384971310924,43843.0,True
 Santiago Maravatío,Guanajuato,no,2024,216.0,68.49384971310924,14774.0,False
 Santiago Maravatío,Guanajuato,no,2025,206.0,68.49384971310924,14075.0,False
 Santiago Maravatío,Guanajuato,no,2026,200.0,68.49384971310924,13706.0,False
@@ -215,6 +255,22 @@ Silao de la Victoria,Guanajuato,no,2028,830.0,77.11218823529411,64026.0,True
 Silao de la Victoria,Guanajuato,no,2029,830.0,77.11218823529411,64026.0,True
 Silao de la Victoria,Guanajuato,no,2030,830.0,77.11218823529411,64026.0,True
 Silao de la Victoria,Guanajuato,no,2031,830.0,77.11218823529411,64026.0,True
+Tarandacuao,Guanajuato,no,2024,166.0,68.49384971310924,11391.0,False
+Tarandacuao,Guanajuato,no,2025,155.0,68.49384971310924,10610.0,False
+Tarandacuao,Guanajuato,no,2026,151.0,68.49384971310924,10329.0,False
+Tarandacuao,Guanajuato,no,2027,151.0,68.49384971310924,10329.0,True
+Tarandacuao,Guanajuato,no,2028,151.0,68.49384971310924,10329.0,True
+Tarandacuao,Guanajuato,no,2029,151.0,68.49384971310924,10329.0,True
+Tarandacuao,Guanajuato,no,2030,151.0,68.49384971310924,10329.0,True
+Tarandacuao,Guanajuato,no,2031,151.0,68.49384971310924,10329.0,True
+Tarimoro,Guanajuato,no,2024,531.0,68.49384971310924,36343.0,False
+Tarimoro,Guanajuato,no,2025,470.0,68.49384971310924,32220.0,False
+Tarimoro,Guanajuato,no,2026,447.0,68.49384971310924,30624.0,False
+Tarimoro,Guanajuato,no,2027,447.0,68.49384971310924,30624.0,True
+Tarimoro,Guanajuato,no,2028,447.0,68.49384971310924,30624.0,True
+Tarimoro,Guanajuato,no,2029,447.0,68.49384971310924,30624.0,True
+Tarimoro,Guanajuato,no,2030,447.0,68.49384971310924,30624.0,True
+Tarimoro,Guanajuato,no,2031,447.0,68.49384971310924,30624.0,True
 Uriangato,Guanajuato,no,2024,130.0,68.49384971310924,8925.0,False
 Uriangato,Guanajuato,no,2025,122.0,68.49384971310924,8370.0,False
 Uriangato,Guanajuato,no,2026,118.0,68.49384971310924,8089.0,False
@@ -231,14 +287,14 @@ Valle de Santiago,Guanajuato,no,2028,1722.0,45.985476618705036,79196.0,True
 Valle de Santiago,Guanajuato,no,2029,1722.0,45.985476618705036,79196.0,True
 Valle de Santiago,Guanajuato,no,2030,1722.0,45.985476618705036,79196.0,True
 Valle de Santiago,Guanajuato,no,2031,1722.0,45.985476618705036,79196.0,True
-Villagrán,Guanajuato,no,2024,541.0,68.49384971310924,37048.0,False
-Villagrán,Guanajuato,no,2025,471.0,68.49384971310924,32233.0,False
-Villagrán,Guanajuato,no,2026,422.0,68.49384971310924,28925.0,False
-Villagrán,Guanajuato,no,2027,422.0,68.49384971310924,28925.0,True
-Villagrán,Guanajuato,no,2028,422.0,68.49384971310924,28925.0,True
-Villagrán,Guanajuato,no,2029,422.0,68.49384971310924,28925.0,True
-Villagrán,Guanajuato,no,2030,422.0,68.49384971310924,28925.0,True
-Villagrán,Guanajuato,no,2031,422.0,68.49384971310924,28925.0,True
+Villagrán,Guanajuato,no,2024,582.0,68.49384971310924,39863.0,False
+Villagrán,Guanajuato,no,2025,510.0,68.49384971310924,34966.0,False
+Villagrán,Guanajuato,no,2026,461.0,68.49384971310924,31569.0,False
+Villagrán,Guanajuato,no,2027,461.0,68.49384971310924,31569.0,True
+Villagrán,Guanajuato,no,2028,461.0,68.49384971310924,31569.0,True
+Villagrán,Guanajuato,no,2029,461.0,68.49384971310924,31569.0,True
+Villagrán,Guanajuato,no,2030,461.0,68.49384971310924,31569.0,True
+Villagrán,Guanajuato,no,2031,461.0,68.49384971310924,31569.0,True
 Yuriria,Guanajuato,no,2024,1051.0,68.49384971310924,71973.0,False
 Yuriria,Guanajuato,no,2025,992.0,68.49384971310924,67932.0,False
 Yuriria,Guanajuato,no,2026,956.0,68.49384971310924,65453.0,False
@@ -335,22 +391,22 @@ Atotonilco el Alto,Jalisco,si,2028,1958.0,94.656981292517,185348.0,True
 Atotonilco el Alto,Jalisco,si,2029,1958.0,94.656981292517,185348.0,True
 Atotonilco el Alto,Jalisco,si,2030,1958.0,94.656981292517,185348.0,True
 Atotonilco el Alto,Jalisco,si,2031,1958.0,94.656981292517,185348.0,True
-Atoyac,Jalisco,si,2024,567.0,88.24284797890306,50016.0,False
-Atoyac,Jalisco,si,2025,530.0,88.24284797890306,46769.0,False
-Atoyac,Jalisco,si,2026,512.0,88.24284797890306,45180.0,False
-Atoyac,Jalisco,si,2027,512.0,88.24284797890306,45180.0,True
-Atoyac,Jalisco,si,2028,512.0,88.24284797890306,45180.0,True
-Atoyac,Jalisco,si,2029,512.0,88.24284797890306,45180.0,True
-Atoyac,Jalisco,si,2030,512.0,88.24284797890306,45180.0,True
-Atoyac,Jalisco,si,2031,512.0,88.24284797890306,45180.0,True
-Autlán de Navarro,Jalisco,si,2024,40.0,80.5868149882904,3191.0,False
-Autlán de Navarro,Jalisco,si,2025,39.0,80.5868149882904,3175.0,False
-Autlán de Navarro,Jalisco,si,2026,39.0,80.5868149882904,3127.0,False
-Autlán de Navarro,Jalisco,si,2027,39.0,80.5868149882904,3127.0,True
-Autlán de Navarro,Jalisco,si,2028,39.0,80.5868149882904,3127.0,True
-Autlán de Navarro,Jalisco,si,2029,39.0,80.5868149882904,3127.0,True
-Autlán de Navarro,Jalisco,si,2030,39.0,80.5868149882904,3127.0,True
-Autlán de Navarro,Jalisco,si,2031,39.0,80.5868149882904,3127.0,True
+Atoyac,Jalisco,si,2024,625.0,88.24284797890306,55152.0,False
+Atoyac,Jalisco,si,2025,588.0,88.24284797890306,51896.0,False
+Atoyac,Jalisco,si,2026,570.0,88.24284797890306,50307.0,False
+Atoyac,Jalisco,si,2027,570.0,88.24284797890306,50307.0,True
+Atoyac,Jalisco,si,2028,570.0,88.24284797890306,50307.0,True
+Atoyac,Jalisco,si,2029,570.0,88.24284797890306,50307.0,True
+Atoyac,Jalisco,si,2030,570.0,88.24284797890306,50307.0,True
+Atoyac,Jalisco,si,2031,570.0,88.24284797890306,50307.0,True
+Autlán de Navarro,Jalisco,si,2024,2559.0,80.5868149882904,206214.0,False
+Autlán de Navarro,Jalisco,si,2025,2337.0,80.5868149882904,188364.0,False
+Autlán de Navarro,Jalisco,si,2026,2142.0,80.5868149882904,172585.0,False
+Autlán de Navarro,Jalisco,si,2027,2142.0,80.5868149882904,172585.0,True
+Autlán de Navarro,Jalisco,si,2028,2142.0,80.5868149882904,172585.0,True
+Autlán de Navarro,Jalisco,si,2029,2142.0,80.5868149882904,172585.0,True
+Autlán de Navarro,Jalisco,si,2030,2142.0,80.5868149882904,172585.0,True
+Autlán de Navarro,Jalisco,si,2031,2142.0,80.5868149882904,172585.0,True
 Ayotlán,Jalisco,si,2024,1223.0,89.80672826830939,109870.0,False
 Ayotlán,Jalisco,si,2025,1103.0,89.80672826830939,99048.0,False
 Ayotlán,Jalisco,si,2026,1042.0,89.80672826830939,93606.0,False
@@ -359,14 +415,38 @@ Ayotlán,Jalisco,si,2028,1042.0,89.80672826830939,93606.0,True
 Ayotlán,Jalisco,si,2029,1042.0,89.80672826830939,93606.0,True
 Ayotlán,Jalisco,si,2030,1042.0,89.80672826830939,93606.0,True
 Ayotlán,Jalisco,si,2031,1042.0,89.80672826830939,93606.0,True
-Ayutla,Jalisco,si,2024,964.0,88.24284797890306,85075.0,False
-Ayutla,Jalisco,si,2025,917.0,88.24284797890306,80928.0,False
-Ayutla,Jalisco,si,2026,887.0,88.24284797890306,78289.0,False
-Ayutla,Jalisco,si,2027,887.0,88.24284797890306,78289.0,True
-Ayutla,Jalisco,si,2028,887.0,88.24284797890306,78289.0,True
-Ayutla,Jalisco,si,2029,887.0,88.24284797890306,78289.0,True
-Ayutla,Jalisco,si,2030,887.0,88.24284797890306,78289.0,True
-Ayutla,Jalisco,si,2031,887.0,88.24284797890306,78289.0,True
+Ayutla,Jalisco,si,2024,1024.0,88.24284797890306,90396.0,False
+Ayutla,Jalisco,si,2025,976.0,88.24284797890306,86107.0,False
+Ayutla,Jalisco,si,2026,945.0,88.24284797890306,83407.0,False
+Ayutla,Jalisco,si,2027,945.0,88.24284797890306,83407.0,True
+Ayutla,Jalisco,si,2028,945.0,88.24284797890306,83407.0,True
+Ayutla,Jalisco,si,2029,945.0,88.24284797890306,83407.0,True
+Ayutla,Jalisco,si,2030,945.0,88.24284797890306,83407.0,True
+Ayutla,Jalisco,si,2031,945.0,88.24284797890306,83407.0,True
+Bolaños,Jalisco,si,2024,1740.0,88.24284797890306,153543.0,False
+Bolaños,Jalisco,si,2025,1673.0,88.24284797890306,147630.0,False
+Bolaños,Jalisco,si,2026,1650.0,88.24284797890306,145601.0,False
+Bolaños,Jalisco,si,2027,1650.0,88.24284797890306,145601.0,True
+Bolaños,Jalisco,si,2028,1650.0,88.24284797890306,145601.0,True
+Bolaños,Jalisco,si,2029,1650.0,88.24284797890306,145601.0,True
+Bolaños,Jalisco,si,2030,1650.0,88.24284797890306,145601.0,True
+Bolaños,Jalisco,si,2031,1650.0,88.24284797890306,145601.0,True
+Cabo Corrientes,Jalisco,si,2024,837.0,77.74071428571429,65077.0,False
+Cabo Corrientes,Jalisco,si,2025,805.0,77.74071428571429,62574.0,False
+Cabo Corrientes,Jalisco,si,2026,784.0,77.74071428571429,60925.0,False
+Cabo Corrientes,Jalisco,si,2027,784.0,77.74071428571429,60925.0,True
+Cabo Corrientes,Jalisco,si,2028,784.0,77.74071428571429,60925.0,True
+Cabo Corrientes,Jalisco,si,2029,784.0,77.74071428571429,60925.0,True
+Cabo Corrientes,Jalisco,si,2030,784.0,77.74071428571429,60925.0,True
+Cabo Corrientes,Jalisco,si,2031,784.0,77.74071428571429,60925.0,True
+Casimiro Castillo,Jalisco,si,2024,1774.0,88.24284797890306,156587.0,False
+Casimiro Castillo,Jalisco,si,2025,1649.0,88.24284797890306,145539.0,False
+Casimiro Castillo,Jalisco,si,2026,1543.0,88.24284797890306,136141.0,False
+Casimiro Castillo,Jalisco,si,2027,1543.0,88.24284797890306,136141.0,True
+Casimiro Castillo,Jalisco,si,2028,1543.0,88.24284797890306,136141.0,True
+Casimiro Castillo,Jalisco,si,2029,1543.0,88.24284797890306,136141.0,True
+Casimiro Castillo,Jalisco,si,2030,1543.0,88.24284797890306,136141.0,True
+Casimiro Castillo,Jalisco,si,2031,1543.0,88.24284797890306,136141.0,True
 Cañadas de Obregón,Jalisco,si,2024,941.0,96.5993426724138,90939.0,False
 Cañadas de Obregón,Jalisco,si,2025,923.0,96.5993426724138,89132.0,False
 Cañadas de Obregón,Jalisco,si,2026,918.0,96.5993426724138,88707.0,False
@@ -383,14 +463,14 @@ Chapala,Jalisco,si,2028,459.0,88.24284797890306,40521.0,True
 Chapala,Jalisco,si,2029,459.0,88.24284797890306,40521.0,True
 Chapala,Jalisco,si,2030,459.0,88.24284797890306,40521.0,True
 Chapala,Jalisco,si,2031,459.0,88.24284797890306,40521.0,True
-Chimaltitán,Jalisco,si,2024,912.0,88.24284797890306,80442.0,False
-Chimaltitán,Jalisco,si,2025,897.0,88.24284797890306,79171.0,False
-Chimaltitán,Jalisco,si,2026,896.0,88.24284797890306,79048.0,False
-Chimaltitán,Jalisco,si,2027,896.0,88.24284797890306,79048.0,True
-Chimaltitán,Jalisco,si,2028,896.0,88.24284797890306,79048.0,True
-Chimaltitán,Jalisco,si,2029,896.0,88.24284797890306,79048.0,True
-Chimaltitán,Jalisco,si,2030,896.0,88.24284797890306,79048.0,True
-Chimaltitán,Jalisco,si,2031,896.0,88.24284797890306,79048.0,True
+Chimaltitán,Jalisco,si,2024,1771.0,88.24284797890306,156296.0,False
+Chimaltitán,Jalisco,si,2025,1741.0,88.24284797890306,153666.0,False
+Chimaltitán,Jalisco,si,2026,1728.0,88.24284797890306,152528.0,False
+Chimaltitán,Jalisco,si,2027,1728.0,88.24284797890306,152528.0,True
+Chimaltitán,Jalisco,si,2028,1728.0,88.24284797890306,152528.0,True
+Chimaltitán,Jalisco,si,2029,1728.0,88.24284797890306,152528.0,True
+Chimaltitán,Jalisco,si,2030,1728.0,88.24284797890306,152528.0,True
+Chimaltitán,Jalisco,si,2031,1728.0,88.24284797890306,152528.0,True
 Chiquilistlán,Jalisco,si,2024,269.0,88.24284797890306,23746.0,False
 Chiquilistlán,Jalisco,si,2025,252.0,88.24284797890306,22237.0,False
 Chiquilistlán,Jalisco,si,2026,248.0,88.24284797890306,21858.0,False
@@ -399,6 +479,14 @@ Chiquilistlán,Jalisco,si,2028,248.0,88.24284797890306,21858.0,True
 Chiquilistlán,Jalisco,si,2029,248.0,88.24284797890306,21858.0,True
 Chiquilistlán,Jalisco,si,2030,248.0,88.24284797890306,21858.0,True
 Chiquilistlán,Jalisco,si,2031,248.0,88.24284797890306,21858.0,True
+Cihuatlán,Jalisco,si,2024,1309.0,88.24284797890306,115483.0,False
+Cihuatlán,Jalisco,si,2025,1250.0,88.24284797890306,110277.0,False
+Cihuatlán,Jalisco,si,2026,1206.0,88.24284797890306,106439.0,False
+Cihuatlán,Jalisco,si,2027,1206.0,88.24284797890306,106439.0,True
+Cihuatlán,Jalisco,si,2028,1206.0,88.24284797890306,106439.0,True
+Cihuatlán,Jalisco,si,2029,1206.0,88.24284797890306,106439.0,True
+Cihuatlán,Jalisco,si,2030,1206.0,88.24284797890306,106439.0,True
+Cihuatlán,Jalisco,si,2031,1206.0,88.24284797890306,106439.0,True
 Cocula,Jalisco,si,2024,519.0,91.16899461400358,47289.0,False
 Cocula,Jalisco,si,2025,460.0,91.16899461400358,41910.0,False
 Cocula,Jalisco,si,2026,432.0,91.16899461400358,39403.0,False
@@ -407,14 +495,30 @@ Cocula,Jalisco,si,2028,432.0,91.16899461400358,39403.0,True
 Cocula,Jalisco,si,2029,432.0,91.16899461400358,39403.0,True
 Cocula,Jalisco,si,2030,432.0,91.16899461400358,39403.0,True
 Cocula,Jalisco,si,2031,432.0,91.16899461400358,39403.0,True
-Concepción de Buenos Aires,Jalisco,si,2024,870.0,88.24284797890306,76727.0,False
-Concepción de Buenos Aires,Jalisco,si,2025,860.0,88.24284797890306,75880.0,False
-Concepción de Buenos Aires,Jalisco,si,2026,856.0,88.24284797890306,75580.0,False
-Concepción de Buenos Aires,Jalisco,si,2027,856.0,88.24284797890306,75580.0,True
-Concepción de Buenos Aires,Jalisco,si,2028,856.0,88.24284797890306,75580.0,True
-Concepción de Buenos Aires,Jalisco,si,2029,856.0,88.24284797890306,75580.0,True
-Concepción de Buenos Aires,Jalisco,si,2030,856.0,88.24284797890306,75580.0,True
-Concepción de Buenos Aires,Jalisco,si,2031,856.0,88.24284797890306,75580.0,True
+Colotlán,Jalisco,si,2024,1107.0,88.24284797890306,97658.0,False
+Colotlán,Jalisco,si,2025,922.0,88.24284797890306,81386.0,False
+Colotlán,Jalisco,si,2026,916.0,88.24284797890306,80804.0,False
+Colotlán,Jalisco,si,2027,916.0,88.24284797890306,80804.0,True
+Colotlán,Jalisco,si,2028,916.0,88.24284797890306,80804.0,True
+Colotlán,Jalisco,si,2029,916.0,88.24284797890306,80804.0,True
+Colotlán,Jalisco,si,2030,916.0,88.24284797890306,80804.0,True
+Colotlán,Jalisco,si,2031,916.0,88.24284797890306,80804.0,True
+Concepción de Buenos Aires,Jalisco,si,2024,877.0,88.24284797890306,77363.0,False
+Concepción de Buenos Aires,Jalisco,si,2025,867.0,88.24284797890306,76515.0,False
+Concepción de Buenos Aires,Jalisco,si,2026,864.0,88.24284797890306,76215.0,False
+Concepción de Buenos Aires,Jalisco,si,2027,864.0,88.24284797890306,76215.0,True
+Concepción de Buenos Aires,Jalisco,si,2028,864.0,88.24284797890306,76215.0,True
+Concepción de Buenos Aires,Jalisco,si,2029,864.0,88.24284797890306,76215.0,True
+Concepción de Buenos Aires,Jalisco,si,2030,864.0,88.24284797890306,76215.0,True
+Concepción de Buenos Aires,Jalisco,si,2031,864.0,88.24284797890306,76215.0,True
+Cuautitlán de García Barragán,Jalisco,si,2024,1763.0,88.24284797890306,155546.0,False
+Cuautitlán de García Barragán,Jalisco,si,2025,1656.0,88.24284797890306,146095.0,False
+Cuautitlán de García Barragán,Jalisco,si,2026,1628.0,88.24284797890306,143695.0,False
+Cuautitlán de García Barragán,Jalisco,si,2027,1628.0,88.24284797890306,143695.0,True
+Cuautitlán de García Barragán,Jalisco,si,2028,1628.0,88.24284797890306,143695.0,True
+Cuautitlán de García Barragán,Jalisco,si,2029,1628.0,88.24284797890306,143695.0,True
+Cuautitlán de García Barragán,Jalisco,si,2030,1628.0,88.24284797890306,143695.0,True
+Cuautitlán de García Barragán,Jalisco,si,2031,1628.0,88.24284797890306,143695.0,True
 Cuautla,Jalisco,si,2024,725.0,88.24284797890306,63976.0,False
 Cuautla,Jalisco,si,2025,692.0,88.24284797890306,61064.0,False
 Cuautla,Jalisco,si,2026,689.0,88.24284797890306,60782.0,False
@@ -439,14 +543,14 @@ Degollado,Jalisco,si,2028,428.0,93.6823225308642,40087.0,True
 Degollado,Jalisco,si,2029,428.0,93.6823225308642,40087.0,True
 Degollado,Jalisco,si,2030,428.0,93.6823225308642,40087.0,True
 Degollado,Jalisco,si,2031,428.0,93.6823225308642,40087.0,True
-Ejutla,Jalisco,si,2024,81.0,88.24284797890306,7112.0,False
-Ejutla,Jalisco,si,2025,79.0,88.24284797890306,6954.0,False
-Ejutla,Jalisco,si,2026,74.0,88.24284797890306,6512.0,False
-Ejutla,Jalisco,si,2027,74.0,88.24284797890306,6512.0,True
-Ejutla,Jalisco,si,2028,74.0,88.24284797890306,6512.0,True
-Ejutla,Jalisco,si,2029,74.0,88.24284797890306,6512.0,True
-Ejutla,Jalisco,si,2030,74.0,88.24284797890306,6512.0,True
-Ejutla,Jalisco,si,2031,74.0,88.24284797890306,6512.0,True
+Ejutla,Jalisco,si,2024,166.0,88.24284797890306,14692.0,False
+Ejutla,Jalisco,si,2025,162.0,88.24284797890306,14331.0,False
+Ejutla,Jalisco,si,2026,152.0,88.24284797890306,13448.0,False
+Ejutla,Jalisco,si,2027,152.0,88.24284797890306,13448.0,True
+Ejutla,Jalisco,si,2028,152.0,88.24284797890306,13448.0,True
+Ejutla,Jalisco,si,2029,152.0,88.24284797890306,13448.0,True
+Ejutla,Jalisco,si,2030,152.0,88.24284797890306,13448.0,True
+Ejutla,Jalisco,si,2031,152.0,88.24284797890306,13448.0,True
 El Arenal,Jalisco,si,2024,426.0,95.1535925925926,40545.0,False
 El Arenal,Jalisco,si,2025,352.0,95.1535925925926,33446.0,False
 El Arenal,Jalisco,si,2026,342.0,95.1535925925926,32543.0,False
@@ -455,22 +559,22 @@ El Arenal,Jalisco,si,2028,342.0,95.1535925925926,32543.0,True
 El Arenal,Jalisco,si,2029,342.0,95.1535925925926,32543.0,True
 El Arenal,Jalisco,si,2030,342.0,95.1535925925926,32543.0,True
 El Arenal,Jalisco,si,2031,342.0,95.1535925925926,32543.0,True
-El Grullo,Jalisco,si,2024,1.0,88.24284797890306,97.0,False
-El Grullo,Jalisco,si,2025,1.0,88.24284797890306,97.0,False
-El Grullo,Jalisco,si,2026,1.0,88.24284797890306,97.0,False
-El Grullo,Jalisco,si,2027,1.0,88.24284797890306,97.0,True
-El Grullo,Jalisco,si,2028,1.0,88.24284797890306,97.0,True
-El Grullo,Jalisco,si,2029,1.0,88.24284797890306,97.0,True
-El Grullo,Jalisco,si,2030,1.0,88.24284797890306,97.0,True
-El Grullo,Jalisco,si,2031,1.0,88.24284797890306,97.0,True
-El Limón,Jalisco,si,2024,1.0,82.7313,74.0,False
-El Limón,Jalisco,si,2025,1.0,82.7313,66.0,False
-El Limón,Jalisco,si,2026,1.0,82.7313,66.0,False
-El Limón,Jalisco,si,2027,1.0,82.7313,66.0,True
-El Limón,Jalisco,si,2028,1.0,82.7313,66.0,True
-El Limón,Jalisco,si,2029,1.0,82.7313,66.0,True
-El Limón,Jalisco,si,2030,1.0,82.7313,66.0,True
-El Limón,Jalisco,si,2031,1.0,82.7313,66.0,True
+El Grullo,Jalisco,si,2024,1299.0,88.24284797890306,114645.0,False
+El Grullo,Jalisco,si,2025,1157.0,88.24284797890306,102062.0,False
+El Grullo,Jalisco,si,2026,1039.0,88.24284797890306,91667.0,False
+El Grullo,Jalisco,si,2027,1039.0,88.24284797890306,91667.0,True
+El Grullo,Jalisco,si,2028,1039.0,88.24284797890306,91667.0,True
+El Grullo,Jalisco,si,2029,1039.0,88.24284797890306,91667.0,True
+El Grullo,Jalisco,si,2030,1039.0,88.24284797890306,91667.0,True
+El Grullo,Jalisco,si,2031,1039.0,88.24284797890306,91667.0,True
+El Limón,Jalisco,si,2024,469.0,82.7313,38768.0,False
+El Limón,Jalisco,si,2025,419.0,82.7313,34689.0,False
+El Limón,Jalisco,si,2026,391.0,82.7313,32356.0,False
+El Limón,Jalisco,si,2027,391.0,82.7313,32356.0,True
+El Limón,Jalisco,si,2028,391.0,82.7313,32356.0,True
+El Limón,Jalisco,si,2029,391.0,82.7313,32356.0,True
+El Limón,Jalisco,si,2030,391.0,82.7313,32356.0,True
+El Limón,Jalisco,si,2031,391.0,82.7313,32356.0,True
 El Salto,Jalisco,si,2024,221.0,88.24284797890306,19466.0,False
 El Salto,Jalisco,si,2025,184.0,88.24284797890306,16281.0,False
 El Salto,Jalisco,si,2026,175.0,88.24284797890306,15478.0,False
@@ -479,14 +583,14 @@ El Salto,Jalisco,si,2028,175.0,88.24284797890306,15478.0,True
 El Salto,Jalisco,si,2029,175.0,88.24284797890306,15478.0,True
 El Salto,Jalisco,si,2030,175.0,88.24284797890306,15478.0,True
 El Salto,Jalisco,si,2031,175.0,88.24284797890306,15478.0,True
-Encarnación de Díaz,Jalisco,si,2024,1818.0,88.24284797890306,160434.0,False
-Encarnación de Díaz,Jalisco,si,2025,1621.0,88.24284797890306,143006.0,False
-Encarnación de Díaz,Jalisco,si,2026,1583.0,88.24284797890306,139680.0,False
-Encarnación de Díaz,Jalisco,si,2027,1583.0,88.24284797890306,139680.0,True
-Encarnación de Díaz,Jalisco,si,2028,1583.0,88.24284797890306,139680.0,True
-Encarnación de Díaz,Jalisco,si,2029,1583.0,88.24284797890306,139680.0,True
-Encarnación de Díaz,Jalisco,si,2030,1583.0,88.24284797890306,139680.0,True
-Encarnación de Díaz,Jalisco,si,2031,1583.0,88.24284797890306,139680.0,True
+Encarnación de Díaz,Jalisco,si,2024,1970.0,88.24284797890306,173838.0,False
+Encarnación de Díaz,Jalisco,si,2025,1751.0,88.24284797890306,154504.0,False
+Encarnación de Díaz,Jalisco,si,2026,1702.0,88.24284797890306,150216.0,False
+Encarnación de Díaz,Jalisco,si,2027,1702.0,88.24284797890306,150216.0,True
+Encarnación de Díaz,Jalisco,si,2028,1702.0,88.24284797890306,150216.0,True
+Encarnación de Díaz,Jalisco,si,2029,1702.0,88.24284797890306,150216.0,True
+Encarnación de Díaz,Jalisco,si,2030,1702.0,88.24284797890306,150216.0,True
+Encarnación de Díaz,Jalisco,si,2031,1702.0,88.24284797890306,150216.0,True
 Etzatlán,Jalisco,si,2024,578.0,83.31006976744186,48145.0,False
 Etzatlán,Jalisco,si,2025,543.0,83.31006976744186,45271.0,False
 Etzatlán,Jalisco,si,2026,537.0,83.31006976744186,44729.0,False
@@ -511,14 +615,14 @@ Guadalajara,Jalisco,si,2028,589.0,88.24284797890306,51957.0,True
 Guadalajara,Jalisco,si,2029,589.0,88.24284797890306,51957.0,True
 Guadalajara,Jalisco,si,2030,589.0,88.24284797890306,51957.0,True
 Guadalajara,Jalisco,si,2031,589.0,88.24284797890306,51957.0,True
-Gómez Farías,Jalisco,si,2024,126.0,88.40461920529802,11148.0,False
-Gómez Farías,Jalisco,si,2025,123.0,88.40461920529802,10891.0,False
-Gómez Farías,Jalisco,si,2026,123.0,88.40461920529802,10838.0,False
-Gómez Farías,Jalisco,si,2027,123.0,88.40461920529802,10838.0,True
-Gómez Farías,Jalisco,si,2028,123.0,88.40461920529802,10838.0,True
-Gómez Farías,Jalisco,si,2029,123.0,88.40461920529802,10838.0,True
-Gómez Farías,Jalisco,si,2030,123.0,88.40461920529802,10838.0,True
-Gómez Farías,Jalisco,si,2031,123.0,88.40461920529802,10838.0,True
+Gómez Farías,Jalisco,si,2024,930.0,88.40461920529802,82199.0,False
+Gómez Farías,Jalisco,si,2025,897.0,88.40461920529802,79281.0,False
+Gómez Farías,Jalisco,si,2026,889.0,88.40461920529802,78574.0,False
+Gómez Farías,Jalisco,si,2027,889.0,88.40461920529802,78574.0,True
+Gómez Farías,Jalisco,si,2028,889.0,88.40461920529802,78574.0,True
+Gómez Farías,Jalisco,si,2029,889.0,88.40461920529802,78574.0,True
+Gómez Farías,Jalisco,si,2030,889.0,88.40461920529802,78574.0,True
+Gómez Farías,Jalisco,si,2031,889.0,88.40461920529802,78574.0,True
 Hostotipaquillo,Jalisco,si,2024,608.0,93.70953703703704,56938.0,False
 Hostotipaquillo,Jalisco,si,2025,598.0,93.70953703703704,56010.0,False
 Hostotipaquillo,Jalisco,si,2026,586.0,93.70953703703704,54942.0,False
@@ -527,6 +631,22 @@ Hostotipaquillo,Jalisco,si,2028,586.0,93.70953703703704,54942.0,True
 Hostotipaquillo,Jalisco,si,2029,586.0,93.70953703703704,54942.0,True
 Hostotipaquillo,Jalisco,si,2030,586.0,93.70953703703704,54942.0,True
 Hostotipaquillo,Jalisco,si,2031,586.0,93.70953703703704,54942.0,True
+Huejuquilla el Alto,Jalisco,si,2024,1073.0,88.24284797890306,94685.0,False
+Huejuquilla el Alto,Jalisco,si,2025,955.0,88.24284797890306,84281.0,False
+Huejuquilla el Alto,Jalisco,si,2026,926.0,88.24284797890306,81713.0,False
+Huejuquilla el Alto,Jalisco,si,2027,926.0,88.24284797890306,81713.0,True
+Huejuquilla el Alto,Jalisco,si,2028,926.0,88.24284797890306,81713.0,True
+Huejuquilla el Alto,Jalisco,si,2029,926.0,88.24284797890306,81713.0,True
+Huejuquilla el Alto,Jalisco,si,2030,926.0,88.24284797890306,81713.0,True
+Huejuquilla el Alto,Jalisco,si,2031,926.0,88.24284797890306,81713.0,True
+Huejúcar,Jalisco,si,2024,349.0,88.24284797890306,30788.0,False
+Huejúcar,Jalisco,si,2025,252.0,88.24284797890306,22202.0,False
+Huejúcar,Jalisco,si,2026,251.0,88.24284797890306,22149.0,False
+Huejúcar,Jalisco,si,2027,251.0,88.24284797890306,22149.0,True
+Huejúcar,Jalisco,si,2028,251.0,88.24284797890306,22149.0,True
+Huejúcar,Jalisco,si,2029,251.0,88.24284797890306,22149.0,True
+Huejúcar,Jalisco,si,2030,251.0,88.24284797890306,22149.0,True
+Huejúcar,Jalisco,si,2031,251.0,88.24284797890306,22149.0,True
 Ixtlahuacán de los Membrillos,Jalisco,si,2024,386.0,88.24284797890306,34053.0,False
 Ixtlahuacán de los Membrillos,Jalisco,si,2025,363.0,88.24284797890306,32050.0,False
 Ixtlahuacán de los Membrillos,Jalisco,si,2026,350.0,88.24284797890306,30920.0,False
@@ -567,6 +687,14 @@ Jesús María,Jalisco,si,2028,1431.0,83.42190236782355,119368.0,True
 Jesús María,Jalisco,si,2029,1431.0,83.42190236782355,119368.0,True
 Jesús María,Jalisco,si,2030,1431.0,83.42190236782355,119368.0,True
 Jesús María,Jalisco,si,2031,1431.0,83.42190236782355,119368.0,True
+Jilotlán de los Dolores,Jalisco,si,2024,1427.0,88.24284797890306,125923.0,False
+Jilotlán de los Dolores,Jalisco,si,2025,1318.0,88.24284797890306,116286.0,False
+Jilotlán de los Dolores,Jalisco,si,2026,1233.0,88.24284797890306,108812.0,False
+Jilotlán de los Dolores,Jalisco,si,2027,1233.0,88.24284797890306,108812.0,True
+Jilotlán de los Dolores,Jalisco,si,2028,1233.0,88.24284797890306,108812.0,True
+Jilotlán de los Dolores,Jalisco,si,2029,1233.0,88.24284797890306,108812.0,True
+Jilotlán de los Dolores,Jalisco,si,2030,1233.0,88.24284797890306,108812.0,True
+Jilotlán de los Dolores,Jalisco,si,2031,1233.0,88.24284797890306,108812.0,True
 Jocotepec,Jalisco,si,2024,410.0,92.11580508474576,37804.0,False
 Jocotepec,Jalisco,si,2025,395.0,92.11580508474576,36423.0,False
 Jocotepec,Jalisco,si,2026,387.0,92.11580508474576,35649.0,False
@@ -599,6 +727,14 @@ La Barca,Jalisco,si,2028,656.0,90.52924696873005,59342.0,True
 La Barca,Jalisco,si,2029,656.0,90.52924696873005,59342.0,True
 La Barca,Jalisco,si,2030,656.0,90.52924696873005,59342.0,True
 La Barca,Jalisco,si,2031,656.0,90.52924696873005,59342.0,True
+La Huerta,Jalisco,si,2024,2460.0,88.24284797890306,217060.0,False
+La Huerta,Jalisco,si,2025,2352.0,88.24284797890306,207512.0,False
+La Huerta,Jalisco,si,2026,2234.0,88.24284797890306,197170.0,False
+La Huerta,Jalisco,si,2027,2234.0,88.24284797890306,197170.0,True
+La Huerta,Jalisco,si,2028,2234.0,88.24284797890306,197170.0,True
+La Huerta,Jalisco,si,2029,2234.0,88.24284797890306,197170.0,True
+La Huerta,Jalisco,si,2030,2234.0,88.24284797890306,197170.0,True
+La Huerta,Jalisco,si,2031,2234.0,88.24284797890306,197170.0,True
 La Manzanilla de la Paz,Jalisco,si,2024,153.0,88.24284797890306,13519.0,False
 La Manzanilla de la Paz,Jalisco,si,2025,152.0,88.24284797890306,13395.0,False
 La Manzanilla de la Paz,Jalisco,si,2026,151.0,88.24284797890306,13316.0,False
@@ -607,14 +743,14 @@ La Manzanilla de la Paz,Jalisco,si,2028,151.0,88.24284797890306,13316.0,True
 La Manzanilla de la Paz,Jalisco,si,2029,151.0,88.24284797890306,13316.0,True
 La Manzanilla de la Paz,Jalisco,si,2030,151.0,88.24284797890306,13316.0,True
 La Manzanilla de la Paz,Jalisco,si,2031,151.0,88.24284797890306,13316.0,True
-Lagos de Moreno,Jalisco,si,2024,4347.0,88.24284797890306,383627.0,False
-Lagos de Moreno,Jalisco,si,2025,3718.0,88.24284797890306,328096.0,False
-Lagos de Moreno,Jalisco,si,2026,3661.0,88.24284797890306,323092.0,False
-Lagos de Moreno,Jalisco,si,2027,3661.0,88.24284797890306,323092.0,True
-Lagos de Moreno,Jalisco,si,2028,3661.0,88.24284797890306,323092.0,True
-Lagos de Moreno,Jalisco,si,2029,3661.0,88.24284797890306,323092.0,True
-Lagos de Moreno,Jalisco,si,2030,3661.0,88.24284797890306,323092.0,True
-Lagos de Moreno,Jalisco,si,2031,3661.0,88.24284797890306,323092.0,True
+Lagos de Moreno,Jalisco,si,2024,4758.0,88.24284797890306,419859.0,False
+Lagos de Moreno,Jalisco,si,2025,4083.0,88.24284797890306,360278.0,False
+Lagos de Moreno,Jalisco,si,2026,4009.0,88.24284797890306,353783.0,False
+Lagos de Moreno,Jalisco,si,2027,4009.0,88.24284797890306,353783.0,True
+Lagos de Moreno,Jalisco,si,2028,4009.0,88.24284797890306,353783.0,True
+Lagos de Moreno,Jalisco,si,2029,4009.0,88.24284797890306,353783.0,True
+Lagos de Moreno,Jalisco,si,2030,4009.0,88.24284797890306,353783.0,True
+Lagos de Moreno,Jalisco,si,2031,4009.0,88.24284797890306,353783.0,True
 Magdalena,Jalisco,si,2024,592.0,91.63277551020408,54201.0,False
 Magdalena,Jalisco,si,2025,577.0,91.63277551020408,52881.0,False
 Magdalena,Jalisco,si,2026,572.0,91.63277551020408,52423.0,False
@@ -623,22 +759,22 @@ Magdalena,Jalisco,si,2028,572.0,91.63277551020408,52423.0,True
 Magdalena,Jalisco,si,2029,572.0,91.63277551020408,52423.0,True
 Magdalena,Jalisco,si,2030,572.0,91.63277551020408,52423.0,True
 Magdalena,Jalisco,si,2031,572.0,91.63277551020408,52423.0,True
-Mascota,Jalisco,si,2024,1820.0,88.24284797890306,160637.0,False
-Mascota,Jalisco,si,2025,1738.0,88.24284797890306,153366.0,False
-Mascota,Jalisco,si,2026,1706.0,88.24284797890306,150542.0,False
-Mascota,Jalisco,si,2027,1706.0,88.24284797890306,150542.0,True
-Mascota,Jalisco,si,2028,1706.0,88.24284797890306,150542.0,True
-Mascota,Jalisco,si,2029,1706.0,88.24284797890306,150542.0,True
-Mascota,Jalisco,si,2030,1706.0,88.24284797890306,150542.0,True
-Mascota,Jalisco,si,2031,1706.0,88.24284797890306,150542.0,True
-Mazamitla,Jalisco,si,2024,372.0,88.24284797890306,32800.0,False
-Mazamitla,Jalisco,si,2025,364.0,88.24284797890306,32147.0,False
-Mazamitla,Jalisco,si,2026,364.0,88.24284797890306,32094.0,False
-Mazamitla,Jalisco,si,2027,364.0,88.24284797890306,32094.0,True
-Mazamitla,Jalisco,si,2028,364.0,88.24284797890306,32094.0,True
-Mazamitla,Jalisco,si,2029,364.0,88.24284797890306,32094.0,True
-Mazamitla,Jalisco,si,2030,364.0,88.24284797890306,32094.0,True
-Mazamitla,Jalisco,si,2031,364.0,88.24284797890306,32094.0,True
+Mascota,Jalisco,si,2024,1918.0,88.24284797890306,169250.0,False
+Mascota,Jalisco,si,2025,1833.0,88.24284797890306,161784.0,False
+Mascota,Jalisco,si,2026,1801.0,88.24284797890306,158925.0,False
+Mascota,Jalisco,si,2027,1801.0,88.24284797890306,158925.0,True
+Mascota,Jalisco,si,2028,1801.0,88.24284797890306,158925.0,True
+Mascota,Jalisco,si,2029,1801.0,88.24284797890306,158925.0,True
+Mascota,Jalisco,si,2030,1801.0,88.24284797890306,158925.0,True
+Mascota,Jalisco,si,2031,1801.0,88.24284797890306,158925.0,True
+Mazamitla,Jalisco,si,2024,603.0,88.24284797890306,53228.0,False
+Mazamitla,Jalisco,si,2025,589.0,88.24284797890306,51975.0,False
+Mazamitla,Jalisco,si,2026,588.0,88.24284797890306,51878.0,False
+Mazamitla,Jalisco,si,2027,588.0,88.24284797890306,51878.0,True
+Mazamitla,Jalisco,si,2028,588.0,88.24284797890306,51878.0,True
+Mazamitla,Jalisco,si,2029,588.0,88.24284797890306,51878.0,True
+Mazamitla,Jalisco,si,2030,588.0,88.24284797890306,51878.0,True
+Mazamitla,Jalisco,si,2031,588.0,88.24284797890306,51878.0,True
 Mexticacán,Jalisco,si,2024,647.0,88.24284797890306,57128.0,False
 Mexticacán,Jalisco,si,2025,616.0,88.24284797890306,54322.0,False
 Mexticacán,Jalisco,si,2026,612.0,88.24284797890306,54031.0,False
@@ -647,6 +783,14 @@ Mexticacán,Jalisco,si,2028,612.0,88.24284797890306,54031.0,True
 Mexticacán,Jalisco,si,2029,612.0,88.24284797890306,54031.0,True
 Mexticacán,Jalisco,si,2030,612.0,88.24284797890306,54031.0,True
 Mexticacán,Jalisco,si,2031,612.0,88.24284797890306,54031.0,True
+Mezquitic,Jalisco,si,2024,10673.0,88.24284797890306,941816.0,False
+Mezquitic,Jalisco,si,2025,10336.0,88.24284797890306,912122.0,False
+Mezquitic,Jalisco,si,2026,10123.0,88.24284797890306,893247.0,False
+Mezquitic,Jalisco,si,2027,10123.0,88.24284797890306,893247.0,True
+Mezquitic,Jalisco,si,2028,10123.0,88.24284797890306,893247.0,True
+Mezquitic,Jalisco,si,2029,10123.0,88.24284797890306,893247.0,True
+Mezquitic,Jalisco,si,2030,10123.0,88.24284797890306,893247.0,True
+Mezquitic,Jalisco,si,2031,10123.0,88.24284797890306,893247.0,True
 Mixtlán,Jalisco,si,2024,1285.0,88.24284797890306,113427.0,False
 Mixtlán,Jalisco,si,2025,1239.0,88.24284797890306,109359.0,False
 Mixtlán,Jalisco,si,2026,1233.0,88.24284797890306,108839.0,False
@@ -663,14 +807,22 @@ Ocotlán,Jalisco,si,2028,422.0,88.23841920374707,37228.0,True
 Ocotlán,Jalisco,si,2029,422.0,88.23841920374707,37228.0,True
 Ocotlán,Jalisco,si,2030,422.0,88.23841920374707,37228.0,True
 Ocotlán,Jalisco,si,2031,422.0,88.23841920374707,37228.0,True
-Ojuelos de Jalisco,Jalisco,si,2024,139.0,88.24284797890306,12283.0,False
-Ojuelos de Jalisco,Jalisco,si,2025,100.0,88.24284797890306,8807.0,False
-Ojuelos de Jalisco,Jalisco,si,2026,100.0,88.24284797890306,8807.0,False
-Ojuelos de Jalisco,Jalisco,si,2027,100.0,88.24284797890306,8807.0,True
-Ojuelos de Jalisco,Jalisco,si,2028,100.0,88.24284797890306,8807.0,True
-Ojuelos de Jalisco,Jalisco,si,2029,100.0,88.24284797890306,8807.0,True
-Ojuelos de Jalisco,Jalisco,si,2030,100.0,88.24284797890306,8807.0,True
-Ojuelos de Jalisco,Jalisco,si,2031,100.0,88.24284797890306,8807.0,True
+Ojuelos de Jalisco,Jalisco,si,2024,1133.0,88.24284797890306,99961.0,False
+Ojuelos de Jalisco,Jalisco,si,2025,1006.0,88.24284797890306,88728.0,False
+Ojuelos de Jalisco,Jalisco,si,2026,983.0,88.24284797890306,86760.0,False
+Ojuelos de Jalisco,Jalisco,si,2027,983.0,88.24284797890306,86760.0,True
+Ojuelos de Jalisco,Jalisco,si,2028,983.0,88.24284797890306,86760.0,True
+Ojuelos de Jalisco,Jalisco,si,2029,983.0,88.24284797890306,86760.0,True
+Ojuelos de Jalisco,Jalisco,si,2030,983.0,88.24284797890306,86760.0,True
+Ojuelos de Jalisco,Jalisco,si,2031,983.0,88.24284797890306,86760.0,True
+Pihuamo,Jalisco,si,2024,623.0,92.36422182468694,57506.0,False
+Pihuamo,Jalisco,si,2025,603.0,92.36422182468694,55696.0,False
+Pihuamo,Jalisco,si,2026,586.0,92.36422182468694,54153.0,False
+Pihuamo,Jalisco,si,2027,586.0,92.36422182468694,54153.0,True
+Pihuamo,Jalisco,si,2028,586.0,92.36422182468694,54153.0,True
+Pihuamo,Jalisco,si,2029,586.0,92.36422182468694,54153.0,True
+Pihuamo,Jalisco,si,2030,586.0,92.36422182468694,54153.0,True
+Pihuamo,Jalisco,si,2031,586.0,92.36422182468694,54153.0,True
 Poncitlán,Jalisco,si,2024,997.0,90.44545216251639,90183.0,False
 Poncitlán,Jalisco,si,2025,957.0,90.44545216251639,86529.0,False
 Poncitlán,Jalisco,si,2026,920.0,90.44545216251639,83183.0,False
@@ -679,22 +831,22 @@ Poncitlán,Jalisco,si,2028,920.0,90.44545216251639,83183.0,True
 Poncitlán,Jalisco,si,2029,920.0,90.44545216251639,83183.0,True
 Poncitlán,Jalisco,si,2030,920.0,90.44545216251639,83183.0,True
 Poncitlán,Jalisco,si,2031,920.0,90.44545216251639,83183.0,True
-Puerto Vallarta,Jalisco,si,2024,1.0,88.24284797890306,62.0,False
-Puerto Vallarta,Jalisco,si,2025,1.0,88.24284797890306,62.0,False
-Puerto Vallarta,Jalisco,si,2026,1.0,88.24284797890306,62.0,False
-Puerto Vallarta,Jalisco,si,2027,1.0,88.24284797890306,62.0,True
-Puerto Vallarta,Jalisco,si,2028,1.0,88.24284797890306,62.0,True
-Puerto Vallarta,Jalisco,si,2029,1.0,88.24284797890306,62.0,True
-Puerto Vallarta,Jalisco,si,2030,1.0,88.24284797890306,62.0,True
-Puerto Vallarta,Jalisco,si,2031,1.0,88.24284797890306,62.0,True
-Quitupan,Jalisco,si,2024,338.0,88.24284797890306,29861.0,False
-Quitupan,Jalisco,si,2025,319.0,88.24284797890306,28158.0,False
-Quitupan,Jalisco,si,2026,318.0,88.24284797890306,28079.0,False
-Quitupan,Jalisco,si,2027,318.0,88.24284797890306,28079.0,True
-Quitupan,Jalisco,si,2028,318.0,88.24284797890306,28079.0,True
-Quitupan,Jalisco,si,2029,318.0,88.24284797890306,28079.0,True
-Quitupan,Jalisco,si,2030,318.0,88.24284797890306,28079.0,True
-Quitupan,Jalisco,si,2031,318.0,88.24284797890306,28079.0,True
+Puerto Vallarta,Jalisco,si,2024,1691.0,88.24284797890306,149201.0,False
+Puerto Vallarta,Jalisco,si,2025,1605.0,88.24284797890306,141647.0,False
+Puerto Vallarta,Jalisco,si,2026,1552.0,88.24284797890306,136988.0,False
+Puerto Vallarta,Jalisco,si,2027,1552.0,88.24284797890306,136988.0,True
+Puerto Vallarta,Jalisco,si,2028,1552.0,88.24284797890306,136988.0,True
+Puerto Vallarta,Jalisco,si,2029,1552.0,88.24284797890306,136988.0,True
+Puerto Vallarta,Jalisco,si,2030,1552.0,88.24284797890306,136988.0,True
+Puerto Vallarta,Jalisco,si,2031,1552.0,88.24284797890306,136988.0,True
+Quitupan,Jalisco,si,2024,1060.0,88.24284797890306,93546.0,False
+Quitupan,Jalisco,si,2025,1027.0,88.24284797890306,90617.0,False
+Quitupan,Jalisco,si,2026,1024.0,88.24284797890306,90387.0,False
+Quitupan,Jalisco,si,2027,1024.0,88.24284797890306,90387.0,True
+Quitupan,Jalisco,si,2028,1024.0,88.24284797890306,90387.0,True
+Quitupan,Jalisco,si,2029,1024.0,88.24284797890306,90387.0,True
+Quitupan,Jalisco,si,2030,1024.0,88.24284797890306,90387.0,True
+Quitupan,Jalisco,si,2031,1024.0,88.24284797890306,90387.0,True
 San Cristóbal de la Barranca,Jalisco,si,2024,1341.0,78.44526408450704,105211.0,False
 San Cristóbal de la Barranca,Jalisco,si,2025,1307.0,78.44526408450704,102512.0,False
 San Cristóbal de la Barranca,Jalisco,si,2026,1280.0,78.44526408450704,100394.0,False
@@ -711,6 +863,14 @@ San Diego de Alejandría,Jalisco,si,2028,74.0,85.32749430523917,6348.0,True
 San Diego de Alejandría,Jalisco,si,2029,74.0,85.32749430523917,6348.0,True
 San Diego de Alejandría,Jalisco,si,2030,74.0,85.32749430523917,6348.0,True
 San Diego de Alejandría,Jalisco,si,2031,74.0,85.32749430523917,6348.0,True
+San Gabriel,Jalisco,si,2024,2790.0,88.11019316265522,245819.0,False
+San Gabriel,Jalisco,si,2025,2750.0,88.11019316265522,242277.0,False
+San Gabriel,Jalisco,si,2026,2730.0,88.11019316265522,240567.0,False
+San Gabriel,Jalisco,si,2027,2730.0,88.11019316265522,240567.0,True
+San Gabriel,Jalisco,si,2028,2730.0,88.11019316265522,240567.0,True
+San Gabriel,Jalisco,si,2029,2730.0,88.11019316265522,240567.0,True
+San Gabriel,Jalisco,si,2030,2730.0,88.11019316265522,240567.0,True
+San Gabriel,Jalisco,si,2031,2730.0,88.11019316265522,240567.0,True
 San Ignacio Cerro Gordo,Jalisco,si,2024,364.0,88.24284797890306,32094.0,False
 San Ignacio Cerro Gordo,Jalisco,si,2025,343.0,88.24284797890306,30250.0,False
 San Ignacio Cerro Gordo,Jalisco,si,2026,339.0,88.24284797890306,29906.0,False
@@ -759,14 +919,14 @@ San Martín Hidalgo,Jalisco,si,2028,654.0,90.34002178649237,59119.0,True
 San Martín Hidalgo,Jalisco,si,2029,654.0,90.34002178649237,59119.0,True
 San Martín Hidalgo,Jalisco,si,2030,654.0,90.34002178649237,59119.0,True
 San Martín Hidalgo,Jalisco,si,2031,654.0,90.34002178649237,59119.0,True
-San Martín de Bolaños,Jalisco,si,2024,666.0,88.24284797890306,58787.0,False
-San Martín de Bolaños,Jalisco,si,2025,631.0,88.24284797890306,55672.0,False
-San Martín de Bolaños,Jalisco,si,2026,629.0,88.24284797890306,55540.0,False
-San Martín de Bolaños,Jalisco,si,2027,629.0,88.24284797890306,55540.0,True
-San Martín de Bolaños,Jalisco,si,2028,629.0,88.24284797890306,55540.0,True
-San Martín de Bolaños,Jalisco,si,2029,629.0,88.24284797890306,55540.0,True
-San Martín de Bolaños,Jalisco,si,2030,629.0,88.24284797890306,55540.0,True
-San Martín de Bolaños,Jalisco,si,2031,629.0,88.24284797890306,55540.0,True
+San Martín de Bolaños,Jalisco,si,2024,717.0,88.24284797890306,63261.0,False
+San Martín de Bolaños,Jalisco,si,2025,681.0,88.24284797890306,60076.0,False
+San Martín de Bolaños,Jalisco,si,2026,679.0,88.24284797890306,59899.0,False
+San Martín de Bolaños,Jalisco,si,2027,679.0,88.24284797890306,59899.0,True
+San Martín de Bolaños,Jalisco,si,2028,679.0,88.24284797890306,59899.0,True
+San Martín de Bolaños,Jalisco,si,2029,679.0,88.24284797890306,59899.0,True
+San Martín de Bolaños,Jalisco,si,2030,679.0,88.24284797890306,59899.0,True
+San Martín de Bolaños,Jalisco,si,2031,679.0,88.24284797890306,59899.0,True
 San Miguel el Alto,Jalisco,si,2024,284.0,85.79008620689656,24321.0,False
 San Miguel el Alto,Jalisco,si,2025,255.0,85.79008620689656,21885.0,False
 San Miguel el Alto,Jalisco,si,2026,244.0,85.79008620689656,20907.0,False
@@ -783,22 +943,38 @@ San Pedro Tlaquepaque,Jalisco,si,2028,379.0,88.24284797890306,33435.0,True
 San Pedro Tlaquepaque,Jalisco,si,2029,379.0,88.24284797890306,33435.0,True
 San Pedro Tlaquepaque,Jalisco,si,2030,379.0,88.24284797890306,33435.0,True
 San Pedro Tlaquepaque,Jalisco,si,2031,379.0,88.24284797890306,33435.0,True
-San Sebastián del Oeste,Jalisco,si,2024,503.0,88.24284797890306,44386.0,False
-San Sebastián del Oeste,Jalisco,si,2025,492.0,88.24284797890306,43433.0,False
-San Sebastián del Oeste,Jalisco,si,2026,481.0,88.24284797890306,42471.0,False
-San Sebastián del Oeste,Jalisco,si,2027,481.0,88.24284797890306,42471.0,True
-San Sebastián del Oeste,Jalisco,si,2028,481.0,88.24284797890306,42471.0,True
-San Sebastián del Oeste,Jalisco,si,2029,481.0,88.24284797890306,42471.0,True
-San Sebastián del Oeste,Jalisco,si,2030,481.0,88.24284797890306,42471.0,True
-San Sebastián del Oeste,Jalisco,si,2031,481.0,88.24284797890306,42471.0,True
-Sayula,Jalisco,si,2024,200.0,89.35391971217572,17826.0,False
-Sayula,Jalisco,si,2025,192.0,89.35391971217572,17183.0,False
-Sayula,Jalisco,si,2026,182.0,89.35391971217572,16227.0,False
-Sayula,Jalisco,si,2027,182.0,89.35391971217572,16227.0,True
-Sayula,Jalisco,si,2028,182.0,89.35391971217572,16227.0,True
-Sayula,Jalisco,si,2029,182.0,89.35391971217572,16227.0,True
-Sayula,Jalisco,si,2030,182.0,89.35391971217572,16227.0,True
-Sayula,Jalisco,si,2031,182.0,89.35391971217572,16227.0,True
+San Sebastián del Oeste,Jalisco,si,2024,587.0,88.24284797890306,51807.0,False
+San Sebastián del Oeste,Jalisco,si,2025,569.0,88.24284797890306,50184.0,False
+San Sebastián del Oeste,Jalisco,si,2026,553.0,88.24284797890306,48825.0,False
+San Sebastián del Oeste,Jalisco,si,2027,553.0,88.24284797890306,48825.0,True
+San Sebastián del Oeste,Jalisco,si,2028,553.0,88.24284797890306,48825.0,True
+San Sebastián del Oeste,Jalisco,si,2029,553.0,88.24284797890306,48825.0,True
+San Sebastián del Oeste,Jalisco,si,2030,553.0,88.24284797890306,48825.0,True
+San Sebastián del Oeste,Jalisco,si,2031,553.0,88.24284797890306,48825.0,True
+Santa María de los Ángeles,Jalisco,si,2024,279.0,88.24284797890306,24620.0,False
+Santa María de los Ángeles,Jalisco,si,2025,196.0,88.24284797890306,17260.0,False
+Santa María de los Ángeles,Jalisco,si,2026,193.0,88.24284797890306,16996.0,False
+Santa María de los Ángeles,Jalisco,si,2027,193.0,88.24284797890306,16996.0,True
+Santa María de los Ángeles,Jalisco,si,2028,193.0,88.24284797890306,16996.0,True
+Santa María de los Ángeles,Jalisco,si,2029,193.0,88.24284797890306,16996.0,True
+Santa María de los Ángeles,Jalisco,si,2030,193.0,88.24284797890306,16996.0,True
+Santa María de los Ángeles,Jalisco,si,2031,193.0,88.24284797890306,16996.0,True
+Santa María del Oro,Jalisco,si,2024,137.0,88.24284797890306,12072.0,False
+Santa María del Oro,Jalisco,si,2025,136.0,88.24284797890306,11957.0,False
+Santa María del Oro,Jalisco,si,2026,135.0,88.24284797890306,11939.0,False
+Santa María del Oro,Jalisco,si,2027,135.0,88.24284797890306,11939.0,True
+Santa María del Oro,Jalisco,si,2028,135.0,88.24284797890306,11939.0,True
+Santa María del Oro,Jalisco,si,2029,135.0,88.24284797890306,11939.0,True
+Santa María del Oro,Jalisco,si,2030,135.0,88.24284797890306,11939.0,True
+Santa María del Oro,Jalisco,si,2031,135.0,88.24284797890306,11939.0,True
+Sayula,Jalisco,si,2024,724.0,89.35391971217572,64710.0,False
+Sayula,Jalisco,si,2025,688.0,89.35391971217572,61449.0,False
+Sayula,Jalisco,si,2026,662.0,89.35391971217572,59108.0,False
+Sayula,Jalisco,si,2027,662.0,89.35391971217572,59108.0,True
+Sayula,Jalisco,si,2028,662.0,89.35391971217572,59108.0,True
+Sayula,Jalisco,si,2029,662.0,89.35391971217572,59108.0,True
+Sayula,Jalisco,si,2030,662.0,89.35391971217572,59108.0,True
+Sayula,Jalisco,si,2031,662.0,89.35391971217572,59108.0,True
 Tala,Jalisco,si,2024,1504.0,83.96206896551725,126254.0,False
 Tala,Jalisco,si,2025,1324.0,83.96206896551725,111166.0,False
 Tala,Jalisco,si,2026,1297.0,83.96206896551725,108874.0,False
@@ -807,30 +983,38 @@ Tala,Jalisco,si,2028,1297.0,83.96206896551725,108874.0,True
 Tala,Jalisco,si,2029,1297.0,83.96206896551725,108874.0,True
 Tala,Jalisco,si,2030,1297.0,83.96206896551725,108874.0,True
 Tala,Jalisco,si,2031,1297.0,83.96206896551725,108874.0,True
-Talpa de Allende,Jalisco,si,2024,354.0,88.24284797890306,31273.0,False
-Talpa de Allende,Jalisco,si,2025,340.0,88.24284797890306,29976.0,False
-Talpa de Allende,Jalisco,si,2026,335.0,88.24284797890306,29570.0,False
-Talpa de Allende,Jalisco,si,2027,335.0,88.24284797890306,29570.0,True
-Talpa de Allende,Jalisco,si,2028,335.0,88.24284797890306,29570.0,True
-Talpa de Allende,Jalisco,si,2029,335.0,88.24284797890306,29570.0,True
-Talpa de Allende,Jalisco,si,2030,335.0,88.24284797890306,29570.0,True
-Talpa de Allende,Jalisco,si,2031,335.0,88.24284797890306,29570.0,True
-Tamazula de Gordiano,Jalisco,si,2024,75.0,88.24284797890306,6645.0,False
-Tamazula de Gordiano,Jalisco,si,2025,75.0,88.24284797890306,6636.0,False
-Tamazula de Gordiano,Jalisco,si,2026,74.0,88.24284797890306,6521.0,False
-Tamazula de Gordiano,Jalisco,si,2027,74.0,88.24284797890306,6521.0,True
-Tamazula de Gordiano,Jalisco,si,2028,74.0,88.24284797890306,6521.0,True
-Tamazula de Gordiano,Jalisco,si,2029,74.0,88.24284797890306,6521.0,True
-Tamazula de Gordiano,Jalisco,si,2030,74.0,88.24284797890306,6521.0,True
-Tamazula de Gordiano,Jalisco,si,2031,74.0,88.24284797890306,6521.0,True
-Tapalpa,Jalisco,si,2024,618.0,88.24284797890306,54499.0,False
-Tapalpa,Jalisco,si,2025,594.0,88.24284797890306,52443.0,False
-Tapalpa,Jalisco,si,2026,593.0,88.24284797890306,52337.0,False
-Tapalpa,Jalisco,si,2027,593.0,88.24284797890306,52337.0,True
-Tapalpa,Jalisco,si,2028,593.0,88.24284797890306,52337.0,True
-Tapalpa,Jalisco,si,2029,593.0,88.24284797890306,52337.0,True
-Tapalpa,Jalisco,si,2030,593.0,88.24284797890306,52337.0,True
-Tapalpa,Jalisco,si,2031,593.0,88.24284797890306,52337.0,True
+Talpa de Allende,Jalisco,si,2024,2029.0,88.24284797890306,179071.0,False
+Talpa de Allende,Jalisco,si,2025,1996.0,88.24284797890306,176106.0,False
+Talpa de Allende,Jalisco,si,2026,1966.0,88.24284797890306,173459.0,False
+Talpa de Allende,Jalisco,si,2027,1966.0,88.24284797890306,173459.0,True
+Talpa de Allende,Jalisco,si,2028,1966.0,88.24284797890306,173459.0,True
+Talpa de Allende,Jalisco,si,2029,1966.0,88.24284797890306,173459.0,True
+Talpa de Allende,Jalisco,si,2030,1966.0,88.24284797890306,173459.0,True
+Talpa de Allende,Jalisco,si,2031,1966.0,88.24284797890306,173459.0,True
+Tamazula de Gordiano,Jalisco,si,2024,2201.0,88.24284797890306,194214.0,False
+Tamazula de Gordiano,Jalisco,si,2025,2048.0,88.24284797890306,180695.0,False
+Tamazula de Gordiano,Jalisco,si,2026,1981.0,88.24284797890306,174809.0,False
+Tamazula de Gordiano,Jalisco,si,2027,1981.0,88.24284797890306,174809.0,True
+Tamazula de Gordiano,Jalisco,si,2028,1981.0,88.24284797890306,174809.0,True
+Tamazula de Gordiano,Jalisco,si,2029,1981.0,88.24284797890306,174809.0,True
+Tamazula de Gordiano,Jalisco,si,2030,1981.0,88.24284797890306,174809.0,True
+Tamazula de Gordiano,Jalisco,si,2031,1981.0,88.24284797890306,174809.0,True
+Tapalpa,Jalisco,si,2024,1528.0,88.24284797890306,134809.0,False
+Tapalpa,Jalisco,si,2025,1484.0,88.24284797890306,130988.0,False
+Tapalpa,Jalisco,si,2026,1481.0,88.24284797890306,130714.0,False
+Tapalpa,Jalisco,si,2027,1481.0,88.24284797890306,130714.0,True
+Tapalpa,Jalisco,si,2028,1481.0,88.24284797890306,130714.0,True
+Tapalpa,Jalisco,si,2029,1481.0,88.24284797890306,130714.0,True
+Tapalpa,Jalisco,si,2030,1481.0,88.24284797890306,130714.0,True
+Tapalpa,Jalisco,si,2031,1481.0,88.24284797890306,130714.0,True
+Tecalitlán,Jalisco,si,2024,1038.0,83.90229116945108,87057.0,False
+Tecalitlán,Jalisco,si,2025,1008.0,83.90229116945108,84557.0,False
+Tecalitlán,Jalisco,si,2026,993.0,83.90229116945108,83332.0,False
+Tecalitlán,Jalisco,si,2027,993.0,83.90229116945108,83332.0,True
+Tecalitlán,Jalisco,si,2028,993.0,83.90229116945108,83332.0,True
+Tecalitlán,Jalisco,si,2029,993.0,83.90229116945108,83332.0,True
+Tecalitlán,Jalisco,si,2030,993.0,83.90229116945108,83332.0,True
+Tecalitlán,Jalisco,si,2031,993.0,83.90229116945108,83332.0,True
 Techaluta de Montenegro,Jalisco,si,2024,77.0,88.24284797890306,6830.0,False
 Techaluta de Montenegro,Jalisco,si,2025,67.0,88.24284797890306,5948.0,False
 Techaluta de Montenegro,Jalisco,si,2026,64.0,88.24284797890306,5621.0,False
@@ -855,14 +1039,14 @@ Tenamaxtlán,Jalisco,si,2028,227.0,84.27588996763754,19105.0,True
 Tenamaxtlán,Jalisco,si,2029,227.0,84.27588996763754,19105.0,True
 Tenamaxtlán,Jalisco,si,2030,227.0,84.27588996763754,19105.0,True
 Tenamaxtlán,Jalisco,si,2031,227.0,84.27588996763754,19105.0,True
-Teocaltiche,Jalisco,si,2024,4640.0,84.1266,390314.0,False
-Teocaltiche,Jalisco,si,2025,4316.0,84.1266,363099.0,False
-Teocaltiche,Jalisco,si,2026,4281.0,84.1266,360171.0,False
-Teocaltiche,Jalisco,si,2027,4281.0,84.1266,360171.0,True
-Teocaltiche,Jalisco,si,2028,4281.0,84.1266,360171.0,True
-Teocaltiche,Jalisco,si,2029,4281.0,84.1266,360171.0,True
-Teocaltiche,Jalisco,si,2030,4281.0,84.1266,360171.0,True
-Teocaltiche,Jalisco,si,2031,4281.0,84.1266,360171.0,True
+Teocaltiche,Jalisco,si,2024,4669.0,84.1266,392804.0,False
+Teocaltiche,Jalisco,si,2025,4345.0,84.1266,365555.0,False
+Teocaltiche,Jalisco,si,2026,4310.0,84.1266,362619.0,False
+Teocaltiche,Jalisco,si,2027,4310.0,84.1266,362619.0,True
+Teocaltiche,Jalisco,si,2028,4310.0,84.1266,362619.0,True
+Teocaltiche,Jalisco,si,2029,4310.0,84.1266,362619.0,True
+Teocaltiche,Jalisco,si,2030,4310.0,84.1266,362619.0,True
+Teocaltiche,Jalisco,si,2031,4310.0,84.1266,362619.0,True
 Teocuitatlán de Corona,Jalisco,si,2024,699.0,86.93097694174757,60739.0,False
 Teocuitatlán de Corona,Jalisco,si,2025,635.0,86.93097694174757,55201.0,False
 Teocuitatlán de Corona,Jalisco,si,2026,606.0,86.93097694174757,52680.0,False
@@ -911,14 +1095,22 @@ Tlajomulco de Zúñiga,Jalisco,si,2028,2407.0,85.38807588075882,205563.0,True
 Tlajomulco de Zúñiga,Jalisco,si,2029,2407.0,85.38807588075882,205563.0,True
 Tlajomulco de Zúñiga,Jalisco,si,2030,2407.0,85.38807588075882,205563.0,True
 Tlajomulco de Zúñiga,Jalisco,si,2031,2407.0,85.38807588075882,205563.0,True
-Tomatlán,Jalisco,si,2024,105.0,88.24284797890306,9257.0,False
-Tomatlán,Jalisco,si,2025,103.0,88.24284797890306,9063.0,False
-Tomatlán,Jalisco,si,2026,101.0,88.24284797890306,8886.0,False
-Tomatlán,Jalisco,si,2027,101.0,88.24284797890306,8886.0,True
-Tomatlán,Jalisco,si,2028,101.0,88.24284797890306,8886.0,True
-Tomatlán,Jalisco,si,2029,101.0,88.24284797890306,8886.0,True
-Tomatlán,Jalisco,si,2030,101.0,88.24284797890306,8886.0,True
-Tomatlán,Jalisco,si,2031,101.0,88.24284797890306,8886.0,True
+Tolimán,Jalisco,si,2024,824.0,84.5662090959512,69657.0,False
+Tolimán,Jalisco,si,2025,794.0,84.5662090959512,67179.0,False
+Tolimán,Jalisco,si,2026,758.0,84.5662090959512,64101.0,False
+Tolimán,Jalisco,si,2027,758.0,84.5662090959512,64101.0,True
+Tolimán,Jalisco,si,2028,758.0,84.5662090959512,64101.0,True
+Tolimán,Jalisco,si,2029,758.0,84.5662090959512,64101.0,True
+Tolimán,Jalisco,si,2030,758.0,84.5662090959512,64101.0,True
+Tolimán,Jalisco,si,2031,758.0,84.5662090959512,64101.0,True
+Tomatlán,Jalisco,si,2024,6834.0,88.24284797890306,603078.0,False
+Tomatlán,Jalisco,si,2025,6455.0,88.24284797890306,569643.0,False
+Tomatlán,Jalisco,si,2026,6082.0,88.24284797890306,536684.0,False
+Tomatlán,Jalisco,si,2027,6082.0,88.24284797890306,536684.0,True
+Tomatlán,Jalisco,si,2028,6082.0,88.24284797890306,536684.0,True
+Tomatlán,Jalisco,si,2029,6082.0,88.24284797890306,536684.0,True
+Tomatlán,Jalisco,si,2030,6082.0,88.24284797890306,536684.0,True
+Tomatlán,Jalisco,si,2031,6082.0,88.24284797890306,536684.0,True
 Tonalá,Jalisco,si,2024,346.0,88.24284797890306,30506.0,False
 Tonalá,Jalisco,si,2025,318.0,88.24284797890306,28070.0,False
 Tonalá,Jalisco,si,2026,309.0,88.24284797890306,27232.0,False
@@ -927,14 +1119,30 @@ Tonalá,Jalisco,si,2028,309.0,88.24284797890306,27232.0,True
 Tonalá,Jalisco,si,2029,309.0,88.24284797890306,27232.0,True
 Tonalá,Jalisco,si,2030,309.0,88.24284797890306,27232.0,True
 Tonalá,Jalisco,si,2031,309.0,88.24284797890306,27232.0,True
-Tonaya,Jalisco,si,2024,10.0,83.70534403045961,862.0,False
-Tonaya,Jalisco,si,2025,10.0,83.70534403045961,862.0,False
-Tonaya,Jalisco,si,2026,10.0,83.70534403045961,862.0,False
-Tonaya,Jalisco,si,2027,10.0,83.70534403045961,862.0,True
-Tonaya,Jalisco,si,2028,10.0,83.70534403045961,862.0,True
-Tonaya,Jalisco,si,2029,10.0,83.70534403045961,862.0,True
-Tonaya,Jalisco,si,2030,10.0,83.70534403045961,862.0,True
-Tonaya,Jalisco,si,2031,10.0,83.70534403045961,862.0,True
+Tonaya,Jalisco,si,2024,165.0,83.70534403045961,13820.0,False
+Tonaya,Jalisco,si,2025,158.0,83.70534403045961,13259.0,False
+Tonaya,Jalisco,si,2026,156.0,83.70534403045961,13033.0,False
+Tonaya,Jalisco,si,2027,156.0,83.70534403045961,13033.0,True
+Tonaya,Jalisco,si,2028,156.0,83.70534403045961,13033.0,True
+Tonaya,Jalisco,si,2029,156.0,83.70534403045961,13033.0,True
+Tonaya,Jalisco,si,2030,156.0,83.70534403045961,13033.0,True
+Tonaya,Jalisco,si,2031,156.0,83.70534403045961,13033.0,True
+Tonila,Jalisco,si,2024,468.0,88.71678571428572,41502.0,False
+Tonila,Jalisco,si,2025,447.0,88.71678571428572,39639.0,False
+Tonila,Jalisco,si,2026,437.0,88.71678571428572,38769.0,False
+Tonila,Jalisco,si,2027,437.0,88.71678571428572,38769.0,True
+Tonila,Jalisco,si,2028,437.0,88.71678571428572,38769.0,True
+Tonila,Jalisco,si,2029,437.0,88.71678571428572,38769.0,True
+Tonila,Jalisco,si,2030,437.0,88.71678571428572,38769.0,True
+Tonila,Jalisco,si,2031,437.0,88.71678571428572,38769.0,True
+Totatiche,Jalisco,si,2024,880.0,88.24284797890306,77689.0,False
+Totatiche,Jalisco,si,2025,848.0,88.24284797890306,74821.0,False
+Totatiche,Jalisco,si,2026,832.0,88.24284797890306,73436.0,False
+Totatiche,Jalisco,si,2027,832.0,88.24284797890306,73436.0,True
+Totatiche,Jalisco,si,2028,832.0,88.24284797890306,73436.0,True
+Totatiche,Jalisco,si,2029,832.0,88.24284797890306,73436.0,True
+Totatiche,Jalisco,si,2030,832.0,88.24284797890306,73436.0,True
+Totatiche,Jalisco,si,2031,832.0,88.24284797890306,73436.0,True
 Tototlán,Jalisco,si,2024,887.0,88.96019496344435,78908.0,False
 Tototlán,Jalisco,si,2025,837.0,88.96019496344435,74451.0,False
 Tototlán,Jalisco,si,2026,785.0,88.96019496344435,69852.0,False
@@ -943,6 +1151,14 @@ Tototlán,Jalisco,si,2028,785.0,88.96019496344435,69852.0,True
 Tototlán,Jalisco,si,2029,785.0,88.96019496344435,69852.0,True
 Tototlán,Jalisco,si,2030,785.0,88.96019496344435,69852.0,True
 Tototlán,Jalisco,si,2031,785.0,88.96019496344435,69852.0,True
+Tuxcacuesco,Jalisco,si,2024,526.0,85.29953917050692,44825.0,False
+Tuxcacuesco,Jalisco,si,2025,497.0,85.29953917050692,42394.0,False
+Tuxcacuesco,Jalisco,si,2026,482.0,85.29953917050692,41114.0,False
+Tuxcacuesco,Jalisco,si,2027,482.0,85.29953917050692,41114.0,True
+Tuxcacuesco,Jalisco,si,2028,482.0,85.29953917050692,41114.0,True
+Tuxcacuesco,Jalisco,si,2029,482.0,85.29953917050692,41114.0,True
+Tuxcacuesco,Jalisco,si,2030,482.0,85.29953917050692,41114.0,True
+Tuxcacuesco,Jalisco,si,2031,482.0,85.29953917050692,41114.0,True
 Tuxcueca,Jalisco,si,2024,142.0,88.24284797890306,12539.0,False
 Tuxcueca,Jalisco,si,2025,138.0,88.24284797890306,12178.0,False
 Tuxcueca,Jalisco,si,2026,132.0,88.24284797890306,11630.0,False
@@ -951,6 +1167,14 @@ Tuxcueca,Jalisco,si,2028,132.0,88.24284797890306,11630.0,True
 Tuxcueca,Jalisco,si,2029,132.0,88.24284797890306,11630.0,True
 Tuxcueca,Jalisco,si,2030,132.0,88.24284797890306,11630.0,True
 Tuxcueca,Jalisco,si,2031,132.0,88.24284797890306,11630.0,True
+Tuxpan,Jalisco,si,2024,4948.0,90.72810583580613,448895.0,False
+Tuxpan,Jalisco,si,2025,4734.0,90.72810583580613,429525.0,False
+Tuxpan,Jalisco,si,2026,4586.0,90.72810583580613,416034.0,False
+Tuxpan,Jalisco,si,2027,4586.0,90.72810583580613,416034.0,True
+Tuxpan,Jalisco,si,2028,4586.0,90.72810583580613,416034.0,True
+Tuxpan,Jalisco,si,2029,4586.0,90.72810583580613,416034.0,True
+Tuxpan,Jalisco,si,2030,4586.0,90.72810583580613,416034.0,True
+Tuxpan,Jalisco,si,2031,4586.0,90.72810583580613,416034.0,True
 Unión de San Antonio,Jalisco,si,2024,1081.0,88.24284797890306,95399.0,False
 Unión de San Antonio,Jalisco,si,2025,981.0,88.24284797890306,86557.0,False
 Unión de San Antonio,Jalisco,si,2026,956.0,88.24284797890306,84343.0,False
@@ -959,14 +1183,14 @@ Unión de San Antonio,Jalisco,si,2028,956.0,88.24284797890306,84343.0,True
 Unión de San Antonio,Jalisco,si,2029,956.0,88.24284797890306,84343.0,True
 Unión de San Antonio,Jalisco,si,2030,956.0,88.24284797890306,84343.0,True
 Unión de San Antonio,Jalisco,si,2031,956.0,88.24284797890306,84343.0,True
-Unión de Tula,Jalisco,si,2024,437.0,88.24284797890306,38562.0,False
-Unión de Tula,Jalisco,si,2025,416.0,88.24284797890306,36735.0,False
-Unión de Tula,Jalisco,si,2026,384.0,88.24284797890306,33929.0,False
-Unión de Tula,Jalisco,si,2027,384.0,88.24284797890306,33929.0,True
-Unión de Tula,Jalisco,si,2028,384.0,88.24284797890306,33929.0,True
-Unión de Tula,Jalisco,si,2029,384.0,88.24284797890306,33929.0,True
-Unión de Tula,Jalisco,si,2030,384.0,88.24284797890306,33929.0,True
-Unión de Tula,Jalisco,si,2031,384.0,88.24284797890306,33929.0,True
+Unión de Tula,Jalisco,si,2024,453.0,88.24284797890306,39956.0,False
+Unión de Tula,Jalisco,si,2025,431.0,88.24284797890306,38068.0,False
+Unión de Tula,Jalisco,si,2026,398.0,88.24284797890306,35147.0,False
+Unión de Tula,Jalisco,si,2027,398.0,88.24284797890306,35147.0,True
+Unión de Tula,Jalisco,si,2028,398.0,88.24284797890306,35147.0,True
+Unión de Tula,Jalisco,si,2029,398.0,88.24284797890306,35147.0,True
+Unión de Tula,Jalisco,si,2030,398.0,88.24284797890306,35147.0,True
+Unión de Tula,Jalisco,si,2031,398.0,88.24284797890306,35147.0,True
 Valle de Guadalupe,Jalisco,si,2024,189.0,90.35356435643564,17095.0,False
 Valle de Guadalupe,Jalisco,si,2025,175.0,90.35356435643564,15830.0,False
 Valle de Guadalupe,Jalisco,si,2026,170.0,90.35356435643564,15405.0,False
@@ -975,14 +1199,14 @@ Valle de Guadalupe,Jalisco,si,2028,170.0,90.35356435643564,15405.0,True
 Valle de Guadalupe,Jalisco,si,2029,170.0,90.35356435643564,15405.0,True
 Valle de Guadalupe,Jalisco,si,2030,170.0,90.35356435643564,15405.0,True
 Valle de Guadalupe,Jalisco,si,2031,170.0,90.35356435643564,15405.0,True
-Valle de Juárez,Jalisco,si,2024,188.0,88.24284797890306,16590.0,False
-Valle de Juárez,Jalisco,si,2025,180.0,88.24284797890306,15875.0,False
-Valle de Juárez,Jalisco,si,2026,179.0,88.24284797890306,15769.0,False
-Valle de Juárez,Jalisco,si,2027,179.0,88.24284797890306,15769.0,True
-Valle de Juárez,Jalisco,si,2028,179.0,88.24284797890306,15769.0,True
-Valle de Juárez,Jalisco,si,2029,179.0,88.24284797890306,15769.0,True
-Valle de Juárez,Jalisco,si,2030,179.0,88.24284797890306,15769.0,True
-Valle de Juárez,Jalisco,si,2031,179.0,88.24284797890306,15769.0,True
+Valle de Juárez,Jalisco,si,2024,323.0,88.24284797890306,28520.0,False
+Valle de Juárez,Jalisco,si,2025,314.0,88.24284797890306,27691.0,False
+Valle de Juárez,Jalisco,si,2026,312.0,88.24284797890306,27567.0,False
+Valle de Juárez,Jalisco,si,2027,312.0,88.24284797890306,27567.0,True
+Valle de Juárez,Jalisco,si,2028,312.0,88.24284797890306,27567.0,True
+Valle de Juárez,Jalisco,si,2029,312.0,88.24284797890306,27567.0,True
+Valle de Juárez,Jalisco,si,2030,312.0,88.24284797890306,27567.0,True
+Valle de Juárez,Jalisco,si,2031,312.0,88.24284797890306,27567.0,True
 Villa Corona,Jalisco,si,2024,572.0,85.77912293853073,49109.0,False
 Villa Corona,Jalisco,si,2025,466.0,85.77912293853073,39956.0,False
 Villa Corona,Jalisco,si,2026,435.0,85.77912293853073,37314.0,False
@@ -991,22 +1215,30 @@ Villa Corona,Jalisco,si,2028,435.0,85.77912293853073,37314.0,True
 Villa Corona,Jalisco,si,2029,435.0,85.77912293853073,37314.0,True
 Villa Corona,Jalisco,si,2030,435.0,85.77912293853073,37314.0,True
 Villa Corona,Jalisco,si,2031,435.0,85.77912293853073,37314.0,True
-Villa Hidalgo,Jalisco,si,2024,938.0,88.24284797890306,82807.0,False
-Villa Hidalgo,Jalisco,si,2025,848.0,88.24284797890306,74874.0,False
-Villa Hidalgo,Jalisco,si,2026,823.0,88.24284797890306,72650.0,False
-Villa Hidalgo,Jalisco,si,2027,823.0,88.24284797890306,72650.0,True
-Villa Hidalgo,Jalisco,si,2028,823.0,88.24284797890306,72650.0,True
-Villa Hidalgo,Jalisco,si,2029,823.0,88.24284797890306,72650.0,True
-Villa Hidalgo,Jalisco,si,2030,823.0,88.24284797890306,72650.0,True
-Villa Hidalgo,Jalisco,si,2031,823.0,88.24284797890306,72650.0,True
-Villa Purificación,Jalisco,si,2024,112.0,88.24284797890306,9910.0,False
-Villa Purificación,Jalisco,si,2025,111.0,88.24284797890306,9813.0,False
-Villa Purificación,Jalisco,si,2026,111.0,88.24284797890306,9768.0,False
-Villa Purificación,Jalisco,si,2027,111.0,88.24284797890306,9768.0,True
-Villa Purificación,Jalisco,si,2028,111.0,88.24284797890306,9768.0,True
-Villa Purificación,Jalisco,si,2029,111.0,88.24284797890306,9768.0,True
-Villa Purificación,Jalisco,si,2030,111.0,88.24284797890306,9768.0,True
-Villa Purificación,Jalisco,si,2031,111.0,88.24284797890306,9768.0,True
+Villa Guerrero,Jalisco,si,2024,532.0,88.24284797890306,46989.0,False
+Villa Guerrero,Jalisco,si,2025,501.0,88.24284797890306,44183.0,False
+Villa Guerrero,Jalisco,si,2026,499.0,88.24284797890306,44016.0,False
+Villa Guerrero,Jalisco,si,2027,499.0,88.24284797890306,44016.0,True
+Villa Guerrero,Jalisco,si,2028,499.0,88.24284797890306,44016.0,True
+Villa Guerrero,Jalisco,si,2029,499.0,88.24284797890306,44016.0,True
+Villa Guerrero,Jalisco,si,2030,499.0,88.24284797890306,44016.0,True
+Villa Guerrero,Jalisco,si,2031,499.0,88.24284797890306,44016.0,True
+Villa Hidalgo,Jalisco,si,2024,1440.0,88.24284797890306,127079.0,False
+Villa Hidalgo,Jalisco,si,2025,1333.0,88.24284797890306,117645.0,False
+Villa Hidalgo,Jalisco,si,2026,1292.0,88.24284797890306,113966.0,False
+Villa Hidalgo,Jalisco,si,2027,1292.0,88.24284797890306,113966.0,True
+Villa Hidalgo,Jalisco,si,2028,1292.0,88.24284797890306,113966.0,True
+Villa Hidalgo,Jalisco,si,2029,1292.0,88.24284797890306,113966.0,True
+Villa Hidalgo,Jalisco,si,2030,1292.0,88.24284797890306,113966.0,True
+Villa Hidalgo,Jalisco,si,2031,1292.0,88.24284797890306,113966.0,True
+Villa Purificación,Jalisco,si,2024,1950.0,88.24284797890306,172065.0,False
+Villa Purificación,Jalisco,si,2025,1925.0,88.24284797890306,169859.0,False
+Villa Purificación,Jalisco,si,2026,1908.0,88.24284797890306,168323.0,False
+Villa Purificación,Jalisco,si,2027,1908.0,88.24284797890306,168323.0,True
+Villa Purificación,Jalisco,si,2028,1908.0,88.24284797890306,168323.0,True
+Villa Purificación,Jalisco,si,2029,1908.0,88.24284797890306,168323.0,True
+Villa Purificación,Jalisco,si,2030,1908.0,88.24284797890306,168323.0,True
+Villa Purificación,Jalisco,si,2031,1908.0,88.24284797890306,168323.0,True
 Yahualica de González Gallo,Jalisco,si,2024,624.0,85.974108040201,53613.0,False
 Yahualica de González Gallo,Jalisco,si,2025,598.0,85.974108040201,51370.0,False
 Yahualica de González Gallo,Jalisco,si,2026,593.0,85.974108040201,50948.0,False
@@ -1031,6 +1263,22 @@ Zapopan,Jalisco,si,2028,5656.0,87.83892430278885,496861.0,True
 Zapopan,Jalisco,si,2029,5656.0,87.83892430278885,496861.0,True
 Zapopan,Jalisco,si,2030,5656.0,87.83892430278885,496861.0,True
 Zapopan,Jalisco,si,2031,5656.0,87.83892430278885,496861.0,True
+Zapotiltic,Jalisco,si,2024,1579.0,87.98118483412321,138949.0,False
+Zapotiltic,Jalisco,si,2025,1442.0,87.98118483412321,126878.0,False
+Zapotiltic,Jalisco,si,2026,1354.0,87.98118483412321,119144.0,False
+Zapotiltic,Jalisco,si,2027,1354.0,87.98118483412321,119144.0,True
+Zapotiltic,Jalisco,si,2028,1354.0,87.98118483412321,119144.0,True
+Zapotiltic,Jalisco,si,2029,1354.0,87.98118483412321,119144.0,True
+Zapotiltic,Jalisco,si,2030,1354.0,87.98118483412321,119144.0,True
+Zapotiltic,Jalisco,si,2031,1354.0,87.98118483412321,119144.0,True
+Zapotitlán de Vadillo,Jalisco,si,2024,301.0,75.49921683046682,22725.0,False
+Zapotitlán de Vadillo,Jalisco,si,2025,295.0,75.49921683046682,22302.0,False
+Zapotitlán de Vadillo,Jalisco,si,2026,292.0,75.49921683046682,22031.0,False
+Zapotitlán de Vadillo,Jalisco,si,2027,292.0,75.49921683046682,22031.0,True
+Zapotitlán de Vadillo,Jalisco,si,2028,292.0,75.49921683046682,22031.0,True
+Zapotitlán de Vadillo,Jalisco,si,2029,292.0,75.49921683046682,22031.0,True
+Zapotitlán de Vadillo,Jalisco,si,2030,292.0,75.49921683046682,22031.0,True
+Zapotitlán de Vadillo,Jalisco,si,2031,292.0,75.49921683046682,22031.0,True
 Zapotlanejo,Jalisco,si,2024,864.0,86.30248175182481,74608.0,False
 Zapotlanejo,Jalisco,si,2025,788.0,86.30248175182481,67972.0,False
 Zapotlanejo,Jalisco,si,2026,764.0,86.30248175182481,65961.0,False
@@ -1047,6 +1295,30 @@ Zapotlán del Rey,Jalisco,si,2028,342.0,92.64486511627908,31675.0,True
 Zapotlán del Rey,Jalisco,si,2029,342.0,92.64486511627908,31675.0,True
 Zapotlán del Rey,Jalisco,si,2030,342.0,92.64486511627908,31675.0,True
 Zapotlán del Rey,Jalisco,si,2031,342.0,92.64486511627908,31675.0,True
+Zapotlán el Grande,Jalisco,si,2024,3762.0,89.56772215139716,336990.0,False
+Zapotlán el Grande,Jalisco,si,2025,3727.0,89.56772215139716,333855.0,False
+Zapotlán el Grande,Jalisco,si,2026,3695.0,89.56772215139716,330971.0,False
+Zapotlán el Grande,Jalisco,si,2027,3695.0,89.56772215139716,330971.0,True
+Zapotlán el Grande,Jalisco,si,2028,3695.0,89.56772215139716,330971.0,True
+Zapotlán el Grande,Jalisco,si,2029,3695.0,89.56772215139716,330971.0,True
+Zapotlán el Grande,Jalisco,si,2030,3695.0,89.56772215139716,330971.0,True
+Zapotlán el Grande,Jalisco,si,2031,3695.0,89.56772215139716,330971.0,True
+Acuitzio,Michoacan de Ocampo,no,2024,396.0,89.37077350165104,35391.0,False
+Acuitzio,Michoacan de Ocampo,no,2025,391.0,89.37077350165104,34926.0,False
+Acuitzio,Michoacan de Ocampo,no,2026,388.0,89.37077350165104,34658.0,False
+Acuitzio,Michoacan de Ocampo,no,2027,388.0,89.37077350165104,34658.0,True
+Acuitzio,Michoacan de Ocampo,no,2028,388.0,89.37077350165104,34658.0,True
+Acuitzio,Michoacan de Ocampo,no,2029,388.0,89.37077350165104,34658.0,True
+Acuitzio,Michoacan de Ocampo,no,2030,388.0,89.37077350165104,34658.0,True
+Acuitzio,Michoacan de Ocampo,no,2031,388.0,89.37077350165104,34658.0,True
+Aguililla,Michoacan de Ocampo,no,2024,404.0,89.37077350165104,36150.0,False
+Aguililla,Michoacan de Ocampo,no,2025,390.0,89.37077350165104,34890.0,False
+Aguililla,Michoacan de Ocampo,no,2026,368.0,89.37077350165104,32880.0,False
+Aguililla,Michoacan de Ocampo,no,2027,368.0,89.37077350165104,32880.0,True
+Aguililla,Michoacan de Ocampo,no,2028,368.0,89.37077350165104,32880.0,True
+Aguililla,Michoacan de Ocampo,no,2029,368.0,89.37077350165104,32880.0,True
+Aguililla,Michoacan de Ocampo,no,2030,368.0,89.37077350165104,32880.0,True
+Aguililla,Michoacan de Ocampo,no,2031,368.0,89.37077350165104,32880.0,True
 Angamacutiro,Michoacan de Ocampo,no,2024,305.0,89.37077350165104,27249.0,False
 Angamacutiro,Michoacan de Ocampo,no,2025,272.0,89.37077350165104,24327.0,False
 Angamacutiro,Michoacan de Ocampo,no,2026,258.0,89.37077350165104,23084.0,False
@@ -1055,6 +1327,46 @@ Angamacutiro,Michoacan de Ocampo,no,2028,258.0,89.37077350165104,23084.0,True
 Angamacutiro,Michoacan de Ocampo,no,2029,258.0,89.37077350165104,23084.0,True
 Angamacutiro,Michoacan de Ocampo,no,2030,258.0,89.37077350165104,23084.0,True
 Angamacutiro,Michoacan de Ocampo,no,2031,258.0,89.37077350165104,23084.0,True
+Angangueo,Michoacan de Ocampo,no,2024,102.0,89.37077350165104,9152.0,False
+Angangueo,Michoacan de Ocampo,no,2025,100.0,89.37077350165104,8982.0,False
+Angangueo,Michoacan de Ocampo,no,2026,99.0,89.37077350165104,8875.0,False
+Angangueo,Michoacan de Ocampo,no,2027,99.0,89.37077350165104,8875.0,True
+Angangueo,Michoacan de Ocampo,no,2028,99.0,89.37077350165104,8875.0,True
+Angangueo,Michoacan de Ocampo,no,2029,99.0,89.37077350165104,8875.0,True
+Angangueo,Michoacan de Ocampo,no,2030,99.0,89.37077350165104,8875.0,True
+Angangueo,Michoacan de Ocampo,no,2031,99.0,89.37077350165104,8875.0,True
+Apatzingán,Michoacan de Ocampo,no,2024,5813.0,89.37077350165104,519503.0,False
+Apatzingán,Michoacan de Ocampo,no,2025,5614.0,89.37077350165104,501745.0,False
+Apatzingán,Michoacan de Ocampo,no,2026,5266.0,89.37077350165104,470591.0,False
+Apatzingán,Michoacan de Ocampo,no,2027,5266.0,89.37077350165104,470591.0,True
+Apatzingán,Michoacan de Ocampo,no,2028,5266.0,89.37077350165104,470591.0,True
+Apatzingán,Michoacan de Ocampo,no,2029,5266.0,89.37077350165104,470591.0,True
+Apatzingán,Michoacan de Ocampo,no,2030,5266.0,89.37077350165104,470591.0,True
+Apatzingán,Michoacan de Ocampo,no,2031,5266.0,89.37077350165104,470591.0,True
+Aporo,Michoacan de Ocampo,no,2024,72.0,89.37077350165104,6417.0,False
+Aporo,Michoacan de Ocampo,no,2025,71.0,89.37077350165104,6319.0,False
+Aporo,Michoacan de Ocampo,no,2026,70.0,89.37077350165104,6292.0,False
+Aporo,Michoacan de Ocampo,no,2027,70.0,89.37077350165104,6292.0,True
+Aporo,Michoacan de Ocampo,no,2028,70.0,89.37077350165104,6292.0,True
+Aporo,Michoacan de Ocampo,no,2029,70.0,89.37077350165104,6292.0,True
+Aporo,Michoacan de Ocampo,no,2030,70.0,89.37077350165104,6292.0,True
+Aporo,Michoacan de Ocampo,no,2031,70.0,89.37077350165104,6292.0,True
+Aquila,Michoacan de Ocampo,no,2024,1087.0,89.37077350165104,97110.0,False
+Aquila,Michoacan de Ocampo,no,2025,1052.0,89.37077350165104,93991.0,False
+Aquila,Michoacan de Ocampo,no,2026,1042.0,89.37077350165104,93115.0,False
+Aquila,Michoacan de Ocampo,no,2027,1042.0,89.37077350165104,93115.0,True
+Aquila,Michoacan de Ocampo,no,2028,1042.0,89.37077350165104,93115.0,True
+Aquila,Michoacan de Ocampo,no,2029,1042.0,89.37077350165104,93115.0,True
+Aquila,Michoacan de Ocampo,no,2030,1042.0,89.37077350165104,93115.0,True
+Aquila,Michoacan de Ocampo,no,2031,1042.0,89.37077350165104,93115.0,True
+Ario,Michoacan de Ocampo,no,2024,1761.0,89.37077350165104,157346.0,False
+Ario,Michoacan de Ocampo,no,2025,1701.0,89.37077350165104,152038.0,False
+Ario,Michoacan de Ocampo,no,2026,1665.0,89.37077350165104,148793.0,False
+Ario,Michoacan de Ocampo,no,2027,1665.0,89.37077350165104,148793.0,True
+Ario,Michoacan de Ocampo,no,2028,1665.0,89.37077350165104,148793.0,True
+Ario,Michoacan de Ocampo,no,2029,1665.0,89.37077350165104,148793.0,True
+Ario,Michoacan de Ocampo,no,2030,1665.0,89.37077350165104,148793.0,True
+Ario,Michoacan de Ocampo,no,2031,1665.0,89.37077350165104,148793.0,True
 Briseñas,Michoacan de Ocampo,si,2024,369.0,89.37077350165104,32960.0,False
 Briseñas,Michoacan de Ocampo,si,2025,339.0,89.37077350165104,30306.0,False
 Briseñas,Michoacan de Ocampo,si,2026,298.0,89.37077350165104,26668.0,False
@@ -1063,6 +1375,38 @@ Briseñas,Michoacan de Ocampo,si,2028,298.0,89.37077350165104,26668.0,True
 Briseñas,Michoacan de Ocampo,si,2029,298.0,89.37077350165104,26668.0,True
 Briseñas,Michoacan de Ocampo,si,2030,298.0,89.37077350165104,26668.0,True
 Briseñas,Michoacan de Ocampo,si,2031,298.0,89.37077350165104,26668.0,True
+Buenavista,Michoacan de Ocampo,no,2024,7272.0,89.37077350165104,649860.0,False
+Buenavista,Michoacan de Ocampo,no,2025,6916.0,89.37077350165104,618106.0,False
+Buenavista,Michoacan de Ocampo,no,2026,6650.0,89.37077350165104,594298.0,False
+Buenavista,Michoacan de Ocampo,no,2027,6650.0,89.37077350165104,594298.0,True
+Buenavista,Michoacan de Ocampo,no,2028,6650.0,89.37077350165104,594298.0,True
+Buenavista,Michoacan de Ocampo,no,2029,6650.0,89.37077350165104,594298.0,True
+Buenavista,Michoacan de Ocampo,no,2030,6650.0,89.37077350165104,594298.0,True
+Buenavista,Michoacan de Ocampo,no,2031,6650.0,89.37077350165104,594298.0,True
+Carácuaro,Michoacan de Ocampo,no,2024,169.0,89.37077350165104,15086.0,False
+Carácuaro,Michoacan de Ocampo,no,2025,168.0,89.37077350165104,14987.0,False
+Carácuaro,Michoacan de Ocampo,no,2026,168.0,89.37077350165104,14979.0,False
+Carácuaro,Michoacan de Ocampo,no,2027,168.0,89.37077350165104,14979.0,True
+Carácuaro,Michoacan de Ocampo,no,2028,168.0,89.37077350165104,14979.0,True
+Carácuaro,Michoacan de Ocampo,no,2029,168.0,89.37077350165104,14979.0,True
+Carácuaro,Michoacan de Ocampo,no,2030,168.0,89.37077350165104,14979.0,True
+Carácuaro,Michoacan de Ocampo,no,2031,168.0,89.37077350165104,14979.0,True
+Charapan,Michoacan de Ocampo,no,2024,1327.0,89.37077350165104,118586.0,False
+Charapan,Michoacan de Ocampo,no,2025,1310.0,89.37077350165104,117103.0,False
+Charapan,Michoacan de Ocampo,no,2026,1306.0,89.37077350165104,116736.0,False
+Charapan,Michoacan de Ocampo,no,2027,1306.0,89.37077350165104,116736.0,True
+Charapan,Michoacan de Ocampo,no,2028,1306.0,89.37077350165104,116736.0,True
+Charapan,Michoacan de Ocampo,no,2029,1306.0,89.37077350165104,116736.0,True
+Charapan,Michoacan de Ocampo,no,2030,1306.0,89.37077350165104,116736.0,True
+Charapan,Michoacan de Ocampo,no,2031,1306.0,89.37077350165104,116736.0,True
+Charo,Michoacan de Ocampo,no,2024,324.0,75.2950925925926,24433.0,False
+Charo,Michoacan de Ocampo,no,2025,307.0,75.2950925925926,23116.0,False
+Charo,Michoacan de Ocampo,no,2026,301.0,75.2950925925926,22671.0,False
+Charo,Michoacan de Ocampo,no,2027,301.0,75.2950925925926,22671.0,True
+Charo,Michoacan de Ocampo,no,2028,301.0,75.2950925925926,22671.0,True
+Charo,Michoacan de Ocampo,no,2029,301.0,75.2950925925926,22671.0,True
+Charo,Michoacan de Ocampo,no,2030,301.0,75.2950925925926,22671.0,True
+Charo,Michoacan de Ocampo,no,2031,301.0,75.2950925925926,22671.0,True
 Chavinda,Michoacan de Ocampo,si,2024,165.0,89.37077350165104,14728.0,False
 Chavinda,Michoacan de Ocampo,si,2025,144.0,89.37077350165104,12887.0,False
 Chavinda,Michoacan de Ocampo,si,2026,136.0,89.37077350165104,12199.0,False
@@ -1071,22 +1415,38 @@ Chavinda,Michoacan de Ocampo,si,2028,136.0,89.37077350165104,12199.0,True
 Chavinda,Michoacan de Ocampo,si,2029,136.0,89.37077350165104,12199.0,True
 Chavinda,Michoacan de Ocampo,si,2030,136.0,89.37077350165104,12199.0,True
 Chavinda,Michoacan de Ocampo,si,2031,136.0,89.37077350165104,12199.0,True
-Chilchota,Michoacan de Ocampo,si,2024,56.0,89.37077350165104,4969.0,False
-Chilchota,Michoacan de Ocampo,si,2025,53.0,89.37077350165104,4701.0,False
-Chilchota,Michoacan de Ocampo,si,2026,52.0,89.37077350165104,4638.0,False
-Chilchota,Michoacan de Ocampo,si,2027,52.0,89.37077350165104,4638.0,True
-Chilchota,Michoacan de Ocampo,si,2028,52.0,89.37077350165104,4638.0,True
-Chilchota,Michoacan de Ocampo,si,2029,52.0,89.37077350165104,4638.0,True
-Chilchota,Michoacan de Ocampo,si,2030,52.0,89.37077350165104,4638.0,True
-Chilchota,Michoacan de Ocampo,si,2031,52.0,89.37077350165104,4638.0,True
-Chucándiro,Michoacan de Ocampo,no,2024,421.0,89.37077350165104,37643.0,False
-Chucándiro,Michoacan de Ocampo,no,2025,416.0,89.37077350165104,37142.0,False
-Chucándiro,Michoacan de Ocampo,no,2026,412.0,89.37077350165104,36821.0,False
-Chucándiro,Michoacan de Ocampo,no,2027,412.0,89.37077350165104,36821.0,True
-Chucándiro,Michoacan de Ocampo,no,2028,412.0,89.37077350165104,36821.0,True
-Chucándiro,Michoacan de Ocampo,no,2029,412.0,89.37077350165104,36821.0,True
-Chucándiro,Michoacan de Ocampo,no,2030,412.0,89.37077350165104,36821.0,True
-Chucándiro,Michoacan de Ocampo,no,2031,412.0,89.37077350165104,36821.0,True
+Cherán,Michoacan de Ocampo,no,2024,472.0,89.37077350165104,42201.0,False
+Cherán,Michoacan de Ocampo,no,2025,461.0,89.37077350165104,41200.0,False
+Cherán,Michoacan de Ocampo,no,2026,459.0,89.37077350165104,41048.0,False
+Cherán,Michoacan de Ocampo,no,2027,459.0,89.37077350165104,41048.0,True
+Cherán,Michoacan de Ocampo,no,2028,459.0,89.37077350165104,41048.0,True
+Cherán,Michoacan de Ocampo,no,2029,459.0,89.37077350165104,41048.0,True
+Cherán,Michoacan de Ocampo,no,2030,459.0,89.37077350165104,41048.0,True
+Cherán,Michoacan de Ocampo,no,2031,459.0,89.37077350165104,41048.0,True
+Chilchota,Michoacan de Ocampo,si,2024,733.0,89.37077350165104,65527.0,False
+Chilchota,Michoacan de Ocampo,si,2025,710.0,89.37077350165104,63409.0,False
+Chilchota,Michoacan de Ocampo,si,2026,701.0,89.37077350165104,62631.0,False
+Chilchota,Michoacan de Ocampo,si,2027,701.0,89.37077350165104,62631.0,True
+Chilchota,Michoacan de Ocampo,si,2028,701.0,89.37077350165104,62631.0,True
+Chilchota,Michoacan de Ocampo,si,2029,701.0,89.37077350165104,62631.0,True
+Chilchota,Michoacan de Ocampo,si,2030,701.0,89.37077350165104,62631.0,True
+Chilchota,Michoacan de Ocampo,si,2031,701.0,89.37077350165104,62631.0,True
+Chinicuila,Michoacan de Ocampo,no,2024,448.0,89.37077350165104,40002.0,False
+Chinicuila,Michoacan de Ocampo,no,2025,437.0,89.37077350165104,39019.0,False
+Chinicuila,Michoacan de Ocampo,no,2026,432.0,89.37077350165104,38635.0,False
+Chinicuila,Michoacan de Ocampo,no,2027,432.0,89.37077350165104,38635.0,True
+Chinicuila,Michoacan de Ocampo,no,2028,432.0,89.37077350165104,38635.0,True
+Chinicuila,Michoacan de Ocampo,no,2029,432.0,89.37077350165104,38635.0,True
+Chinicuila,Michoacan de Ocampo,no,2030,432.0,89.37077350165104,38635.0,True
+Chinicuila,Michoacan de Ocampo,no,2031,432.0,89.37077350165104,38635.0,True
+Chucándiro,Michoacan de Ocampo,no,2024,556.0,89.37077350165104,49717.0,False
+Chucándiro,Michoacan de Ocampo,no,2025,550.0,89.37077350165104,49172.0,False
+Chucándiro,Michoacan de Ocampo,no,2026,546.0,89.37077350165104,48832.0,False
+Chucándiro,Michoacan de Ocampo,no,2027,546.0,89.37077350165104,48832.0,True
+Chucándiro,Michoacan de Ocampo,no,2028,546.0,89.37077350165104,48832.0,True
+Chucándiro,Michoacan de Ocampo,no,2029,546.0,89.37077350165104,48832.0,True
+Chucándiro,Michoacan de Ocampo,no,2030,546.0,89.37077350165104,48832.0,True
+Chucándiro,Michoacan de Ocampo,no,2031,546.0,89.37077350165104,48832.0,True
 Churintzio,Michoacan de Ocampo,si,2024,270.0,103.03096992481203,27849.0,False
 Churintzio,Michoacan de Ocampo,si,2025,257.0,103.03096992481203,26510.0,False
 Churintzio,Michoacan de Ocampo,si,2026,247.0,103.03096992481203,25438.0,False
@@ -1095,14 +1455,30 @@ Churintzio,Michoacan de Ocampo,si,2028,247.0,103.03096992481203,25438.0,True
 Churintzio,Michoacan de Ocampo,si,2029,247.0,103.03096992481203,25438.0,True
 Churintzio,Michoacan de Ocampo,si,2030,247.0,103.03096992481203,25438.0,True
 Churintzio,Michoacan de Ocampo,si,2031,247.0,103.03096992481203,25438.0,True
-Coeneo,Michoacan de Ocampo,no,2024,60.0,89.37077350165104,5380.0,False
-Coeneo,Michoacan de Ocampo,no,2025,56.0,89.37077350165104,5049.0,False
-Coeneo,Michoacan de Ocampo,no,2026,56.0,89.37077350165104,5032.0,False
-Coeneo,Michoacan de Ocampo,no,2027,56.0,89.37077350165104,5032.0,True
-Coeneo,Michoacan de Ocampo,no,2028,56.0,89.37077350165104,5032.0,True
-Coeneo,Michoacan de Ocampo,no,2029,56.0,89.37077350165104,5032.0,True
-Coeneo,Michoacan de Ocampo,no,2030,56.0,89.37077350165104,5032.0,True
-Coeneo,Michoacan de Ocampo,no,2031,56.0,89.37077350165104,5032.0,True
+Coahuayana,Michoacan de Ocampo,no,2024,652.0,89.37077350165104,58234.0,False
+Coahuayana,Michoacan de Ocampo,no,2025,617.0,89.37077350165104,55151.0,False
+Coahuayana,Michoacan de Ocampo,no,2026,594.0,89.37077350165104,53113.0,False
+Coahuayana,Michoacan de Ocampo,no,2027,594.0,89.37077350165104,53113.0,True
+Coahuayana,Michoacan de Ocampo,no,2028,594.0,89.37077350165104,53113.0,True
+Coahuayana,Michoacan de Ocampo,no,2029,594.0,89.37077350165104,53113.0,True
+Coahuayana,Michoacan de Ocampo,no,2030,594.0,89.37077350165104,53113.0,True
+Coahuayana,Michoacan de Ocampo,no,2031,594.0,89.37077350165104,53113.0,True
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2024,604.0,89.37077350165104,54016.0,False
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2025,585.0,89.37077350165104,52291.0,False
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2026,582.0,89.37077350165104,51969.0,False
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2027,582.0,89.37077350165104,51969.0,True
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2028,582.0,89.37077350165104,51969.0,True
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2029,582.0,89.37077350165104,51969.0,True
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2030,582.0,89.37077350165104,51969.0,True
+Coalcomán de Vázquez Pallares,Michoacan de Ocampo,no,2031,582.0,89.37077350165104,51969.0,True
+Coeneo,Michoacan de Ocampo,no,2024,1048.0,89.37077350165104,93652.0,False
+Coeneo,Michoacan de Ocampo,no,2025,992.0,89.37077350165104,88665.0,False
+Coeneo,Michoacan de Ocampo,no,2026,988.0,89.37077350165104,88280.0,False
+Coeneo,Michoacan de Ocampo,no,2027,988.0,89.37077350165104,88280.0,True
+Coeneo,Michoacan de Ocampo,no,2028,988.0,89.37077350165104,88280.0,True
+Coeneo,Michoacan de Ocampo,no,2029,988.0,89.37077350165104,88280.0,True
+Coeneo,Michoacan de Ocampo,no,2030,988.0,89.37077350165104,88280.0,True
+Coeneo,Michoacan de Ocampo,no,2031,988.0,89.37077350165104,88280.0,True
 Cojumatlán de Régules,Michoacan de Ocampo,si,2024,216.0,89.37077350165104,19259.0,False
 Cojumatlán de Régules,Michoacan de Ocampo,si,2025,199.0,89.37077350165104,17776.0,False
 Cojumatlán de Régules,Michoacan de Ocampo,si,2026,190.0,89.37077350165104,16998.0,False
@@ -1111,22 +1487,30 @@ Cojumatlán de Régules,Michoacan de Ocampo,si,2028,190.0,89.37077350165104,1699
 Cojumatlán de Régules,Michoacan de Ocampo,si,2029,190.0,89.37077350165104,16998.0,True
 Cojumatlán de Régules,Michoacan de Ocampo,si,2030,190.0,89.37077350165104,16998.0,True
 Cojumatlán de Régules,Michoacan de Ocampo,si,2031,190.0,89.37077350165104,16998.0,True
-Copándaro,Michoacan de Ocampo,no,2024,206.0,89.37077350165104,18437.0,False
-Copándaro,Michoacan de Ocampo,no,2025,196.0,89.37077350165104,17490.0,False
-Copándaro,Michoacan de Ocampo,no,2026,186.0,89.37077350165104,16623.0,False
-Copándaro,Michoacan de Ocampo,no,2027,186.0,89.37077350165104,16623.0,True
-Copándaro,Michoacan de Ocampo,no,2028,186.0,89.37077350165104,16623.0,True
-Copándaro,Michoacan de Ocampo,no,2029,186.0,89.37077350165104,16623.0,True
-Copándaro,Michoacan de Ocampo,no,2030,186.0,89.37077350165104,16623.0,True
-Copándaro,Michoacan de Ocampo,no,2031,186.0,89.37077350165104,16623.0,True
-Cotija,Michoacan de Ocampo,si,2024,43.0,89.37077350165104,3834.0,False
-Cotija,Michoacan de Ocampo,si,2025,42.0,89.37077350165104,3763.0,False
-Cotija,Michoacan de Ocampo,si,2026,42.0,89.37077350165104,3727.0,False
-Cotija,Michoacan de Ocampo,si,2027,42.0,89.37077350165104,3727.0,True
-Cotija,Michoacan de Ocampo,si,2028,42.0,89.37077350165104,3727.0,True
-Cotija,Michoacan de Ocampo,si,2029,42.0,89.37077350165104,3727.0,True
-Cotija,Michoacan de Ocampo,si,2030,42.0,89.37077350165104,3727.0,True
-Cotija,Michoacan de Ocampo,si,2031,42.0,89.37077350165104,3727.0,True
+Contepec,Michoacan de Ocampo,no,2024,702.0,50.940869565217405,35755.0,False
+Contepec,Michoacan de Ocampo,no,2025,675.0,50.940869565217405,34385.0,False
+Contepec,Michoacan de Ocampo,no,2026,673.0,50.940869565217405,34273.0,False
+Contepec,Michoacan de Ocampo,no,2027,673.0,50.940869565217405,34273.0,True
+Contepec,Michoacan de Ocampo,no,2028,673.0,50.940869565217405,34273.0,True
+Contepec,Michoacan de Ocampo,no,2029,673.0,50.940869565217405,34273.0,True
+Contepec,Michoacan de Ocampo,no,2030,673.0,50.940869565217405,34273.0,True
+Contepec,Michoacan de Ocampo,no,2031,673.0,50.940869565217405,34273.0,True
+Copándaro,Michoacan de Ocampo,no,2024,245.0,89.37077350165104,21860.0,False
+Copándaro,Michoacan de Ocampo,no,2025,234.0,89.37077350165104,20868.0,False
+Copándaro,Michoacan de Ocampo,no,2026,224.0,89.37077350165104,19983.0,False
+Copándaro,Michoacan de Ocampo,no,2027,224.0,89.37077350165104,19983.0,True
+Copándaro,Michoacan de Ocampo,no,2028,224.0,89.37077350165104,19983.0,True
+Copándaro,Michoacan de Ocampo,no,2029,224.0,89.37077350165104,19983.0,True
+Copándaro,Michoacan de Ocampo,no,2030,224.0,89.37077350165104,19983.0,True
+Copándaro,Michoacan de Ocampo,no,2031,224.0,89.37077350165104,19983.0,True
+Cotija,Michoacan de Ocampo,si,2024,1077.0,89.37077350165104,96261.0,False
+Cotija,Michoacan de Ocampo,si,2025,1025.0,89.37077350165104,91641.0,False
+Cotija,Michoacan de Ocampo,si,2026,976.0,89.37077350165104,87208.0,False
+Cotija,Michoacan de Ocampo,si,2027,976.0,89.37077350165104,87208.0,True
+Cotija,Michoacan de Ocampo,si,2028,976.0,89.37077350165104,87208.0,True
+Cotija,Michoacan de Ocampo,si,2029,976.0,89.37077350165104,87208.0,True
+Cotija,Michoacan de Ocampo,si,2030,976.0,89.37077350165104,87208.0,True
+Cotija,Michoacan de Ocampo,si,2031,976.0,89.37077350165104,87208.0,True
 Cuitzeo,Michoacan de Ocampo,no,2024,444.0,89.37077350165104,39690.0,False
 Cuitzeo,Michoacan de Ocampo,no,2025,424.0,89.37077350165104,37938.0,False
 Cuitzeo,Michoacan de Ocampo,no,2026,412.0,89.37077350165104,36776.0,False
@@ -1143,6 +1527,38 @@ Ecuandureo,Michoacan de Ocampo,si,2028,269.0,89.37077350165104,24050.0,True
 Ecuandureo,Michoacan de Ocampo,si,2029,269.0,89.37077350165104,24050.0,True
 Ecuandureo,Michoacan de Ocampo,si,2030,269.0,89.37077350165104,24050.0,True
 Ecuandureo,Michoacan de Ocampo,si,2031,269.0,89.37077350165104,24050.0,True
+Epitacio Huerta,Michoacan de Ocampo,no,2024,842.0,89.37077350165104,75223.0,False
+Epitacio Huerta,Michoacan de Ocampo,no,2025,774.0,89.37077350165104,69164.0,False
+Epitacio Huerta,Michoacan de Ocampo,no,2026,772.0,89.37077350165104,69012.0,False
+Epitacio Huerta,Michoacan de Ocampo,no,2027,772.0,89.37077350165104,69012.0,True
+Epitacio Huerta,Michoacan de Ocampo,no,2028,772.0,89.37077350165104,69012.0,True
+Epitacio Huerta,Michoacan de Ocampo,no,2029,772.0,89.37077350165104,69012.0,True
+Epitacio Huerta,Michoacan de Ocampo,no,2030,772.0,89.37077350165104,69012.0,True
+Epitacio Huerta,Michoacan de Ocampo,no,2031,772.0,89.37077350165104,69012.0,True
+Erongarícuaro,Michoacan de Ocampo,no,2024,321.0,89.37077350165104,28670.0,False
+Erongarícuaro,Michoacan de Ocampo,no,2025,316.0,89.37077350165104,28286.0,False
+Erongarícuaro,Michoacan de Ocampo,no,2026,311.0,89.37077350165104,27821.0,False
+Erongarícuaro,Michoacan de Ocampo,no,2027,311.0,89.37077350165104,27821.0,True
+Erongarícuaro,Michoacan de Ocampo,no,2028,311.0,89.37077350165104,27821.0,True
+Erongarícuaro,Michoacan de Ocampo,no,2029,311.0,89.37077350165104,27821.0,True
+Erongarícuaro,Michoacan de Ocampo,no,2030,311.0,89.37077350165104,27821.0,True
+Erongarícuaro,Michoacan de Ocampo,no,2031,311.0,89.37077350165104,27821.0,True
+Gabriel Zamora,Michoacan de Ocampo,no,2024,1678.0,89.37077350165104,149955.0,False
+Gabriel Zamora,Michoacan de Ocampo,no,2025,1636.0,89.37077350165104,146255.0,False
+Gabriel Zamora,Michoacan de Ocampo,no,2026,1603.0,89.37077350165104,143235.0,False
+Gabriel Zamora,Michoacan de Ocampo,no,2027,1603.0,89.37077350165104,143235.0,True
+Gabriel Zamora,Michoacan de Ocampo,no,2028,1603.0,89.37077350165104,143235.0,True
+Gabriel Zamora,Michoacan de Ocampo,no,2029,1603.0,89.37077350165104,143235.0,True
+Gabriel Zamora,Michoacan de Ocampo,no,2030,1603.0,89.37077350165104,143235.0,True
+Gabriel Zamora,Michoacan de Ocampo,no,2031,1603.0,89.37077350165104,143235.0,True
+Hidalgo,Michoacan de Ocampo,no,2024,1027.0,89.37077350165104,91811.0,False
+Hidalgo,Michoacan de Ocampo,no,2025,1009.0,89.37077350165104,90148.0,False
+Hidalgo,Michoacan de Ocampo,no,2026,1004.0,89.37077350165104,89773.0,False
+Hidalgo,Michoacan de Ocampo,no,2027,1004.0,89.37077350165104,89773.0,True
+Hidalgo,Michoacan de Ocampo,no,2028,1004.0,89.37077350165104,89773.0,True
+Hidalgo,Michoacan de Ocampo,no,2029,1004.0,89.37077350165104,89773.0,True
+Hidalgo,Michoacan de Ocampo,no,2030,1004.0,89.37077350165104,89773.0,True
+Hidalgo,Michoacan de Ocampo,no,2031,1004.0,89.37077350165104,89773.0,True
 Huandacareo,Michoacan de Ocampo,no,2024,212.0,89.37077350165104,18902.0,False
 Huandacareo,Michoacan de Ocampo,no,2025,205.0,89.37077350165104,18339.0,False
 Huandacareo,Michoacan de Ocampo,no,2026,196.0,89.37077350165104,17490.0,False
@@ -1151,14 +1567,38 @@ Huandacareo,Michoacan de Ocampo,no,2028,196.0,89.37077350165104,17490.0,True
 Huandacareo,Michoacan de Ocampo,no,2029,196.0,89.37077350165104,17490.0,True
 Huandacareo,Michoacan de Ocampo,no,2030,196.0,89.37077350165104,17490.0,True
 Huandacareo,Michoacan de Ocampo,no,2031,196.0,89.37077350165104,17490.0,True
-Huaniqueo,Michoacan de Ocampo,no,2024,344.0,89.37077350165104,30699.0,False
-Huaniqueo,Michoacan de Ocampo,no,2025,337.0,89.37077350165104,30118.0,False
-Huaniqueo,Michoacan de Ocampo,no,2026,337.0,89.37077350165104,30082.0,False
-Huaniqueo,Michoacan de Ocampo,no,2027,337.0,89.37077350165104,30082.0,True
-Huaniqueo,Michoacan de Ocampo,no,2028,337.0,89.37077350165104,30082.0,True
-Huaniqueo,Michoacan de Ocampo,no,2029,337.0,89.37077350165104,30082.0,True
-Huaniqueo,Michoacan de Ocampo,no,2030,337.0,89.37077350165104,30082.0,True
-Huaniqueo,Michoacan de Ocampo,no,2031,337.0,89.37077350165104,30082.0,True
+Huaniqueo,Michoacan de Ocampo,no,2024,452.0,89.37077350165104,40422.0,False
+Huaniqueo,Michoacan de Ocampo,no,2025,434.0,89.37077350165104,38823.0,False
+Huaniqueo,Michoacan de Ocampo,no,2026,433.0,89.37077350165104,38689.0,False
+Huaniqueo,Michoacan de Ocampo,no,2027,433.0,89.37077350165104,38689.0,True
+Huaniqueo,Michoacan de Ocampo,no,2028,433.0,89.37077350165104,38689.0,True
+Huaniqueo,Michoacan de Ocampo,no,2029,433.0,89.37077350165104,38689.0,True
+Huaniqueo,Michoacan de Ocampo,no,2030,433.0,89.37077350165104,38689.0,True
+Huaniqueo,Michoacan de Ocampo,no,2031,433.0,89.37077350165104,38689.0,True
+Huiramba,Michoacan de Ocampo,no,2024,272.0,89.37077350165104,24318.0,False
+Huiramba,Michoacan de Ocampo,no,2025,269.0,89.37077350165104,24059.0,False
+Huiramba,Michoacan de Ocampo,no,2026,268.0,89.37077350165104,23996.0,False
+Huiramba,Michoacan de Ocampo,no,2027,268.0,89.37077350165104,23996.0,True
+Huiramba,Michoacan de Ocampo,no,2028,268.0,89.37077350165104,23996.0,True
+Huiramba,Michoacan de Ocampo,no,2029,268.0,89.37077350165104,23996.0,True
+Huiramba,Michoacan de Ocampo,no,2030,268.0,89.37077350165104,23996.0,True
+Huiramba,Michoacan de Ocampo,no,2031,268.0,89.37077350165104,23996.0,True
+Indaparapeo,Michoacan de Ocampo,no,2024,278.0,89.37077350165104,24881.0,False
+Indaparapeo,Michoacan de Ocampo,no,2025,265.0,89.37077350165104,23692.0,False
+Indaparapeo,Michoacan de Ocampo,no,2026,262.0,89.37077350165104,23415.0,False
+Indaparapeo,Michoacan de Ocampo,no,2027,262.0,89.37077350165104,23415.0,True
+Indaparapeo,Michoacan de Ocampo,no,2028,262.0,89.37077350165104,23415.0,True
+Indaparapeo,Michoacan de Ocampo,no,2029,262.0,89.37077350165104,23415.0,True
+Indaparapeo,Michoacan de Ocampo,no,2030,262.0,89.37077350165104,23415.0,True
+Indaparapeo,Michoacan de Ocampo,no,2031,262.0,89.37077350165104,23415.0,True
+Irimbo,Michoacan de Ocampo,no,2024,364.0,89.37077350165104,32540.0,False
+Irimbo,Michoacan de Ocampo,no,2025,349.0,89.37077350165104,31173.0,False
+Irimbo,Michoacan de Ocampo,no,2026,340.0,89.37077350165104,30431.0,False
+Irimbo,Michoacan de Ocampo,no,2027,340.0,89.37077350165104,30431.0,True
+Irimbo,Michoacan de Ocampo,no,2028,340.0,89.37077350165104,30431.0,True
+Irimbo,Michoacan de Ocampo,no,2029,340.0,89.37077350165104,30431.0,True
+Irimbo,Michoacan de Ocampo,no,2030,340.0,89.37077350165104,30431.0,True
+Irimbo,Michoacan de Ocampo,no,2031,340.0,89.37077350165104,30431.0,True
 Ixtlán,Michoacan de Ocampo,no,2024,285.0,89.37077350165104,25480.0,False
 Ixtlán,Michoacan de Ocampo,no,2025,266.0,89.37077350165104,23808.0,False
 Ixtlán,Michoacan de Ocampo,no,2026,249.0,89.37077350165104,22262.0,False
@@ -1167,14 +1607,14 @@ Ixtlán,Michoacan de Ocampo,no,2028,249.0,89.37077350165104,22262.0,True
 Ixtlán,Michoacan de Ocampo,no,2029,249.0,89.37077350165104,22262.0,True
 Ixtlán,Michoacan de Ocampo,no,2030,249.0,89.37077350165104,22262.0,True
 Ixtlán,Michoacan de Ocampo,no,2031,249.0,89.37077350165104,22262.0,True
-Jacona,Michoacan de Ocampo,si,2024,240.0,89.37077350165104,21467.0,False
-Jacona,Michoacan de Ocampo,si,2025,224.0,89.37077350165104,20001.0,False
-Jacona,Michoacan de Ocampo,si,2026,219.0,89.37077350165104,19563.0,False
-Jacona,Michoacan de Ocampo,si,2027,219.0,89.37077350165104,19563.0,True
-Jacona,Michoacan de Ocampo,si,2028,219.0,89.37077350165104,19563.0,True
-Jacona,Michoacan de Ocampo,si,2029,219.0,89.37077350165104,19563.0,True
-Jacona,Michoacan de Ocampo,si,2030,219.0,89.37077350165104,19563.0,True
-Jacona,Michoacan de Ocampo,si,2031,219.0,89.37077350165104,19563.0,True
+Jacona,Michoacan de Ocampo,si,2024,240.0,89.37077350165104,21494.0,False
+Jacona,Michoacan de Ocampo,si,2025,224.0,89.37077350165104,20028.0,False
+Jacona,Michoacan de Ocampo,si,2026,219.0,89.37077350165104,19590.0,False
+Jacona,Michoacan de Ocampo,si,2027,219.0,89.37077350165104,19590.0,True
+Jacona,Michoacan de Ocampo,si,2028,219.0,89.37077350165104,19590.0,True
+Jacona,Michoacan de Ocampo,si,2029,219.0,89.37077350165104,19590.0,True
+Jacona,Michoacan de Ocampo,si,2030,219.0,89.37077350165104,19590.0,True
+Jacona,Michoacan de Ocampo,si,2031,219.0,89.37077350165104,19590.0,True
 Jiménez,Michoacan de Ocampo,no,2024,510.0,89.37077350165104,45543.0,False
 Jiménez,Michoacan de Ocampo,no,2025,498.0,89.37077350165104,44480.0,False
 Jiménez,Michoacan de Ocampo,no,2026,495.0,89.37077350165104,44230.0,False
@@ -1183,14 +1623,14 @@ Jiménez,Michoacan de Ocampo,no,2028,495.0,89.37077350165104,44230.0,True
 Jiménez,Michoacan de Ocampo,no,2029,495.0,89.37077350165104,44230.0,True
 Jiménez,Michoacan de Ocampo,no,2030,495.0,89.37077350165104,44230.0,True
 Jiménez,Michoacan de Ocampo,no,2031,495.0,89.37077350165104,44230.0,True
-Jiquilpan,Michoacan de Ocampo,si,2024,448.0,109.15042692939245,48943.0,False
-Jiquilpan,Michoacan de Ocampo,si,2025,421.0,109.15042692939245,45930.0,False
-Jiquilpan,Michoacan de Ocampo,si,2026,402.0,109.15042692939245,43835.0,False
-Jiquilpan,Michoacan de Ocampo,si,2027,402.0,109.15042692939245,43835.0,True
-Jiquilpan,Michoacan de Ocampo,si,2028,402.0,109.15042692939245,43835.0,True
-Jiquilpan,Michoacan de Ocampo,si,2029,402.0,109.15042692939245,43835.0,True
-Jiquilpan,Michoacan de Ocampo,si,2030,402.0,109.15042692939245,43835.0,True
-Jiquilpan,Michoacan de Ocampo,si,2031,402.0,109.15042692939245,43835.0,True
+Jiquilpan,Michoacan de Ocampo,si,2024,456.0,109.15042692939245,49794.0,False
+Jiquilpan,Michoacan de Ocampo,si,2025,429.0,109.15042692939245,46782.0,False
+Jiquilpan,Michoacan de Ocampo,si,2026,409.0,109.15042692939245,44686.0,False
+Jiquilpan,Michoacan de Ocampo,si,2027,409.0,109.15042692939245,44686.0,True
+Jiquilpan,Michoacan de Ocampo,si,2028,409.0,109.15042692939245,44686.0,True
+Jiquilpan,Michoacan de Ocampo,si,2029,409.0,109.15042692939245,44686.0,True
+Jiquilpan,Michoacan de Ocampo,si,2030,409.0,109.15042692939245,44686.0,True
+Jiquilpan,Michoacan de Ocampo,si,2031,409.0,109.15042692939245,44686.0,True
 José Sixto Verduzco,Michoacan de Ocampo,no,2024,488.0,89.37077350165104,43649.0,False
 José Sixto Verduzco,Michoacan de Ocampo,no,2025,413.0,89.37077350165104,36892.0,False
 José Sixto Verduzco,Michoacan de Ocampo,no,2026,378.0,89.37077350165104,33773.0,False
@@ -1199,6 +1639,30 @@ José Sixto Verduzco,Michoacan de Ocampo,no,2028,378.0,89.37077350165104,33773.0
 José Sixto Verduzco,Michoacan de Ocampo,no,2029,378.0,89.37077350165104,33773.0,True
 José Sixto Verduzco,Michoacan de Ocampo,no,2030,378.0,89.37077350165104,33773.0,True
 José Sixto Verduzco,Michoacan de Ocampo,no,2031,378.0,89.37077350165104,33773.0,True
+Jungapeo,Michoacan de Ocampo,no,2024,193.0,89.37077350165104,17257.0,False
+Jungapeo,Michoacan de Ocampo,no,2025,191.0,89.37077350165104,17070.0,False
+Jungapeo,Michoacan de Ocampo,no,2026,189.0,89.37077350165104,16882.0,False
+Jungapeo,Michoacan de Ocampo,no,2027,189.0,89.37077350165104,16882.0,True
+Jungapeo,Michoacan de Ocampo,no,2028,189.0,89.37077350165104,16882.0,True
+Jungapeo,Michoacan de Ocampo,no,2029,189.0,89.37077350165104,16882.0,True
+Jungapeo,Michoacan de Ocampo,no,2030,189.0,89.37077350165104,16882.0,True
+Jungapeo,Michoacan de Ocampo,no,2031,189.0,89.37077350165104,16882.0,True
+Juárez,Michoacan de Ocampo,no,2024,143.0,89.37077350165104,12789.0,False
+Juárez,Michoacan de Ocampo,no,2025,142.0,89.37077350165104,12691.0,False
+Juárez,Michoacan de Ocampo,no,2026,142.0,89.37077350165104,12655.0,False
+Juárez,Michoacan de Ocampo,no,2027,142.0,89.37077350165104,12655.0,True
+Juárez,Michoacan de Ocampo,no,2028,142.0,89.37077350165104,12655.0,True
+Juárez,Michoacan de Ocampo,no,2029,142.0,89.37077350165104,12655.0,True
+Juárez,Michoacan de Ocampo,no,2030,142.0,89.37077350165104,12655.0,True
+Juárez,Michoacan de Ocampo,no,2031,142.0,89.37077350165104,12655.0,True
+La Huacana,Michoacan de Ocampo,no,2024,220.0,89.37077350165104,19617.0,False
+La Huacana,Michoacan de Ocampo,no,2025,213.0,89.37077350165104,19054.0,False
+La Huacana,Michoacan de Ocampo,no,2026,211.0,89.37077350165104,18857.0,False
+La Huacana,Michoacan de Ocampo,no,2027,211.0,89.37077350165104,18857.0,True
+La Huacana,Michoacan de Ocampo,no,2028,211.0,89.37077350165104,18857.0,True
+La Huacana,Michoacan de Ocampo,no,2029,211.0,89.37077350165104,18857.0,True
+La Huacana,Michoacan de Ocampo,no,2030,211.0,89.37077350165104,18857.0,True
+La Huacana,Michoacan de Ocampo,no,2031,211.0,89.37077350165104,18857.0,True
 La Piedad,Michoacan de Ocampo,si,2024,321.0,104.78602091859936,33605.0,False
 La Piedad,Michoacan de Ocampo,si,2025,283.0,104.78602091859936,29644.0,False
 La Piedad,Michoacan de Ocampo,si,2026,267.0,104.78602091859936,27936.0,False
@@ -1207,6 +1671,38 @@ La Piedad,Michoacan de Ocampo,si,2028,267.0,104.78602091859936,27936.0,True
 La Piedad,Michoacan de Ocampo,si,2029,267.0,104.78602091859936,27936.0,True
 La Piedad,Michoacan de Ocampo,si,2030,267.0,104.78602091859936,27936.0,True
 La Piedad,Michoacan de Ocampo,si,2031,267.0,104.78602091859936,27936.0,True
+Lagunillas,Michoacan de Ocampo,no,2024,322.0,89.37077350165104,28822.0,False
+Lagunillas,Michoacan de Ocampo,no,2025,319.0,89.37077350165104,28536.0,False
+Lagunillas,Michoacan de Ocampo,no,2026,317.0,89.37077350165104,28331.0,False
+Lagunillas,Michoacan de Ocampo,no,2027,317.0,89.37077350165104,28331.0,True
+Lagunillas,Michoacan de Ocampo,no,2028,317.0,89.37077350165104,28331.0,True
+Lagunillas,Michoacan de Ocampo,no,2029,317.0,89.37077350165104,28331.0,True
+Lagunillas,Michoacan de Ocampo,no,2030,317.0,89.37077350165104,28331.0,True
+Lagunillas,Michoacan de Ocampo,no,2031,317.0,89.37077350165104,28331.0,True
+Los Reyes,Michoacan de Ocampo,si,2024,2128.0,72.41240625,154094.0,False
+Los Reyes,Michoacan de Ocampo,si,2025,2041.0,72.41240625,147808.0,False
+Los Reyes,Michoacan de Ocampo,si,2026,1985.0,72.41240625,143724.0,False
+Los Reyes,Michoacan de Ocampo,si,2027,1985.0,72.41240625,143724.0,True
+Los Reyes,Michoacan de Ocampo,si,2028,1985.0,72.41240625,143724.0,True
+Los Reyes,Michoacan de Ocampo,si,2029,1985.0,72.41240625,143724.0,True
+Los Reyes,Michoacan de Ocampo,si,2030,1985.0,72.41240625,143724.0,True
+Los Reyes,Michoacan de Ocampo,si,2031,1985.0,72.41240625,143724.0,True
+Madero,Michoacan de Ocampo,no,2024,747.0,80.46261103633917,60098.0,False
+Madero,Michoacan de Ocampo,no,2025,729.0,80.46261103633917,58625.0,False
+Madero,Michoacan de Ocampo,no,2026,721.0,80.46261103633917,58022.0,False
+Madero,Michoacan de Ocampo,no,2027,721.0,80.46261103633917,58022.0,True
+Madero,Michoacan de Ocampo,no,2028,721.0,80.46261103633917,58022.0,True
+Madero,Michoacan de Ocampo,no,2029,721.0,80.46261103633917,58022.0,True
+Madero,Michoacan de Ocampo,no,2030,721.0,80.46261103633917,58022.0,True
+Madero,Michoacan de Ocampo,no,2031,721.0,80.46261103633917,58022.0,True
+Maravatío,Michoacan de Ocampo,si,2024,1599.0,89.37077350165104,142922.0,False
+Maravatío,Michoacan de Ocampo,si,2025,1534.0,89.37077350165104,137086.0,False
+Maravatío,Michoacan de Ocampo,si,2026,1505.0,89.37077350165104,134476.0,False
+Maravatío,Michoacan de Ocampo,si,2027,1505.0,89.37077350165104,134476.0,True
+Maravatío,Michoacan de Ocampo,si,2028,1505.0,89.37077350165104,134476.0,True
+Maravatío,Michoacan de Ocampo,si,2029,1505.0,89.37077350165104,134476.0,True
+Maravatío,Michoacan de Ocampo,si,2030,1505.0,89.37077350165104,134476.0,True
+Maravatío,Michoacan de Ocampo,si,2031,1505.0,89.37077350165104,134476.0,True
 Marcos Castellanos,Michoacan de Ocampo,si,2024,196.0,89.37077350165104,17517.0,False
 Marcos Castellanos,Michoacan de Ocampo,si,2025,181.0,89.37077350165104,16203.0,False
 Marcos Castellanos,Michoacan de Ocampo,si,2026,180.0,89.37077350165104,16105.0,False
@@ -1215,6 +1711,14 @@ Marcos Castellanos,Michoacan de Ocampo,si,2028,180.0,89.37077350165104,16105.0,T
 Marcos Castellanos,Michoacan de Ocampo,si,2029,180.0,89.37077350165104,16105.0,True
 Marcos Castellanos,Michoacan de Ocampo,si,2030,180.0,89.37077350165104,16105.0,True
 Marcos Castellanos,Michoacan de Ocampo,si,2031,180.0,89.37077350165104,16105.0,True
+Morelia,Michoacan de Ocampo,no,2024,2819.0,66.05951923076923,186248.0,False
+Morelia,Michoacan de Ocampo,no,2025,2767.0,66.05951923076923,182807.0,False
+Morelia,Michoacan de Ocampo,no,2026,2736.0,66.05951923076923,180745.0,False
+Morelia,Michoacan de Ocampo,no,2027,2736.0,66.05951923076923,180745.0,True
+Morelia,Michoacan de Ocampo,no,2028,2736.0,66.05951923076923,180745.0,True
+Morelia,Michoacan de Ocampo,no,2029,2736.0,66.05951923076923,180745.0,True
+Morelia,Michoacan de Ocampo,no,2030,2736.0,66.05951923076923,180745.0,True
+Morelia,Michoacan de Ocampo,no,2031,2736.0,66.05951923076923,180745.0,True
 Morelos,Michoacan de Ocampo,no,2024,563.0,89.37077350165104,50325.0,False
 Morelos,Michoacan de Ocampo,no,2025,554.0,89.37077350165104,49502.0,False
 Morelos,Michoacan de Ocampo,no,2026,553.0,89.37077350165104,49404.0,False
@@ -1223,6 +1727,46 @@ Morelos,Michoacan de Ocampo,no,2028,553.0,89.37077350165104,49404.0,True
 Morelos,Michoacan de Ocampo,no,2029,553.0,89.37077350165104,49404.0,True
 Morelos,Michoacan de Ocampo,no,2030,553.0,89.37077350165104,49404.0,True
 Morelos,Michoacan de Ocampo,no,2031,553.0,89.37077350165104,49404.0,True
+Múgica,Michoacan de Ocampo,no,2024,1176.0,89.37077350165104,105127.0,False
+Múgica,Michoacan de Ocampo,no,2025,1146.0,89.37077350165104,102419.0,False
+Múgica,Michoacan de Ocampo,no,2026,1116.0,89.37077350165104,99693.0,False
+Múgica,Michoacan de Ocampo,no,2027,1116.0,89.37077350165104,99693.0,True
+Múgica,Michoacan de Ocampo,no,2028,1116.0,89.37077350165104,99693.0,True
+Múgica,Michoacan de Ocampo,no,2029,1116.0,89.37077350165104,99693.0,True
+Múgica,Michoacan de Ocampo,no,2030,1116.0,89.37077350165104,99693.0,True
+Múgica,Michoacan de Ocampo,no,2031,1116.0,89.37077350165104,99693.0,True
+Nahuatzen,Michoacan de Ocampo,no,2024,911.0,89.37077350165104,81390.0,False
+Nahuatzen,Michoacan de Ocampo,no,2025,900.0,89.37077350165104,80434.0,False
+Nahuatzen,Michoacan de Ocampo,no,2026,898.0,89.37077350165104,80246.0,False
+Nahuatzen,Michoacan de Ocampo,no,2027,898.0,89.37077350165104,80246.0,True
+Nahuatzen,Michoacan de Ocampo,no,2028,898.0,89.37077350165104,80246.0,True
+Nahuatzen,Michoacan de Ocampo,no,2029,898.0,89.37077350165104,80246.0,True
+Nahuatzen,Michoacan de Ocampo,no,2030,898.0,89.37077350165104,80246.0,True
+Nahuatzen,Michoacan de Ocampo,no,2031,898.0,89.37077350165104,80246.0,True
+Nocupétaro,Michoacan de Ocampo,no,2024,298.0,89.37077350165104,26615.0,False
+Nocupétaro,Michoacan de Ocampo,no,2025,292.0,89.37077350165104,26141.0,False
+Nocupétaro,Michoacan de Ocampo,no,2026,288.0,89.37077350165104,25766.0,False
+Nocupétaro,Michoacan de Ocampo,no,2027,288.0,89.37077350165104,25766.0,True
+Nocupétaro,Michoacan de Ocampo,no,2028,288.0,89.37077350165104,25766.0,True
+Nocupétaro,Michoacan de Ocampo,no,2029,288.0,89.37077350165104,25766.0,True
+Nocupétaro,Michoacan de Ocampo,no,2030,288.0,89.37077350165104,25766.0,True
+Nocupétaro,Michoacan de Ocampo,no,2031,288.0,89.37077350165104,25766.0,True
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2024,426.0,89.37077350165104,38045.0,False
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2025,416.0,89.37077350165104,37223.0,False
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2026,415.0,89.37077350165104,37089.0,False
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2027,415.0,89.37077350165104,37089.0,True
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2028,415.0,89.37077350165104,37089.0,True
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2029,415.0,89.37077350165104,37089.0,True
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2030,415.0,89.37077350165104,37089.0,True
+Nuevo Parangaricutiro,Michoacan de Ocampo,si,2031,415.0,89.37077350165104,37089.0,True
+Nuevo Urecho,Michoacan de Ocampo,no,2024,807.0,89.37077350165104,72113.0,False
+Nuevo Urecho,Michoacan de Ocampo,no,2025,766.0,89.37077350165104,68413.0,False
+Nuevo Urecho,Michoacan de Ocampo,no,2026,746.0,89.37077350165104,66662.0,False
+Nuevo Urecho,Michoacan de Ocampo,no,2027,746.0,89.37077350165104,66662.0,True
+Nuevo Urecho,Michoacan de Ocampo,no,2028,746.0,89.37077350165104,66662.0,True
+Nuevo Urecho,Michoacan de Ocampo,no,2029,746.0,89.37077350165104,66662.0,True
+Nuevo Urecho,Michoacan de Ocampo,no,2030,746.0,89.37077350165104,66662.0,True
+Nuevo Urecho,Michoacan de Ocampo,no,2031,746.0,89.37077350165104,66662.0,True
 Numarán,Michoacan de Ocampo,si,2024,90.0,89.37077350165104,8008.0,False
 Numarán,Michoacan de Ocampo,si,2025,81.0,89.37077350165104,7266.0,False
 Numarán,Michoacan de Ocampo,si,2026,75.0,89.37077350165104,6694.0,False
@@ -1231,6 +1775,14 @@ Numarán,Michoacan de Ocampo,si,2028,75.0,89.37077350165104,6694.0,True
 Numarán,Michoacan de Ocampo,si,2029,75.0,89.37077350165104,6694.0,True
 Numarán,Michoacan de Ocampo,si,2030,75.0,89.37077350165104,6694.0,True
 Numarán,Michoacan de Ocampo,si,2031,75.0,89.37077350165104,6694.0,True
+Ocampo,Michoacan de Ocampo,no,2024,298.0,89.37077350165104,26606.0,False
+Ocampo,Michoacan de Ocampo,no,2025,294.0,89.37077350165104,26320.0,False
+Ocampo,Michoacan de Ocampo,no,2026,294.0,89.37077350165104,26248.0,False
+Ocampo,Michoacan de Ocampo,no,2027,294.0,89.37077350165104,26248.0,True
+Ocampo,Michoacan de Ocampo,no,2028,294.0,89.37077350165104,26248.0,True
+Ocampo,Michoacan de Ocampo,no,2029,294.0,89.37077350165104,26248.0,True
+Ocampo,Michoacan de Ocampo,no,2030,294.0,89.37077350165104,26248.0,True
+Ocampo,Michoacan de Ocampo,no,2031,294.0,89.37077350165104,26248.0,True
 Pajacuarán,Michoacan de Ocampo,si,2024,507.0,89.37077350165104,45284.0,False
 Pajacuarán,Michoacan de Ocampo,si,2025,451.0,89.37077350165104,40297.0,False
 Pajacuarán,Michoacan de Ocampo,si,2026,402.0,89.37077350165104,35945.0,False
@@ -1247,6 +1799,22 @@ Panindícuaro,Michoacan de Ocampo,no,2028,378.0,89.37077350165104,33773.0,True
 Panindícuaro,Michoacan de Ocampo,no,2029,378.0,89.37077350165104,33773.0,True
 Panindícuaro,Michoacan de Ocampo,no,2030,378.0,89.37077350165104,33773.0,True
 Panindícuaro,Michoacan de Ocampo,no,2031,378.0,89.37077350165104,33773.0,True
+Paracho,Michoacan de Ocampo,no,2024,1111.0,89.37077350165104,99264.0,False
+Paracho,Michoacan de Ocampo,no,2025,1080.0,89.37077350165104,96476.0,False
+Paracho,Michoacan de Ocampo,no,2026,1077.0,89.37077350165104,96270.0,False
+Paracho,Michoacan de Ocampo,no,2027,1077.0,89.37077350165104,96270.0,True
+Paracho,Michoacan de Ocampo,no,2028,1077.0,89.37077350165104,96270.0,True
+Paracho,Michoacan de Ocampo,no,2029,1077.0,89.37077350165104,96270.0,True
+Paracho,Michoacan de Ocampo,no,2030,1077.0,89.37077350165104,96270.0,True
+Paracho,Michoacan de Ocampo,no,2031,1077.0,89.37077350165104,96270.0,True
+Parácuaro,Michoacan de Ocampo,no,2024,2603.0,89.37077350165104,232659.0,False
+Parácuaro,Michoacan de Ocampo,no,2025,2532.0,89.37077350165104,226314.0,False
+Parácuaro,Michoacan de Ocampo,no,2026,2449.0,89.37077350165104,218887.0,False
+Parácuaro,Michoacan de Ocampo,no,2027,2449.0,89.37077350165104,218887.0,True
+Parácuaro,Michoacan de Ocampo,no,2028,2449.0,89.37077350165104,218887.0,True
+Parácuaro,Michoacan de Ocampo,no,2029,2449.0,89.37077350165104,218887.0,True
+Parácuaro,Michoacan de Ocampo,no,2030,2449.0,89.37077350165104,218887.0,True
+Parácuaro,Michoacan de Ocampo,no,2031,2449.0,89.37077350165104,218887.0,True
 Penjamillo,Michoacan de Ocampo,no,2024,346.0,89.37077350165104,30904.0,False
 Penjamillo,Michoacan de Ocampo,no,2025,329.0,89.37077350165104,29421.0,False
 Penjamillo,Michoacan de Ocampo,no,2026,324.0,89.37077350165104,28911.0,False
@@ -1255,6 +1823,14 @@ Penjamillo,Michoacan de Ocampo,no,2028,324.0,89.37077350165104,28911.0,True
 Penjamillo,Michoacan de Ocampo,no,2029,324.0,89.37077350165104,28911.0,True
 Penjamillo,Michoacan de Ocampo,no,2030,324.0,89.37077350165104,28911.0,True
 Penjamillo,Michoacan de Ocampo,no,2031,324.0,89.37077350165104,28911.0,True
+Peribán,Michoacan de Ocampo,si,2024,594.0,89.37077350165104,53042.0,False
+Peribán,Michoacan de Ocampo,si,2025,530.0,89.37077350165104,47358.0,False
+Peribán,Michoacan de Ocampo,si,2026,498.0,89.37077350165104,44525.0,False
+Peribán,Michoacan de Ocampo,si,2027,498.0,89.37077350165104,44525.0,True
+Peribán,Michoacan de Ocampo,si,2028,498.0,89.37077350165104,44525.0,True
+Peribán,Michoacan de Ocampo,si,2029,498.0,89.37077350165104,44525.0,True
+Peribán,Michoacan de Ocampo,si,2030,498.0,89.37077350165104,44525.0,True
+Peribán,Michoacan de Ocampo,si,2031,498.0,89.37077350165104,44525.0,True
 Puruándiro,Michoacan de Ocampo,no,2024,904.0,89.37077350165104,80836.0,False
 Puruándiro,Michoacan de Ocampo,no,2025,887.0,89.37077350165104,79308.0,False
 Puruándiro,Michoacan de Ocampo,no,2026,884.0,89.37077350165104,78986.0,False
@@ -1263,14 +1839,38 @@ Puruándiro,Michoacan de Ocampo,no,2028,884.0,89.37077350165104,78986.0,True
 Puruándiro,Michoacan de Ocampo,no,2029,884.0,89.37077350165104,78986.0,True
 Puruándiro,Michoacan de Ocampo,no,2030,884.0,89.37077350165104,78986.0,True
 Puruándiro,Michoacan de Ocampo,no,2031,884.0,89.37077350165104,78986.0,True
-Purépero,Michoacan de Ocampo,no,2024,823.0,89.37077350165104,73525.0,False
-Purépero,Michoacan de Ocampo,no,2025,811.0,89.37077350165104,72515.0,False
-Purépero,Michoacan de Ocampo,no,2026,808.0,89.37077350165104,72203.0,False
-Purépero,Michoacan de Ocampo,no,2027,808.0,89.37077350165104,72203.0,True
-Purépero,Michoacan de Ocampo,no,2028,808.0,89.37077350165104,72203.0,True
-Purépero,Michoacan de Ocampo,no,2029,808.0,89.37077350165104,72203.0,True
-Purépero,Michoacan de Ocampo,no,2030,808.0,89.37077350165104,72203.0,True
-Purépero,Michoacan de Ocampo,no,2031,808.0,89.37077350165104,72203.0,True
+Purépero,Michoacan de Ocampo,no,2024,983.0,89.37077350165104,87878.0,False
+Purépero,Michoacan de Ocampo,no,2025,970.0,89.37077350165104,86681.0,False
+Purépero,Michoacan de Ocampo,no,2026,965.0,89.37077350165104,86270.0,False
+Purépero,Michoacan de Ocampo,no,2027,965.0,89.37077350165104,86270.0,True
+Purépero,Michoacan de Ocampo,no,2028,965.0,89.37077350165104,86270.0,True
+Purépero,Michoacan de Ocampo,no,2029,965.0,89.37077350165104,86270.0,True
+Purépero,Michoacan de Ocampo,no,2030,965.0,89.37077350165104,86270.0,True
+Purépero,Michoacan de Ocampo,no,2031,965.0,89.37077350165104,86270.0,True
+Pátzcuaro,Michoacan de Ocampo,no,2024,1201.0,89.37077350165104,107361.0,False
+Pátzcuaro,Michoacan de Ocampo,no,2025,1188.0,89.37077350165104,106172.0,False
+Pátzcuaro,Michoacan de Ocampo,no,2026,1177.0,89.37077350165104,105189.0,False
+Pátzcuaro,Michoacan de Ocampo,no,2027,1177.0,89.37077350165104,105189.0,True
+Pátzcuaro,Michoacan de Ocampo,no,2028,1177.0,89.37077350165104,105189.0,True
+Pátzcuaro,Michoacan de Ocampo,no,2029,1177.0,89.37077350165104,105189.0,True
+Pátzcuaro,Michoacan de Ocampo,no,2030,1177.0,89.37077350165104,105189.0,True
+Pátzcuaro,Michoacan de Ocampo,no,2031,1177.0,89.37077350165104,105189.0,True
+Queréndaro,Michoacan de Ocampo,no,2024,194.0,74.29165683962263,14435.0,False
+Queréndaro,Michoacan de Ocampo,no,2025,187.0,74.29165683962263,13900.0,False
+Queréndaro,Michoacan de Ocampo,no,2026,185.0,74.29165683962263,13714.0,False
+Queréndaro,Michoacan de Ocampo,no,2027,185.0,74.29165683962263,13714.0,True
+Queréndaro,Michoacan de Ocampo,no,2028,185.0,74.29165683962263,13714.0,True
+Queréndaro,Michoacan de Ocampo,no,2029,185.0,74.29165683962263,13714.0,True
+Queréndaro,Michoacan de Ocampo,no,2030,185.0,74.29165683962263,13714.0,True
+Queréndaro,Michoacan de Ocampo,no,2031,185.0,74.29165683962263,13714.0,True
+Quiroga,Michoacan de Ocampo,no,2024,345.0,89.37077350165104,30851.0,False
+Quiroga,Michoacan de Ocampo,no,2025,330.0,89.37077350165104,29483.0,False
+Quiroga,Michoacan de Ocampo,no,2026,329.0,89.37077350165104,29367.0,False
+Quiroga,Michoacan de Ocampo,no,2027,329.0,89.37077350165104,29367.0,True
+Quiroga,Michoacan de Ocampo,no,2028,329.0,89.37077350165104,29367.0,True
+Quiroga,Michoacan de Ocampo,no,2029,329.0,89.37077350165104,29367.0,True
+Quiroga,Michoacan de Ocampo,no,2030,329.0,89.37077350165104,29367.0,True
+Quiroga,Michoacan de Ocampo,no,2031,329.0,89.37077350165104,29367.0,True
 Sahuayo,Michoacan de Ocampo,si,2024,150.0,101.46679389312976,15271.0,False
 Sahuayo,Michoacan de Ocampo,si,2025,139.0,101.46679389312976,14124.0,False
 Sahuayo,Michoacan de Ocampo,si,2026,131.0,101.46679389312976,13323.0,False
@@ -1279,6 +1879,14 @@ Sahuayo,Michoacan de Ocampo,si,2028,131.0,101.46679389312976,13323.0,True
 Sahuayo,Michoacan de Ocampo,si,2029,131.0,101.46679389312976,13323.0,True
 Sahuayo,Michoacan de Ocampo,si,2030,131.0,101.46679389312976,13323.0,True
 Sahuayo,Michoacan de Ocampo,si,2031,131.0,101.46679389312976,13323.0,True
+Salvador Escalante,Michoacan de Ocampo,no,2024,1878.0,89.37077350165104,167865.0,False
+Salvador Escalante,Michoacan de Ocampo,no,2025,1859.0,89.37077350165104,166167.0,False
+Salvador Escalante,Michoacan de Ocampo,no,2026,1849.0,89.37077350165104,165282.0,False
+Salvador Escalante,Michoacan de Ocampo,no,2027,1849.0,89.37077350165104,165282.0,True
+Salvador Escalante,Michoacan de Ocampo,no,2028,1849.0,89.37077350165104,165282.0,True
+Salvador Escalante,Michoacan de Ocampo,no,2029,1849.0,89.37077350165104,165282.0,True
+Salvador Escalante,Michoacan de Ocampo,no,2030,1849.0,89.37077350165104,165282.0,True
+Salvador Escalante,Michoacan de Ocampo,no,2031,1849.0,89.37077350165104,165282.0,True
 Santa Ana Maya,Michoacan de Ocampo,no,2024,154.0,89.37077350165104,13772.0,False
 Santa Ana Maya,Michoacan de Ocampo,no,2025,145.0,89.37077350165104,12923.0,False
 Santa Ana Maya,Michoacan de Ocampo,no,2026,141.0,89.37077350165104,12637.0,False
@@ -1287,22 +1895,54 @@ Santa Ana Maya,Michoacan de Ocampo,no,2028,141.0,89.37077350165104,12637.0,True
 Santa Ana Maya,Michoacan de Ocampo,no,2029,141.0,89.37077350165104,12637.0,True
 Santa Ana Maya,Michoacan de Ocampo,no,2030,141.0,89.37077350165104,12637.0,True
 Santa Ana Maya,Michoacan de Ocampo,no,2031,141.0,89.37077350165104,12637.0,True
-Tangamandapio,Michoacan de Ocampo,si,2024,174.0,89.37077350165104,15559.0,False
-Tangamandapio,Michoacan de Ocampo,si,2025,152.0,89.37077350165104,13620.0,False
-Tangamandapio,Michoacan de Ocampo,si,2026,150.0,89.37077350165104,13379.0,False
-Tangamandapio,Michoacan de Ocampo,si,2027,150.0,89.37077350165104,13379.0,True
-Tangamandapio,Michoacan de Ocampo,si,2028,150.0,89.37077350165104,13379.0,True
-Tangamandapio,Michoacan de Ocampo,si,2029,150.0,89.37077350165104,13379.0,True
-Tangamandapio,Michoacan de Ocampo,si,2030,150.0,89.37077350165104,13379.0,True
-Tangamandapio,Michoacan de Ocampo,si,2031,150.0,89.37077350165104,13379.0,True
-Tangancícuaro,Michoacan de Ocampo,si,2024,385.0,89.37077350165104,34443.0,False
-Tangancícuaro,Michoacan de Ocampo,si,2025,348.0,89.37077350165104,31101.0,False
-Tangancícuaro,Michoacan de Ocampo,si,2026,327.0,89.37077350165104,29251.0,False
-Tangancícuaro,Michoacan de Ocampo,si,2027,327.0,89.37077350165104,29251.0,True
-Tangancícuaro,Michoacan de Ocampo,si,2028,327.0,89.37077350165104,29251.0,True
-Tangancícuaro,Michoacan de Ocampo,si,2029,327.0,89.37077350165104,29251.0,True
-Tangancícuaro,Michoacan de Ocampo,si,2030,327.0,89.37077350165104,29251.0,True
-Tangancícuaro,Michoacan de Ocampo,si,2031,327.0,89.37077350165104,29251.0,True
+Senguio,Michoacan de Ocampo,no,2024,290.0,89.37077350165104,25944.0,False
+Senguio,Michoacan de Ocampo,no,2025,281.0,89.37077350165104,25122.0,False
+Senguio,Michoacan de Ocampo,no,2026,279.0,89.37077350165104,24926.0,False
+Senguio,Michoacan de Ocampo,no,2027,279.0,89.37077350165104,24926.0,True
+Senguio,Michoacan de Ocampo,no,2028,279.0,89.37077350165104,24926.0,True
+Senguio,Michoacan de Ocampo,no,2029,279.0,89.37077350165104,24926.0,True
+Senguio,Michoacan de Ocampo,no,2030,279.0,89.37077350165104,24926.0,True
+Senguio,Michoacan de Ocampo,no,2031,279.0,89.37077350165104,24926.0,True
+Susupuato,Michoacan de Ocampo,no,2024,212.0,89.37077350165104,18920.0,False
+Susupuato,Michoacan de Ocampo,no,2025,208.0,89.37077350165104,18616.0,False
+Susupuato,Michoacan de Ocampo,no,2026,207.0,89.37077350165104,18535.0,False
+Susupuato,Michoacan de Ocampo,no,2027,207.0,89.37077350165104,18535.0,True
+Susupuato,Michoacan de Ocampo,no,2028,207.0,89.37077350165104,18535.0,True
+Susupuato,Michoacan de Ocampo,no,2029,207.0,89.37077350165104,18535.0,True
+Susupuato,Michoacan de Ocampo,no,2030,207.0,89.37077350165104,18535.0,True
+Susupuato,Michoacan de Ocampo,no,2031,207.0,89.37077350165104,18535.0,True
+Tacámbaro,Michoacan de Ocampo,no,2024,1483.0,89.37077350165104,132519.0,False
+Tacámbaro,Michoacan de Ocampo,no,2025,1430.0,89.37077350165104,127773.0,False
+Tacámbaro,Michoacan de Ocampo,no,2026,1405.0,89.37077350165104,125584.0,False
+Tacámbaro,Michoacan de Ocampo,no,2027,1405.0,89.37077350165104,125584.0,True
+Tacámbaro,Michoacan de Ocampo,no,2028,1405.0,89.37077350165104,125584.0,True
+Tacámbaro,Michoacan de Ocampo,no,2029,1405.0,89.37077350165104,125584.0,True
+Tacámbaro,Michoacan de Ocampo,no,2030,1405.0,89.37077350165104,125584.0,True
+Tacámbaro,Michoacan de Ocampo,no,2031,1405.0,89.37077350165104,125584.0,True
+Tancítaro,Michoacan de Ocampo,si,2024,2411.0,71.24461538461539,171757.0,False
+Tancítaro,Michoacan de Ocampo,si,2025,2385.0,71.24461538461539,169947.0,False
+Tancítaro,Michoacan de Ocampo,si,2026,2373.0,71.24461538461539,169035.0,False
+Tancítaro,Michoacan de Ocampo,si,2027,2373.0,71.24461538461539,169035.0,True
+Tancítaro,Michoacan de Ocampo,si,2028,2373.0,71.24461538461539,169035.0,True
+Tancítaro,Michoacan de Ocampo,si,2029,2373.0,71.24461538461539,169035.0,True
+Tancítaro,Michoacan de Ocampo,si,2030,2373.0,71.24461538461539,169035.0,True
+Tancítaro,Michoacan de Ocampo,si,2031,2373.0,71.24461538461539,169035.0,True
+Tangamandapio,Michoacan de Ocampo,si,2024,638.0,89.37077350165104,56974.0,False
+Tangamandapio,Michoacan de Ocampo,si,2025,608.0,89.37077350165104,54337.0,False
+Tangamandapio,Michoacan de Ocampo,si,2026,604.0,89.37077350165104,53971.0,False
+Tangamandapio,Michoacan de Ocampo,si,2027,604.0,89.37077350165104,53971.0,True
+Tangamandapio,Michoacan de Ocampo,si,2028,604.0,89.37077350165104,53971.0,True
+Tangamandapio,Michoacan de Ocampo,si,2029,604.0,89.37077350165104,53971.0,True
+Tangamandapio,Michoacan de Ocampo,si,2030,604.0,89.37077350165104,53971.0,True
+Tangamandapio,Michoacan de Ocampo,si,2031,604.0,89.37077350165104,53971.0,True
+Tangancícuaro,Michoacan de Ocampo,si,2024,1355.0,89.37077350165104,121124.0,False
+Tangancícuaro,Michoacan de Ocampo,si,2025,1300.0,89.37077350165104,116218.0,False
+Tangancícuaro,Michoacan de Ocampo,si,2026,1276.0,89.37077350165104,114028.0,False
+Tangancícuaro,Michoacan de Ocampo,si,2027,1276.0,89.37077350165104,114028.0,True
+Tangancícuaro,Michoacan de Ocampo,si,2028,1276.0,89.37077350165104,114028.0,True
+Tangancícuaro,Michoacan de Ocampo,si,2029,1276.0,89.37077350165104,114028.0,True
+Tangancícuaro,Michoacan de Ocampo,si,2030,1276.0,89.37077350165104,114028.0,True
+Tangancícuaro,Michoacan de Ocampo,si,2031,1276.0,89.37077350165104,114028.0,True
 Tanhuato,Michoacan de Ocampo,si,2024,408.0,95.76650185414093,39111.0,False
 Tanhuato,Michoacan de Ocampo,si,2025,357.0,95.76650185414093,34150.0,False
 Tanhuato,Michoacan de Ocampo,si,2026,323.0,95.76650185414093,30913.0,False
@@ -1311,22 +1951,62 @@ Tanhuato,Michoacan de Ocampo,si,2028,323.0,95.76650185414093,30913.0,True
 Tanhuato,Michoacan de Ocampo,si,2029,323.0,95.76650185414093,30913.0,True
 Tanhuato,Michoacan de Ocampo,si,2030,323.0,95.76650185414093,30913.0,True
 Tanhuato,Michoacan de Ocampo,si,2031,323.0,95.76650185414093,30913.0,True
-Tarímbaro,Michoacan de Ocampo,no,2024,11.0,89.37077350165104,965.0,False
-Tarímbaro,Michoacan de Ocampo,no,2025,11.0,89.37077350165104,965.0,False
-Tarímbaro,Michoacan de Ocampo,no,2026,11.0,89.37077350165104,965.0,False
-Tarímbaro,Michoacan de Ocampo,no,2027,11.0,89.37077350165104,965.0,True
-Tarímbaro,Michoacan de Ocampo,no,2028,11.0,89.37077350165104,965.0,True
-Tarímbaro,Michoacan de Ocampo,no,2029,11.0,89.37077350165104,965.0,True
-Tarímbaro,Michoacan de Ocampo,no,2030,11.0,89.37077350165104,965.0,True
-Tarímbaro,Michoacan de Ocampo,no,2031,11.0,89.37077350165104,965.0,True
-Tingüindín,Michoacan de Ocampo,si,2024,4.0,89.37077350165104,331.0,False
-Tingüindín,Michoacan de Ocampo,si,2025,4.0,89.37077350165104,331.0,False
-Tingüindín,Michoacan de Ocampo,si,2026,4.0,89.37077350165104,322.0,False
-Tingüindín,Michoacan de Ocampo,si,2027,4.0,89.37077350165104,322.0,True
-Tingüindín,Michoacan de Ocampo,si,2028,4.0,89.37077350165104,322.0,True
-Tingüindín,Michoacan de Ocampo,si,2029,4.0,89.37077350165104,322.0,True
-Tingüindín,Michoacan de Ocampo,si,2030,4.0,89.37077350165104,322.0,True
-Tingüindín,Michoacan de Ocampo,si,2031,4.0,89.37077350165104,322.0,True
+Taretan,Michoacan de Ocampo,no,2024,751.0,89.37077350165104,67144.0,False
+Taretan,Michoacan de Ocampo,no,2025,726.0,89.37077350165104,64874.0,False
+Taretan,Michoacan de Ocampo,no,2026,704.0,89.37077350165104,62926.0,False
+Taretan,Michoacan de Ocampo,no,2027,704.0,89.37077350165104,62926.0,True
+Taretan,Michoacan de Ocampo,no,2028,704.0,89.37077350165104,62926.0,True
+Taretan,Michoacan de Ocampo,no,2029,704.0,89.37077350165104,62926.0,True
+Taretan,Michoacan de Ocampo,no,2030,704.0,89.37077350165104,62926.0,True
+Taretan,Michoacan de Ocampo,no,2031,704.0,89.37077350165104,62926.0,True
+Tarímbaro,Michoacan de Ocampo,no,2024,575.0,89.37077350165104,51397.0,False
+Tarímbaro,Michoacan de Ocampo,no,2025,531.0,89.37077350165104,47492.0,False
+Tarímbaro,Michoacan de Ocampo,no,2026,491.0,89.37077350165104,43872.0,False
+Tarímbaro,Michoacan de Ocampo,no,2027,491.0,89.37077350165104,43872.0,True
+Tarímbaro,Michoacan de Ocampo,no,2028,491.0,89.37077350165104,43872.0,True
+Tarímbaro,Michoacan de Ocampo,no,2029,491.0,89.37077350165104,43872.0,True
+Tarímbaro,Michoacan de Ocampo,no,2030,491.0,89.37077350165104,43872.0,True
+Tarímbaro,Michoacan de Ocampo,no,2031,491.0,89.37077350165104,43872.0,True
+Tepalcatepec,Michoacan de Ocampo,no,2024,3360.0,89.37077350165104,300259.0,False
+Tepalcatepec,Michoacan de Ocampo,no,2025,3189.0,89.37077350165104,284968.0,False
+Tepalcatepec,Michoacan de Ocampo,no,2026,2982.0,89.37077350165104,266530.0,False
+Tepalcatepec,Michoacan de Ocampo,no,2027,2982.0,89.37077350165104,266530.0,True
+Tepalcatepec,Michoacan de Ocampo,no,2028,2982.0,89.37077350165104,266530.0,True
+Tepalcatepec,Michoacan de Ocampo,no,2029,2982.0,89.37077350165104,266530.0,True
+Tepalcatepec,Michoacan de Ocampo,no,2030,2982.0,89.37077350165104,266530.0,True
+Tepalcatepec,Michoacan de Ocampo,no,2031,2982.0,89.37077350165104,266530.0,True
+Tingambato,Michoacan de Ocampo,no,2024,167.0,89.37077350165104,14916.0,False
+Tingambato,Michoacan de Ocampo,no,2025,165.0,89.37077350165104,14782.0,False
+Tingambato,Michoacan de Ocampo,no,2026,165.0,89.37077350165104,14710.0,False
+Tingambato,Michoacan de Ocampo,no,2027,165.0,89.37077350165104,14710.0,True
+Tingambato,Michoacan de Ocampo,no,2028,165.0,89.37077350165104,14710.0,True
+Tingambato,Michoacan de Ocampo,no,2029,165.0,89.37077350165104,14710.0,True
+Tingambato,Michoacan de Ocampo,no,2030,165.0,89.37077350165104,14710.0,True
+Tingambato,Michoacan de Ocampo,no,2031,165.0,89.37077350165104,14710.0,True
+Tingüindín,Michoacan de Ocampo,si,2024,339.0,89.37077350165104,30324.0,False
+Tingüindín,Michoacan de Ocampo,si,2025,333.0,89.37077350165104,29760.0,False
+Tingüindín,Michoacan de Ocampo,si,2026,327.0,89.37077350165104,29242.0,False
+Tingüindín,Michoacan de Ocampo,si,2027,327.0,89.37077350165104,29242.0,True
+Tingüindín,Michoacan de Ocampo,si,2028,327.0,89.37077350165104,29242.0,True
+Tingüindín,Michoacan de Ocampo,si,2029,327.0,89.37077350165104,29242.0,True
+Tingüindín,Michoacan de Ocampo,si,2030,327.0,89.37077350165104,29242.0,True
+Tingüindín,Michoacan de Ocampo,si,2031,327.0,89.37077350165104,29242.0,True
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2024,343.0,89.37077350165104,30672.0,False
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2025,337.0,89.37077350165104,30154.0,False
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2026,335.0,89.37077350165104,29930.0,False
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2027,335.0,89.37077350165104,29930.0,True
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2028,335.0,89.37077350165104,29930.0,True
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2029,335.0,89.37077350165104,29930.0,True
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2030,335.0,89.37077350165104,29930.0,True
+Tiquicheo de Nicolás Romero,Michoacan de Ocampo,no,2031,335.0,89.37077350165104,29930.0,True
+Tlalpujahua,Michoacan de Ocampo,no,2024,340.0,89.37077350165104,30368.0,False
+Tlalpujahua,Michoacan de Ocampo,no,2025,336.0,89.37077350165104,30011.0,False
+Tlalpujahua,Michoacan de Ocampo,no,2026,335.0,89.37077350165104,29966.0,False
+Tlalpujahua,Michoacan de Ocampo,no,2027,335.0,89.37077350165104,29966.0,True
+Tlalpujahua,Michoacan de Ocampo,no,2028,335.0,89.37077350165104,29966.0,True
+Tlalpujahua,Michoacan de Ocampo,no,2029,335.0,89.37077350165104,29966.0,True
+Tlalpujahua,Michoacan de Ocampo,no,2030,335.0,89.37077350165104,29966.0,True
+Tlalpujahua,Michoacan de Ocampo,no,2031,335.0,89.37077350165104,29966.0,True
 Tlazazalca,Michoacan de Ocampo,no,2024,182.0,89.37077350165104,16221.0,False
 Tlazazalca,Michoacan de Ocampo,no,2025,177.0,89.37077350165104,15837.0,False
 Tlazazalca,Michoacan de Ocampo,no,2026,176.0,89.37077350165104,15738.0,False
@@ -1335,6 +2015,62 @@ Tlazazalca,Michoacan de Ocampo,no,2028,176.0,89.37077350165104,15738.0,True
 Tlazazalca,Michoacan de Ocampo,no,2029,176.0,89.37077350165104,15738.0,True
 Tlazazalca,Michoacan de Ocampo,no,2030,176.0,89.37077350165104,15738.0,True
 Tlazazalca,Michoacan de Ocampo,no,2031,176.0,89.37077350165104,15738.0,True
+Tocumbo,Michoacan de Ocampo,si,2024,913.0,71.89038461538462,65607.0,False
+Tocumbo,Michoacan de Ocampo,si,2025,863.0,71.89038461538462,62020.0,False
+Tocumbo,Michoacan de Ocampo,si,2026,834.0,71.89038461538462,59942.0,False
+Tocumbo,Michoacan de Ocampo,si,2027,834.0,71.89038461538462,59942.0,True
+Tocumbo,Michoacan de Ocampo,si,2028,834.0,71.89038461538462,59942.0,True
+Tocumbo,Michoacan de Ocampo,si,2029,834.0,71.89038461538462,59942.0,True
+Tocumbo,Michoacan de Ocampo,si,2030,834.0,71.89038461538462,59942.0,True
+Tocumbo,Michoacan de Ocampo,si,2031,834.0,71.89038461538462,59942.0,True
+Turicato,Michoacan de Ocampo,no,2024,858.0,89.37077350165104,76680.0,False
+Turicato,Michoacan de Ocampo,no,2025,823.0,89.37077350165104,73525.0,False
+Turicato,Michoacan de Ocampo,no,2026,801.0,89.37077350165104,71622.0,False
+Turicato,Michoacan de Ocampo,no,2027,801.0,89.37077350165104,71622.0,True
+Turicato,Michoacan de Ocampo,no,2028,801.0,89.37077350165104,71622.0,True
+Turicato,Michoacan de Ocampo,no,2029,801.0,89.37077350165104,71622.0,True
+Turicato,Michoacan de Ocampo,no,2030,801.0,89.37077350165104,71622.0,True
+Turicato,Michoacan de Ocampo,no,2031,801.0,89.37077350165104,71622.0,True
+Tuxpan,Michoacan de Ocampo,no,2024,368.0,89.37077350165104,32906.0,False
+Tuxpan,Michoacan de Ocampo,no,2025,358.0,89.37077350165104,31986.0,False
+Tuxpan,Michoacan de Ocampo,no,2026,351.0,89.37077350165104,31405.0,False
+Tuxpan,Michoacan de Ocampo,no,2027,351.0,89.37077350165104,31405.0,True
+Tuxpan,Michoacan de Ocampo,no,2028,351.0,89.37077350165104,31405.0,True
+Tuxpan,Michoacan de Ocampo,no,2029,351.0,89.37077350165104,31405.0,True
+Tuxpan,Michoacan de Ocampo,no,2030,351.0,89.37077350165104,31405.0,True
+Tuxpan,Michoacan de Ocampo,no,2031,351.0,89.37077350165104,31405.0,True
+Tuzantla,Michoacan de Ocampo,no,2024,626.0,89.37077350165104,55973.0,False
+Tuzantla,Michoacan de Ocampo,no,2025,614.0,89.37077350165104,54883.0,False
+Tuzantla,Michoacan de Ocampo,no,2026,608.0,89.37077350165104,54311.0,False
+Tuzantla,Michoacan de Ocampo,no,2027,608.0,89.37077350165104,54311.0,True
+Tuzantla,Michoacan de Ocampo,no,2028,608.0,89.37077350165104,54311.0,True
+Tuzantla,Michoacan de Ocampo,no,2029,608.0,89.37077350165104,54311.0,True
+Tuzantla,Michoacan de Ocampo,no,2030,608.0,89.37077350165104,54311.0,True
+Tuzantla,Michoacan de Ocampo,no,2031,608.0,89.37077350165104,54311.0,True
+Tzintzuntzan,Michoacan de Ocampo,no,2024,279.0,89.37077350165104,24961.0,False
+Tzintzuntzan,Michoacan de Ocampo,no,2025,276.0,89.37077350165104,24657.0,False
+Tzintzuntzan,Michoacan de Ocampo,no,2026,275.0,89.37077350165104,24559.0,False
+Tzintzuntzan,Michoacan de Ocampo,no,2027,275.0,89.37077350165104,24559.0,True
+Tzintzuntzan,Michoacan de Ocampo,no,2028,275.0,89.37077350165104,24559.0,True
+Tzintzuntzan,Michoacan de Ocampo,no,2029,275.0,89.37077350165104,24559.0,True
+Tzintzuntzan,Michoacan de Ocampo,no,2030,275.0,89.37077350165104,24559.0,True
+Tzintzuntzan,Michoacan de Ocampo,no,2031,275.0,89.37077350165104,24559.0,True
+Tzitzio,Michoacan de Ocampo,no,2024,747.0,79.927913340935,59698.0,False
+Tzitzio,Michoacan de Ocampo,no,2025,734.0,79.927913340935,58667.0,False
+Tzitzio,Michoacan de Ocampo,no,2026,723.0,79.927913340935,57812.0,False
+Tzitzio,Michoacan de Ocampo,no,2027,723.0,79.927913340935,57812.0,True
+Tzitzio,Michoacan de Ocampo,no,2028,723.0,79.927913340935,57812.0,True
+Tzitzio,Michoacan de Ocampo,no,2029,723.0,79.927913340935,57812.0,True
+Tzitzio,Michoacan de Ocampo,no,2030,723.0,79.927913340935,57812.0,True
+Tzitzio,Michoacan de Ocampo,no,2031,723.0,79.927913340935,57812.0,True
+Uruapan,Michoacan de Ocampo,no,2024,3685.0,89.37077350165104,329322.0,False
+Uruapan,Michoacan de Ocampo,no,2025,3619.0,89.37077350165104,323397.0,False
+Uruapan,Michoacan de Ocampo,no,2026,3592.0,89.37077350165104,321020.0,False
+Uruapan,Michoacan de Ocampo,no,2027,3592.0,89.37077350165104,321020.0,True
+Uruapan,Michoacan de Ocampo,no,2028,3592.0,89.37077350165104,321020.0,True
+Uruapan,Michoacan de Ocampo,no,2029,3592.0,89.37077350165104,321020.0,True
+Uruapan,Michoacan de Ocampo,no,2030,3592.0,89.37077350165104,321020.0,True
+Uruapan,Michoacan de Ocampo,no,2031,3592.0,89.37077350165104,321020.0,True
 Venustiano Carranza,Michoacan de Ocampo,si,2024,1250.0,100.1751,125189.0,False
 Venustiano Carranza,Michoacan de Ocampo,si,2025,1115.0,100.1751,111675.0,False
 Venustiano Carranza,Michoacan de Ocampo,si,2026,1027.0,100.1751,102880.0,False
@@ -1367,14 +2103,14 @@ Yurécuaro,Michoacan de Ocampo,si,2028,339.0,89.37077350165104,30315.0,True
 Yurécuaro,Michoacan de Ocampo,si,2029,339.0,89.37077350165104,30315.0,True
 Yurécuaro,Michoacan de Ocampo,si,2030,339.0,89.37077350165104,30315.0,True
 Yurécuaro,Michoacan de Ocampo,si,2031,339.0,89.37077350165104,30315.0,True
-Zacapu,Michoacan de Ocampo,no,2024,606.0,89.37077350165104,54159.0,False
-Zacapu,Michoacan de Ocampo,no,2025,592.0,89.37077350165104,52899.0,False
-Zacapu,Michoacan de Ocampo,no,2026,590.0,89.37077350165104,52684.0,False
-Zacapu,Michoacan de Ocampo,no,2027,590.0,89.37077350165104,52684.0,True
-Zacapu,Michoacan de Ocampo,no,2028,590.0,89.37077350165104,52684.0,True
-Zacapu,Michoacan de Ocampo,no,2029,590.0,89.37077350165104,52684.0,True
-Zacapu,Michoacan de Ocampo,no,2030,590.0,89.37077350165104,52684.0,True
-Zacapu,Michoacan de Ocampo,no,2031,590.0,89.37077350165104,52684.0,True
+Zacapu,Michoacan de Ocampo,no,2024,2604.0,89.37077350165104,232739.0,False
+Zacapu,Michoacan de Ocampo,no,2025,2544.0,89.37077350165104,227377.0,False
+Zacapu,Michoacan de Ocampo,no,2026,2532.0,89.37077350165104,226305.0,False
+Zacapu,Michoacan de Ocampo,no,2027,2532.0,89.37077350165104,226305.0,True
+Zacapu,Michoacan de Ocampo,no,2028,2532.0,89.37077350165104,226305.0,True
+Zacapu,Michoacan de Ocampo,no,2029,2532.0,89.37077350165104,226305.0,True
+Zacapu,Michoacan de Ocampo,no,2030,2532.0,89.37077350165104,226305.0,True
+Zacapu,Michoacan de Ocampo,no,2031,2532.0,89.37077350165104,226305.0,True
 Zamora,Michoacan de Ocampo,si,2024,1021.0,89.37077350165104,91239.0,False
 Zamora,Michoacan de Ocampo,si,2025,903.0,89.37077350165104,80684.0,False
 Zamora,Michoacan de Ocampo,si,2026,831.0,89.37077350165104,74285.0,False
@@ -1383,14 +2119,14 @@ Zamora,Michoacan de Ocampo,si,2028,831.0,89.37077350165104,74285.0,True
 Zamora,Michoacan de Ocampo,si,2029,831.0,89.37077350165104,74285.0,True
 Zamora,Michoacan de Ocampo,si,2030,831.0,89.37077350165104,74285.0,True
 Zamora,Michoacan de Ocampo,si,2031,831.0,89.37077350165104,74285.0,True
-Zinapécuaro,Michoacan de Ocampo,no,2024,51.0,78.05960288808664,3981.0,False
-Zinapécuaro,Michoacan de Ocampo,no,2025,44.0,78.05960288808664,3427.0,False
-Zinapécuaro,Michoacan de Ocampo,no,2026,43.0,78.05960288808664,3388.0,False
-Zinapécuaro,Michoacan de Ocampo,no,2027,43.0,78.05960288808664,3388.0,True
-Zinapécuaro,Michoacan de Ocampo,no,2028,43.0,78.05960288808664,3388.0,True
-Zinapécuaro,Michoacan de Ocampo,no,2029,43.0,78.05960288808664,3388.0,True
-Zinapécuaro,Michoacan de Ocampo,no,2030,43.0,78.05960288808664,3388.0,True
-Zinapécuaro,Michoacan de Ocampo,no,2031,43.0,78.05960288808664,3388.0,True
+Zinapécuaro,Michoacan de Ocampo,no,2024,1558.0,78.05960288808664,121656.0,False
+Zinapécuaro,Michoacan de Ocampo,no,2025,1515.0,78.05960288808664,118292.0,False
+Zinapécuaro,Michoacan de Ocampo,no,2026,1500.0,78.05960288808664,117074.0,False
+Zinapécuaro,Michoacan de Ocampo,no,2027,1500.0,78.05960288808664,117074.0,True
+Zinapécuaro,Michoacan de Ocampo,no,2028,1500.0,78.05960288808664,117074.0,True
+Zinapécuaro,Michoacan de Ocampo,no,2029,1500.0,78.05960288808664,117074.0,True
+Zinapécuaro,Michoacan de Ocampo,no,2030,1500.0,78.05960288808664,117074.0,True
+Zinapécuaro,Michoacan de Ocampo,no,2031,1500.0,78.05960288808664,117074.0,True
 Zináparo,Michoacan de Ocampo,si,2024,54.0,101.76672077922079,5455.0,False
 Zináparo,Michoacan de Ocampo,si,2025,52.0,101.76672077922079,5272.0,False
 Zináparo,Michoacan de Ocampo,si,2026,51.0,101.76672077922079,5210.0,False
@@ -1399,14 +2135,38 @@ Zináparo,Michoacan de Ocampo,si,2028,51.0,101.76672077922079,5210.0,True
 Zináparo,Michoacan de Ocampo,si,2029,51.0,101.76672077922079,5210.0,True
 Zináparo,Michoacan de Ocampo,si,2030,51.0,101.76672077922079,5210.0,True
 Zináparo,Michoacan de Ocampo,si,2031,51.0,101.76672077922079,5210.0,True
-Álvaro Obregón,Michoacan de Ocampo,no,2024,658.0,89.37077350165104,58824.0,False
-Álvaro Obregón,Michoacan de Ocampo,no,2025,623.0,89.37077350165104,55669.0,False
-Álvaro Obregón,Michoacan de Ocampo,no,2026,608.0,89.37077350165104,54320.0,False
-Álvaro Obregón,Michoacan de Ocampo,no,2027,608.0,89.37077350165104,54320.0,True
-Álvaro Obregón,Michoacan de Ocampo,no,2028,608.0,89.37077350165104,54320.0,True
-Álvaro Obregón,Michoacan de Ocampo,no,2029,608.0,89.37077350165104,54320.0,True
-Álvaro Obregón,Michoacan de Ocampo,no,2030,608.0,89.37077350165104,54320.0,True
-Álvaro Obregón,Michoacan de Ocampo,no,2031,608.0,89.37077350165104,54320.0,True
+Ziracuaretiro,Michoacan de Ocampo,no,2024,425.0,89.37077350165104,37956.0,False
+Ziracuaretiro,Michoacan de Ocampo,no,2025,410.0,89.37077350165104,36624.0,False
+Ziracuaretiro,Michoacan de Ocampo,no,2026,396.0,89.37077350165104,35436.0,False
+Ziracuaretiro,Michoacan de Ocampo,no,2027,396.0,89.37077350165104,35436.0,True
+Ziracuaretiro,Michoacan de Ocampo,no,2028,396.0,89.37077350165104,35436.0,True
+Ziracuaretiro,Michoacan de Ocampo,no,2029,396.0,89.37077350165104,35436.0,True
+Ziracuaretiro,Michoacan de Ocampo,no,2030,396.0,89.37077350165104,35436.0,True
+Ziracuaretiro,Michoacan de Ocampo,no,2031,396.0,89.37077350165104,35436.0,True
+Zitácuaro,Michoacan de Ocampo,no,2024,803.0,89.37077350165104,71792.0,False
+Zitácuaro,Michoacan de Ocampo,no,2025,790.0,89.37077350165104,70594.0,False
+Zitácuaro,Michoacan de Ocampo,no,2026,782.0,89.37077350165104,69933.0,False
+Zitácuaro,Michoacan de Ocampo,no,2027,782.0,89.37077350165104,69933.0,True
+Zitácuaro,Michoacan de Ocampo,no,2028,782.0,89.37077350165104,69933.0,True
+Zitácuaro,Michoacan de Ocampo,no,2029,782.0,89.37077350165104,69933.0,True
+Zitácuaro,Michoacan de Ocampo,no,2030,782.0,89.37077350165104,69933.0,True
+Zitácuaro,Michoacan de Ocampo,no,2031,782.0,89.37077350165104,69933.0,True
+Álvaro Obregón,Michoacan de Ocampo,no,2024,1003.0,89.37077350165104,89630.0,False
+Álvaro Obregón,Michoacan de Ocampo,no,2025,946.0,89.37077350165104,84545.0,False
+Álvaro Obregón,Michoacan de Ocampo,no,2026,915.0,89.37077350165104,81747.0,False
+Álvaro Obregón,Michoacan de Ocampo,no,2027,915.0,89.37077350165104,81747.0,True
+Álvaro Obregón,Michoacan de Ocampo,no,2028,915.0,89.37077350165104,81747.0,True
+Álvaro Obregón,Michoacan de Ocampo,no,2029,915.0,89.37077350165104,81747.0,True
+Álvaro Obregón,Michoacan de Ocampo,no,2030,915.0,89.37077350165104,81747.0,True
+Álvaro Obregón,Michoacan de Ocampo,no,2031,915.0,89.37077350165104,81747.0,True
+Acaponeta,Nayarit,no,2024,15.0,37.96006329113924,573.0,False
+Acaponeta,Nayarit,no,2025,15.0,37.96006329113924,569.0,False
+Acaponeta,Nayarit,no,2026,15.0,37.96006329113924,569.0,False
+Acaponeta,Nayarit,no,2027,15.0,37.96006329113924,569.0,True
+Acaponeta,Nayarit,no,2028,15.0,37.96006329113924,569.0,True
+Acaponeta,Nayarit,no,2029,15.0,37.96006329113924,569.0,True
+Acaponeta,Nayarit,no,2030,15.0,37.96006329113924,569.0,True
+Acaponeta,Nayarit,no,2031,15.0,37.96006329113924,569.0,True
 Ahuacatlán,Nayarit,si,2024,1093.0,36.20238959260527,39555.0,False
 Ahuacatlán,Nayarit,si,2025,1056.0,36.20238959260527,38219.0,False
 Ahuacatlán,Nayarit,si,2026,1027.0,36.20238959260527,37191.0,False
@@ -1423,30 +2183,38 @@ Amatlán de Cañas,Nayarit,si,2028,365.0,38.11455910852713,13919.0,True
 Amatlán de Cañas,Nayarit,si,2029,365.0,38.11455910852713,13919.0,True
 Amatlán de Cañas,Nayarit,si,2030,365.0,38.11455910852713,13919.0,True
 Amatlán de Cañas,Nayarit,si,2031,365.0,38.11455910852713,13919.0,True
-Bahía de Banderas,Nayarit,no,2024,5.0,37.96006329113924,182.0,False
-Bahía de Banderas,Nayarit,no,2025,5.0,37.96006329113924,175.0,False
-Bahía de Banderas,Nayarit,no,2026,5.0,37.96006329113924,175.0,False
-Bahía de Banderas,Nayarit,no,2027,5.0,37.96006329113924,175.0,True
-Bahía de Banderas,Nayarit,no,2028,5.0,37.96006329113924,175.0,True
-Bahía de Banderas,Nayarit,no,2029,5.0,37.96006329113924,175.0,True
-Bahía de Banderas,Nayarit,no,2030,5.0,37.96006329113924,175.0,True
-Bahía de Banderas,Nayarit,no,2031,5.0,37.96006329113924,175.0,True
-Compostela,Nayarit,no,2024,432.0,37.96006329113924,16403.0,False
-Compostela,Nayarit,no,2025,405.0,37.96006329113924,15374.0,False
-Compostela,Nayarit,no,2026,387.0,37.96006329113924,14706.0,False
-Compostela,Nayarit,no,2027,387.0,37.96006329113924,14706.0,True
-Compostela,Nayarit,no,2028,387.0,37.96006329113924,14706.0,True
-Compostela,Nayarit,no,2029,387.0,37.96006329113924,14706.0,True
-Compostela,Nayarit,no,2030,387.0,37.96006329113924,14706.0,True
-Compostela,Nayarit,no,2031,387.0,37.96006329113924,14706.0,True
-Del Nayar,Nayarit,no,2024,62.0,37.96006329113924,2361.0,False
-Del Nayar,Nayarit,no,2025,61.0,37.96006329113924,2323.0,False
-Del Nayar,Nayarit,no,2026,61.0,37.96006329113924,2316.0,False
-Del Nayar,Nayarit,no,2027,61.0,37.96006329113924,2316.0,True
-Del Nayar,Nayarit,no,2028,61.0,37.96006329113924,2316.0,True
-Del Nayar,Nayarit,no,2029,61.0,37.96006329113924,2316.0,True
-Del Nayar,Nayarit,no,2030,61.0,37.96006329113924,2316.0,True
-Del Nayar,Nayarit,no,2031,61.0,37.96006329113924,2316.0,True
+Bahía de Banderas,Nayarit,no,2024,2338.0,37.96006329113924,88758.0,False
+Bahía de Banderas,Nayarit,no,2025,2159.0,37.96006329113924,81952.0,False
+Bahía de Banderas,Nayarit,no,2026,2009.0,37.96006329113924,76266.0,False
+Bahía de Banderas,Nayarit,no,2027,2009.0,37.96006329113924,76266.0,True
+Bahía de Banderas,Nayarit,no,2028,2009.0,37.96006329113924,76266.0,True
+Bahía de Banderas,Nayarit,no,2029,2009.0,37.96006329113924,76266.0,True
+Bahía de Banderas,Nayarit,no,2030,2009.0,37.96006329113924,76266.0,True
+Bahía de Banderas,Nayarit,no,2031,2009.0,37.96006329113924,76266.0,True
+Compostela,Nayarit,no,2024,2564.0,37.96006329113924,97326.0,False
+Compostela,Nayarit,no,2025,2315.0,37.96006329113924,87878.0,False
+Compostela,Nayarit,no,2026,2209.0,37.96006329113924,83869.0,False
+Compostela,Nayarit,no,2027,2209.0,37.96006329113924,83869.0,True
+Compostela,Nayarit,no,2028,2209.0,37.96006329113924,83869.0,True
+Compostela,Nayarit,no,2029,2209.0,37.96006329113924,83869.0,True
+Compostela,Nayarit,no,2030,2209.0,37.96006329113924,83869.0,True
+Compostela,Nayarit,no,2031,2209.0,37.96006329113924,83869.0,True
+Del Nayar,Nayarit,no,2024,17127.0,37.96006329113924,650150.0,False
+Del Nayar,Nayarit,no,2025,16982.0,37.96006329113924,644653.0,False
+Del Nayar,Nayarit,no,2026,16895.0,37.96006329113924,641331.0,False
+Del Nayar,Nayarit,no,2027,16895.0,37.96006329113924,641331.0,True
+Del Nayar,Nayarit,no,2028,16895.0,37.96006329113924,641331.0,True
+Del Nayar,Nayarit,no,2029,16895.0,37.96006329113924,641331.0,True
+Del Nayar,Nayarit,no,2030,16895.0,37.96006329113924,641331.0,True
+Del Nayar,Nayarit,no,2031,16895.0,37.96006329113924,641331.0,True
+Huajicori,Nayarit,no,2024,270.0,37.96006329113924,10230.0,False
+Huajicori,Nayarit,no,2025,267.0,37.96006329113924,10135.0,False
+Huajicori,Nayarit,no,2026,267.0,37.96006329113924,10120.0,False
+Huajicori,Nayarit,no,2027,267.0,37.96006329113924,10120.0,True
+Huajicori,Nayarit,no,2028,267.0,37.96006329113924,10120.0,True
+Huajicori,Nayarit,no,2029,267.0,37.96006329113924,10120.0,True
+Huajicori,Nayarit,no,2030,267.0,37.96006329113924,10120.0,True
+Huajicori,Nayarit,no,2031,267.0,37.96006329113924,10120.0,True
 Ixtlán del Río,Nayarit,si,2024,608.0,38.38552777777778,23350.0,False
 Ixtlán del Río,Nayarit,si,2025,591.0,38.38552777777778,22690.0,False
 Ixtlán del Río,Nayarit,si,2026,567.0,38.38552777777778,21768.0,False
@@ -1463,14 +2231,38 @@ Jala,Nayarit,si,2028,481.0,37.96006329113924,18263.0,True
 Jala,Nayarit,si,2029,481.0,37.96006329113924,18263.0,True
 Jala,Nayarit,si,2030,481.0,37.96006329113924,18263.0,True
 Jala,Nayarit,si,2031,481.0,37.96006329113924,18263.0,True
-La Yesca,Nayarit,no,2024,4808.0,37.96006329113924,182527.0,False
-La Yesca,Nayarit,no,2025,4700.0,37.96006329113924,178409.0,False
-La Yesca,Nayarit,no,2026,4660.0,37.96006329113924,176901.0,False
-La Yesca,Nayarit,no,2027,4660.0,37.96006329113924,176901.0,True
-La Yesca,Nayarit,no,2028,4660.0,37.96006329113924,176901.0,True
-La Yesca,Nayarit,no,2029,4660.0,37.96006329113924,176901.0,True
-La Yesca,Nayarit,no,2030,4660.0,37.96006329113924,176901.0,True
-La Yesca,Nayarit,no,2031,4660.0,37.96006329113924,176901.0,True
+La Yesca,Nayarit,no,2024,6446.0,37.96006329113924,244687.0,False
+La Yesca,Nayarit,no,2025,6284.0,37.96006329113924,238541.0,False
+La Yesca,Nayarit,no,2026,6224.0,37.96006329113924,236260.0,False
+La Yesca,Nayarit,no,2027,6224.0,37.96006329113924,236260.0,True
+La Yesca,Nayarit,no,2028,6224.0,37.96006329113924,236260.0,True
+La Yesca,Nayarit,no,2029,6224.0,37.96006329113924,236260.0,True
+La Yesca,Nayarit,no,2030,6224.0,37.96006329113924,236260.0,True
+La Yesca,Nayarit,no,2031,6224.0,37.96006329113924,236260.0,True
+Rosamorada,Nayarit,no,2024,35.0,37.96006329113924,1340.0,False
+Rosamorada,Nayarit,no,2025,35.0,37.96006329113924,1313.0,False
+Rosamorada,Nayarit,no,2026,34.0,37.96006329113924,1306.0,False
+Rosamorada,Nayarit,no,2027,34.0,37.96006329113924,1306.0,True
+Rosamorada,Nayarit,no,2028,34.0,37.96006329113924,1306.0,True
+Rosamorada,Nayarit,no,2029,34.0,37.96006329113924,1306.0,True
+Rosamorada,Nayarit,no,2030,34.0,37.96006329113924,1306.0,True
+Rosamorada,Nayarit,no,2031,34.0,37.96006329113924,1306.0,True
+Ruíz,Nayarit,no,2024,113.0,37.96006329113924,4289.0,False
+Ruíz,Nayarit,no,2025,113.0,37.96006329113924,4286.0,False
+Ruíz,Nayarit,no,2026,112.0,37.96006329113924,4252.0,False
+Ruíz,Nayarit,no,2027,112.0,37.96006329113924,4252.0,True
+Ruíz,Nayarit,no,2028,112.0,37.96006329113924,4252.0,True
+Ruíz,Nayarit,no,2029,112.0,37.96006329113924,4252.0,True
+Ruíz,Nayarit,no,2030,112.0,37.96006329113924,4252.0,True
+Ruíz,Nayarit,no,2031,112.0,37.96006329113924,4252.0,True
+San Blas,Nayarit,no,2024,4245.0,37.96006329113924,161156.0,False
+San Blas,Nayarit,no,2025,4091.0,37.96006329113924,155295.0,False
+San Blas,Nayarit,no,2026,3995.0,37.96006329113924,151658.0,False
+San Blas,Nayarit,no,2027,3995.0,37.96006329113924,151658.0,True
+San Blas,Nayarit,no,2028,3995.0,37.96006329113924,151658.0,True
+San Blas,Nayarit,no,2029,3995.0,37.96006329113924,151658.0,True
+San Blas,Nayarit,no,2030,3995.0,37.96006329113924,151658.0,True
+San Blas,Nayarit,no,2031,3995.0,37.96006329113924,151658.0,True
 San Pedro Lagunillas,Nayarit,si,2024,430.0,37.24802539258269,16035.0,False
 San Pedro Lagunillas,Nayarit,si,2025,403.0,37.24802539258269,14996.0,False
 San Pedro Lagunillas,Nayarit,si,2026,376.0,37.24802539258269,13990.0,False
@@ -1487,19 +2279,187 @@ Santa María del Oro,Nayarit,si,2028,1003.0,38.930205066344996,39051.0,True
 Santa María del Oro,Nayarit,si,2029,1003.0,38.930205066344996,39051.0,True
 Santa María del Oro,Nayarit,si,2030,1003.0,38.930205066344996,39051.0,True
 Santa María del Oro,Nayarit,si,2031,1003.0,38.930205066344996,39051.0,True
-Tepic,Nayarit,si,2024,2393.0,44.227940691927515,105846.0,False
-Tepic,Nayarit,si,2025,2234.0,44.227940691927515,98818.0,False
-Tepic,Nayarit,si,2026,2142.0,44.227940691927515,94745.0,False
-Tepic,Nayarit,si,2027,2142.0,44.227940691927515,94745.0,True
-Tepic,Nayarit,si,2028,2142.0,44.227940691927515,94745.0,True
-Tepic,Nayarit,si,2029,2142.0,44.227940691927515,94745.0,True
-Tepic,Nayarit,si,2030,2142.0,44.227940691927515,94745.0,True
-Tepic,Nayarit,si,2031,2142.0,44.227940691927515,94745.0,True
-Xalisco,Nayarit,si,2024,895.0,37.96006329113924,33963.0,False
-Xalisco,Nayarit,si,2025,818.0,37.96006329113924,31070.0,False
-Xalisco,Nayarit,si,2026,793.0,37.96006329113924,30087.0,False
-Xalisco,Nayarit,si,2027,793.0,37.96006329113924,30087.0,True
-Xalisco,Nayarit,si,2028,793.0,37.96006329113924,30087.0,True
-Xalisco,Nayarit,si,2029,793.0,37.96006329113924,30087.0,True
-Xalisco,Nayarit,si,2030,793.0,37.96006329113924,30087.0,True
-Xalisco,Nayarit,si,2031,793.0,37.96006329113924,30087.0,True
+Santiago Ixcuintla,Nayarit,no,2024,552.0,37.96006329113924,20950.0,False
+Santiago Ixcuintla,Nayarit,no,2025,517.0,37.96006329113924,19637.0,False
+Santiago Ixcuintla,Nayarit,no,2026,500.0,37.96006329113924,18999.0,False
+Santiago Ixcuintla,Nayarit,no,2027,500.0,37.96006329113924,18999.0,True
+Santiago Ixcuintla,Nayarit,no,2028,500.0,37.96006329113924,18999.0,True
+Santiago Ixcuintla,Nayarit,no,2029,500.0,37.96006329113924,18999.0,True
+Santiago Ixcuintla,Nayarit,no,2030,500.0,37.96006329113924,18999.0,True
+Santiago Ixcuintla,Nayarit,no,2031,500.0,37.96006329113924,18999.0,True
+Tepic,Nayarit,si,2024,2843.0,44.227940691927515,125727.0,False
+Tepic,Nayarit,si,2025,2678.0,44.227940691927515,118465.0,False
+Tepic,Nayarit,si,2026,2584.0,44.227940691927515,114285.0,False
+Tepic,Nayarit,si,2027,2584.0,44.227940691927515,114285.0,True
+Tepic,Nayarit,si,2028,2584.0,44.227940691927515,114285.0,True
+Tepic,Nayarit,si,2029,2584.0,44.227940691927515,114285.0,True
+Tepic,Nayarit,si,2030,2584.0,44.227940691927515,114285.0,True
+Tepic,Nayarit,si,2031,2584.0,44.227940691927515,114285.0,True
+Xalisco,Nayarit,si,2024,931.0,37.96006329113924,35333.0,False
+Xalisco,Nayarit,si,2025,854.0,37.96006329113924,32410.0,False
+Xalisco,Nayarit,si,2026,828.0,37.96006329113924,31423.0,False
+Xalisco,Nayarit,si,2027,828.0,37.96006329113924,31423.0,True
+Xalisco,Nayarit,si,2028,828.0,37.96006329113924,31423.0,True
+Xalisco,Nayarit,si,2029,828.0,37.96006329113924,31423.0,True
+Xalisco,Nayarit,si,2030,828.0,37.96006329113924,31423.0,True
+Xalisco,Nayarit,si,2031,828.0,37.96006329113924,31423.0,True
+Aldama,Tamaulipas,si,2024,25145.0,32.824938180927894,825370.0,False
+Aldama,Tamaulipas,si,2025,24400.0,32.824938180927894,800925.0,False
+Aldama,Tamaulipas,si,2026,23937.0,32.824938180927894,785731.0,False
+Aldama,Tamaulipas,si,2027,23937.0,32.824938180927894,785731.0,True
+Aldama,Tamaulipas,si,2028,23937.0,32.824938180927894,785731.0,True
+Aldama,Tamaulipas,si,2029,23937.0,32.824938180927894,785731.0,True
+Aldama,Tamaulipas,si,2030,23937.0,32.824938180927894,785731.0,True
+Aldama,Tamaulipas,si,2031,23937.0,32.824938180927894,785731.0,True
+Altamira,Tamaulipas,si,2024,14498.0,32.824938180927894,475906.0,False
+Altamira,Tamaulipas,si,2025,12930.0,32.824938180927894,424436.0,False
+Altamira,Tamaulipas,si,2026,12223.0,32.824938180927894,401216.0,False
+Altamira,Tamaulipas,si,2027,12223.0,32.824938180927894,401216.0,True
+Altamira,Tamaulipas,si,2028,12223.0,32.824938180927894,401216.0,True
+Altamira,Tamaulipas,si,2029,12223.0,32.824938180927894,401216.0,True
+Altamira,Tamaulipas,si,2030,12223.0,32.824938180927894,401216.0,True
+Altamira,Tamaulipas,si,2031,12223.0,32.824938180927894,401216.0,True
+Antiguo Morelos,Tamaulipas,si,2024,1837.0,32.824938180927894,60313.0,False
+Antiguo Morelos,Tamaulipas,si,2025,1691.0,32.824938180927894,55500.0,False
+Antiguo Morelos,Tamaulipas,si,2026,1679.0,32.824938180927894,55126.0,False
+Antiguo Morelos,Tamaulipas,si,2027,1679.0,32.824938180927894,55126.0,True
+Antiguo Morelos,Tamaulipas,si,2028,1679.0,32.824938180927894,55126.0,True
+Antiguo Morelos,Tamaulipas,si,2029,1679.0,32.824938180927894,55126.0,True
+Antiguo Morelos,Tamaulipas,si,2030,1679.0,32.824938180927894,55126.0,True
+Antiguo Morelos,Tamaulipas,si,2031,1679.0,32.824938180927894,55126.0,True
+Bustamante,Tamaulipas,no,2024,25847.0,32.824938180927894,848416.0,False
+Bustamante,Tamaulipas,no,2025,25741.0,32.824938180927894,844943.0,False
+Bustamante,Tamaulipas,no,2026,25628.0,32.824938180927894,841224.0,False
+Bustamante,Tamaulipas,no,2027,25628.0,32.824938180927894,841224.0,True
+Bustamante,Tamaulipas,no,2028,25628.0,32.824938180927894,841224.0,True
+Bustamante,Tamaulipas,no,2029,25628.0,32.824938180927894,841224.0,True
+Bustamante,Tamaulipas,no,2030,25628.0,32.824938180927894,841224.0,True
+Bustamante,Tamaulipas,no,2031,25628.0,32.824938180927894,841224.0,True
+Casas,Tamaulipas,no,2024,8174.0,32.824938180927894,268308.0,False
+Casas,Tamaulipas,no,2025,8165.0,32.824938180927894,268002.0,False
+Casas,Tamaulipas,no,2026,8158.0,32.824938180927894,267799.0,False
+Casas,Tamaulipas,no,2027,8158.0,32.824938180927894,267799.0,True
+Casas,Tamaulipas,no,2028,8158.0,32.824938180927894,267799.0,True
+Casas,Tamaulipas,no,2029,8158.0,32.824938180927894,267799.0,True
+Casas,Tamaulipas,no,2030,8158.0,32.824938180927894,267799.0,True
+Casas,Tamaulipas,no,2031,8158.0,32.824938180927894,267799.0,True
+Ciudad Madero,Tamaulipas,no,2024,568.0,32.824938180927894,18641.0,False
+Ciudad Madero,Tamaulipas,no,2025,550.0,32.824938180927894,18060.0,False
+Ciudad Madero,Tamaulipas,no,2026,539.0,32.824938180927894,17683.0,False
+Ciudad Madero,Tamaulipas,no,2027,539.0,32.824938180927894,17683.0,True
+Ciudad Madero,Tamaulipas,no,2028,539.0,32.824938180927894,17683.0,True
+Ciudad Madero,Tamaulipas,no,2029,539.0,32.824938180927894,17683.0,True
+Ciudad Madero,Tamaulipas,no,2030,539.0,32.824938180927894,17683.0,True
+Ciudad Madero,Tamaulipas,no,2031,539.0,32.824938180927894,17683.0,True
+El Mante,Tamaulipas,si,2024,17078.0,32.824938180927894,560601.0,False
+El Mante,Tamaulipas,si,2025,16280.0,32.824938180927894,534400.0,False
+El Mante,Tamaulipas,si,2026,16004.0,32.824938180927894,525340.0,False
+El Mante,Tamaulipas,si,2027,16004.0,32.824938180927894,525340.0,True
+El Mante,Tamaulipas,si,2028,16004.0,32.824938180927894,525340.0,True
+El Mante,Tamaulipas,si,2029,16004.0,32.824938180927894,525340.0,True
+El Mante,Tamaulipas,si,2030,16004.0,32.824938180927894,525340.0,True
+El Mante,Tamaulipas,si,2031,16004.0,32.824938180927894,525340.0,True
+González,Tamaulipas,si,2024,24216.0,19.29257854821235,467183.0,False
+González,Tamaulipas,si,2025,22581.0,19.29257854821235,435642.0,False
+González,Tamaulipas,si,2026,21900.0,19.29257854821235,422509.0,False
+González,Tamaulipas,si,2027,21900.0,19.29257854821235,422509.0,True
+González,Tamaulipas,si,2028,21900.0,19.29257854821235,422509.0,True
+González,Tamaulipas,si,2029,21900.0,19.29257854821235,422509.0,True
+González,Tamaulipas,si,2030,21900.0,19.29257854821235,422509.0,True
+González,Tamaulipas,si,2031,21900.0,19.29257854821235,422509.0,True
+Gómez Farías,Tamaulipas,si,2024,3539.0,32.824938180927894,116171.0,False
+Gómez Farías,Tamaulipas,si,2025,3150.0,32.824938180927894,103402.0,False
+Gómez Farías,Tamaulipas,si,2026,3076.0,32.824938180927894,100970.0,False
+Gómez Farías,Tamaulipas,si,2027,3076.0,32.824938180927894,100970.0,True
+Gómez Farías,Tamaulipas,si,2028,3076.0,32.824938180927894,100970.0,True
+Gómez Farías,Tamaulipas,si,2029,3076.0,32.824938180927894,100970.0,True
+Gómez Farías,Tamaulipas,si,2030,3076.0,32.824938180927894,100970.0,True
+Gómez Farías,Tamaulipas,si,2031,3076.0,32.824938180927894,100970.0,True
+Jaumave,Tamaulipas,no,2024,17309.0,32.824938180927894,568167.0,False
+Jaumave,Tamaulipas,no,2025,17209.0,32.824938180927894,564878.0,False
+Jaumave,Tamaulipas,no,2026,17199.0,32.824938180927894,564550.0,False
+Jaumave,Tamaulipas,no,2027,17199.0,32.824938180927894,564550.0,True
+Jaumave,Tamaulipas,no,2028,17199.0,32.824938180927894,564550.0,True
+Jaumave,Tamaulipas,no,2029,17199.0,32.824938180927894,564550.0,True
+Jaumave,Tamaulipas,no,2030,17199.0,32.824938180927894,564550.0,True
+Jaumave,Tamaulipas,no,2031,17199.0,32.824938180927894,564550.0,True
+Llera,Tamaulipas,si,2024,21387.0,43.375685557586834,927671.0,False
+Llera,Tamaulipas,si,2025,21262.0,43.375685557586834,922276.0,False
+Llera,Tamaulipas,si,2026,21148.0,43.375685557586834,917318.0,False
+Llera,Tamaulipas,si,2027,21148.0,43.375685557586834,917318.0,True
+Llera,Tamaulipas,si,2028,21148.0,43.375685557586834,917318.0,True
+Llera,Tamaulipas,si,2029,21148.0,43.375685557586834,917318.0,True
+Llera,Tamaulipas,si,2030,21148.0,43.375685557586834,917318.0,True
+Llera,Tamaulipas,si,2031,21148.0,43.375685557586834,917318.0,True
+Miquihuana,Tamaulipas,no,2024,1942.0,32.824938180927894,63746.0,False
+Miquihuana,Tamaulipas,no,2025,1941.0,32.824938180927894,63723.0,False
+Miquihuana,Tamaulipas,no,2026,1940.0,32.824938180927894,63664.0,False
+Miquihuana,Tamaulipas,no,2027,1940.0,32.824938180927894,63664.0,True
+Miquihuana,Tamaulipas,no,2028,1940.0,32.824938180927894,63664.0,True
+Miquihuana,Tamaulipas,no,2029,1940.0,32.824938180927894,63664.0,True
+Miquihuana,Tamaulipas,no,2030,1940.0,32.824938180927894,63664.0,True
+Miquihuana,Tamaulipas,no,2031,1940.0,32.824938180927894,63664.0,True
+Nuevo Morelos,Tamaulipas,si,2024,831.0,32.824938180927894,27268.0,False
+Nuevo Morelos,Tamaulipas,si,2025,727.0,32.824938180927894,23860.0,False
+Nuevo Morelos,Tamaulipas,si,2026,723.0,32.824938180927894,23736.0,False
+Nuevo Morelos,Tamaulipas,si,2027,723.0,32.824938180927894,23736.0,True
+Nuevo Morelos,Tamaulipas,si,2028,723.0,32.824938180927894,23736.0,True
+Nuevo Morelos,Tamaulipas,si,2029,723.0,32.824938180927894,23736.0,True
+Nuevo Morelos,Tamaulipas,si,2030,723.0,32.824938180927894,23736.0,True
+Nuevo Morelos,Tamaulipas,si,2031,723.0,32.824938180927894,23736.0,True
+Ocampo,Tamaulipas,si,2024,4732.0,32.824938180927894,155334.0,False
+Ocampo,Tamaulipas,si,2025,4448.0,32.824938180927894,145992.0,False
+Ocampo,Tamaulipas,si,2026,4430.0,32.824938180927894,145431.0,False
+Ocampo,Tamaulipas,si,2027,4430.0,32.824938180927894,145431.0,True
+Ocampo,Tamaulipas,si,2028,4430.0,32.824938180927894,145431.0,True
+Ocampo,Tamaulipas,si,2029,4430.0,32.824938180927894,145431.0,True
+Ocampo,Tamaulipas,si,2030,4430.0,32.824938180927894,145431.0,True
+Ocampo,Tamaulipas,si,2031,4430.0,32.824938180927894,145431.0,True
+Palmillas,Tamaulipas,no,2024,7776.0,32.824938180927894,255250.0,False
+Palmillas,Tamaulipas,no,2025,7770.0,32.824938180927894,255043.0,False
+Palmillas,Tamaulipas,no,2026,7765.0,32.824938180927894,254895.0,False
+Palmillas,Tamaulipas,no,2027,7765.0,32.824938180927894,254895.0,True
+Palmillas,Tamaulipas,no,2028,7765.0,32.824938180927894,254895.0,True
+Palmillas,Tamaulipas,no,2029,7765.0,32.824938180927894,254895.0,True
+Palmillas,Tamaulipas,no,2030,7765.0,32.824938180927894,254895.0,True
+Palmillas,Tamaulipas,no,2031,7765.0,32.824938180927894,254895.0,True
+Soto la Marina,Tamaulipas,no,2024,5041.0,32.824938180927894,165461.0,False
+Soto la Marina,Tamaulipas,no,2025,4845.0,32.824938180927894,159030.0,False
+Soto la Marina,Tamaulipas,no,2026,4304.0,32.824938180927894,141288.0,False
+Soto la Marina,Tamaulipas,no,2027,4304.0,32.824938180927894,141288.0,True
+Soto la Marina,Tamaulipas,no,2028,4304.0,32.824938180927894,141288.0,True
+Soto la Marina,Tamaulipas,no,2029,4304.0,32.824938180927894,141288.0,True
+Soto la Marina,Tamaulipas,no,2030,4304.0,32.824938180927894,141288.0,True
+Soto la Marina,Tamaulipas,no,2031,4304.0,32.824938180927894,141288.0,True
+Tampico,Tamaulipas,no,2024,1354.0,32.824938180927894,44429.0,False
+Tampico,Tamaulipas,no,2025,1199.0,32.824938180927894,39344.0,False
+Tampico,Tamaulipas,no,2026,1091.0,32.824938180927894,35822.0,False
+Tampico,Tamaulipas,no,2027,1091.0,32.824938180927894,35822.0,True
+Tampico,Tamaulipas,no,2028,1091.0,32.824938180927894,35822.0,True
+Tampico,Tamaulipas,no,2029,1091.0,32.824938180927894,35822.0,True
+Tampico,Tamaulipas,no,2030,1091.0,32.824938180927894,35822.0,True
+Tampico,Tamaulipas,no,2031,1091.0,32.824938180927894,35822.0,True
+Tula,Tamaulipas,si,2024,23119.0,32.824938180927894,758870.0,False
+Tula,Tamaulipas,si,2025,23040.0,32.824938180927894,756270.0,False
+Tula,Tamaulipas,si,2026,22975.0,32.824938180927894,754143.0,False
+Tula,Tamaulipas,si,2027,22975.0,32.824938180927894,754143.0,True
+Tula,Tamaulipas,si,2028,22975.0,32.824938180927894,754143.0,True
+Tula,Tamaulipas,si,2029,22975.0,32.824938180927894,754143.0,True
+Tula,Tamaulipas,si,2030,22975.0,32.824938180927894,754143.0,True
+Tula,Tamaulipas,si,2031,22975.0,32.824938180927894,754143.0,True
+Victoria,Tamaulipas,no,2024,111.0,32.824938180927894,3644.0,False
+Victoria,Tamaulipas,no,2025,102.0,32.824938180927894,3332.0,False
+Victoria,Tamaulipas,no,2026,102.0,32.824938180927894,3332.0,False
+Victoria,Tamaulipas,no,2027,102.0,32.824938180927894,3332.0,True
+Victoria,Tamaulipas,no,2028,102.0,32.824938180927894,3332.0,True
+Victoria,Tamaulipas,no,2029,102.0,32.824938180927894,3332.0,True
+Victoria,Tamaulipas,no,2030,102.0,32.824938180927894,3332.0,True
+Victoria,Tamaulipas,no,2031,102.0,32.824938180927894,3332.0,True
+Xicoténcatl,Tamaulipas,si,2024,11672.0,32.824938180927894,383149.0,False
+Xicoténcatl,Tamaulipas,si,2025,10774.0,32.824938180927894,353659.0,False
+Xicoténcatl,Tamaulipas,si,2026,10538.0,32.824938180927894,345919.0,False
+Xicoténcatl,Tamaulipas,si,2027,10538.0,32.824938180927894,345919.0,True
+Xicoténcatl,Tamaulipas,si,2028,10538.0,32.824938180927894,345919.0,True
+Xicoténcatl,Tamaulipas,si,2029,10538.0,32.824938180927894,345919.0,True
+Xicoténcatl,Tamaulipas,si,2030,10538.0,32.824938180927894,345919.0,True
+Xicoténcatl,Tamaulipas,si,2031,10538.0,32.824938180927894,345919.0,True
