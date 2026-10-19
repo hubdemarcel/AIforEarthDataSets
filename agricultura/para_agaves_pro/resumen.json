@@ -1,0 +1,58 @@
+{
+ "nota": "Hectáreas satelitales sin calibrar contra el SIAP; usar para tendencias y comparación entre municipios. Tamaulipas queda fuera de los totales.",
+ "mosaicos": 35,
+ "jimas_por_anio_ha": {
+  "2018": 61864,
+  "2019": 74607,
+  "2020": 56202,
+  "2021": 121580,
+  "2022": 32192,
+  "2023": 36040,
+  "2024": 28752,
+  "2025": 18571,
+  "2026": 9139
+ },
+ "en_pie_2026_por_plantacion_ha": {
+  "2009": 8561,
+  "2010": 25789,
+  "2011": 13875,
+  "2012": 13416,
+  "2013": 22746,
+  "2014": 17119,
+  "2015": 120832,
+  "2016": 34187,
+  "2017": 42261
+ },
+ "por_estado": {
+  "Guanajuato": {
+   "viejo_en_pie_ha": 39456,
+   "joven_en_pie_ha": 86395,
+   "siap_sembrada_2025_ha": 108809,
+   "calibrado": true
+  },
+  "Jalisco": {
+   "viejo_en_pie_ha": 135578,
+   "joven_en_pie_ha": 235351,
+   "siap_sembrada_2025_ha": 133954,
+   "calibrado": true
+  },
+  "Michoacan de Ocampo": {
+   "viejo_en_pie_ha": 84257,
+   "joven_en_pie_ha": 105920,
+   "siap_sembrada_2025_ha": 9879,
+   "calibrado": true
+  },
+  "Nayarit": {
+   "viejo_en_pie_ha": 39491,
+   "joven_en_pie_ha": 32671,
+   "siap_sembrada_2025_ha": 24999,
+   "calibrado": true
+  },
+  "Tamaulipas": {
+   "viejo_en_pie_ha": 205359,
+   "joven_en_pie_ha": 151236,
+   "siap_sembrada_2025_ha": 1197,
+   "calibrado": false
+  }
+ }
+}
