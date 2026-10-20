@@ -63,7 +63,8 @@ def compuesto(mosaico, anio, mes, geobox):
     if not items:
         return None
     ds = odc.stac.load(items, bands=list(BANDAS) + ["scl"], geobox=geobox, groupby="solar_day",
-                       chunks={"x": 1830, "y": 1830}, resampling={"scl": "nearest", "*": "average"})
+                       chunks={"x": 1830, "y": 1830}, resampling={"scl": "nearest", "*": "average"},
+                       fail_on_error=False)  # una escena ilegible se salta en vez de tumbar el mosaico
     offset_dia = {np.datetime64(i.datetime.replace(tzinfo=None), "D"): datos._offset(i) for i in items}
     offset = xr.DataArray([offset_dia.get(np.datetime64(t, "D"), 0) for t in ds.time.values], dims="time")
     valido = ds.scl.isin(datos.SCL_VALIDOS) & (ds.red > 0) & (ds.nir > 0) & (ds.swir16 > 0)
