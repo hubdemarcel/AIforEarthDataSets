@@ -1,0 +1,151 @@
+id,zona,estado,municipio,lat,lon,establecimiento,mosaico,p,confianza
+p001,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.67712,-101.820724,2019,14QKH,0.051,3
+p002,Núcleo Jalisco,Jalisco,Atotonilco el Alto,20.507779,-102.510898,2022,13QGC,0.732,3
+p003,Jalisco en verificación,Jalisco,Ixtlahuacán del Río,20.812323,-103.246091,2018,13QFD,0.087,3
+p004,Jalisco en verificación,Jalisco,Magdalena,20.874919,-103.908574,2021,13QFD,0.996,3
+p005,Núcleo Jalisco,Jalisco,Tequila,21.066164,-103.689476,2021,13QFD,0.396,3
+p006,Michoacán DO,Michoacan de Ocampo,Cotija,19.700364,-102.704237,2023,13QGB,0.055,2
+p007,Tamaulipas,Tamaulipas,Bustamante,23.148344,-100.024196,2021,14QLL,0.001,3
+p008,Núcleo Jalisco,Jalisco,Tequila,20.991496,-103.780168,2023,13QFD,0.78,2
+p009,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.586181,-102.089821,2019,13QHB,0.016,2
+p010,Guanajuato norte,Guanajuato,San Felipe,21.23366,-101.420196,2021,14QKJ,0.986,3
+p011,Tamaulipas,Tamaulipas,Altamira,22.431578,-98.076755,2018,14QNK,0.021,3
+p012,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.709457,-101.957824,2022,13QHC,0.929,3
+p013,Tamaulipas,Tamaulipas,Nuevo Morelos,22.564267,-99.26642,2021,14QMK,0.002,3
+p014,Guanajuato Bajío,Guanajuato,Romita,20.795943,-101.578681,2023,14QKJ,0.014,3
+p015,Sierra y Nayarit,Nayarit,Santa María del Oro,21.453027,-104.638364,2023,13QED,0.984,2
+p016,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.812088,-101.983415,2024,13QHD,0.745,3
+p017,Guanajuato norte,Guanajuato,San Felipe,21.744536,-101.030448,2021,14QKK,0.029,3
+p018,Tierra Caliente,Michoacan de Ocampo,Tepalcatepec,19.185036,-102.823837,2024,13QGB,0.002,3
+p019,Michoacán DO,Michoacan de Ocampo,La Piedad,20.284359,-101.992039,2022,13QHC,0.961,3
+p020,Guanajuato Bajío,Guanajuato,Pénjamo,20.328684,-101.656994,2020,14QKH,0.966,3
+p021,Tierra Caliente,Michoacan de Ocampo,Parácuaro,18.986162,-102.304098,2024,13QGB,0.561,3
+p022,Michoacán DO,Michoacan de Ocampo,Jiquilpan,19.97121,-102.739313,2022,13QGC,0.913,3
+p023,Sierra y Nayarit,Nayarit,Tepic,21.557915,-104.792057,2023,13QED,0.643,2
+p024,Tamaulipas,Tamaulipas,Llera,23.165816,-98.798839,2020,14QNL,0.618,3
+p025,Núcleo Jalisco,Jalisco,Tequila,21.016772,-103.7282,2022,13QFD,0.954,2
+p026,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.581112,-102.08896,2019,13QHB,0.004,3
+p027,Tierra Caliente,Michoacan de Ocampo,Buenavista,19.167475,-102.760573,2024,13QGB,0.039,3
+p028,Guanajuato norte,Guanajuato,San Felipe,21.324479,-101.265949,2021,14QKJ,0.015,2
+p029,Guanajuato norte,Guanajuato,San Felipe,21.710623,-101.392535,2021,14QKK,0.749,3
+p030,Tamaulipas,Tamaulipas,Bustamante,23.445021,-99.79681,2022,14QML,0.002,3
+p031,Núcleo Jalisco,Jalisco,Tequila,21.247787,-103.742802,2021,13QFD,0.363,2
+p032,Jalisco en verificación,Jalisco,Ameca,20.637975,-104.156749,2022,13QEC,0.993,3
+p033,Sierra y Nayarit,Nayarit,Santa María del Oro,21.204397,-104.646681,2022,13QED,0.913,3
+p034,Guanajuato norte,Guanajuato,San Felipe,21.740758,-100.969498,2021,14QKK,0.632,3
+p035,Núcleo Jalisco,Jalisco,Tequila,21.414869,-103.558279,2024,13QFD,0.085,1
+p036,Jalisco en verificación,Jalisco,Ameca,20.532867,-104.097667,2019,13QEC,0.456,2
+p037,Tamaulipas,Tamaulipas,Ocampo,22.927614,-99.352557,2024,14QML,0.694,3
+p038,Guanajuato Bajío,Guanajuato,Romita,20.76502,-101.652647,2021,14QKH,0.985,3
+p039,Michoacán DO,Michoacan de Ocampo,Vista Hermosa,20.201114,-102.447134,2021,13QGC,0.678,3
+p040,Guanajuato norte,Tamaulipas,Ocampo,22.749604,-99.157106,2021,14QML,0.0,3
+p041,Tierra Caliente,Michoacan de Ocampo,Apatzingán,19.065954,-102.42836,2023,13QGB,0.522,3
+p042,Tamaulipas,Tamaulipas,Llera,23.414174,-98.984046,2020,14QNL,0.506,3
+p043,Jalisco en verificación,Jalisco,Ameca,20.543156,-104.06154,2023,13QEC,0.942,3
+p044,Jalisco en verificación,Jalisco,Zapopan,20.854568,-103.510063,2021,13QFD,0.983,2
+p045,Tierra Caliente,Michoacan de Ocampo,Parácuaro,18.98704,-102.302375,2024,13QGB,0.691,3
+p046,Guanajuato Bajío,Guanajuato,Cuerámaro,20.557417,-101.71883,2024,14QKH,0.088,2
+p047,Jalisco en verificación,Jalisco,Ixtlahuacán del Río,20.824588,-103.24422,2023,13QFD,0.991,1
+p048,Tamaulipas,Tamaulipas,Nuevo Morelos,22.528552,-99.227648,2022,14QMK,0.0,2
+p049,Sierra y Nayarit,Nayarit,Santa María del Oro,21.480763,-104.598139,2021,13QED,0.995,3
+p050,Tamaulipas,Tamaulipas,Tula,22.839118,-100.017188,2021,14QLL,0.001,3
+p051,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.780098,-101.693231,2024,14QKJ,0.895,2
+p052,Jalisco en verificación,Jalisco,Zapopan,20.743418,-103.569543,2021,13QFC,0.018,3
+p053,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.378052,-102.048637,2024,13QHB,0.676,3
+p054,Guanajuato Bajío,Guanajuato,Pénjamo,20.424594,-101.968828,2019,13QHC,0.49,2
+p055,Guanajuato norte,Guanajuato,Ocampo,21.722607,-101.545598,2018,14QKK,0.127,3
+p056,Jalisco en verificación,Jalisco,Ameca,20.547943,-104.112543,2020,13QEC,0.051,2
+p057,Sierra y Nayarit,Nayarit,Santa María del Oro,21.328874,-104.728157,2022,13QED,0.99,3
+p058,Jalisco en verificación,Jalisco,Ixtlahuacán del Río,20.95821,-103.169777,2023,13QFD,0.98,2
+p059,Michoacán DO,Michoacan de Ocampo,Cuitzeo,20.0373,-101.116179,2019,14QKH,0.568,2
+p060,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.281218,-102.067681,2021,13QHB,0.629,2
+p061,Núcleo Jalisco,Jalisco,Atotonilco el Alto,20.607303,-102.47476,2021,13QGC,0.902,3
+p062,Núcleo Jalisco,Jalisco,Tepatitlán de Morelos,20.966577,-102.864287,2021,13QGD,0.411,2
+p063,Sierra y Nayarit,Jalisco,Mezquitic,22.255463,-103.622407,2024,13QFE,0.012,3
+p064,Guanajuato norte,Tamaulipas,Ocampo,22.815218,-99.361037,2023,14QML,0.0,3
+p065,Núcleo Jalisco,Jalisco,Tequila,20.847122,-103.885132,2023,13QFD,0.363,2
+p066,Núcleo Jalisco,Jalisco,Tequila,21.187005,-104.002435,2023,13QFD,0.196,2
+p067,Michoacán aguacate,Michoacan de Ocampo,Los Reyes,19.66611,-102.293866,2021,13QGB,0.681,2
+p068,Sierra y Nayarit,Nayarit,Tepic,21.591622,-104.733466,2022,13QED,0.997,3
+p069,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.568297,-102.334559,2023,13QGB,0.604,1
+p070,Núcleo Jalisco,Jalisco,Arandas,20.848822,-102.256758,2023,13QGD,0.484,3
+p071,Michoacán DO,Michoacan de Ocampo,Zacapu,19.880511,-101.86768,2024,13QHC,0.088,3
+p072,Tamaulipas,Tamaulipas,El Mante,22.494734,-98.940015,2024,14QNK,0.0,3
+p073,Jalisco en verificación,Jalisco,Zapopan,20.774815,-103.362739,2021,13QFC,0.139,2
+p074,Guanajuato Bajío,Guanajuato,Cuerámaro,20.612539,-101.681066,2021,14QKH,0.97,3
+p075,Tierra Caliente,Michoacan de Ocampo,Apatzingán,19.032793,-102.407601,2019,13QGB,0.556,2
+p076,Michoacán DO,Michoacan de Ocampo,La Piedad,20.286867,-102.054561,2022,13QHC,0.993,3
+p077,Michoacán DO,Michoacan de Ocampo,La Piedad,20.242813,-102.086957,2021,13QHC,0.937,3
+p078,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.416385,-102.018829,2020,13QHB,0.533,3
+p079,Guanajuato norte,Guanajuato,San Felipe,21.708571,-101.002691,2018,14QKK,0.786,3
+p080,Tamaulipas,Tamaulipas,El Mante,22.702159,-98.959009,2021,14QNL,0.003,3
+p081,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.668823,-101.946742,2022,13QHC,0.771,3
+p082,Guanajuato Bajío,Guanajuato,Pénjamo,20.61215,-101.796704,2022,14QKH,0.997,3
+p083,Michoacán DO,Michoacan de Ocampo,Yurécuaro,20.330128,-102.192899,2021,13QGC,0.989,3
+p084,Sierra y Nayarit,Nayarit,Del Nayar,22.158139,-104.459688,2023,13QEE,0.006,3
+p085,Guanajuato Bajío,Guanajuato,Romita,20.860195,-101.54481,2018,14QKJ,0.009,3
+p086,Michoacán aguacate,Michoacan de Ocampo,Peribán,19.490351,-102.517136,2023,13QGB,0.724,3
+p087,Guanajuato norte,Michoacan de Ocampo,Ocampo,19.557979,-100.353552,2022,14QLG,0.57,3
+p088,Michoacán DO,Michoacan de Ocampo,Cotija,19.812965,-102.640409,2023,13QGB,0.154,2
+p089,Jalisco en verificación,Jalisco,Tlajomulco de Zúñiga,20.54437,-103.491224,2024,13QFC,0.008,3
+p090,Tierra Caliente,Michoacan de Ocampo,Tepalcatepec,19.055445,-102.728457,2022,13QGB,0.002,3
+p091,Núcleo Jalisco,Jalisco,Tequila,21.365239,-103.629163,2021,13QFD,0.328,3
+p092,Guanajuato Bajío,Guanajuato,Pénjamo,20.486372,-101.642263,2020,14QKH,0.154,3
+p093,Guanajuato norte,Guanajuato,San Felipe,21.777576,-101.319596,2021,14QKK,0.012,3
+p094,Tierra Caliente,Michoacan de Ocampo,Parácuaro,19.014774,-102.236043,2019,13QGB,0.004,3
+p095,Sierra y Nayarit,Nayarit,La Yesca,21.901275,-104.377212,2023,13QEE,0.004,2
+p096,Jalisco en verificación,Jalisco,Ameca,20.533832,-104.145428,2023,13QEC,0.468,3
+p097,Tamaulipas,Tamaulipas,Altamira,22.565028,-98.09785,2021,14QNK,0.502,3
+p098,Jalisco en verificación,Jalisco,Ixtlahuacán del Río,20.863206,-103.275677,2020,13QFD,0.614,3
+p099,Tamaulipas,Tamaulipas,Altamira,22.566421,-98.120989,2022,14QNK,0.001,1
+p100,Guanajuato norte,Tamaulipas,Ocampo,22.840314,-99.368901,2022,14QML,0.002,3
+p101,Tamaulipas,Tamaulipas,Llera,23.213027,-98.631061,2023,14QNL,0.0,3
+p102,Núcleo Jalisco,Jalisco,Amatitán,20.820115,-103.767332,2023,13QFD,0.613,3
+p103,Michoacán DO,Michoacan de Ocampo,Zacapu,19.83009,-101.864665,2022,13QHB,0.307,2
+p104,Guanajuato Bajío,Guanajuato,Romita,20.828458,-101.637239,2023,14QKJ,0.462,3
+p105,Michoacán aguacate,Michoacan de Ocampo,Peribán,19.411367,-102.486739,2019,13QGB,0.019,2
+p106,Guanajuato norte,Guanajuato,Ocampo,21.598001,-101.486838,2024,14QKJ,0.034,3
+p107,Sierra y Nayarit,Nayarit,Del Nayar,22.335506,-104.391421,2019,13QEE,0.002,3
+p108,Guanajuato norte,Michoacan de Ocampo,Ocampo,19.580884,-100.285489,2021,14QLG,0.652,2
+p109,Michoacán DO,Michoacan de Ocampo,Cotija,19.747663,-102.592344,2020,13QGB,0.167,2
+p110,Guanajuato norte,Guanajuato,San Felipe,21.711052,-101.021474,2024,14QKK,0.533,3
+p111,Jalisco en verificación,Jalisco,Zapopan,20.797382,-103.651654,2023,13QFD,0.829,2
+p112,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.565065,-102.227928,2019,13QGB,0.05,3
+p113,Guanajuato norte,Guanajuato,Ocampo,21.709765,-101.558704,2019,14QKK,0.772,3
+p114,Sierra y Nayarit,Nayarit,Del Nayar,22.09884,-104.644497,2023,13QEE,0.017,2
+p115,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.818228,-101.973308,2024,13QHD,0.066,3
+p116,Jalisco en verificación,Jalisco,Ameca,20.534282,-104.025147,2019,13QFC,0.414,3
+p117,Tamaulipas,Tamaulipas,Bustamante,23.33121,-100.121639,2021,14QLL,0.865,3
+p118,Sierra y Nayarit,Nayarit,Tepic,21.423334,-104.828723,2024,13QED,0.126,2
+p119,Guanajuato Bajío,Guanajuato,Pénjamo,20.530781,-101.970764,2021,13QHC,0.013,2
+p120,Tamaulipas,Tamaulipas,Antiguo Morelos,22.45662,-99.025951,2024,14QMK,0.001,2
+p121,Jalisco en verificación,Jalisco,Ameca,20.604219,-104.202613,2022,13QEC,0.964,3
+p122,Guanajuato Bajío,Guanajuato,Romita,20.724626,-101.672479,2021,14QKH,0.857,3
+p123,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.825589,-101.981226,2021,13QHD,0.013,2
+p124,Tamaulipas,Tamaulipas,Tula,22.753615,-100.025709,2020,14QLL,0.792,3
+p125,Michoacán DO,Michoacan de Ocampo,Zacapu,19.783092,-101.836488,2019,14QKG,0.122,2
+p126,Jalisco en verificación,Jalisco,Zapopan,20.694593,-103.542928,2021,13QFC,0.09,2
+p127,Guanajuato Bajío,Guanajuato,Manuel Doblado,20.802599,-102.008562,2021,13QHD,0.992,3
+p128,Michoacán DO,Michoacan de Ocampo,Cotija,19.796978,-102.633393,2023,13QGB,0.202,3
+p129,Núcleo Jalisco,Jalisco,Arandas,20.825238,-102.341306,2021,13QGD,0.985,3
+p130,Guanajuato norte,Guanajuato,Guanajuato,20.857252,-101.26598,2021,14QKJ,0.985,3
+p131,Sierra y Nayarit,Nayarit,Del Nayar,21.789941,-104.531889,2023,13QEE,0.122,2
+p132,Michoacán aguacate,Michoacan de Ocampo,Peribán,19.492761,-102.482438,2022,13QGB,0.593,3
+p133,Michoacán DO,Michoacan de Ocampo,Vista Hermosa,20.233613,-102.45904,2023,13QGC,0.659,3
+p134,Michoacán aguacate,Michoacan de Ocampo,Los Reyes,19.573246,-102.303042,2024,13QGB,0.063,3
+p135,Guanajuato norte,Guanajuato,San Felipe,21.723875,-101.15058,2021,14QKK,0.08,2
+p136,Tamaulipas,Tamaulipas,Llera,23.279537,-98.880805,2020,14QNL,0.005,3
+p137,Tierra Caliente,Michoacan de Ocampo,Buenavista,19.16373,-102.459157,2021,13QGB,0.512,3
+p138,Guanajuato norte,Guanajuato,San Felipe,21.740764,-100.968918,2021,14QKK,0.504,3
+p139,Núcleo Jalisco,Jalisco,Tepatitlán de Morelos,20.883165,-102.781868,2023,13QGD,0.999,3
+p140,Guanajuato norte,Tamaulipas,Ocampo,22.718482,-99.198748,2021,14QML,0.0,2
+p141,Tamaulipas,Tamaulipas,Ocampo,22.719706,-99.410059,2021,14QML,0.512,2
+p142,Jalisco en verificación,Jalisco,Tlajomulco de Zúñiga,20.578012,-103.51641,2019,13QFC,0.033,3
+p143,Tamaulipas,Tamaulipas,El Mante,22.793204,-98.920204,2024,14QNL,0.0,3
+p144,Michoacán DO,Michoacan de Ocampo,Cuitzeo,19.963841,-101.049475,2019,14QKH,0.159,3
+p145,Sierra y Nayarit,Nayarit,Santa María del Oro,21.359056,-104.731381,2021,13QED,0.936,2
+p146,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.312301,-101.980785,2023,13QHB,0.057,3
+p147,Jalisco en verificación,Jalisco,Ixtlahuacán del Río,20.805293,-103.230034,2023,13QFD,0.989,3
+p148,Núcleo Jalisco,Jalisco,Tepatitlán de Morelos,20.691108,-102.601957,2021,13QGC,0.996,3
+p149,Tierra Caliente,Michoacan de Ocampo,Parácuaro,19.205846,-102.142767,2024,13QHB,0.07,3
+p150,Michoacán aguacate,Michoacan de Ocampo,Uruapan,19.517209,-102.101151,2024,13QHB,0.028,3
