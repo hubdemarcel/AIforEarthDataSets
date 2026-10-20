@@ -1,0 +1,9 @@
+municipio,estado,denominacion_origen,agave_ha,humedo_ha,humedo_azulado_ha,humedo_compacto_ha,todas_ha
+Puerto Vallarta,Jalisco,si,216.0,112.0,99.0,31.0,27.0
+San Sebastián del Oeste,Jalisco,si,80.0,39.0,26.0,7.0,4.0
+Xalisco,Nayarit,si,38.0,15.0,7.0,1.0,0.0
+Tepic,Nayarit,si,368.0,215.0,171.0,81.0,73.0
+Bahía de Banderas,Nayarit,no,517.0,216.0,175.0,48.0,41.0
+Compostela,Nayarit,no,1781.0,958.0,689.0,212.0,172.0
+Santiago Ixcuintla,Nayarit,no,553.0,286.0,179.0,94.0,58.0
+San Blas,Nayarit,no,3373.0,2185.0,1072.0,635.0,358.0
