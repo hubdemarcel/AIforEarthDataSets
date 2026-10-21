@@ -39,6 +39,12 @@ Consecuencias para el método:
    - El mosaico cubre Santiago Matatlán, Tlacolula, Miahuatlán, Ejutla y Sola de Vega.
    - Comparar por municipio contra el SIAP (Miahuatlán 1,265 ha, Matatlán 797, Tlacolula 666).
    - Solo dice qué tan lejos estamos; no se publica como resultado.
+   - **Hecho (2026-10-21)**, en `resultados/mezcal/14QQD/`. En los 115 municipios cubiertos al
+     95 %+ las reglas del tequila ven 26,573 ha de agave contra 5,865 ha sembradas del SIAP
+     (4.5 veces). Más de la mitad es la cohorte "2024" (14,413 ha), probablemente matorral
+     que se ve verde en secas con 2025–2026 húmedos; sin ella quedan 12,162 ha (2 veces).
+     Matatlán (566 vs 796) y Tlacolula sale por debajo; Ejutla (2,886 vs 279), Sola de Vega
+     y Miahuatlán muy por arriba. Las reglas no sirven tal cual: hace falta la fase 2.
 
 2. **Ajuste de reglas para espadín**
    - Calibrar umbrales de verdor de secas y amplitud con los puntos de verificación.
