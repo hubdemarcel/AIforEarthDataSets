@@ -35,7 +35,7 @@ def _ventana(x, y, X, Y):
 
 
 def de_metricas(ruta, lat, lon):
-    z = np.load(ruta, allow_pickle=True)
+    z = ruta if isinstance(ruta, dict) else np.load(ruta, allow_pickle=True)
     X, Y = pyproj.Transformer.from_crs(4326, str(z["crs"]), always_xy=True).transform(lon, lat)
     fi, co = _ventana(z["x"], z["y"], X, Y)
     med = lambda a: [None if np.isnan(v) else round(float(v) / ESCALA, 2) for v in

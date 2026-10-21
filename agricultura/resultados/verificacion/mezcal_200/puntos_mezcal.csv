@@ -1,0 +1,201 @@
+id,clase_modelo,municipio,estado,zona,lat,lon,establecimiento,mosaico
+m001,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.541367,-96.710796,2023,14QQD
+m002,agave_2018_2023,La Pe,Oaxaca,Resto del mosaico,16.628214,-96.805721,2021,14QQD
+m003,selva_baja,Santa María Zoquitlán,Oaxaca,Municipio mezcalero,16.476635,-96.368543,0,14QQD
+m004,agave_cosechado,San Pablo Etla,Oaxaca,Resto del mosaico,17.155928,-96.767473,0,14QQD
+m005,cultivo_anual,San Pedro Ixtlahuaca,Oaxaca,Resto del mosaico,17.064755,-96.823598,0,14QQD
+m006,agave_2024,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.673164,-96.396792,2024,14QQD
+m007,bosque,San Antonino el Alto,Oaxaca,Resto del mosaico,16.782306,-97.016292,0,14QQD
+m008,agave_2018_2023,San Juan Lachigalla,Oaxaca,Municipio mezcalero,16.538894,-96.587577,2023,14QQD
+m009,agave_2024,San Lucas Quiaviní,Oaxaca,Municipio mezcalero,16.864003,-96.461166,2024,14QQD
+m010,matorral_pastizal,San Jerónimo Tlacochahuaya,Oaxaca,Municipio mezcalero,17.011332,-96.528282,0,14QQD
+m011,bosque,Villa Sola de Vega,Oaxaca,Municipio mezcalero,16.478801,-97.063611,0,14QQD
+m012,agave_2024,San Lorenzo Albarradas,Oaxaca,Municipio mezcalero,16.815832,-96.188376,2024,14QQD
+m013,agave_2018_2023,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.704561,-96.781039,2022,14QQD
+m014,agave_cosechado,San Pablo Villa de Mitla,Oaxaca,Municipio mezcalero,16.914004,-96.400636,0,14QQD
+m015,cultivo_anual,San Juan Guelavía,Oaxaca,Municipio mezcalero,16.948773,-96.509018,0,14QQD
+m016,cultivo_anual,Santa Gertrudis,Oaxaca,Resto del mosaico,16.781651,-96.758764,0,14QQD
+m017,matorral_pastizal,Santa María Zoquitlán,Oaxaca,Municipio mezcalero,16.623188,-96.474849,0,14QQD
+m018,agave_2018_2023,San Juan del Río,Oaxaca,Municipio mezcalero,16.87492,-96.203634,2021,14QQD
+m019,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.304405,-96.541829,2021,14QQD
+m020,agave_2018_2023,Santiago Apóstol,Oaxaca,Resto del mosaico,16.798258,-96.74075,2021,14QQD
+m021,agave_2018_2023,La Compañía,Oaxaca,Municipio mezcalero,16.563594,-96.899756,2020,14QQD
+m022,selva_baja,San Jerónimo Coatlán,Oaxaca,Resto del mosaico,16.320811,-96.944096,0,14QQD
+m023,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.365587,-96.599075,2022,14QQD
+m024,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.590381,-96.765303,2020,14QQD
+m025,bosque,Villa Díaz Ordaz,Oaxaca,Resto del mosaico,17.032352,-96.347184,0,14QQD
+m026,cultivo_anual,La Compañía,Oaxaca,Municipio mezcalero,16.548319,-96.819928,0,14QQD
+m027,selva_baja,San Dionisio Ocotepec,Oaxaca,Municipio mezcalero,16.864477,-96.314084,0,14QQD
+m028,matorral_pastizal,San José Lachiguiri,Oaxaca,Resto del mosaico,16.409195,-96.363651,0,14QQD
+m029,matorral_pastizal,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.45549,-96.608831,0,14QQD
+m030,agave_2024,San Jerónimo Taviche,Oaxaca,Resto del mosaico,16.735911,-96.564861,2024,14QQD
+m031,agave_2024,La Compañía,Oaxaca,Municipio mezcalero,16.586133,-96.895015,2024,14QQD
+m032,agave_2018_2023,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.713028,-96.762005,2022,14QQD
+m033,cultivo_anual,Zimatlán de Álvarez,Oaxaca,Municipio mezcalero,16.904257,-96.818692,0,14QQD
+m034,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.394619,-96.578506,2020,14QQD
+m035,agave_2018_2023,San Luis Amatlán,Oaxaca,Municipio mezcalero,16.492363,-96.487039,2021,14QQD
+m036,agave_cosechado,Coatecas Altas,Oaxaca,Resto del mosaico,16.504826,-96.578636,0,14QQD
+m037,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.358367,-96.583819,2020,14QQD
+m038,agave_2024,San Lucas Quiaviní,Oaxaca,Municipio mezcalero,16.87271,-96.464051,2024,14QQD
+m039,agave_2024,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.448201,-96.651231,2024,14QQD
+m040,selva_baja,Ayoquezco de Aldama,Oaxaca,Resto del mosaico,16.632945,-96.878386,0,14QQD
+m041,cultivo_anual,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.784712,-96.724781,0,14QQD
+m042,matorral_pastizal,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.400352,-96.605762,0,14QQD
+m043,cultivo_anual,Santa María Zoquitlán,Oaxaca,Municipio mezcalero,16.59009,-96.4129,0,14QQD
+m044,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.728567,-96.762011,2021,14QQD
+m045,agave_2024,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.707434,-96.762633,2024,14QQD
+m046,bosque,Zimatlán de Álvarez,Oaxaca,Municipio mezcalero,16.765704,-97.075924,0,14QQD
+m047,matorral_pastizal,San Simón Almolongas,Oaxaca,Resto del mosaico,16.384591,-96.749134,0,14QQD
+m048,selva_baja,Zimatlán de Álvarez,Oaxaca,Municipio mezcalero,16.614841,-97.0988,0,14QQD
+m049,agave_2018_2023,Monjas,Oaxaca,Municipio mezcalero,16.380878,-96.641185,2022,14QQD
+m050,cultivo_anual,San Vicente Coatlán,Oaxaca,Municipio mezcalero,16.372369,-96.789327,0,14QQD
+m051,agave_2018_2023,Santa María Sola,Oaxaca,Municipio mezcalero,16.576125,-97.016731,2020,14QQD
+m052,matorral_pastizal,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.768226,-96.656338,0,14QQD
+m053,agave_2024,San Jerónimo Taviche,Oaxaca,Resto del mosaico,16.738554,-96.589952,2024,14QQD
+m054,selva_baja,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.675002,-96.328364,0,14QQD
+m055,matorral_pastizal,Santiago Matatlán,Oaxaca,Municipio mezcalero,16.777467,-96.446004,0,14QQD
+m056,selva_baja,San Dionisio Ocotepec,Oaxaca,Municipio mezcalero,16.807067,-96.275139,0,14QQD
+m057,agave_2018_2023,Villa Sola de Vega,Oaxaca,Municipio mezcalero,16.366993,-96.936125,2019,14QQD
+m058,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.350599,-96.583915,2020,14QQD
+m059,bosque,Villa Sola de Vega,Oaxaca,Municipio mezcalero,16.405065,-96.948829,0,14QQD
+m060,cultivo_anual,La Compañía,Oaxaca,Municipio mezcalero,16.606473,-96.800159,0,14QQD
+m061,agave_2024,San Lucas Quiaviní,Oaxaca,Municipio mezcalero,16.859859,-96.461972,2024,14QQD
+m062,agave_2024,San Juan Guelavía,Oaxaca,Municipio mezcalero,16.972237,-96.552072,2024,14QQD
+m063,agave_2024,La Compañía,Oaxaca,Municipio mezcalero,16.585945,-96.894267,2024,14QQD
+m064,agave_2024,San Lucas Quiaviní,Oaxaca,Municipio mezcalero,16.850328,-96.465475,2024,14QQD
+m065,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.375822,-96.577803,2021,14QQD
+m066,selva_baja,San Juan del Río,Oaxaca,Municipio mezcalero,16.881926,-96.227355,0,14QQD
+m067,agave_cosechado,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.649872,-96.326652,0,14QQD
+m068,agave_2018_2023,San Pablo Villa de Mitla,Oaxaca,Municipio mezcalero,16.964984,-96.199113,2022,14QQD
+m069,selva_baja,Santa Ana Tlapacoyan,Oaxaca,Resto del mosaico,16.774042,-96.893707,0,14QQD
+m070,agave_2024,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.38673,-96.647478,2024,14QQD
+m071,agave_2018_2023,San Lorenzo Albarradas,Oaxaca,Municipio mezcalero,16.834056,-96.200297,2022,14QQD
+m072,matorral_pastizal,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.463967,-96.671637,0,14QQD
+m073,matorral_pastizal,San Juan Lachigalla,Oaxaca,Municipio mezcalero,16.526294,-96.545032,0,14QQD
+m074,bosque,San Antonino el Alto,Oaxaca,Resto del mosaico,16.86109,-97.034801,0,14QQD
+m075,matorral_pastizal,San José Lachiguiri,Oaxaca,Resto del mosaico,16.404808,-96.359593,0,14QQD
+m076,cultivo_anual,Santa Gertrudis,Oaxaca,Resto del mosaico,16.777316,-96.758815,0,14QQD
+m077,cultivo_anual,San Martín Tilcajete,Oaxaca,Resto del mosaico,16.848138,-96.709389,0,14QQD
+m078,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.599113,-96.770823,2020,14QQD
+m079,selva_baja,San Miguel Tilquiápam,Oaxaca,Resto del mosaico,16.77767,-96.536763,0,14QQD
+m080,agave_2024,San Pablo Etla,Oaxaca,Resto del mosaico,17.14001,-96.765784,2024,14QQD
+m081,agave_2018_2023,San Dionisio Ocotepec,Oaxaca,Municipio mezcalero,16.746251,-96.320623,2018,14QQD
+m082,agave_2018_2023,La Pe,Oaxaca,Resto del mosaico,16.622026,-96.801481,2023,14QQD
+m083,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.637724,-96.765692,2022,14QQD
+m084,matorral_pastizal,San Pablo Villa de Mitla,Oaxaca,Municipio mezcalero,16.933832,-96.397361,0,14QQD
+m085,matorral_pastizal,San Andrés Zautla,Oaxaca,Resto del mosaico,17.169076,-96.846818,0,14QQD
+m086,cultivo_anual,La Compañía,Oaxaca,Municipio mezcalero,16.531623,-96.812997,0,14QQD
+m087,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.367994,-96.57266,2022,14QQD
+m088,agave_2018_2023,Ayoquezco de Aldama,Oaxaca,Resto del mosaico,16.675318,-96.869671,2019,14QQD
+m089,cultivo_anual,Zimatlán de Álvarez,Oaxaca,Municipio mezcalero,16.848123,-96.773743,0,14QQD
+m090,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.323124,-96.520455,2022,14QQD
+m091,bosque,San Andrés Huayápam,Oaxaca,Resto del mosaico,17.160252,-96.654851,0,14QQD
+m092,agave_cosechado,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.716244,-96.758593,0,14QQD
+m093,cultivo_anual,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.78602,-96.728704,0,14QQD
+m094,agave_2024,San Miguel Tilquiápam,Oaxaca,Resto del mosaico,16.754648,-96.575873,2024,14QQD
+m095,selva_baja,Villa Sola de Vega,Oaxaca,Municipio mezcalero,16.327555,-96.950013,0,14QQD
+m096,agave_2024,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.380093,-96.556602,2024,14QQD
+m097,selva_baja,Santa Catarina Quioquitani,Oaxaca,Municipio mezcalero,16.32246,-96.290179,0,14QQD
+m098,agave_cosechado,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.718069,-96.334326,0,14QQD
+m099,selva_baja,San Vicente Coatlán,Oaxaca,Municipio mezcalero,16.357512,-96.873152,0,14QQD
+m100,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.371697,-96.564754,2021,14QQD
+m101,agave_2018_2023,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.714364,-96.751865,2021,14QQD
+m102,agave_2024,La Compañía,Oaxaca,Municipio mezcalero,16.59297,-96.892129,2024,14QQD
+m103,agave_2018_2023,Santa María Peñoles,Oaxaca,Resto del mosaico,17.010258,-97.081895,2021,14QQD
+m104,selva_baja,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.650893,-96.212154,0,14QQD
+m105,matorral_pastizal,Teotitlán del Valle,Oaxaca,Municipio mezcalero,17.003141,-96.493656,0,14QQD
+m106,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.5895,-96.767374,2020,14QQD
+m107,agave_2018_2023,Tlacolula de Matamoros,Oaxaca,Municipio mezcalero,16.752186,-96.196436,2022,14QQD
+m108,matorral_pastizal,Santiago Matatlán,Oaxaca,Municipio mezcalero,16.836464,-96.397008,0,14QQD
+m109,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.722291,-96.766397,2022,14QQD
+m110,agave_2024,La Compañía,Oaxaca,Municipio mezcalero,16.590336,-96.899653,2024,14QQD
+m111,agave_2024,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.711452,-96.817333,2024,14QQD
+m112,selva_baja,San Dionisio Ocotepec,Oaxaca,Municipio mezcalero,16.802377,-96.208262,0,14QQD
+m113,matorral_pastizal,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.350915,-96.579981,0,14QQD
+m114,agave_2018_2023,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.704589,-96.783664,2022,14QQD
+m115,agave_2024,San Martín Tilcajete,Oaxaca,Resto del mosaico,16.905611,-96.679044,2024,14QQD
+m116,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.608222,-96.760974,2021,14QQD
+m117,agave_2018_2023,La Pe,Oaxaca,Resto del mosaico,16.616204,-96.780746,2023,14QQD
+m118,agave_2024,San Jerónimo Taviche,Oaxaca,Resto del mosaico,16.727881,-96.588774,2024,14QQD
+m119,bosque,La Compañía,Oaxaca,Municipio mezcalero,16.590554,-96.921388,0,14QQD
+m120,matorral_pastizal,San Luis Amatlán,Oaxaca,Municipio mezcalero,16.435941,-96.482151,0,14QQD
+m121,selva_baja,Santiago Matatlán,Oaxaca,Municipio mezcalero,16.818414,-96.455772,0,14QQD
+m122,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.399791,-96.619994,2020,14QQD
+m123,selva_baja,Santa María Zoquitlán,Oaxaca,Municipio mezcalero,16.592542,-96.465321,0,14QQD
+m124,agave_2018_2023,Tlacolula de Matamoros,Oaxaca,Municipio mezcalero,16.912127,-96.438004,2022,14QQD
+m125,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.515909,-96.728889,2020,14QQD
+m126,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.588207,-96.764766,2020,14QQD
+m127,agave_cosechado,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.649692,-96.326654,0,14QQD
+m128,agave_2018_2023,San José del Progreso,Oaxaca,Resto del mosaico,16.722821,-96.699454,2021,14QQD
+m129,agave_cosechado,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.543149,-96.708527,0,14QQD
+m130,agave_cosechado,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.64933,-96.326659,0,14QQD
+m131,agave_2024,San Miguel Tilquiápam,Oaxaca,Resto del mosaico,16.737083,-96.58772,2024,14QQD
+m132,agave_2018_2023,San Francisco Sola,Oaxaca,Resto del mosaico,16.544931,-96.894713,2022,14QQD
+m133,cultivo_anual,San Miguel Ejutla,Oaxaca,Resto del mosaico,16.578024,-96.742026,0,14QQD
+m134,agave_2018_2023,La Compañía,Oaxaca,Municipio mezcalero,16.608438,-96.920821,2019,14QQD
+m135,bosque,Villa Sola de Vega,Oaxaca,Municipio mezcalero,16.617661,-97.110768,0,14QQD
+m136,agave_2018_2023,Santa Cruz Xoxocotlán,Oaxaca,Resto del mosaico,17.038158,-96.72136,2019,14QQD
+m137,agave_cosechado,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.650414,-96.326644,0,14QQD
+m138,agave_2018_2023,San José del Progreso,Oaxaca,Resto del mosaico,16.720753,-96.708479,2021,14QQD
+m139,matorral_pastizal,San Dionisio Ocotepec,Oaxaca,Municipio mezcalero,16.739498,-96.414265,0,14QQD
+m140,agave_2024,San Lucas Quiaviní,Oaxaca,Municipio mezcalero,16.854834,-96.464665,2024,14QQD
+m141,cultivo_anual,Santa María Zoquitlán,Oaxaca,Municipio mezcalero,16.541029,-96.249318,0,14QQD
+m142,agave_2024,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.76796,-96.64884,2024,14QQD
+m143,matorral_pastizal,San Pablo Villa de Mitla,Oaxaca,Municipio mezcalero,16.969785,-96.35576,0,14QQD
+m144,matorral_pastizal,San Francisco Sola,Oaxaca,Resto del mosaico,16.54054,-96.871531,0,14QQD
+m145,cultivo_anual,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.756808,-96.733926,0,14QQD
+m146,matorral_pastizal,Santa María Coyotepec,Oaxaca,Resto del mosaico,16.968982,-96.707177,0,14QQD
+m147,agave_2024,San Ildefonso Amatlán,Oaxaca,Resto del mosaico,16.268346,-96.471394,2024,14QQD
+m148,agave_2018_2023,San Luis Amatlán,Oaxaca,Municipio mezcalero,16.505501,-96.497917,2020,14QQD
+m149,matorral_pastizal,Tlacolula de Matamoros,Oaxaca,Municipio mezcalero,16.939045,-96.438203,0,14QQD
+m150,cultivo_anual,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.537932,-96.727133,0,14QQD
+m151,matorral_pastizal,Santa Cruz Xoxocotlán,Oaxaca,Resto del mosaico,17.048014,-96.779277,0,14QQD
+m152,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.374717,-96.575945,2021,14QQD
+m153,agave_cosechado,San Pedro Apóstol,Oaxaca,Resto del mosaico,16.743138,-96.739526,0,14QQD
+m154,agave_2018_2023,Ayoquezco de Aldama,Oaxaca,Resto del mosaico,16.683252,-96.868083,2019,14QQD
+m155,agave_cosechado,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.650238,-96.327021,0,14QQD
+m156,agave_2018_2023,San Carlos Yautepec,Oaxaca,Municipio mezcalero,16.450062,-96.19988,2020,14QQD
+m157,selva_baja,San Dionisio Ocotepec,Oaxaca,Municipio mezcalero,16.77279,-96.210757,0,14QQD
+m158,agave_cosechado,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.704038,-96.188707,0,14QQD
+m159,agave_2018_2023,La Pe,Oaxaca,Resto del mosaico,16.618689,-96.776594,2020,14QQD
+m160,agave_2024,San Miguel Tilquiápam,Oaxaca,Resto del mosaico,16.754663,-96.56181,2024,14QQD
+m161,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.558483,-96.739444,2020,14QQD
+m162,agave_2018_2023,San Lorenzo Albarradas,Oaxaca,Municipio mezcalero,16.861013,-96.203651,2023,14QQD
+m163,agave_2024,Santa María Sola,Oaxaca,Municipio mezcalero,16.612074,-97.034542,2024,14QQD
+m164,matorral_pastizal,San José del Progreso,Oaxaca,Resto del mosaico,16.670748,-96.663715,0,14QQD
+m165,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.356522,-96.580474,2020,14QQD
+m166,agave_2018_2023,San Juan del Río,Oaxaca,Municipio mezcalero,16.913309,-96.184494,2021,14QQD
+m167,agave_2024,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.710641,-96.775157,2024,14QQD
+m168,agave_cosechado,San Miguel Ejutla,Oaxaca,Resto del mosaico,16.611705,-96.732263,0,14QQD
+m169,agave_cosechado,Coatecas Altas,Oaxaca,Resto del mosaico,16.504645,-96.578638,0,14QQD
+m170,cultivo_anual,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.660171,-96.837785,0,14QQD
+m171,matorral_pastizal,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.317767,-96.620052,0,14QQD
+m172,matorral_pastizal,San Pedro Mártir Quiechapa,Oaxaca,Municipio mezcalero,16.426945,-96.254672,0,14QQD
+m173,matorral_pastizal,Santiago Matatlán,Oaxaca,Municipio mezcalero,16.801816,-96.472122,0,14QQD
+m174,agave_2024,San Lucas Quiaviní,Oaxaca,Municipio mezcalero,16.855764,-96.452271,2024,14QQD
+m175,agave_2024,Rojas de Cuauhtémoc,Oaxaca,Resto del mosaico,17.008415,-96.63234,2024,14QQD
+m176,selva_baja,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.710345,-96.187677,0,14QQD
+m177,agave_2024,Ocotlán de Morelos,Oaxaca,Municipio mezcalero,16.774142,-96.749475,2024,14QQD
+m178,agave_2018_2023,Miahuatlán de Porfirio Díaz,Oaxaca,Municipio mezcalero,16.322199,-96.777916,2020,14QQD
+m179,agave_2024,Monjas,Oaxaca,Municipio mezcalero,16.368197,-96.622061,2024,14QQD
+m180,cultivo_anual,San Luis Amatlán,Oaxaca,Municipio mezcalero,16.499688,-96.450431,0,14QQD
+m181,agave_2024,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.657558,-96.745219,2024,14QQD
+m182,agave_2018_2023,San Juan del Río,Oaxaca,Municipio mezcalero,16.869921,-96.207834,2021,14QQD
+m183,selva_baja,San Pedro Totolápam,Oaxaca,Municipio mezcalero,16.685442,-96.229456,0,14QQD
+m184,cultivo_anual,Zimatlán de Álvarez,Oaxaca,Municipio mezcalero,16.873896,-96.818103,0,14QQD
+m185,agave_2024,San Ildefonso Amatlán,Oaxaca,Resto del mosaico,16.278073,-96.469025,2024,14QQD
+m186,cultivo_anual,Ayoquezco de Aldama,Oaxaca,Resto del mosaico,16.712715,-96.851631,0,14QQD
+m187,selva_baja,San José Lachiguiri,Oaxaca,Resto del mosaico,16.44041,-96.31812,0,14QQD
+m188,cultivo_anual,Santa María Sola,Oaxaca,Municipio mezcalero,16.561053,-97.009016,0,14QQD
+m189,matorral_pastizal,Santa Catarina Cuixtla,Oaxaca,Resto del mosaico,16.323905,-96.635694,0,14QQD
+m190,selva_baja,Santa Inés del Monte,Oaxaca,Resto del mosaico,16.898983,-96.832453,0,14QQD
+m191,selva_baja,Yogana,Oaxaca,Municipio mezcalero,16.442122,-96.859688,0,14QQD
+m192,cultivo_anual,Santa Cruz Xoxocotlán,Oaxaca,Resto del mosaico,17.014136,-96.722026,0,14QQD
+m193,matorral_pastizal,Santiago Matatlán,Oaxaca,Municipio mezcalero,16.783349,-96.425111,0,14QQD
+m194,selva_baja,San Pedro Taviche,Oaxaca,Resto del mosaico,16.608364,-96.503896,0,14QQD
+m195,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.719019,-96.76456,2020,14QQD
+m196,agave_2018_2023,Heroica Ciudad de Ejutla de Crespo,Oaxaca,Municipio mezcalero,16.547713,-96.745938,2023,14QQD
+m197,bosque,San Pablo Etla,Oaxaca,Resto del mosaico,17.171141,-96.690422,0,14QQD
+m198,selva_baja,San Dionisio Ocotepec,Oaxaca,Municipio mezcalero,16.769066,-96.215874,0,14QQD
+m199,cultivo_anual,San Agustín Amatengo,Oaxaca,Municipio mezcalero,16.516306,-96.782639,0,14QQD
+m200,matorral_pastizal,Tlacolula de Matamoros,Oaxaca,Municipio mezcalero,16.951143,-96.423399,0,14QQD
