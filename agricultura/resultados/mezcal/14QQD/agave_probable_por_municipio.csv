@@ -1,0 +1,153 @@
+municipio,cubierto_pct,reglas_ha,reglas_sin_2024_ha,parecido_nucleo_ha,agave_probable_ha,siap_sembrada_2025_ha,probable_entre_siap
+Miahuatlán de Porfirio Díaz,86.0,3774.0,1136.0,590.0,563.0,1265.0,0.4
+Santa María Zoquitlán,100.0,847.0,722.0,576.0,536.0,330.0,1.6
+Heroica Ciudad de Ejutla de Crespo,100.0,2862.0,1285.0,556.0,509.0,279.0,1.8
+San Luis Amatlán,100.0,790.0,484.0,375.0,310.0,468.0,0.7
+San Dionisio Ocotepec,100.0,868.0,513.0,319.0,301.0,393.0,0.8
+Santiago Matatlán,100.0,562.0,353.0,302.0,280.0,796.0,0.4
+San Pedro Totolápam,62.0,587.0,323.0,272.0,260.0,202.0,1.3
+Tlacolula de Matamoros,70.0,352.0,280.0,249.0,229.0,666.0,0.3
+San Lorenzo Albarradas,88.0,437.0,304.0,242.0,227.0,204.0,1.1
+San Juan del Río,24.0,248.0,211.0,195.0,189.0,500.0,0.4
+San Pablo Villa de Mitla,96.0,303.0,203.0,152.0,147.0,151.0,1.0
+Villa Sola de Vega,69.0,1339.0,1016.0,148.0,134.0,176.0,0.8
+Ocotlán de Morelos,100.0,1113.0,431.0,141.0,132.0,52.0,2.5
+Coatecas Altas,100.0,937.0,252.0,125.0,124.0,24.0,5.2
+La Pe,100.0,259.0,192.0,124.0,123.0,25.0,4.9
+San Juan Lachigalla,100.0,646.0,252.0,116.0,109.0,84.0,1.3
+San Carlos Yautepec,7.0,245.0,202.0,103.0,100.0,460.0,0.2
+La Compañía,100.0,720.0,470.0,99.0,91.0,162.0,0.6
+San José del Progreso,100.0,537.0,190.0,96.0,89.0,49.0,1.8
+San Baltazar Chichicápam,100.0,442.0,142.0,76.0,68.0,76.0,0.9
+San Juan Guelavía,100.0,200.0,109.0,67.0,66.0,122.0,0.5
+Zimatlán de Álvarez,68.0,690.0,403.0,64.0,60.0,76.0,0.8
+San Pedro Mártir Quiechapa,99.0,131.0,114.0,60.0,55.0,129.0,0.4
+Santa María Sola,100.0,303.0,161.0,42.0,41.0,52.0,0.8
+Yogana,100.0,654.0,182.0,47.0,38.0,145.0,0.3
+San Jerónimo Tlacochahuaya,100.0,100.0,65.0,40.0,36.0,62.0,0.6
+San Lucas Quiaviní,100.0,421.0,39.0,37.0,36.0,94.0,0.4
+San Martín Tilcajete,100.0,275.0,83.0,37.0,35.0,26.0,1.3
+Santa Cruz Xitla,100.0,599.0,254.0,49.0,34.0,0.0,
+Sitio de Xitlapehua,100.0,71.0,39.0,34.0,34.0,292.0,0.1
+San Francisco Sola,100.0,224.0,200.0,35.0,33.0,34.0,1.0
+San Pablo Etla,71.0,78.0,62.0,34.0,32.0,26.0,1.2
+San Simón Almolongas,100.0,518.0,113.0,41.0,30.0,44.0,0.7
+Monjas,100.0,289.0,70.0,26.0,26.0,54.0,0.5
+San Vicente Coatlán,100.0,466.0,217.0,30.0,25.0,222.0,0.1
+San Miguel Ejutla,100.0,69.0,52.0,23.0,23.0,45.0,0.5
+San Agustín Amatengo,100.0,307.0,116.0,25.0,22.0,50.0,0.4
+San Cristóbal Amatlán,83.0,200.0,100.0,26.0,22.0,40.0,0.6
+Santa Cruz Xoxocotlán,100.0,121.0,94.0,22.0,21.0,22.0,1.0
+San José Lachiguiri,100.0,80.0,37.0,28.0,21.0,49.0,0.4
+Teotitlán del Valle,100.0,93.0,33.0,22.0,21.0,92.0,0.2
+Santo Tomás Jalieza,100.0,528.0,183.0,30.0,21.0,25.0,0.8
+Villa Díaz Ordaz,100.0,78.0,53.0,20.0,15.0,24.0,0.6
+Taniche,100.0,40.0,34.0,15.0,15.0,6.0,2.5
+Santa Ana,100.0,231.0,103.0,28.0,14.0,134.0,0.1
+Santa Cruz Papalutla,100.0,111.0,62.0,14.0,14.0,38.0,0.4
+Magdalena Teitipac,100.0,164.0,35.0,14.0,13.0,78.0,0.2
+San Vicente Lachixío,100.0,324.0,153.0,12.0,12.0,2.0,6.0
+San Nicolás,100.0,258.0,65.0,22.0,12.0,0.0,
+Santa Catarina Quiané,100.0,245.0,115.0,14.0,12.0,13.0,0.9
+Santa María Guelacé,100.0,108.0,50.0,12.0,12.0,12.0,1.0
+Santa Catarina Minas,100.0,178.0,113.0,19.0,12.0,89.0,0.1
+Santa Cruz Mixtepec,100.0,345.0,145.0,13.0,12.0,37.0,0.3
+San José del Peñasco,71.0,236.0,60.0,15.0,11.0,24.0,0.5
+San Pablo Huixtepec,100.0,232.0,126.0,11.0,11.0,53.0,0.2
+San Lorenzo Cacaotepec,100.0,113.0,69.0,13.0,11.0,0.0,
+Santa Ana Tlapacoyan,100.0,608.0,188.0,13.0,11.0,30.0,0.4
+San Jerónimo Taviche,100.0,355.0,73.0,14.0,10.0,16.0,0.6
+Yaxe,100.0,114.0,63.0,12.0,10.0,48.0,0.2
+Oaxaca de Juárez,100.0,144.0,127.0,20.0,10.0,0.0,
+San Miguel Tilquiápam,100.0,837.0,128.0,18.0,10.0,31.0,0.3
+San Pedro Taviche,100.0,115.0,79.0,16.0,10.0,20.0,0.5
+San Ildefonso Sola,100.0,184.0,134.0,11.0,10.0,36.0,0.3
+San Juan Teitipac,100.0,132.0,50.0,10.0,9.0,42.0,0.2
+San Dionisio Ocotlán,100.0,64.0,34.0,9.0,8.0,8.0,1.0
+Santo Tomás Tamazulapan,16.0,105.0,47.0,9.0,8.0,15.0,0.5
+Santa Catarina Cuixtla,95.0,84.0,71.0,14.0,8.0,0.0,
+Santo Domingo Albarradas,97.0,36.0,23.0,12.0,8.0,12.0,0.7
+San Bartolomé Quialana,100.0,34.0,20.0,11.0,8.0,30.0,0.3
+San Sebastián Teitipac,100.0,180.0,39.0,11.0,8.0,42.0,0.2
+San Jerónimo Coatlán,25.0,290.0,123.0,11.0,8.0,18.0,0.4
+San Ildefonso Amatlán,76.0,241.0,65.0,10.0,7.0,7.0,1.0
+San Francisco Logueche,100.0,18.0,13.0,8.0,7.0,46.0,0.2
+San Pedro Juchatengo,79.0,110.0,80.0,12.0,7.0,0.0,
+San Agustín de las Juntas,100.0,68.0,30.0,6.0,6.0,0.0,
+San Antonino Castillo Velasco,100.0,163.0,89.0,6.0,5.0,6.0,0.8
+Ayoquezco de Aldama,100.0,462.0,281.0,7.0,5.0,38.0,0.1
+Santa María del Tule,100.0,62.0,39.0,6.0,5.0,4.0,1.2
+Santa María Atzompa,100.0,78.0,49.0,6.0,5.0,0.0,
+San Felipe Tejalápam,100.0,169.0,51.0,6.0,5.0,12.0,0.4
+San Pablo Yaganiza,95.0,19.0,13.0,6.0,5.0,7.0,0.7
+San Pedro Apóstol,100.0,110.0,49.0,6.0,4.0,10.0,0.4
+Soledad Etla,97.0,34.0,19.0,5.0,4.0,0.0,
+Villa de Zaachila,100.0,317.0,134.0,6.0,4.0,22.0,0.2
+Santa Catarina Quioquitani,100.0,38.0,29.0,5.0,4.0,52.0,0.1
+Santa Gertrudis,100.0,222.0,139.0,5.0,4.0,47.0,0.1
+San Sebastián Abasolo,100.0,136.0,82.0,5.0,4.0,17.0,0.2
+Magdalena Ocotlán,100.0,65.0,22.0,6.0,4.0,0.0,
+San Martín Lachilá,100.0,160.0,87.0,5.0,4.0,17.0,0.2
+San Bartolo Coyotepec,100.0,376.0,89.0,4.0,3.0,5.0,0.6
+San Francisco Lachigoló,100.0,46.0,32.0,4.0,3.0,22.0,0.1
+Tlalixtac de Cabrera,100.0,77.0,49.0,4.0,3.0,0.0,
+San Martín de los Cansecos,100.0,43.0,14.0,4.0,3.0,0.0,
+Santa Inés del Monte,100.0,78.0,31.0,3.0,3.0,0.0,
+San Andrés Zabache,100.0,109.0,71.0,4.0,3.0,8.0,0.4
+Santa Catalina Quierí,99.0,28.0,25.0,3.0,2.0,92.0,0.0
+Santa Lucía Ocotlán,100.0,61.0,24.0,2.0,2.0,10.0,0.2
+Cuilápam de Guerrero,100.0,75.0,45.0,2.0,2.0,34.0,0.1
+Santa Ana Zegache,100.0,162.0,96.0,2.0,2.0,0.0,
+Santa Ana del Valle,100.0,3.0,2.0,2.0,2.0,40.0,0.0
+Rojas de Cuauhtémoc,100.0,93.0,17.0,2.0,2.0,31.0,0.1
+San Juan Mixtepec -Dto. 26 -,31.0,43.0,8.0,1.0,1.0,0.0,
+San Bernardo Mixtepec,100.0,309.0,57.0,2.0,1.0,4.0,0.2
+Santo Domingo Tomaltepec,100.0,25.0,16.0,1.0,1.0,6.0,0.2
+San Agustín Yatareni,100.0,6.0,5.0,1.0,1.0,0.0,
+San Andrés Ixtlahuaca,100.0,79.0,9.0,1.0,1.0,0.0,
+San Pedro Ixtlahuaca,100.0,35.0,17.0,1.0,1.0,0.0,
+Santa Lucía del Camino,100.0,16.0,14.0,1.0,1.0,0.0,
+Santo Tomás Mazaltepec,96.0,62.0,20.0,1.0,1.0,14.0,0.1
+San Andrés Huayápam,99.0,14.0,9.0,2.0,1.0,0.0,
+San Juan Chilateca,100.0,59.0,21.0,1.0,1.0,19.0,0.1
+San Mateo Cajonos,73.0,11.0,7.0,1.0,1.0,0.0,
+San Jacinto Amilpas,100.0,17.0,11.0,2.0,1.0,0.0,
+San Pedro Mártir,100.0,51.0,25.0,2.0,1.0,0.0,
+Villa Hidalgo,2.0,1.0,1.0,1.0,0.0,0.0,
+Santiago Laxopa,27.0,1.0,1.0,0.0,0.0,0.0,
+San Pedro y San Pablo Ayutla,11.0,13.0,9.0,1.0,0.0,10.0,0.0
+San Pedro Cajonos,77.0,1.0,1.0,0.0,0.0,0.0,
+San Juan Lachao,2.0,1.0,1.0,0.0,0.0,0.0,
+San Francisco Cajonos,7.0,1.0,0.0,0.0,0.0,7.0,0.0
+Santo Domingo Xagacía,100.0,31.0,22.0,1.0,0.0,8.0,0.0
+Santa María Yavesía,16.0,2.0,2.0,0.0,0.0,0.0,
+Santa María Coyotepec,100.0,47.0,18.0,0.0,0.0,2.0,0.0
+Santa Inés Yatzeche,100.0,19.0,16.0,0.0,0.0,0.0,
+Ciénega de Zimatlán,100.0,43.0,34.0,0.0,0.0,18.0,0.0
+Santa María Lachixío,100.0,10.0,9.0,0.0,0.0,0.0,
+Santa María Peñoles,93.0,749.0,295.0,1.0,0.0,0.0,
+San Miguel Peras,100.0,101.0,61.0,0.0,0.0,0.0,
+San Antonino el Alto,94.0,36.0,28.0,0.0,0.0,0.0,
+San Antonio Huitepec,33.0,125.0,79.0,0.0,0.0,0.0,
+San Juan Tamazola,19.0,350.0,107.0,1.0,0.0,0.0,
+San Miguel Mixtepec,100.0,116.0,46.0,1.0,0.0,10.0,0.0
+Trinidad Zaachila,100.0,36.0,27.0,0.0,0.0,15.0,0.0
+San Pablo Coatlán,1.0,11.0,3.0,0.0,0.0,0.0,
+San Pedro Mixtepec -Dto. 26 -,14.0,17.0,10.0,0.0,0.0,0.0,
+Guadalupe Etla,30.0,6.0,2.0,0.0,0.0,0.0,
+Santa Cruz Amilpas,100.0,6.0,5.0,0.0,0.0,0.0,
+San Agustín Etla,2.0,2.0,1.0,0.0,0.0,0.0,
+Ánimas Trujano,100.0,13.0,9.0,0.0,0.0,0.0,
+Santa Catarina Lachatao,44.0,135.0,113.0,0.0,0.0,0.0,
+San Raymundo Jalpan,100.0,14.0,10.0,0.0,0.0,0.0,
+San Antonio de la Cal,100.0,10.0,8.0,0.0,0.0,0.0,
+Santa Catarina Ixtepeji,26.0,76.0,8.0,0.0,0.0,0.0,
+San Miguel Amatlán,38.0,26.0,21.0,0.0,0.0,0.0,
+Magdalena Mixtepec,100.0,40.0,15.0,0.0,0.0,0.0,
+Asunción Ocotlán,100.0,51.0,30.0,0.0,0.0,0.0,
+Santiago Tlazoyaltepec,100.0,43.0,34.0,0.0,0.0,0.0,
+Santo Domingo Nuxaá,46.0,163.0,88.0,1.0,0.0,0.0,
+Santiago Apóstol,100.0,142.0,61.0,0.0,0.0,0.0,
+San Andrés Zautla,29.0,10.0,1.0,0.0,0.0,0.0,
+San Sebastián Tutla,100.0,10.0,9.0,1.0,0.0,0.0,
+San Pablo Cuatro Venados,100.0,39.0,30.0,0.0,0.0,0.0,
