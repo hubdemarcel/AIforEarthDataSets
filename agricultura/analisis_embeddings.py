@@ -69,7 +69,7 @@ def mezcal(lineas):
     X = X.loc[p.index]
 
     lineas.append("## 1. Coherencia de las clases de las reglas (mezcal 14QQD, AlphaEarth 2025)\n")
-    t, ok = coherencia(X.values, p.clase_modelo.values)
+    t, ok = coherencia(X.values, p.clase_modelo.to_numpy(dtype=object))
     t.to_csv(SALIDA / "mezcal_coherencia.csv")
     acuerdo = pd.Series(ok, index=p.index).groupby(p.clase_modelo).mean().mul(100).round(0)
     lineas.append("Porcentaje de puntos cuyos 5 vecinos más parecidos tienen mayoría de su misma clase:\n")
@@ -80,7 +80,7 @@ def mezcal(lineas):
 
     lineas.append("## 2. ¿A qué se parece la cohorte 2024 sospechosa?\n")
     entren = p.clase_modelo.ne("agave_2024")
-    knn = KNeighborsClassifier(5, metric="cosine").fit(X[entren].values, p.clase_modelo[entren].values)
+    knn = KNeighborsClassifier(5, metric="cosine").fit(X[entren].values, p.clase_modelo[entren].to_numpy(dtype=object))
     pred = pd.Series(knn.predict(X[~entren].values)).value_counts()
     n = (~entren).sum()
     lineas.append(f"Los {n} puntos que las reglas llaman agave plantado en 2024, clasificados por sus vecinos "

@@ -1,0 +1,8 @@
+reglas,agave_2018_2023,agave_2024,agave_cosechado,bosque,cultivo_anual,matorral_pastizal,selva_baja
+agave_2018_2023,44,9,2,0,2,0,2
+agave_2024,10,20,0,0,2,0,3
+agave_cosechado,8,0,6,0,1,0,0
+bosque,2,2,0,5,0,0,1
+cultivo_anual,2,1,0,0,18,3,1
+matorral_pastizal,4,3,0,0,2,21,0
+selva_baja,2,9,0,0,0,1,13
