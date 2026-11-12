@@ -57,6 +57,12 @@ Consecuencias para el método:
        agave no reportado. Ejutla: ~550 ha parecidas al agave del núcleo (SIAP 279) y otro 44 %
        parecido a cultivo anual (¿espadín intercalado con milpa?). Sola de Vega: el exceso es casi
        todo selva baja; lo parecido al agave (~180 ha) coincide con el SIAP (176).
+     - Mapa de agave probable (`mezcal_probable.py`: reglas 2018–2023 + parecido al núcleo + cambio
+       2018→2025), `AGAVE_PROBABLE.md` en cada mosaico. 14QQD: correlación con el SIAP por municipio
+       sube de 0.57 a 0.73; total 0.7 veces el SIAP (esperable: solo cuenta plantaciones desde 2018).
+       Candidatos a agave no reportado: Coatecas Altas (124 ha contra 24 del SIAP), La Pe (123 / 25),
+       Ocotlán (132 / 52), Ejutla (509 / 279), Zoquitlán (536 / 330); en 14QRD, San Pedro Quiatoni
+       (1,063 / 525).
    - Calibrar umbrales de verdor de secas y amplitud con los puntos de verificación.
    - Probar rojo/infrarrojo a 10 m.
    - Separar matorral xerófilo (verdor estable pero más bajo y disperso) y milpa intercalada.
