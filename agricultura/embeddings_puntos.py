@@ -96,12 +96,22 @@ def main(argv=None):
     p.add_argument("--puntos", type=Path, required=True, help="CSV con columnas id, lat, lon")
     p.add_argument("--salida", type=Path, required=True)
     p.add_argument("--cache", type=Path, default=Path.home() / ".cache" / "alphaearth")
-    p.add_argument("--simultaneos", type=int, default=8)
+    p.add_argument("--anios", type=int, nargs="+", default=ANIOS)
+    p.add_argument("--simultaneos", type=int, default=12)
     args = p.parse_args(argv)
 
     idx = indice(args.cache)
     puntos = pd.read_csv(args.puntos)
-    tareas = [(r.id, r.lat, r.lon, a) for r in puntos.itertuples() for a in ANIOS]
+    # Cada lectura baja las 64 bandas en bloques de 1024 × 1024 (decenas de MB): es lento,
+    # así que se guarda cada lectura en un archivo parcial y se reanuda desde ahí.
+    parcial = args.salida.with_name(args.salida.name + ".parcial.csv")
+    hechas = set()
+    if parcial.exists():
+        hechas = set(map(tuple, pd.read_csv(parcial, usecols=["id", "anio"]).astype(str).values))
+    tareas = [(r.id, r.lat, r.lon, a) for r in puntos.itertuples() for a in args.anios
+              if (str(r.id), str(a)) not in hechas]
+    print(f"{len(tareas)} lecturas pendientes ({len(hechas)} ya hechas)", flush=True)
+    args.salida.parent.mkdir(parents=True, exist_ok=True)
     hechos = [0]
     candado = threading.Lock()
 
@@ -109,17 +119,18 @@ def main(argv=None):
         pid, lat, lon, anio = t
         url = archivo(idx, lat, lon, anio)
         v = leer(url, lat, lon) if url else None
+        fila = {"id": pid, "anio": anio, **dict(zip(DIMS, np.round(v, 5) if v is not None else [np.nan] * 64))}
         with candado:
+            pd.DataFrame([fila]).to_csv(parcial, mode="a", header=not parcial.exists(), index=False)
             hechos[0] += 1
-            if hechos[0] % 200 == 0:
+            if hechos[0] % 100 == 0:
                 print(f"{hechos[0]}/{len(tareas)}", flush=True)
-        return None if v is None else {"id": pid, "anio": anio, **dict(zip(DIMS, np.round(v, 5)))}
 
-    # Por punto en orden, para que cada hilo reutilice los archivos ya abiertos.
     with ThreadPoolExecutor(args.simultaneos) as ex:
-        filas = [f for f in ex.map(una, tareas) if f]
-    args.salida.parent.mkdir(parents=True, exist_ok=True)
-    pd.DataFrame(filas).to_csv(args.salida, index=False)
+        list(ex.map(una, tareas))
+    filas = pd.read_csv(parcial).dropna(subset=DIMS, how="all").drop_duplicates(["id", "anio"])
+    filas.sort_values(["id", "anio"]).to_csv(args.salida, index=False)
+    parcial.unlink()
     print(f"{len(filas)} filas (punto × año) en {args.salida}")
 
 
