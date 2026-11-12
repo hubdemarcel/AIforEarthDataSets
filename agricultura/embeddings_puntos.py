@@ -45,6 +45,13 @@ def indice(cache: Path) -> pd.DataFrame:
     return pd.read_parquet(ruta, columns=cols)
 
 
+def descuantizar(v):
+    """int8 de AlphaEarth -> valor del embedding: (v / 127.5)² · signo(v); el sin dato queda en NaN."""
+    v = np.asarray(v, np.float32)
+    v = np.where(v == SIN_DATO, np.nan, v)
+    return np.sign(v) * (v / 127.5) ** 2
+
+
 def zona_utm(lat, lon):
     return f"{int((lon + 180) // 6) + 1}{'N' if lat >= 0 else 'S'}"
 
@@ -84,8 +91,7 @@ def leer(url, lat, lon):
             if intento == 3:
                 raise
             time.sleep(5 * (intento + 1))
-    v[v == SIN_DATO] = np.nan
-    v = np.sign(v) * (v / 127.5) ** 2
+    v = descuantizar(v)
     if np.isnan(v).all():
         return None
     return np.nanmedian(v, axis=1)
