@@ -81,7 +81,8 @@ def main(argv=None):
         limites = []
         for u in urls:
             with rasterio.open(u) as src:
-                limites.append(src.bounds)
+                b = src.bounds  # con e > 0 rasterio da "bottom" y "top" al revés
+                limites.append((b.left, min(b.bottom, b.top), b.right, max(b.bottom, b.top)))
 
     salida = np.full((64, alto, ancho), SIN_DATO, "int8")
     bloques = [(f, c) for f in range(0, alto, BLOQUE) for c in range(0, ancho, BLOQUE)]
@@ -106,7 +107,8 @@ def main(argv=None):
         ya, yb = Y0 - paso * f, Y0 - paso * (f + h)
         out = salida[:, f:f + h, c:c + w]
         for u, lim in zip(urls, limites):
-            if lim.left >= xb or lim.right <= xa or lim.bottom >= ya or lim.top <= yb:
+            izq, abajo, der, arriba = lim
+            if izq >= xb or der <= xa or abajo >= ya or arriba <= yb:
                 continue
             for intento in range(4):
                 try:
