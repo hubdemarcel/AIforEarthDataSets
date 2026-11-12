@@ -30,8 +30,10 @@ def archivos_del_mosaico(idx, geobox, anio):
     w, s, e, n = geobox.geographic_extent.boundingbox
     t = idx[(idx.year == anio) & (idx.wgs84_west < e) & (idx.wgs84_east > w)
             & (idx.wgs84_south < n) & (idx.wgs84_north > s)]
-    zona = geobox.crs.to_epsg() % 100  # EPSG:326ZZ
-    t = t[t.utm_zone == f"{zona}N"]
+    zona = f"{geobox.crs.to_epsg() % 100}N"  # EPSG:326ZZ
+    # Primero los del huso propio (rejilla alineada); los del huso vecino solo rellenan huecos
+    # (un mosaico MGRS puede salirse de su huso, como 14QRD).
+    t = t.assign(otro=t.utm_zone != zona).sort_values("otro")
     return [p.replace("s3://us-west-2.opendata.source.coop", S3) for p in t.path]
 
 
@@ -59,8 +61,35 @@ def ventana_10m(src, xa, xb, ya, yb):
     return a[:, ::-1] if t.e > 0 else a
 
 
+def otro_huso(src, xa, xb, ya, yb, paso, crs):
+    """Ventana de un archivo de otro huso UTM, reproyectada (promedio) al bloque de destino."""
+    from rasterio.transform import from_origin
+    from rasterio.warp import Resampling, reproject, transform_bounds
+    from rasterio.windows import Window
+    t = src.transform
+    x0, y0, x1, y1 = transform_bounds(crs, src.crs, xa, yb, xb, ya)
+    x0, y0, x1, y1 = x0 - 40, y0 - 40, x1 + 40, y1 + 40
+    c0, c1 = int(np.floor((x0 - t.c) / t.a)), int(np.ceil((x1 - t.c) / t.a))
+    if t.e > 0:
+        r0, r1 = int(np.floor((y0 - t.f) / t.e)), int(np.ceil((y1 - t.f) / t.e))
+    else:
+        r0, r1 = int(np.floor((y1 - t.f) / t.e)), int(np.ceil((y0 - t.f) / t.e))
+    a = src.read(window=Window(c0, r0, c1 - c0, r1 - r0), boundless=True, fill_value=SIN_DATO)
+    if t.e > 0:
+        a, arriba = a[:, ::-1], t.f + t.e * r1
+    else:
+        arriba = t.f + t.e * r0
+    h, w = round((ya - yb) / paso), round((xb - xa) / paso)
+    out = np.full((64, h, w), SIN_DATO, "int8")
+    reproject(np.ascontiguousarray(a), out, src_transform=from_origin(t.c + t.a * c0, arriba, t.a, abs(t.e)),
+              src_crs=src.crs, src_nodata=SIN_DATO, dst_transform=from_origin(xa, ya, paso, paso),
+              dst_crs=crs, dst_nodata=SIN_DATO, resampling=Resampling.average)
+    return out
+
+
 def main(argv=None):
     import rasterio
+    from rasterio.warp import transform_bounds
 
     p = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     p.add_argument("--mosaico", required=True)
@@ -75,6 +104,7 @@ def main(argv=None):
     alto, ancho = geobox.shape
     X0, Y0, paso = geobox.affine.c, geobox.affine.f, geobox.affine.a
     urls = archivos_del_mosaico(indice(args.cache), geobox, args.anio)
+    crs = rasterio.crs.CRS.from_epsg(geobox.crs.to_epsg())
     print(f"{args.mosaico}: {alto} × {ancho} pixeles de {paso:.0f} m; {len(urls)} archivos de "
           f"AlphaEarth {args.anio}", flush=True)
     with rasterio.Env(GDAL_DISABLE_READDIR_ON_OPEN="EMPTY_DIR"):
@@ -82,7 +112,9 @@ def main(argv=None):
         for u in urls:
             with rasterio.open(u) as src:
                 b = src.bounds  # con e > 0 rasterio da "bottom" y "top" al revés
-                limites.append((b.left, min(b.bottom, b.top), b.right, max(b.bottom, b.top)))
+                caja = (b.left, min(b.bottom, b.top), b.right, max(b.bottom, b.top))
+                propio = src.crs.to_epsg() == crs.to_epsg()
+                limites.append((caja if propio else transform_bounds(src.crs, crs, *caja), propio))
 
     salida = np.full((64, alto, ancho), SIN_DATO, "int8")
     bloques = [(f, c) for f in range(0, alto, BLOQUE) for c in range(0, ancho, BLOQUE)]
@@ -106,13 +138,16 @@ def main(argv=None):
         xa, xb = X0 + paso * c, X0 + paso * (c + w)
         ya, yb = Y0 - paso * f, Y0 - paso * (f + h)
         out = salida[:, f:f + h, c:c + w]
-        for u, lim in zip(urls, limites):
+        for u, (lim, propio) in zip(urls, limites):
             izq, abajo, der, arriba = lim
             if izq >= xb or der <= xa or abajo >= ya or arriba <= yb:
                 continue
+            if not (out[0] == SIN_DATO).any():
+                break
             for intento in range(4):
                 try:
-                    a = promedio_2x2(ventana_10m(abrir(u), xa, xb, ya, yb))
+                    a = (promedio_2x2(ventana_10m(abrir(u), xa, xb, ya, yb)) if propio else
+                         otro_huso(abrir(u), xa, xb, ya, yb, paso, crs))
                     break
                 except Exception:
                     getattr(local, "abiertos", {}).pop(u, None)
@@ -138,7 +173,6 @@ def main(argv=None):
         dst.write(salida)
     print(f"Listo en {(time.time() - t0) / 60:.0f} min: {destino} "
           f"({100 * (salida[0] != SIN_DATO).mean():.0f} % con dato)")
-
 
 
 if __name__ == "__main__":
