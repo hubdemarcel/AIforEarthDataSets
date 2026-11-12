@@ -47,6 +47,16 @@ Consecuencias para el método:
      y Miahuatlán muy por arriba. Las reglas no sirven tal cual: hace falta la fase 2.
 
 2. **Ajuste de reglas para espadín**
+   - **Avance (2026-11-12), sin etiquetas humanas, con AlphaEarth** (`mezcal_alphaearth.py`,
+     `mezcal_anomalias.py`; resultados en `resultados/mezcal/14QQD/ALPHAEARTH.md` y `ANOMALIAS.md`):
+     - La cohorte "2024" no es agave: AlphaEarth confirma 5 % de sus 20,648 ha. Sin ella las reglas
+       quedan en 2.1 veces el SIAP (antes 4.5) y 12 de 27 municipios a ±50 % del SIAP (antes 4).
+     - Exceso sobre el SIAP por municipio (agave 2018–2023 comparado con el del núcleo
+       Matatlán–Tlacolula–San Juan del Río–San Luis Amatlán, forma de parcela y cambio 2018→2025):
+       Zoquitlán pasa las tres pruebas (~590 ha probables contra 330 del SIAP): candidato fuerte a
+       agave no reportado. Ejutla: ~550 ha parecidas al agave del núcleo (SIAP 279) y otro 44 %
+       parecido a cultivo anual (¿espadín intercalado con milpa?). Sola de Vega: el exceso es casi
+       todo selva baja; lo parecido al agave (~180 ha) coincide con el SIAP (176).
    - Calibrar umbrales de verdor de secas y amplitud con los puntos de verificación.
    - Probar rojo/infrarrojo a 10 m.
    - Separar matorral xerófilo (verdor estable pero más bajo y disperso) y milpa intercalada.

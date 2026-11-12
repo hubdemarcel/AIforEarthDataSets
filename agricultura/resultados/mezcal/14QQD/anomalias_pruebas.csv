@@ -1,0 +1,9 @@
+grupo,municipio,agave_reglas_ha,parecido_agave_nucleo_pct,parecido_selva_pct,parecido_matorral_pct,parecido_cultivo_pct,en_parcelas_05ha_pct,mancha_mediana_ha,cambio_2018_2025_pct,agave_probable_ha,siap_sembrada_2025_ha
+núcleo,Santiago Matatlán,353,85,6,6,3,46,0.44,86,300.0,796.5
+núcleo,Tlacolula de Matamoros,280,89,4,3,4,47,0.44,89,249.0,666.0
+núcleo,San Juan del Río,211,92,5,1,2,83,1.76,94,194.0,499.5
+núcleo,San Luis Amatlán,484,78,12,2,8,41,0.32,71,378.0,468.0
+en duda,Heroica Ciudad de Ejutla de Crespo,1285,43,8,4,44,54,0.64,74,553.0,279.1
+en duda,Villa Sola de Vega,1016,18,36,11,28,39,0.28,62,183.0,176.0
+en duda,Miahuatlán de Porfirio Díaz,1136,53,13,10,24,44,0.32,79,602.0,1265.0
+en duda,Santa María Zoquitlán,722,82,11,2,5,57,0.64,82,592.0,330.15
